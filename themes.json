@@ -1039,6 +1039,51 @@
     "file": "themes/Gravity.thm"
   },
   {
+    "id": "greenheart-52",
+    "name": "GreenHeart™ 52",
+    "author": "Guramovich",
+    "supportedModels": ["C510", "C901", "C903", "C905", "Cedar (J108i)", "Elm (J10i2)", "G705", "Hazel (J20i)", "Jalou (F100i)", "Naite (J105i)", "T707", "TM717", "W508", "W518a", "W705", "W715", "W995", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": ["DB3200", "DB3210", "DB3350"],
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/GreenHeart™ 52_home.jpg",
+      "themes/screenshots/GreenHeart™ 52_menu.jpg"
+    ],
+    "file": "themes/GreenHeart™ 52.thm",
+    "swf": "themes/swf/Greenheart52Desktop.swf"
+  },
+  {
+    "id": "greenheart-53-v2",
+    "name": "GreenHeart™ 53 v2",
+    "author": "Guramovich",
+    "supportedModels": ["C510", "C901", "C903", "C905", "Cedar (J108i)", "Elm (J10i2)", "G705", "Hazel (J20i)", "Jalou (F100i)", "Naite (J105i)", "T707", "TM717", "W508", "W518a", "W705", "W715", "W995", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": ["DB3200", "DB3210", "DB3350"],
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/GreenHeart™ 53 v2_home.jpg",
+      "themes/screenshots/GreenHeart™ 53 v2_menu.jpg"
+    ],
+    "file": "themes/GreenHeart™ 53 v2.thm",
+    "swf": "themes/swf/Greenheart53v2Desktop.swf"
+  },
+  {
+    "id": "greenheart-81-v2",
+    "name": "GreenHeart™ 81 v2",
+    "author": "Guramovich",
+    "supportedModels": ["C510", "C901", "C903", "C905", "Cedar (J108i)", "Elm (J10i2)", "G705", "Hazel (J20i)", "Jalou (F100i)", "Naite (J105i)", "T707", "TM717", "W508", "W518a", "W705", "W715", "W995", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": ["DB3200", "DB3210", "DB3350"],
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/GreenHeart™ 81 v2_home.jpg",
+      "themes/screenshots/GreenHeart™ 81 v2_menu.jpg"
+    ],
+    "file": "themes/GreenHeart™ 81 v2.thm",
+    "swf": "themes/swf/Greenheart81v2Desktop.swf"
+  },
+  {
     "id": "gsharp",
     "name": "gSharp",
     "originalModel": "W610i",
