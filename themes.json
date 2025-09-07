@@ -45,19 +45,34 @@
     "file": "themes/Amber.thm"
   },
   {
-    "id": "amethyst",
-    "name": "Amethyst",
+    "id": "amethyst-c903",
+    "name": "Amethyst (C903)",
     "originalModel": "C903",
     "supportedModels": ["C510", "C901", "C903", "C905", "G705", "W705", "W715", "W995"],
     "platform": "DB3210",
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Amethyst_home.jpg",
-      "themes/screenshots/Amethyst_menu.jpg",
-      "themes/screenshots/Amethyst_settings.jpg"
+      "themes/screenshots/Amethyst (C903)_home.jpg",
+      "themes/screenshots/Amethyst (C903)_menu.jpg",
+      "themes/screenshots/Amethyst (C903)_settings.jpg"
     ],
-    "file": "themes/Amethyst.thm"
+    "file": "themes/Amethyst (C903).thm"
+  },
+  {
+    "id": "amethyst-k660i",
+    "name": "Amethyst (K660i)",
+    "originalModel": "K660i",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Amethyst (K660i)_home.jpg",
+      "themes/screenshots/Amethyst (K660i)_menu.jpg",
+      "themes/screenshots/Amethyst (K660i)_tab.jpg"
+    ],
+    "file": "themes/Amethyst (K660i).thm"
   },
   {
     "id": "aqua-tiles",
@@ -178,6 +193,21 @@
       "themes/screenshots/Bloc_settings.jpg"
     ],
     "file": "themes/Bloc.thm"
+  },
+  {
+    "id": "blub",
+    "name": "Blub",
+    "originalModel": "K700i",
+    "supportedModels": ["K700i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Blub_home.jpg",
+      "themes/screenshots/Blub_menu.jpg",
+      "themes/screenshots/Blub_tab.jpg"
+    ],
+    "file": "themes/Blub.thm"
   },
   {
     "id": "borderline",
@@ -362,6 +392,21 @@
     "file": "themes/Clarity (DB3210).thm"
   },
   {
+    "id": "clarity-k630i",
+    "name": "Clarity (K630i)",
+    "originalModel": "K630i",
+    "supportedModels": ["K630i", "V640i"],
+    "platform": "DB3150",
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Clarity (K630i)_home.jpg",
+      "themes/screenshots/Clarity (K630i)_menu.jpg",
+      "themes/screenshots/Clarity (K630i)_tab.jpg"
+    ],
+    "file": "themes/Clarity (K630i).thm"
+  },
+  {
     "id": "clarity-pnx5230",
     "name": "Clarity (PNX5230)",
     "originalModel": ["W350i", "W380i"],
@@ -407,6 +452,21 @@
     "file": "themes/Club light.thm"
   },
   {
+    "id": "colourite",
+    "name": "Colourite",
+    "originalModel": "C702",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Colourite_home.jpg",
+      "themes/screenshots/Colourite_menu.jpg",
+      "themes/screenshots/Colourite_settings.jpg"
+    ],
+    "file": "themes/Colourite.thm"
+  },
+  {
     "id": "compo",
     "name": "Compo",
     "originalModel": "C702",
@@ -422,19 +482,19 @@
     "file": "themes/Compo.thm"
   },
   {
-    "id": "colourite",
-    "name": "Colourite",
-    "originalModel": "C702",
+    "id": "connectoid",
+    "name": "Connectoid",
+    "originalModel": "K660i",
     "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
     "platform": "DB3150",
     "resolution": "240x320",
-    "homeType": "Still image",
+    "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Colourite_home.jpg",
-      "themes/screenshots/Colourite_menu.jpg",
-      "themes/screenshots/Colourite_settings.jpg"
+      "themes/screenshots/Connectoid_home.jpg",
+      "themes/screenshots/Connectoid_menu.jpg",
+      "themes/screenshots/Connectoid_tab.jpg"
     ],
-    "file": "themes/Colourite.thm"
+    "file": "themes/Connectoid.thm"
   },
   {
     "id": "crystaline",
@@ -662,6 +722,21 @@
     "file": "themes/Digital purple.thm"
   },
   {
+    "id": "digitize",
+    "name": "Digitize",
+    "originalModel": "K660i",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Digitize_home.jpg",
+      "themes/screenshots/Digitize_menu.jpg",
+      "themes/screenshots/Digitize_tab.jpg"
+    ],
+    "file": "themes/Digitize.thm"
+  },
+  {
     "id": "dreamscape",
     "name": "Dreamscape",
     "originalModel": "W350i",
@@ -812,6 +887,21 @@
     "file": "themes/Flare.thm"
   },
   {
+    "id": "flo",
+    "name": "Flo",
+    "originalModel": "K700i",
+    "supportedModels": ["K700i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Flo_home.jpg",
+      "themes/screenshots/Flo_menu.jpg",
+      "themes/screenshots/Flo_tab.jpg"
+    ],
+    "file": "themes/Flo.thm"
+  },
+  {
     "id": "floom-k500i",
     "name": "Floom (K500i)",
     "originalModel": "K500i",
@@ -949,6 +1039,21 @@
     "file": "themes/Flower (K510i).thm"
   },
   {
+    "id": "fluor-star",
+    "name": "Fluor star",
+    "originalModel": "K630i",
+    "supportedModels": ["K630i", "V640i"],
+    "platform": "DB3150",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Fluor star_home.jpg",
+      "themes/screenshots/Fluor star_menu.jpg",
+      "themes/screenshots/Fluor star_tab.jpg"
+    ],
+    "file": "themes/Fluor star.thm"
+  },
+  {
     "id": "focus",
     "name": "Focus",
     "originalModel": "K550i",
@@ -1022,6 +1127,21 @@
       "themes/screenshots/Goldfish_settings.jpg"
     ],
     "file": "themes/Goldfish.thm"
+  },
+  {
+    "id": "gossamer",
+    "name": "Gossamer",
+    "originalModel": "K660i",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Gossamer_home.jpg",
+      "themes/screenshots/Gossamer_menu.jpg",
+      "themes/screenshots/Gossamer_tab.jpg"
+    ],
+    "file": "themes/Gossamer.thm"
   },
   {
     "id": "gravity",
@@ -1339,6 +1459,21 @@
     "file": "themes/Lounge.thm"
   },
   {
+    "id": "lumic",
+    "name": "Lumic",
+    "originalModel": "K700i",
+    "supportedModels": ["K700i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Lumic_home.jpg",
+      "themes/screenshots/Lumic_menu.jpg",
+      "themes/screenshots/Lumic_tab.jpg"
+    ],
+    "file": "themes/Lumic.thm"
+  },
+  {
     "id": "lunarspots",
     "name": "Lunarspots",
     "originalModel": "K300i",
@@ -1382,6 +1517,21 @@
       "themes/screenshots/Medallion (K510i)_settings.jpg"
     ],
     "file": "themes/Medallion (K510i).thm"
+  },
+  {
+    "id": "metal-rings",
+    "name": "Metal rings",
+    "originalModel": "K630i",
+    "supportedModels": ["K630i", "V640i"],
+    "platform": "DB3150",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Metal rings_home.jpg",
+      "themes/screenshots/Metal rings_menu.jpg",
+      "themes/screenshots/Metal rings_tab.jpg"
+    ],
+    "file": "themes/Metal rings.thm"
   },
   {
     "id": "metalix",
@@ -1472,6 +1622,21 @@
       "themes/screenshots/Nightmirror_settings.jpg"
     ],
     "file": "themes/Nightmirror.thm"
+  },
+  {
+    "id": "oboe",
+    "name": "Oboe",
+    "originalModel": "K630i",
+    "supportedModels": ["K630i", "V640i"],
+    "platform": "DB3150",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Oboe_home.jpg",
+      "themes/screenshots/Oboe_menu.jpg",
+      "themes/screenshots/Oboe_tab.jpg"
+    ],
+    "file": "themes/Oboe.thm"
   },
   {
     "id": "orange-orbit",
@@ -2062,6 +2227,21 @@
     "file": "themes/Traditional.thm"
   },
   {
+    "id": "tunnel-vision",
+    "name": "Tunnel vision",
+    "originalModel": "K630i",
+    "supportedModels": ["K630i", "V640i"],
+    "platform": "DB3150",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Tunnel vision_home.jpg",
+      "themes/screenshots/Tunnel vision_menu.jpg",
+      "themes/screenshots/Tunnel vision_tab.jpg"
+    ],
+    "file": "themes/Tunnel vision.thm"
+  },
+  {
     "id": "turquoise-stream",
     "name": "Turquoise stream",
     "originalModel": "Aino (U10i)",
@@ -2120,6 +2300,21 @@
       "themes/screenshots/Unlimited (Aino)_settings.jpg"
     ],
     "file": "themes/Unlimited (Aino).thm"
+  },
+  {
+    "id": "waip",
+    "name": "Waip",
+    "originalModel": "K700i",
+    "supportedModels": ["K700i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Waip_home.jpg",
+      "themes/screenshots/Waip_menu.jpg",
+      "themes/screenshots/Waip_tab.jpg"
+    ],
+    "file": "themes/Waip.thm"
   },
   {
     "id": "walkman-pnx5230",
