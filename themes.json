@@ -42,7 +42,8 @@
       "themes/screenshots/Amber_menu.jpg",
       "themes/screenshots/Amber_settings.jpg"
     ],
-    "file": "themes/Amber.thm"
+    "file": "themes/Amber.thm",
+    "swf": "themes/swf/Amber_desktop.swf"
   },
   {
     "id": "amethyst-c903",
@@ -57,7 +58,8 @@
       "themes/screenshots/Amethyst (C903)_menu.jpg",
       "themes/screenshots/Amethyst (C903)_settings.jpg"
     ],
-    "file": "themes/Amethyst (C903).thm"
+    "file": "themes/Amethyst (C903).thm",
+    "swf": "themes/swf/Amethyst (C903)_desktop.swf"
   },
   {
     "id": "amethyst-k660i",
@@ -526,7 +528,8 @@
       "themes/screenshots/Compo_menu.jpg",
       "themes/screenshots/Compo_settings.jpg"
     ],
-    "file": "themes/Compo.thm"
+    "file": "themes/Compo.thm",
+    "swf": "themes/swf/Compo_desktop.swf"
   },
   {
     "id": "connectoid",
@@ -646,7 +649,8 @@
       "themes/screenshots/Cyber-shot (C903)_menu.jpg",
       "themes/screenshots/Cyber-shot (C903)_settings.jpg"
     ],
-    "file": "themes/Cyber-shot (C903).thm"
+    "file": "themes/Cyber-shot (C903).thm",
+    "swf": "themes/swf/Cyber-shot (C903)_desktop.swf"
   },
   {
     "id": "cyber-shot-c905",
@@ -811,7 +815,8 @@
       "themes/screenshots/Dusk setting_menu.jpg",
       "themes/screenshots/Dusk setting_settings.jpg"
     ],
-    "file": "themes/Dusk setting.thm"
+    "file": "themes/Dusk setting.thm",
+    "swf": "themes/swf/Dusk setting_desktop.swf"
   },
   {
     "id": "echo",
@@ -1488,7 +1493,8 @@
       "themes/screenshots/Light trace_menu.jpg",
       "themes/screenshots/Light trace_settings.jpg"
     ],
-    "file": "themes/Light trace.thm"
+    "file": "themes/Light trace.thm",
+    "swf": "themes/swf/Light trace_desktop.swf"
   },
   {
     "id": "lime-stream",
@@ -1638,7 +1644,8 @@
       "themes/screenshots/Morning glisten_menu.jpg",
       "themes/screenshots/Morning glisten_settings.jpg"
     ],
-    "file": "themes/Morning glisten.thm"
+    "file": "themes/Morning glisten.thm",
+    "swf": "themes/swf/Morning glisten_desktop.swf"
   },
   {
     "id": "mosaique",
@@ -1788,7 +1795,8 @@
       "themes/screenshots/Peach_menu.jpg",
       "themes/screenshots/Peach_settings.jpg"
     ],
-    "file": "themes/Peach.thm"
+    "file": "themes/Peach.thm",
+    "swf": "themes/swf/Peach_desktop.swf"
   },
   {
     "id": "pendulum",
@@ -1895,7 +1903,8 @@
       "themes/screenshots/Ray_menu.jpg",
       "themes/screenshots/Ray_settings.jpg"
     ],
-    "file": "themes/Ray.thm"
+    "file": "themes/Ray.thm",
+    "swf": "themes/swf/Ray_desktop.swf"
   },
   {
     "id": "red-fragrance",
@@ -2271,7 +2280,8 @@
       "themes/screenshots/The red carpet_menu.jpg",
       "themes/screenshots/The red carpet_settings.jpg"
     ],
-    "file": "themes/The red carpet.thm"
+    "file": "themes/The red carpet.thm",
+    "swf": "themes/swf/The red carpet_desktop.swf"
   },
   {
     "id": "tiles",
@@ -2316,7 +2326,8 @@
       "themes/screenshots/Track flow_menu.jpg",
       "themes/screenshots/Track flow_settings.jpg"
     ],
-    "file": "themes/Track flow.thm"
+    "file": "themes/Track flow.thm",
+    "swf": "themes/swf/Track flow_desktop.swf"
   },
   {
     "id": "traditional",
@@ -2556,6 +2567,7 @@
       "themes/screenshots/Wink_menu.jpg",
       "themes/screenshots/Wink_settings.jpg"
     ],
-    "file": "themes/Wink.thm"
+    "file": "themes/Wink.thm",
+    "swf": "themes/swf/Wink_desktop.swf"
   }
 ]
