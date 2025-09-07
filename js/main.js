@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const modelFilter = document.getElementById('modelFilter');
   const platformFilter = document.getElementById('platformFilter');
   const resolutionFilter = document.getElementById('resolutionFilter');
+  const typeFilter = document.getElementById('typeFilter');
   const searchInput = document.getElementById('searchInput');
   const themeList = document.getElementById('themeList');
   const errorBox = document.getElementById('errorBox');
@@ -26,7 +27,6 @@ document.addEventListener('DOMContentLoaded', () => {
       const res = await fetch('themes.json');
       if (!res.ok) throw new Error('HTTP ' + res.status);
       themes = await res.json();
-
       if (!Array.isArray(themes)) throw new Error('themes.json does not contain an array');
 
       populateFilters();
@@ -69,6 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const selectedModel = modelFilter.value;
     const selectedPlatform = platformFilter.value;
     const selectedResolution = resolutionFilter.value;
+    const selectedType = typeFilter.value;
 
     themeList.innerHTML = '';
     let visibleCount = 0;
@@ -79,11 +80,22 @@ document.addEventListener('DOMContentLoaded', () => {
       const resolution = theme.resolution || '';
       const author = theme.author || null;
       const originalModel = theme.originalModel;
+      const carrier = theme.carrier || null; // if you add carrier branding info
+      let themeType = "preloaded";
+
+      if (carrier) {
+        themeType = "carrier";
+      } else if (author) {
+        themeType = "user";
+      } else {
+        themeType = "preloaded";
+      }
 
       const haystack = [
         theme.name || '',
         supportedModels.join(' '),
         author || '',
+        carrier || '',
         Array.isArray(originalModel) ? originalModel.join(' ') : (originalModel || ''),
         platform,
         resolution
@@ -93,8 +105,9 @@ document.addEventListener('DOMContentLoaded', () => {
       const matchesModel = selectedModel === 'all' || supportedModels.includes(selectedModel);
       const matchesPlatform = selectedPlatform === 'all' || platform === selectedPlatform;
       const matchesResolution = selectedResolution === 'all' || resolution === selectedResolution;
+      const matchesType = selectedType === 'all' || selectedType === themeType;
 
-      if (matchesSearch && matchesModel && matchesPlatform && matchesResolution) {
+      if (matchesSearch && matchesModel && matchesPlatform && matchesResolution && matchesType) {
         visibleCount++;
         const card = document.createElement('div');
         card.className = 'theme-card';
@@ -106,15 +119,27 @@ document.addEventListener('DOMContentLoaded', () => {
         const platformSafe = escapeHtml(platform);
         const resolutionSafe = escapeHtml(resolution);
 
-        // Preloaded vs User-made label
+        // Meta line
         let metaLine = '';
-        if (author) {
+        if (themeType === "user") {
           metaLine = `<p class="meta"><strong>Author:</strong> ${escapeHtml(author)}</p>`;
+        } else if (themeType === "carrier") {
+          metaLine = `<p class="meta"><strong>Carrier branded</strong></p>`;
         } else {
           const originalSafe = Array.isArray(originalModel)
             ? escapeHtml(originalModel.join(', '))
             : escapeHtml(originalModel || '');
           metaLine = `<p class="meta"><strong>Preloaded on:</strong> ${originalSafe}</p>`;
+        }
+
+        // Type badge
+        let typeBadge = '';
+        if (themeType === "user") {
+          typeBadge = `<span class="badge type user-made">User-made</span>`;
+        } else if (themeType === "carrier") {
+          typeBadge = `<span class="badge type carrier">Carrier</span>`;
+        } else {
+          typeBadge = `<span class="badge type preloaded">Preloaded</span>`;
         }
 
         card.innerHTML = `
@@ -131,6 +156,7 @@ document.addEventListener('DOMContentLoaded', () => {
                   <span class="badge platform">${platformSafe}</span>
                   <span class="badge resolution">${resolutionSafe}</span>
                   ${theme.homeType ? `<span class="badge home-type">${escapeHtml(theme.homeType)}</span>` : ''}
+                  ${typeBadge}
                 </div>
               </div>
             </div>
@@ -149,6 +175,7 @@ document.addEventListener('DOMContentLoaded', () => {
   modelFilter.addEventListener('change', renderThemes);
   platformFilter.addEventListener('change', renderThemes);
   resolutionFilter.addEventListener('change', renderThemes);
+  typeFilter.addEventListener('change', renderThemes);
   searchInput.addEventListener('input', renderThemes);
 
   init();
