@@ -216,3 +216,18 @@ footer {
 .download-btn:hover {
   background: #004a99;
 }
+
+.badge.type.preloaded {
+  background-color: #2e8b57; /* green */
+  color: #fff;
+}
+
+.badge.type.user-made {
+  background-color: #800080; /* purple */
+  color: #fff;
+}
+
+.badge.type.carrier {
+  background-color: #1e90ff; /* blue */
+  color: #fff;
+}
