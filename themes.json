@@ -679,7 +679,7 @@
   {
     "id": "era-theme",
     "name": "ERA Theme",
-    "originalModel": "T630",
+    "carrier": "Era (Poland)",
     "supportedModels": ["T610", "T630", "Z600"],
     "platform": "DB1000",
     "resolution": "128x160",
@@ -1339,6 +1339,22 @@
     "file": "themes/Peach.thm"
   },
   {
+    "id": "persona5-a100-v1.2",
+    "name": "Persona 5 v1.2 (DB2020)",
+    "author": "RedillGMV",
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Persona 5 v1.2 (DB2020)_home.jpg",
+      "themes/screenshots/Persona 5 v1.2 (DB2020)_menu.jpg",
+      "themes/screenshots/Persona 5 v1.2 (DB2020)_settings.jpg"
+    ],
+    "file": "themes/Persona5-A100-v1.2.thm",
+    "swf": "themes/swf/Persona5DesktopA1.swf"
+  },
+  {
     "id": "phenomenon",
     "name": "Phenomenon",
     "originalModel": "K810i",
@@ -1427,6 +1443,81 @@
       "themes/screenshots/ScribbleBeats_settings.jpg"
     ],
     "file": "themes/ScribbleBeats.thm"
+  },
+  {
+    "id": "shadow-the-hedgehog-k700i",
+    "name": "Shadow the Hedgehog (K700i)",
+    "author": "Meganium412",
+    "supportedModels": ["K700i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Shadow the Hedgehog (K700i)_home.jpg",
+      "themes/screenshots/Shadow the Hedgehog (K700i)_menu.jpg",
+      "themes/screenshots/Shadow the Hedgehog (K700i)_tab.jpg"
+    ],
+    "file": "themes/Shadow the Hedgehog (K700i).thm"
+  },
+  {
+    "id": "shadow-the-hedgehog-k750i",
+    "name": "Shadow the Hedgehog (K750i)",
+    "author": "Meganium412",
+    "supportedModels": ["D750i", "K750i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Shadow the Hedgehog (K750i)_home.jpg",
+      "themes/screenshots/Shadow the Hedgehog (K750i)_menu.jpg",
+      "themes/screenshots/Shadow the Hedgehog (K750i)_tab.jpg"
+    ],
+    "file": "themes/Shadow the Hedgehog (K750i).thm"
+  },
+  {
+    "id": "shadow-the-hedgehog-k800i",
+    "name": "Shadow the Hedgehog (K800i)",
+    "author": "Meganium412",
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Shadow the Hedgehog (K800i)_home.jpg",
+      "themes/screenshots/Shadow the Hedgehog (K800i)_menu.jpg",
+      "themes/screenshots/Shadow the Hedgehog (K800i)_tab.jpg"
+    ],
+    "file": "themes/Shadow the Hedgehog (K800i).thm"
+  },
+  {
+    "id": "shadow-the-hedgehog-s700i",
+    "name": "Shadow the Hedgehog (S700i)",
+    "author": "Meganium412",
+    "supportedModels": ["S700i", "S710a"],
+    "platform": "DB2010",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Shadow the Hedgehog (S700i)_home.jpg",
+      "themes/screenshots/Shadow the Hedgehog (S700i)_menu.jpg",
+      "themes/screenshots/Shadow the Hedgehog (S700i)_tab.jpg"
+    ],
+    "file": "themes/Shadow the Hedgehog (S700i).thm"
+  },
+  {
+    "id": "shadow-the-hedgehog-w205",
+    "name": "Shadow the Hedgehog (W205)",
+    "author": "Meganium412",
+    "supportedModels": ["K330", "R300", "R306", "T303", "W205", "Z250i", "Z320i"],
+    "platform": "D6553BQ",
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Shadow the Hedgehog (W205)_home.jpg",
+      "themes/screenshots/Shadow the Hedgehog (W205)_menu.jpg",
+      "themes/screenshots/Shadow the Hedgehog (W205)_tab.jpg"
+    ],
+    "file": "themes/Shadow the Hedgehog (W205).thm"
   },
   {
     "id": "shimmer",
