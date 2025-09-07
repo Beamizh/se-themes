@@ -16,7 +16,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function escapeHtml(str) {
     if (!str) return '';
-    return String(str).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    return String(str).replace(/[&<>"']/g, c => ({
+      '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+    }[c]));
   }
 
   async function init() {
@@ -73,13 +75,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
     themes.forEach(theme => {
       const supportedModels = Array.isArray(theme.supportedModels) ? theme.supportedModels : [];
-      const originalModel = theme.originalModel;
       const platform = theme.platform || '';
       const resolution = theme.resolution || '';
+      const author = theme.author || null;
+      const originalModel = theme.originalModel;
 
       const haystack = [
         theme.name || '',
         supportedModels.join(' '),
+        author || '',
         Array.isArray(originalModel) ? originalModel.join(' ') : (originalModel || ''),
         platform,
         resolution
@@ -99,28 +103,40 @@ document.addEventListener('DOMContentLoaded', () => {
         const link = 'themes-pages/' + encodeURIComponent(theme.id) + '.html';
 
         const nameSafe = escapeHtml(theme.name);
-        const originalSafe = Array.isArray(originalModel) ? escapeHtml(originalModel.join(', ')) : escapeHtml(originalModel || '');
-        const supportedSafe = supportedModels.map(s => escapeHtml(s)).join(', ');
+        const platformSafe = escapeHtml(platform);
+        const resolutionSafe = escapeHtml(resolution);
 
-        // IMPORTANT: content is split into image + .card-body so CSS can align badges properly
+        // Preloaded vs User-made label
+        let metaLine = '';
+        if (author) {
+          metaLine = `<p class="meta"><strong>Author:</strong> ${escapeHtml(author)}</p>`;
+        } else {
+          const originalSafe = Array.isArray(originalModel)
+            ? escapeHtml(originalModel.join(', '))
+            : escapeHtml(originalModel || '');
+          metaLine = `<p class="meta"><strong>Preloaded on:</strong> ${originalSafe}</p>`;
+        }
+
         card.innerHTML = `
           <a href="${link}">
             ${preview ? `<img src="${escapeHtml(preview)}" alt="${nameSafe} Preview">` : ''}
             <div class="card-body">
               <div class="card-top">
                 <h3>${nameSafe}</h3>
-                <p class="meta"><strong>Original:</strong> ${originalSafe}</p>
+                ${metaLine}
               </div>
               <div class="card-bottom">
                 <div class="badges">
                   <span class="badge model">${supportedModels.length > 1 ? 'Multi-model' : (supportedModels[0] || '')}</span>
-                  <span class="badge platform">${escapeHtml(platform)}</span>
-                  <span class="badge resolution">${escapeHtml(resolution)}</span>
+                  <span class="badge platform">${platformSafe}</span>
+                  <span class="badge resolution">${resolutionSafe}</span>
+                  ${theme.homeType ? `<span class="badge home-type">${escapeHtml(theme.homeType)}</span>` : ''}
                 </div>
               </div>
             </div>
           </a>
         `;
+
         themeList.appendChild(card);
       }
     });
