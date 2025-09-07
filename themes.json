@@ -1339,13 +1339,29 @@
     "file": "themes/Peach.thm"
   },
   {
+    "id": "persona5-a200-v1.15",
+    "name": "Persona 5 v1.15 (DB3350)",
+    "author": "RedillGMV",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Persona 5 v1.15 (DB3350)_home.jpg",
+      "themes/screenshots/Persona 5 v1.15 (DB3350)_menu.jpg",
+      "themes/screenshots/Persona 5 v1.15 (DB3350)_settings.jpg"
+    ],
+    "file": "themes/Persona5-A200-v1.15.thm",
+    "swf": "themes/swf/Persona5DesktopA2.swf"
+  },
+  {
     "id": "persona5-a100-v1.2",
     "name": "Persona 5 v1.2 (DB2020)",
     "author": "RedillGMV",
     "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
     "platform": "DB2020",
     "resolution": "240x320",
-    "homeType": "Animated",
+    "homeType": "Still image",
     "screenshots": [
       "themes/screenshots/Persona 5 v1.2 (DB2020)_home.jpg",
       "themes/screenshots/Persona 5 v1.2 (DB2020)_menu.jpg",
