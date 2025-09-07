@@ -75,6 +75,22 @@
     "file": "themes/Amethyst (K660i).thm"
   },
   {
+    "id": "aperture",
+    "name": "Aperture",
+    "originalModel": "K770i",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Aperture_home.jpg",
+      "themes/screenshots/Aperture_menu.jpg",
+      "themes/screenshots/Aperture_settings.jpg"
+    ],
+    "file": "themes/Aperture.thm",
+    "swf": "themes/swf/Aperture_desktop.swf"
+  },
+  {
     "id": "aqua-tiles",
     "name": "Aqua Tiles",
     "originalModel": "K300i",
@@ -347,6 +363,22 @@
     "file": "themes/Citybeat (W610i).thm"
   },
   {
+    "id": "citybeat-w880i",
+    "name": "Citybeat (W880i)",
+    "originalModel": "W880i",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Citybeat (W880i)_home.jpg",
+      "themes/screenshots/Citybeat (W880i)_menu.jpg",
+      "themes/screenshots/Citybeat (W880i)_settings.jpg"
+    ],
+    "file": "themes/Citybeat (W880i).thm",
+    "swf": "themes/swf/Citybeat (W880i)_desktop.swf"
+  },
+  {
     "id": "clarity-aino",
     "name": "Clarity (Aino)",
     "originalModel": "Aino (U10i)",
@@ -360,6 +392,21 @@
       "themes/screenshots/Clarity (Aino)_settings.jpg"
     ],
     "file": "themes/Clarity (Aino).thm"
+  },
+  {
+    "id": "clarity-db2030",
+    "name": "Clarity (DB2030)",
+    "originalModel": "K770i",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Clarity (DB2030)_home.jpg",
+      "themes/screenshots/Clarity (DB2030)_menu.jpg",
+      "themes/screenshots/Clarity (DB2030)_settings.jpg"
+    ],
+    "file": "themes/Clarity (DB2030).thm"
   },
   {
     "id": "clarity-db3150",
@@ -1204,6 +1251,21 @@
     "swf": "themes/swf/Greenheart81v2Desktop.swf"
   },
   {
+    "id": "grid-line",
+    "name": "Grid line",
+    "originalModel": "K770i",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Grid line_home.jpg",
+      "themes/screenshots/Grid line_menu.jpg",
+      "themes/screenshots/Grid line_settings.jpg"
+    ],
+    "file": "themes/Grid line.thm"
+  },
+  {
     "id": "gsharp",
     "name": "gSharp",
     "originalModel": "W610i",
@@ -1262,6 +1324,21 @@
       "themes/screenshots/Hypnotic_settings.jpg"
     ],
     "file": "themes/Hypnotic.thm"
+  },
+  {
+    "id": "in-the-air",
+    "name": "In the air",
+    "originalModel": "T650i",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/In the air_home.jpg",
+      "themes/screenshots/In the air_menu.jpg",
+      "themes/screenshots/In the air_settings.jpg"
+    ],
+    "file": "themes/In the air.thm"
   },
   {
     "id": "komi-shouko-aino",
@@ -1637,6 +1714,21 @@
       "themes/screenshots/Oboe_tab.jpg"
     ],
     "file": "themes/Oboe.thm"
+  },
+  {
+    "id": "on-land",
+    "name": "On land",
+    "originalModel": "T650i",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/On land_home.jpg",
+      "themes/screenshots/On land_menu.jpg",
+      "themes/screenshots/On land_settings.jpg"
+    ],
+    "file": "themes/On land.thm"
   },
   {
     "id": "orange-orbit",
@@ -2077,6 +2169,21 @@
     "file": "themes/Spots (K320i).thm"
   },
   {
+    "id": "squares",
+    "name": "Squares",
+    "originalModel": "T650i",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Squares_home.jpg",
+      "themes/screenshots/Squares_menu.jpg",
+      "themes/screenshots/Squares_settings.jpg"
+    ],
+    "file": "themes/Squares.thm"
+  },
+  {
     "id": "stencil-art",
     "name": "Stencil art",
     "originalModel": "W200i",
@@ -2272,6 +2379,21 @@
     "file": "themes/TV2.thm"
   },
   {
+    "id": "under-water",
+    "name": "Under water",
+    "originalModel": "T650i",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Under water_home.jpg",
+      "themes/screenshots/Under water_menu.jpg",
+      "themes/screenshots/Under water_settings.jpg"
+    ],
+    "file": "themes/Under water.thm"
+  },
+  {
     "id": "universe",
     "name": "Universe",
     "originalModel": "K530i",
@@ -2375,6 +2497,21 @@
       "themes/screenshots/Walkman (W710i)_settings.jpg"
     ],
     "file": "themes/Walkman (W710i).thm"
+  },
+  {
+    "id": "walkman-w880i",
+    "name": "Walkman (W880i)",
+    "originalModel": "W880i",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Walkman (W880i)_home.jpg",
+      "themes/screenshots/Walkman (W880i)_menu.jpg",
+      "themes/screenshots/Walkman (W880i)_settings.jpg"
+    ],
+    "file": "themes/Walkman (W880i).thm"
   },
   {
     "id": "wave",
