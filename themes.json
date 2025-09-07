@@ -1566,6 +1566,21 @@
     "file": "themes/Pop art.thm"
   },
   {
+    "id": "purple-dimension",
+    "name": "Purple Dimension",
+    "author": "RedillGMV",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Purple Dimension_home.jpg",
+      "themes/screenshots/Purple Dimension_menu.jpg",
+      "themes/screenshots/Purple Dimension_list.jpg"
+    ],
+    "file": "themes/Purple Dimension.utz"
+  },
+  {
     "id": "ray",
     "name": "Ray",
     "originalModel": "C510",
