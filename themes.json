@@ -12,7 +12,8 @@
       "themes/screenshots/Active_menu.jpg",
       "themes/screenshots/Active_settings.jpg"
     ],
-    "file": "themes/Active.thm"
+    "file": "themes/Active.thm",
+    "swf": "themes/swf/Active_desktop.swf"
   },
   {
     "id": "airport",
@@ -59,7 +60,7 @@
       "themes/screenshots/Amethyst (C903)_settings.jpg"
     ],
     "file": "themes/Amethyst (C903).thm",
-    "swf": "themes/swf/Amethyst (C903)_desktop.swf"
+    "swf": "themes/swf/Amethyst_desktop.swf"
   },
   {
     "id": "amethyst-k660i",
@@ -347,7 +348,8 @@
       "themes/screenshots/City lights_menu.jpg",
       "themes/screenshots/City lights_settings.jpg"
     ],
-    "file": "themes/City lights.thm"
+    "file": "themes/City lights.thm",
+    "swf": "themes/swf/City lights_desktop.swf"
   },
   {
     "id": "citybeat-w610i",
@@ -362,7 +364,8 @@
       "themes/screenshots/Citybeat (W610i)_menu.jpg",
       "themes/screenshots/Citybeat (W610i)_settings.jpg"
     ],
-    "file": "themes/Citybeat (W610i).thm"
+    "file": "themes/Citybeat (W610i).thm",
+    "swf": "themes/swf/Na_dt_cityBeat.swf"
   },
   {
     "id": "citybeat-w880i",
@@ -378,7 +381,7 @@
       "themes/screenshots/Citybeat (W880i)_settings.jpg"
     ],
     "file": "themes/Citybeat (W880i).thm",
-    "swf": "themes/swf/Citybeat (W880i)_desktop.swf"
+    "swf": "themes/swf/Final_Citybeat_desktop.swf"
   },
   {
     "id": "clarity-aino",
@@ -544,7 +547,8 @@
       "themes/screenshots/Connectoid_menu.jpg",
       "themes/screenshots/Connectoid_tab.jpg"
     ],
-    "file": "themes/Connectoid.thm"
+    "file": "themes/Connectoid.thm",
+    "swf": "themes/swf/Connectoid_desktop.swf"
   },
   {
     "id": "crystaline",
@@ -650,7 +654,7 @@
       "themes/screenshots/Cyber-shot (C903)_settings.jpg"
     ],
     "file": "themes/Cyber-shot (C903).thm",
-    "swf": "themes/swf/Cyber-shot (C903)_desktop.swf"
+    "swf": "themes/swf/CybershotDesktop.swf"
   },
   {
     "id": "cyber-shot-c905",
@@ -785,7 +789,8 @@
       "themes/screenshots/Digitize_menu.jpg",
       "themes/screenshots/Digitize_tab.jpg"
     ],
-    "file": "themes/Digitize.thm"
+    "file": "themes/Digitize.thm",
+    "swf": "themes/swf/Digitize_desktop.swf"
   },
   {
     "id": "dreamscape",
@@ -800,7 +805,8 @@
       "themes/screenshots/Dreamscape_menu.jpg",
       "themes/screenshots/Dreamscape_settings.jpg"
     ],
-    "file": "themes/Dreamscape.thm"
+    "file": "themes/Dreamscape.thm",
+    "swf": "themes/swf/Dreamscape_desktop.swf"
   },
   {
     "id": "dusk-setting",
@@ -831,7 +837,8 @@
       "themes/screenshots/Echo_menu.jpg",
       "themes/screenshots/Echo_settings.jpg"
     ],
-    "file": "themes/Echo.thm"
+    "file": "themes/Echo.thm",
+    "swf": "themes/swf/EchoDesktop.swf"
   },
   {
     "id": "emersion",
@@ -846,7 +853,8 @@
       "themes/screenshots/Emersion_menu.jpg",
       "themes/screenshots/Emersion_settings.jpg"
     ],
-    "file": "themes/Emersion.thm"
+    "file": "themes/Emersion.thm",
+    "swf": "themes/swf/EmersionDesktop.swf"
   },
   {
     "id": "era-theme",
@@ -1283,7 +1291,8 @@
       "themes/screenshots/gSharp_menu.jpg",
       "themes/screenshots/gSharp_settings.jpg"
     ],
-    "file": "themes/gSharp.thm"
+    "file": "themes/gSharp.thm",
+    "swf": "themes/swf/Na_dt_gSharp.swf"
   },
   {
     "id": "hapee-j300i",
@@ -1328,7 +1337,8 @@
       "themes/screenshots/Hypnotic_menu.jpg",
       "themes/screenshots/Hypnotic_settings.jpg"
     ],
-    "file": "themes/Hypnotic.thm"
+    "file": "themes/Hypnotic.thm",
+    "swf": "themes/swf/Hypnotic_desktop.swf"
   },
   {
     "id": "in-the-air",
@@ -1433,7 +1443,8 @@
       "themes/screenshots/Lava_menu.jpg",
       "themes/screenshots/Lava_settings.jpg"
     ],
-    "file": "themes/Lava.thm"
+    "file": "themes/Lava.thm",
+    "swf": "themes/swf/Lava_desktop.swf"
   },
   {
     "id": "lazer-precision",
@@ -1827,7 +1838,7 @@
       "themes/screenshots/Persona 5 v1.15 (DB3350)_settings.jpg"
     ],
     "file": "themes/Persona5-A200-v1.15.thm",
-    "swf": "themes/swf/Persona5DesktopA2.swf"
+    "swf": "themes/swf/Persona5_desktop.swf"
   },
   {
     "id": "persona5-a100-v1.2",
@@ -1949,7 +1960,8 @@
       "themes/screenshots/ScribbleBeats_menu.jpg",
       "themes/screenshots/ScribbleBeats_settings.jpg"
     ],
-    "file": "themes/ScribbleBeats.thm"
+    "file": "themes/ScribbleBeats.thm",
+    "swf": "themes/swf/Na_dt_ScribbleBeat.swf"
   },
   {
     "id": "shadow-the-hedgehog-k700i",
@@ -2311,7 +2323,8 @@
       "themes/screenshots/Trace_menu.jpg",
       "themes/screenshots/Trace_settings.jpg"
     ],
-    "file": "themes/Trace.thm"
+    "file": "themes/Trace.thm",
+    "swf": "themes/swf/TraceDesktop.swf"
   },
   {
     "id": "track-flow",
