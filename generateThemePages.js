@@ -13,6 +13,19 @@ const themes = JSON.parse(fs.readFileSync(themesFile, "utf-8"));
 
 // Generate theme pages compatible with current index.html
 themes.forEach((theme) => {
+  const homeBadge = theme.homeType
+    ? `<span class="badge home-type">${theme.homeType}</span>`
+    : "";
+
+  // Decide if it's preloaded or user-made
+  const metaLine = theme.author
+    ? `<p><strong>Author:</strong> ${theme.author}</p>`
+    : `<p><strong>Preloaded on:</strong> ${
+        Array.isArray(theme.originalModel)
+          ? theme.originalModel.join(", ")
+          : theme.originalModel
+      }</p>`;
+
   const themeHTML = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,10 +45,15 @@ themes.forEach((theme) => {
 
   <main>
     <section class="theme-details">
-      <p><strong>Preloaded on:</strong> ${Array.isArray(theme.originalModel) ? theme.originalModel.join(", ") : theme.originalModel}</p>
+      <!-- Badges only -->
+      <div class="badges">
+        <span class="badge platform">${theme.platform}</span>
+        <span class="badge resolution">${theme.resolution}</span>
+        ${homeBadge}
+      </div>
+
+      ${metaLine}
       <p><strong>Supported models:</strong> ${theme.supportedModels.join(", ")}</p>
-      <p><strong>Platform:</strong> ${theme.platform}</p>
-      <p><strong>Resolution:</strong> ${theme.resolution}</p>
 
       <h2>Screenshots</h2>
       <div class="screenshots">
