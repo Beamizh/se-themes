@@ -15,6 +15,21 @@
     "file": "themes/Active.thm"
   },
   {
+    "id": "airport",
+    "name": "Airport",
+    "originalModel": "K600i",
+    "supportedModels": ["K600i", "K608i", "V600", "V800", "Z800", "Z1010"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Airport_home.jpg",
+      "themes/screenshots/Airport_menu.jpg",
+      "themes/screenshots/Airport_tab.jpg"
+    ],
+    "file": "themes/Airport.thm"
+  },
+  {
     "id": "amber",
     "name": "Amber",
     "originalModel": "C903",
@@ -465,6 +480,21 @@
       "themes/screenshots/Crystal line_settings.jpg"
     ],
     "file": "themes/Crystal line.thm"
+  },
+  {
+    "id": "cubey",
+    "name": "Cubey",
+    "originalModel": "K600i",
+    "supportedModels": ["K600i", "K608i", "V600", "V800", "Z800", "Z1010"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Cubey_home.jpg",
+      "themes/screenshots/Cubey_menu.jpg",
+      "themes/screenshots/Cubey_tab.jpg"
+    ],
+    "file": "themes/Cubey.thm"
   },
   {
     "id": "cyber-shot-c510",
@@ -994,6 +1024,21 @@
     "file": "themes/Goldfish.thm"
   },
   {
+    "id": "gravity",
+    "name": "Gravity",
+    "originalModel": "K600i",
+    "supportedModels": ["K600i", "K608i", "V600", "V800", "Z800", "Z1010"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Gravity_home.jpg",
+      "themes/screenshots/Gravity_menu.jpg",
+      "themes/screenshots/Gravity_tab.jpg"
+    ],
+    "file": "themes/Gravity.thm"
+  },
+  {
     "id": "gsharp",
     "name": "gSharp",
     "originalModel": "W610i",
@@ -1367,6 +1412,21 @@
       "themes/screenshots/Peach_settings.jpg"
     ],
     "file": "themes/Peach.thm"
+  },
+  {
+    "id": "pendulum",
+    "name": "Pendulum",
+    "originalModel": "K600i",
+    "supportedModels": ["K600i", "K608i", "V600", "V800", "Z800", "Z1010"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Pendulum_home.jpg",
+      "themes/screenshots/Pendulum_menu.jpg",
+      "themes/screenshots/Pendulum_tab.jpg"
+    ],
+    "file": "themes/Pendulum.thm"
   },
   {
     "id": "persona5-a200-v1.15",
