@@ -90,6 +90,21 @@
     "file": "themes/Backstreet.thm"
   },
   {
+    "id": "beam",
+    "name": "Beam",
+    "originalModel": "K750i",
+    "supportedModels": ["D750i", "K750i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Beam_home.jpg",
+      "themes/screenshots/Beam_menu.jpg",
+      "themes/screenshots/Beam_tab.jpg"
+    ],
+    "file": "themes/Beam.thm"
+  },
+  {
     "id": "blaqua",
     "name": "Blaqua",
     "originalModel": "K610im",
@@ -690,6 +705,21 @@
       "themes/screenshots/ERA Theme_settings.jpg"
     ],
     "file": "themes/ERA Theme.thm"
+  },
+  {
+    "id": "eternal",
+    "name": "Eternal",
+    "originalModel": "K750i",
+    "supportedModels": ["D750i", "K750i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Eternal_home.jpg",
+      "themes/screenshots/Eternal_menu.jpg",
+      "themes/screenshots/Eternal_tab.jpg"
+    ],
+    "file": "themes/Eternal.thm"
   },
   {
     "id": "equalizer",
@@ -1777,6 +1807,21 @@
     "file": "themes/The red carpet.thm"
   },
   {
+    "id": "tiles",
+    "name": "Tiles",
+    "originalModel": "K750i",
+    "supportedModels": ["D750i", "K750i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Tiles_home.jpg",
+      "themes/screenshots/Tiles_menu.jpg",
+      "themes/screenshots/Tiles_tab.jpg"
+    ],
+    "file": "themes/Tiles.thm"
+  },
+  {
     "id": "trace",
     "name": "Trace",
     "originalModel": "Zylo (W20i)",
@@ -1940,6 +1985,21 @@
       "themes/screenshots/Walkman (W710i)_settings.jpg"
     ],
     "file": "themes/Walkman (W710i).thm"
+  },
+  {
+    "id": "wave",
+    "name": "Wave",
+    "originalModel": "K750i",
+    "supportedModels": ["D750i", "K750i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Wave_home.jpg",
+      "themes/screenshots/Wave_menu.jpg",
+      "themes/screenshots/Wave_tab.jpg"
+    ],
+    "file": "themes/Wave.thm"
   },
   {
     "id": "waves",
