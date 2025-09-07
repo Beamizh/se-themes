@@ -173,6 +173,7 @@ footer {
 .badge.model { background: #0078d7; }
 .badge.platform { background: #444; }
 .badge.resolution { background: #28a745; }
+.badge.home-type { background: #8e44ad; } /* purple for home type */
 
 /* THEME DETAIL PAGE */
 .theme-details {
