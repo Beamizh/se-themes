@@ -244,6 +244,22 @@
     "file": "themes/Borderline.thm"
   },
   {
+    "id": "breeze",
+    "name": "Breeze",
+    "originalModel": "Hazel (J20i)",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Breeze_home.jpg",
+      "themes/screenshots/Breeze_menu.jpg",
+      "themes/screenshots/Breeze_settings.jpg"
+    ],
+    "file": "themes/Breeze.thm",
+    "swf": "themes/swf/BreezeDesktop.swf"
+  },
+  {
     "id": "bronze-flower",
     "name": "Bronze flower",
     "originalModel": "Z310i",
@@ -333,7 +349,8 @@
       "themes/screenshots/City_menu.jpg",
       "themes/screenshots/City_settings.jpg"
     ],
-    "file": "themes/City.thm"
+    "file": "themes/City.thm",
+    "swf": "themes/swf/CityDesktop.swf"
   },
   {
     "id": "city-lights",
@@ -429,6 +446,21 @@
     "file": "themes/Clarity (DB3150).thm"
   },
   {
+    "id": "clarity-db3200",
+    "name": "Clarity (DB3200)",
+    "originalModel": ["Jalou (F100i)", "Naite (J105i)"],
+    "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
+    "platform": "DB3200",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Clarity (DB3200)_home.jpg",
+      "themes/screenshots/Clarity (DB3200)_menu.jpg",
+      "themes/screenshots/Clarity (DB3200)_settings.jpg"
+    ],
+    "file": "themes/Clarity (DB3200).thm"
+  },
+  {
     "id": "clarity-db3210",
     "name": "Clarity (DB3210)",
     "originalModel": ["C510", "C901", "C903", "C905", "W995"],
@@ -442,6 +474,21 @@
       "themes/screenshots/Clarity (DB3210)_settings.jpg"
     ],
     "file": "themes/Clarity (DB3210).thm"
+  },
+  {
+    "id": "clarity-db3350",
+    "name": "Clarity (DB3350)",
+    "originalModel": "Yari (U100i)",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Clarity (DB3350)_home.jpg",
+      "themes/screenshots/Clarity (DB3350)_menu.jpg",
+      "themes/screenshots/Clarity (DB3350)_settings.jpg"
+    ],
+    "file": "themes/Clarity (DB3350).thm"
   },
   {
     "id": "clarity-k630i",
@@ -549,6 +596,37 @@
     ],
     "file": "themes/Connectoid.thm",
     "swf": "themes/swf/Connectoid_desktop.swf"
+  },
+  {
+    "id": "constellation",
+    "name": "Constellation",
+    "originalModel": "Jalou (F100i)",
+    "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
+    "platform": "DB3200",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Constellation_home.jpg",
+      "themes/screenshots/Constellation_menu.jpg",
+      "themes/screenshots/Constellation_settings.jpg"
+    ],
+    "file": "themes/Constellation.thm",
+    "swf": "themes/swf/ConstellationDesktop.swf"
+  },
+  {
+    "id": "cranberry-white",
+    "name": "Cranberry white",
+    "originalModel": "Yari (U100i)",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Cranberry white_home.jpg",
+      "themes/screenshots/Cranberry white_settings.jpg"
+    ],
+    "file": "themes/Cranberry white.thm",
+    "swf": "themes/swf/CranberrywhiteDesktop.swf"
   },
   {
     "id": "crystaline",
@@ -1219,6 +1297,21 @@
     "file": "themes/Gravity.thm"
   },
   {
+    "id": "greenheart",
+    "name": "Greenheart",
+    "originalModel": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)"],
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Greenheart_home.jpg",
+      "themes/screenshots/Greenheart_menu.jpg",
+      "themes/screenshots/Greenheart_settings.jpg"
+    ],
+    "file": "themes/Greenheart.thm"
+  },
+  {
     "id": "greenheart-52",
     "name": "GreenHeart™ 52",
     "author": "Guramovich",
@@ -1323,6 +1416,22 @@
       "themes/screenshots/Hapee (S700i)_settings.jpg"
     ],
     "file": "themes/Hapee (S700i).thm"
+  },
+  {
+    "id": "harp",
+    "name": "Harp",
+    "originalModel": ["Cedar (J108i)", "Elm (J10i2)"],
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Harp_home.jpg",
+      "themes/screenshots/Harp_menu.jpg",
+      "themes/screenshots/Harp_settings.jpg"
+    ],
+    "file": "themes/Harp.thm",
+    "swf": "themes/swf/HarpDesktop.swf"
   },
   {
     "id": "hypnotic",
@@ -1613,6 +1722,22 @@
     "file": "themes/Medallion (K510i).thm"
   },
   {
+    "id": "melody",
+    "name": "Melody",
+    "originalModel": ["Cedar (J108i)", "Elm (J10i2)"],
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Melody_home.jpg",
+      "themes/screenshots/Melody_menu.jpg",
+      "themes/screenshots/Melody_settings.jpg"
+    ],
+    "file": "themes/Melody.thm",
+    "swf": "themes/swf/MelodyDesktop.swf"
+  },
+  {
     "id": "metal-rings",
     "name": "Metal rings",
     "originalModel": "K630i",
@@ -1672,6 +1797,22 @@
       "themes/screenshots/Mosaique_settings.jpg"
     ],
     "file": "themes/Mosaique.thm"
+  },
+  {
+    "id": "nebula",
+    "name": "Nebula",
+    "originalModel": "Jalou (F100i)",
+    "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
+    "platform": "DB3200",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Nebula_home.jpg",
+      "themes/screenshots/Nebula_menu.jpg",
+      "themes/screenshots/Nebula_settings.jpg"
+    ],
+    "file": "themes/Nebula.thm",
+    "swf": "themes/swf/NebulaDesktop.swf"
   },
   {
     "id": "neohighway",
@@ -1948,6 +2089,22 @@
     "file": "themes/Rings.thm"
   },
   {
+    "id": "ripples",
+    "name": "Ripples",
+    "originalModel": "Hazel (J20i)",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Ripples_home.jpg",
+      "themes/screenshots/Ripples_menu.jpg",
+      "themes/screenshots/Ripples_settings.jpg"
+    ],
+    "file": "themes/Ripples.thm",
+    "swf": "themes/swf/RipplesDesktop.swf"
+  },
+  {
     "id": "scribblebeats",
     "name": "ScribbleBeats",
     "originalModel": "W610i",
@@ -2069,6 +2226,21 @@
     "file": "themes/Shuttershine.thm"
   },
   {
+    "id": "silver-grey",
+    "name": "Silver grey",
+    "originalModel": "Yari (U100i)",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Silver grey_home.jpg",
+      "themes/screenshots/Silver grey_settings.jpg"
+    ],
+    "file": "themes/Silver grey.thm",
+    "swf": "themes/swf/SilvergreyDesktop.swf"
+  },
+  {
     "id": "sky-light",
     "name": "Sky light",
     "originalModel": "K530i",
@@ -2097,6 +2269,22 @@
       "themes/screenshots/Smove_settings.jpg"
     ],
     "file": "themes/Smove.thm"
+  },
+  {
+    "id": "sonar-pink",
+    "name": "Sonar pink",
+    "originalModel": "Jalou (F100i)",
+    "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
+    "platform": "DB3200",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Sonar pink_home.jpg",
+      "themes/screenshots/Sonar pink_menu.jpg",
+      "themes/screenshots/Sonar pink_settings.jpg"
+    ],
+    "file": "themes/Sonar pink.thm",
+    "swf": "themes/swf/SonarpinkDesktop.swf"
   },
   {
     "id": "spinler-k500i",
@@ -2445,7 +2633,24 @@
       "themes/screenshots/Unlimited (Aino)_menu.jpg",
       "themes/screenshots/Unlimited (Aino)_settings.jpg"
     ],
-    "file": "themes/Unlimited (Aino).thm"
+    "file": "themes/Unlimited (Aino).thm",
+    "swf": "themes/swf/Aino/UnlimitedDesktop.swf"
+  },
+  {
+    "id": "unlimited-yari",
+    "name": "Unlimited (Yari)",
+    "originalModel": "Yari (U100i)",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Unlimited (Yari)_home.jpg",
+      "themes/screenshots/Unlimited (Yari)_menu.jpg",
+      "themes/screenshots/Unlimited (Yari)_settings.jpg"
+    ],
+    "file": "themes/Unlimited (Yari).thm",
+    "swf": "themes/swf/UnlimitedDesktop.swf"
   },
   {
     "id": "waip",
@@ -2565,7 +2770,8 @@
       "themes/screenshots/Waves_menu.jpg",
       "themes/screenshots/Waves_settings.jpg"
     ],
-    "file": "themes/Waves.thm"
+    "file": "themes/Waves.thm",
+    "swf": "themes/swf/WavesDesktop.swf"
   },
   {
     "id": "wink",
