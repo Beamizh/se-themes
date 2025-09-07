@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Sony Ericsson Themes</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Sony Ericsson Themes</h1>
+  </header>
+
+  <main>
+    <!-- friendly error / info box -->
+    <div id="errorBox" role="alert"></div>
+
+    <!-- Filters + Search -->
+    <section class="filters" aria-label="Filters and search">
+      <label style="min-width:180px;">
+        Search:
+        <input type="text" id="searchInput" placeholder="Search themes..." />
+      </label>
+
+      <label>
+        Model:
+        <select id="modelFilter"><option value="all">All</option></select>
+      </label>
+
+      <label>
+        Platform:
+        <select id="platformFilter"><option value="all">All</option></select>
+      </label>
+
+      <label>
+        Resolution:
+        <select id="resolutionFilter"><option value="all">All</option></select>
+      </label>
+    </section>
+
+    <!-- Themes -->
+    <section class="themes" id="themeList" aria-live="polite"></section>
+  </main>
+
+  <footer>
+    <p>made by Beamish 🦆</p>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
