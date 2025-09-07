@@ -1099,6 +1099,81 @@
     "file": "themes/Hypnotic.thm"
   },
   {
+    "id": "komi-shouko-aino",
+    "name": "Komi Shouko (Aino)",
+    "author": "Lazerdude",
+    "supportedModels": ["Aino (U10i)"],
+    "platform": "DB3350",
+    "resolution": "240x432",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Komi Shouko (Aino)_home.jpg",
+      "themes/screenshots/Komi Shouko (Aino)_menu.jpg",
+      "themes/screenshots/Komi Shouko (Aino)_tab.jpg"
+    ],
+    "file": "themes/Komi Shouko (Aino).thm"
+  },
+  {
+    "id": "komi-shouko-elm",
+    "name": "Komi Shouko (Elm)",
+    "author": "Lazerdude",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Komi Shouko (Elm)_home.jpg",
+      "themes/screenshots/Komi Shouko (Elm)_menu.jpg",
+      "themes/screenshots/Komi Shouko (Elm)_tab.jpg"
+    ],
+    "file": "themes/Komi Shouko (Elm).thm"
+  },
+  {
+    "id": "komi-shouko-k800i",
+    "name": "Komi Shouko (K800i)",
+    "author": "Lazerdude",
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Komi Shouko (K800i)_home.jpg",
+      "themes/screenshots/Komi Shouko (K800i)_menu.jpg",
+      "themes/screenshots/Komi Shouko (K800i)_tab.jpg"
+    ],
+    "file": "themes/Komi Shouko (K800i).thm"
+  },
+  {
+    "id": "komi-shouko-k850i",
+    "name": "Komi Shouko (K850i)",
+    "author": "Lazerdude",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Komi Shouko (K850i)_home.jpg",
+      "themes/screenshots/Komi Shouko (K850i)_menu.jpg",
+      "themes/screenshots/Komi Shouko (K850i)_tab.jpg"
+    ],
+    "file": "themes/Komi Shouko (K850i).thm"
+  },
+  {
+    "id": "komi-shouko-s700i",
+    "name": "Komi Shouko (S700i)",
+    "author": "Lazerdude",
+    "supportedModels": ["S700i", "S710a"],
+    "platform": "DB2010",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Komi Shouko (S700i)_home.jpg",
+      "themes/screenshots/Komi Shouko (S700i)_menu.jpg",
+      "themes/screenshots/Komi Shouko (S700i)_tab.jpg"
+    ],
+    "file": "themes/Komi Shouko (S700i).thm"
+  },
+  {
     "id": "lava",
     "name": "Lava",
     "originalModel": "W710i",
