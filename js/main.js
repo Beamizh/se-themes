@@ -80,15 +80,13 @@ document.addEventListener('DOMContentLoaded', () => {
       const resolution = theme.resolution || '';
       const author = theme.author || null;
       const originalModel = theme.originalModel;
-      const carrier = theme.carrier || null; // if you add carrier branding info
+      const carrier = theme.carrier || null;
       let themeType = "preloaded";
 
       if (carrier) {
         themeType = "carrier";
       } else if (author) {
         themeType = "user";
-      } else {
-        themeType = "preloaded";
       }
 
       const haystack = [
@@ -120,17 +118,20 @@ document.addEventListener('DOMContentLoaded', () => {
         const resolutionSafe = escapeHtml(resolution);
 
         // Meta line
-        let metaLine = '';
-        if (themeType === "user") {
-          metaLine = `<p class="meta"><strong>Author:</strong> ${escapeHtml(author)}</p>`;
-        } else if (themeType === "carrier") {
-          metaLine = `<p class="meta"><strong>Carrier branded</strong></p>`;
-        } else {
-          const originalSafe = Array.isArray(originalModel)
-            ? escapeHtml(originalModel.join(', '))
-            : escapeHtml(originalModel || '');
-          metaLine = `<p class="meta"><strong>Preloaded on:</strong> ${originalSafe}</p>`;
-        }
+let metaLine = '';
+if (themeType === "user") {
+  metaLine = `<p class="meta"><strong>Author:</strong> ${escapeHtml(author)}</p>`;
+} else {
+  const originalSafe = Array.isArray(originalModel)
+    ? escapeHtml(originalModel.join(', '))
+    : escapeHtml(originalModel || '');
+  metaLine = `<p class="meta"><strong>Preloaded on:</strong> ${originalSafe}</p>`;
+  if (carrier) {
+    metaLine += `<p class="meta"><strong>Carrier:</strong> ${escapeHtml(carrier)}</p>`;
+  }
+}
+
+
 
         // Type badge
         let typeBadge = '';
@@ -140,6 +141,14 @@ document.addEventListener('DOMContentLoaded', () => {
           typeBadge = `<span class="badge type carrier">Carrier</span>`;
         } else {
           typeBadge = `<span class="badge type preloaded">Preloaded</span>`;
+        }
+
+        // Platform badge
+        let platformBadge = '';
+        if (Array.isArray(theme.platform) && theme.platform.length > 1) {
+          platformBadge = `<span class="badge platform">Multi-platform</span>`;
+        } else {
+          platformBadge = `<span class="badge platform">${platformSafe}</span>`;
         }
 
         card.innerHTML = `
@@ -153,7 +162,7 @@ document.addEventListener('DOMContentLoaded', () => {
               <div class="card-bottom">
                 <div class="badges">
                   <span class="badge model">${supportedModels.length > 1 ? 'Multi-model' : (supportedModels[0] || '')}</span>
-                  <span class="badge platform">${platformSafe}</span>
+                  ${platformBadge}
                   <span class="badge resolution">${resolutionSafe}</span>
                   ${theme.homeType ? `<span class="badge home-type">${escapeHtml(theme.homeType)}</span>` : ''}
                   ${typeBadge}
@@ -171,6 +180,32 @@ document.addEventListener('DOMContentLoaded', () => {
       themeList.innerHTML = '<p style="padding:16px; color:#666">No themes match your search/filters.</p>';
     }
   }
+
+  {async function loadModels() {
+  try {
+    const res = await fetch('models.json');
+    const models = await res.json();
+    const gallery = document.getElementById('modelGallery');
+    
+    gallery.innerHTML = models.map(m => `
+      <div class="model-card" data-model="${m.name}">
+        <img src="${m.image}" alt="${m.name}">
+        <p>${m.name}</p>
+      </div>
+    `).join('');
+
+    // Make them clickable for filtering
+    gallery.querySelectorAll('.model-card').forEach(card => {
+      card.addEventListener('click', () => {
+        modelFilter.value = card.dataset.model;
+        renderThemes();
+      });
+    });
+  } catch (err) {
+    console.error("Failed to load models.json", err);
+  }
+}
+}
 
   modelFilter.addEventListener('change', renderThemes);
   platformFilter.addEventListener('change', renderThemes);
