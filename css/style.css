@@ -231,3 +231,55 @@ footer {
   background-color: #1e90ff; /* blue */
   color: #fff;
 }
+/* Custom model select */
+.custom-select {
+  position: relative;
+  display: inline-block;
+  width: 180px;
+}
+
+.select-btn {
+  width: 100%;
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #fff;
+  text-align: left;
+  cursor: pointer;
+}
+
+.select-options {
+  position: absolute;
+  z-index: 20;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  max-height: 240px;
+  overflow-y: auto;
+  list-style: none;
+  margin: 4px 0 0;
+  padding: 0;
+  display: none;
+}
+
+.select-options li {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 8px;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.select-options li:hover {
+  background: #f0f0f0;
+}
+
+.select-options img {
+  width: 28px;
+  height: auto;
+  flex-shrink: 0;
+}
