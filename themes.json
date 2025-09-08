@@ -463,7 +463,7 @@
   {
     "id": "clarity-db3200",
     "name": "Clarity (DB3200)",
-    "originalModel": ["Jalou (F100i)", "Naite (J105i)", "W508", "W518a"],
+    "originalModel": ["Jalou (F100i)", "Naite (J105i)", "T707", "W508", "W518a"],
     "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
     "platform": "DB3200",
     "resolution": "240x320",
@@ -619,7 +619,7 @@
     "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
     "platform": "DB3200",
     "resolution": "240x320",
-    "homeType": "Still image",
+    "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/Constellation_home.jpg",
       "themes/screenshots/Constellation_menu.jpg",
@@ -763,6 +763,22 @@
       "themes/screenshots/Cyber-shot (C905)_settings.jpg"
     ],
     "file": "themes/Cyber-shot (C905).thm"
+  },
+  {
+    "id": "dandelion",
+    "name": "Dandelion",
+    "originalModel": "T707",
+    "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
+    "platform": "DB3200",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Dandelion_home.jpg",
+      "themes/screenshots/Dandelion_menu.jpg",
+      "themes/screenshots/Dandelion_settings.jpg"
+    ],
+    "file": "themes/Dandelion.thm",
+    "swf": "themes/swf/DandelionDesktop.swf"
   },
   {
     "id": "dayleaves",
@@ -1222,6 +1238,22 @@
     "file": "themes/Focus.thm"
   },
   {
+    "id": "forest-tale",
+    "name": "Forest tale",
+    "originalModel": "T707",
+    "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
+    "platform": "DB3200",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Forest tale_home.jpg",
+      "themes/screenshots/Forest tale_menu.jpg",
+      "themes/screenshots/Forest tale_settings.jpg"
+    ],
+    "file": "themes/Forest tale.thm",
+    "swf": "themes/swf/ForesttaleDesktop.swf"
+  },
+  {
     "id": "futurism",
     "name": "Futurism",
     "originalModel": "C902",
@@ -1333,7 +1365,7 @@
     "supportedModels": ["C510", "C901", "C903", "C905", "Cedar (J108i)", "Elm (J10i2)", "G705", "Hazel (J20i)", "Jalou (F100i)", "Naite (J105i)", "T707", "TM717", "W508", "W518a", "W705", "W715", "W995", "Yari (U100i)", "Zylo (W20i)"],
     "platform": ["DB3200", "DB3210", "DB3350"],
     "resolution": "240x320",
-    "homeType": "Still image",
+    "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/GreenHeart™ 52_home.jpg",
       "themes/screenshots/GreenHeart™ 52_menu.jpg"
@@ -1348,7 +1380,7 @@
     "supportedModels": ["C510", "C901", "C903", "C905", "Cedar (J108i)", "Elm (J10i2)", "G705", "Hazel (J20i)", "Jalou (F100i)", "Naite (J105i)", "T707", "TM717", "W508", "W518a", "W705", "W715", "W995", "Yari (U100i)", "Zylo (W20i)"],
     "platform": ["DB3200", "DB3210", "DB3350"],
     "resolution": "240x320",
-    "homeType": "Still image",
+    "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/GreenHeart™ 53 v2_home.jpg",
       "themes/screenshots/GreenHeart™ 53 v2_menu.jpg"
@@ -1363,13 +1395,28 @@
     "supportedModels": ["C510", "C901", "C903", "C905", "Cedar (J108i)", "Elm (J10i2)", "G705", "Hazel (J20i)", "Jalou (F100i)", "Naite (J105i)", "T707", "TM717", "W508", "W518a", "W705", "W715", "W995", "Yari (U100i)", "Zylo (W20i)"],
     "platform": ["DB3200", "DB3210", "DB3350"],
     "resolution": "240x320",
-    "homeType": "Still image",
+    "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/GreenHeart™ 81 v2_home.jpg",
       "themes/screenshots/GreenHeart™ 81 v2_menu.jpg"
     ],
     "file": "themes/GreenHeart™ 81 v2.thm",
     "swf": "themes/swf/Greenheart81v2Desktop.swf"
+  },
+  {
+    "id": "greenheart-naite",
+    "name": "GreenHeart (Naite)",
+    "originalModel": "Naite (J105i)",
+    "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
+    "platform": "DB3200",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/GreenHeart (Naite)_home.jpg",
+      "themes/screenshots/GreenHeart (Naite)_menu.jpg",
+      "themes/screenshots/GreenHeart (Naite)_settings.jpg"
+    ],
+    "file": "themes/GreenHeart (Naite).thm"
   },
   {
     "id": "grid-line",
@@ -1867,7 +1914,7 @@
     "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
     "platform": "DB3200",
     "resolution": "240x320",
-    "homeType": "Still image",
+    "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/Nebula_home.jpg",
       "themes/screenshots/Nebula_menu.jpg",
@@ -1997,6 +2044,36 @@
     "file": "themes/Organical.thm"
   },
   {
+    "id": "origami-brown",
+    "name": "Origami brown",
+    "originalModel": "Naite (J105i)",
+    "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
+    "platform": "DB3200",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Origami brown_home.jpg",
+      "themes/screenshots/Origami brown_menu.jpg",
+      "themes/screenshots/Origami brown_settings.jpg"
+    ],
+    "file": "themes/Origami brown.thm"
+  },
+  {
+    "id": "origami-scarlet",
+    "name": "Origami scarlet",
+    "originalModel": "Naite (J105i)",
+    "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
+    "platform": "DB3200",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Origami scarlet_home.jpg",
+      "themes/screenshots/Origami scarlet_menu.jpg",
+      "themes/screenshots/Origami scarlet_settings.jpg"
+    ],
+    "file": "themes/Origami scarlet.thm"
+  },
+  {
     "id": "peach",
     "name": "Peach",
     "originalModel": "C901",
@@ -2073,6 +2150,22 @@
       "themes/screenshots/Phenomenon_settings.jpg"
     ],
     "file": "themes/Phenomenon.thm"
+  },
+  {
+    "id": "pink-lilac",
+    "name": "Pink lilac",
+    "originalModel": "T707",
+    "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
+    "platform": "DB3200",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Pink lilac_home.jpg",
+      "themes/screenshots/Pink lilac_menu.jpg",
+      "themes/screenshots/Pink lilac_settings.jpg"
+    ],
+    "file": "themes/Pink lilac.thm",
+    "swf": "themes/swf/PinklilacDesktop.swf"
   },
   {
     "id": "play-db3350",
@@ -2274,6 +2367,22 @@
     "file": "themes/Shadow the Hedgehog (W205).thm"
   },
   {
+    "id": "sharapova",
+    "name": "Sharapova",
+    "originalModel": "T707",
+    "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
+    "platform": "DB3200",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Sharapova_home.jpg",
+      "themes/screenshots/Sharapova_menu.jpg",
+      "themes/screenshots/Sharapova_settings.jpg"
+    ],
+    "file": "themes/Sharapova.thm",
+    "swf": "themes/swf/SharapovaDesktop.swf"
+  },
+  {
     "id": "shimmer",
     "name": "Shimmer",
     "originalModel": "K510i",
@@ -2355,7 +2464,7 @@
     "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
     "platform": "DB3200",
     "resolution": "240x320",
-    "homeType": "Still image",
+    "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/Sonar pink_home.jpg",
       "themes/screenshots/Sonar pink_menu.jpg",
