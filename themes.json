@@ -254,7 +254,7 @@
     "screenshots": [
       "themes/screenshots/Breeze_home.jpg",
       "themes/screenshots/Breeze_menu.jpg",
-      "themes/screenshots/Breeze_settings.jpg"
+      "themes/screenshots/Breeze_charging.jpg"
     ],
     "file": "themes/Breeze.thm",
     "swf": "themes/swf/BreezeDesktop.swf"
@@ -307,19 +307,34 @@
     "file": "themes/Cheerful.thm"
   },
   {
-    "id": "cherry-stream",
-    "name": "Cherry stream",
+    "id": "cherry-stream-aino",
+    "name": "Cherry stream (Aino)",
     "originalModel": "Aino (U10i)",
     "supportedModels": ["Aino (U10i)"],
     "platform": "DB3350",
     "resolution": "240x432",
     "homeType": "Slideshow",
     "screenshots": [
-      "themes/screenshots/Cherry stream_home.jpg",
-      "themes/screenshots/Cherry stream_menu.jpg",
-      "themes/screenshots/Cherry stream_settings.jpg"
+      "themes/screenshots/Cherry stream (Aino)_home.jpg",
+      "themes/screenshots/Cherry stream (Aino)_menu.jpg",
+      "themes/screenshots/Cherry stream (Aino)_settings.jpg"
     ],
-    "file": "themes/Cherry stream.thm"
+    "file": "themes/Cherry stream (Aino).thm"
+  },
+  {
+    "id": "cherry-stream-yari",
+    "name": "Cherry stream (Yari)",
+    "originalModel": "Yari (U100i)",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Slideshow",
+    "screenshots": [
+      "themes/screenshots/Cherry stream (Yari)_home.jpg",
+      "themes/screenshots/Cherry stream (Yari)_menu.jpg",
+      "themes/screenshots/Cherry stream (Yari)_settings.jpg"
+    ],
+    "file": "themes/Cherry stream (Yari).thm"
   },
   {
     "id": "circle-shine",
@@ -448,7 +463,7 @@
   {
     "id": "clarity-db3200",
     "name": "Clarity (DB3200)",
-    "originalModel": ["Jalou (F100i)", "Naite (J105i)"],
+    "originalModel": ["Jalou (F100i)", "Naite (J105i)", "W508", "W518a"],
     "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
     "platform": "DB3200",
     "resolution": "240x320",
@@ -463,7 +478,7 @@
   {
     "id": "clarity-db3210",
     "name": "Clarity (DB3210)",
-    "originalModel": ["C510", "C901", "C903", "C905", "W995"],
+    "originalModel": ["C510", "C901", "C903", "C905", "W705", "W715", "W995"],
     "supportedModels": ["C510", "C901", "C903", "C905", "G705", "W705", "W715", "W995"],
     "platform": "DB3210",
     "resolution": "240x320",
@@ -937,6 +952,7 @@
   {
     "id": "era-theme",
     "name": "ERA Theme",
+    "originalModel": "T630",
     "carrier": "Era (Poland)",
     "supportedModels": ["T610", "T630", "Z600"],
     "platform": "DB1000",
@@ -944,8 +960,7 @@
     "homeType": "Still image",
     "screenshots": [
       "themes/screenshots/ERA Theme_home.jpg",
-      "themes/screenshots/ERA Theme_menu.jpg",
-      "themes/screenshots/ERA Theme_settings.jpg"
+      "themes/screenshots/ERA Theme_menu.jpg"
     ],
     "file": "themes/ERA Theme.thm"
   },
@@ -1465,6 +1480,38 @@
     "file": "themes/In the air.thm"
   },
   {
+    "id": "kaleidoscope-black",
+    "name": "Kaleidoscope black",
+    "originalModel": ["W508", "W518a"],
+    "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
+    "platform": "DB3200",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Kaleidoscope black_home.jpg",
+      "themes/screenshots/Kaleidoscope black_menu.jpg",
+      "themes/screenshots/Kaleidoscope black_settings.jpg"
+    ],
+    "file": "themes/Kaleidoscope black.thm",
+    "swf": "Kaleidoscope black_desktop.swf"
+  },
+  {
+    "id": "kaleidoscope-white",
+    "name": "Kaleidoscope white",
+    "originalModel": "W508",
+    "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
+    "platform": "DB3200",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Kaleidoscope white_home.jpg",
+      "themes/screenshots/Kaleidoscope white_menu.jpg",
+      "themes/screenshots/Kaleidoscope white_settings.jpg"
+    ],
+    "file": "themes/Kaleidoscope white.thm",
+    "swf": "Kaleidoscope white_desktop.swf"
+  },
+  {
     "id": "komi-shouko-aino",
     "name": "Komi Shouko (Aino)",
     "author": "Lazerdude",
@@ -1617,19 +1664,34 @@
     "swf": "themes/swf/Light trace_desktop.swf"
   },
   {
-    "id": "lime-stream",
-    "name": "Lime stream",
+    "id": "lime-stream-aino",
+    "name": "Lime stream (Aino)",
     "originalModel": "Aino (U10i)",
     "supportedModels": ["Aino (U10i)"],
     "platform": "DB3350",
     "resolution": "240x432",
     "homeType": "Slideshow",
     "screenshots": [
-      "themes/screenshots/Lime stream_home.jpg",
-      "themes/screenshots/Lime stream_menu.jpg",
-      "themes/screenshots/Lime stream_settings.jpg"
+      "themes/screenshots/Lime stream (Aino)_home.jpg",
+      "themes/screenshots/Lime stream (Aino)_menu.jpg",
+      "themes/screenshots/Lime stream (Aino)_settings.jpg"
     ],
-    "file": "themes/Lime stream.thm"
+    "file": "themes/Lime stream (Aino).thm"
+  },
+  {
+    "id": "lime-stream-yari",
+    "name": "Lime stream (Yari)",
+    "originalModel": "Yari (U100i)",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Slideshow",
+    "screenshots": [
+      "themes/screenshots/Lime stream (Yari)_home.jpg",
+      "themes/screenshots/Lime stream (Yari)_menu.jpg",
+      "themes/screenshots/Lime stream (Yari)_settings.jpg"
+    ],
+    "file": "themes/Lime stream (Yari).thm"
   },
   {
     "id": "lines",
@@ -2013,6 +2075,22 @@
     "file": "themes/Phenomenon.thm"
   },
   {
+    "id": "play-db3350",
+    "name": "PLAY (DB3350)",
+    "originalModel": "Yari (U100i)",
+    "carrier": "PLAY (Poland)",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/PLAY (DB3350)_home.jpg",
+      "themes/screenshots/PLAY (DB3350)_menu.jpg",
+      "themes/screenshots/PLAY (DB3350)_tab.jpg"
+    ],
+    "file": "themes/PLAY (DB3350).thm"
+  },
+  {
     "id": "pop-art",
     "name": "Pop art",
     "originalModel": "Aino (U10i)",
@@ -2099,7 +2177,7 @@
     "screenshots": [
       "themes/screenshots/Ripples_home.jpg",
       "themes/screenshots/Ripples_menu.jpg",
-      "themes/screenshots/Ripples_settings.jpg"
+      "themes/screenshots/Ripples_charging.jpg"
     ],
     "file": "themes/Ripples.thm",
     "swf": "themes/swf/RipplesDesktop.swf"
@@ -2561,19 +2639,34 @@
     "file": "themes/Tunnel vision.thm"
   },
   {
-    "id": "turquoise-stream",
-    "name": "Turquoise stream",
+    "id": "turquoise-stream-aino",
+    "name": "Turquoise stream (Aino)",
     "originalModel": "Aino (U10i)",
     "supportedModels": ["Aino (U10i)"],
     "platform": "DB3350",
     "resolution": "240x432",
     "homeType": "Slideshow",
     "screenshots": [
-      "themes/screenshots/Turquoise stream_home.jpg",
-      "themes/screenshots/Turquoise stream_menu.jpg",
-      "themes/screenshots/Turquoise stream_settings.jpg"
+      "themes/screenshots/Turquoise stream (Aino)_home.jpg",
+      "themes/screenshots/Turquoise stream (Aino)_menu.jpg",
+      "themes/screenshots/Turquoise stream (Aino)_settings.jpg"
     ],
-    "file": "themes/Turquoise stream.thm"
+    "file": "themes/Turquoise stream (Aino).thm"
+  },
+  {
+    "id": "turquoise-stream-yari",
+    "name": "Turquoise stream (Yari)",
+    "originalModel": "Yari (U100i)",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Slideshow",
+    "screenshots": [
+      "themes/screenshots/Turquoise stream (Yari)_home.jpg",
+      "themes/screenshots/Turquoise stream (Yari)_menu.jpg",
+      "themes/screenshots/Turquoise stream (Yari)_settings.jpg"
+    ],
+    "file": "themes/Turquoise stream (Yari).thm"
   },
   {
     "id": "tv2",
@@ -2696,6 +2789,22 @@
       "themes/screenshots/Walkman (W300i)_settings.jpg"
     ],
     "file": "themes/Walkman (W300i).thm"
+  },
+  {
+    "id": "walkman-w508",
+    "name": "Walkman (W508)",
+    "originalModel": ["W508", "W518a"],
+    "supportedModels": ["Jalou (F100i)", "Naite (J105i)", "T700", "TM717", "W508", "W518a"],
+    "platform": "DB3200",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Walkman (W508)_home.jpg",
+      "themes/screenshots/Walkman (W508)_menu.jpg",
+      "themes/screenshots/Walkman (W508)_settings.jpg"
+    ],
+    "file": "themes/Walkman (W508).thm",
+    "swf": "Walkman_desktop.swf"
   },
   {
     "id": "walkman-w610i",
