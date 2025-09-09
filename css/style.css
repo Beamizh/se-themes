@@ -14,7 +14,7 @@ body {
 
 /* HEADER + FOOTER */
 header {
-  background: #003366;
+  background: #3f3f3f;
   color: #fff;
   padding: 1rem;
   text-align: center;
@@ -257,7 +257,7 @@ footer {
   background: #fff;
   border: 1px solid #ccc;
   border-radius: 6px;
-  max-height: 240px;
+  max-height: 480px;
   overflow-y: auto;
   list-style: none;
   margin: 4px 0 0;
@@ -280,6 +280,21 @@ footer {
 
 .select-options img {
   width: 28px;
+  height: auto;
+  flex-shrink: 0;
+}
+
+/* Model dropdown images */
+.custom-select .select-options li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.custom-select .select-options li img {
+  width: 80px;   /* bigger phones */
   height: auto;
   flex-shrink: 0;
 }

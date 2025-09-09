@@ -1,6 +1,6 @@
 // js/main.js
 document.addEventListener('DOMContentLoaded', () => {
-  const modelFilter = document.getElementById('modelFilter');
+  const modelFilter = document.getElementById('modelFilter'); // hidden input
   const platformFilter = document.getElementById('platformFilter');
   const resolutionFilter = document.getElementById('resolutionFilter');
   const typeFilter = document.getElementById('typeFilter');
@@ -18,7 +18,11 @@ document.addEventListener('DOMContentLoaded', () => {
   function escapeHtml(str) {
     if (!str) return '';
     return String(str).replace(/[&<>"']/g, c => ({
-      '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+      '&': '&amp;',
+      '<': '&lt;',
+      '>': '&gt;',
+      '"': '&quot;',
+      "'": '&#39;'
     }[c]));
   }
 
@@ -30,6 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (!Array.isArray(themes)) throw new Error('themes.json does not contain an array');
 
       populateFilters();
+      await loadModelSelect(); // load custom dropdown with images
       renderThemes();
     } catch (err) {
       console.error(err);
@@ -39,13 +44,17 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function populateFilters() {
-    const models = new Set();
     const platforms = new Set();
     const resolutions = new Set();
 
     themes.forEach(theme => {
-      (theme.supportedModels || []).forEach(m => models.add(m));
-      if (theme.platform) platforms.add(theme.platform);
+      if (theme.platform) {
+        if (Array.isArray(theme.platform)) {
+          theme.platform.forEach(p => platforms.add(p));
+        } else {
+          platforms.add(theme.platform);
+        }
+      }
       if (theme.resolution) resolutions.add(theme.resolution);
     });
 
@@ -59,9 +68,60 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     }
 
-    fill(modelFilter, models);
     fill(platformFilter, platforms);
     fill(resolutionFilter, resolutions);
+  }
+
+  async function loadModelSelect() {
+    try {
+      const res = await fetch('models.json');
+      if (!res.ok) return;
+      const models = await res.json();
+
+      const selectBtn = document.querySelector('#modelSelect .select-btn');
+      const optionsList = document.querySelector('#modelSelect .select-options');
+      const hiddenInput = document.getElementById('modelFilter');
+
+      // "All" option without image
+      optionsList.innerHTML = `<li data-value="all"><span>All</span></li>`;
+
+      models.forEach(m => {
+        optionsList.innerHTML += `
+          <li data-value="${m.name}">
+            <img src="${m.image}" alt="${m.name}">
+            <span>${m.name}</span>
+          </li>
+        `;
+      });
+
+      // Toggle dropdown
+      selectBtn.addEventListener('click', () => {
+        optionsList.style.display = optionsList.style.display === 'block' ? 'none' : 'block';
+      });
+
+      // Select option
+      optionsList.addEventListener('click', e => {
+        const li = e.target.closest('li');
+        if (!li) return;
+        const value = li.dataset.value;
+        const text = li.querySelector('span').textContent;
+
+        selectBtn.textContent = text; // only show text
+        hiddenInput.value = value;
+        optionsList.style.display = 'none';
+
+        renderThemes();
+      });
+
+      // Close if clicking outside
+      document.addEventListener('click', e => {
+        if (!e.target.closest('.custom-select')) {
+          optionsList.style.display = 'none';
+        }
+      });
+    } catch (err) {
+      console.error("Failed to load models.json", err);
+    }
   }
 
   function renderThemes() {
@@ -76,7 +136,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     themes.forEach(theme => {
       const supportedModels = Array.isArray(theme.supportedModels) ? theme.supportedModels : [];
-      const platform = theme.platform || '';
+      const platforms = Array.isArray(theme.platform) ? theme.platform : [theme.platform || ""];
       const resolution = theme.resolution || '';
       const author = theme.author || null;
       const originalModel = theme.originalModel;
@@ -95,13 +155,13 @@ document.addEventListener('DOMContentLoaded', () => {
         author || '',
         carrier || '',
         Array.isArray(originalModel) ? originalModel.join(' ') : (originalModel || ''),
-        platform,
+        platforms.join(' '),
         resolution
       ].join(' ').toLowerCase();
 
       const matchesSearch = searchTerm === '' || haystack.includes(searchTerm);
       const matchesModel = selectedModel === 'all' || supportedModels.includes(selectedModel);
-      const matchesPlatform = selectedPlatform === 'all' || platform === selectedPlatform;
+      const matchesPlatform = selectedPlatform === 'all' || platforms.includes(selectedPlatform);
       const matchesResolution = selectedResolution === 'all' || resolution === selectedResolution;
       const matchesType = selectedType === 'all' || selectedType === themeType;
 
@@ -114,24 +174,21 @@ document.addEventListener('DOMContentLoaded', () => {
         const link = 'themes-pages/' + encodeURIComponent(theme.id) + '.html';
 
         const nameSafe = escapeHtml(theme.name);
-        const platformSafe = escapeHtml(platform);
         const resolutionSafe = escapeHtml(resolution);
 
         // Meta line
-let metaLine = '';
-if (themeType === "user") {
-  metaLine = `<p class="meta"><strong>Author:</strong> ${escapeHtml(author)}</p>`;
-} else {
-  const originalSafe = Array.isArray(originalModel)
-    ? escapeHtml(originalModel.join(', '))
-    : escapeHtml(originalModel || '');
-  metaLine = `<p class="meta"><strong>Preloaded on:</strong> ${originalSafe}</p>`;
-  if (carrier) {
-    metaLine += `<p class="meta"><strong>Carrier:</strong> ${escapeHtml(carrier)}</p>`;
-  }
-}
-
-
+        let metaLine = '';
+        if (themeType === "user") {
+          metaLine = `<p class="meta"><strong>Author:</strong> ${escapeHtml(author)}</p>`;
+        } else {
+          const originalSafe = Array.isArray(originalModel)
+            ? escapeHtml(originalModel.join(', '))
+            : escapeHtml(originalModel || '');
+          metaLine = `<p class="meta"><strong>Preloaded on:</strong> ${originalSafe}</p>`;
+          if (carrier) {
+            metaLine += `<p class="meta"><strong>Carrier:</strong> ${escapeHtml(carrier)}</p>`;
+          }
+        }
 
         // Type badge
         let typeBadge = '';
@@ -145,10 +202,10 @@ if (themeType === "user") {
 
         // Platform badge
         let platformBadge = '';
-        if (Array.isArray(theme.platform) && theme.platform.length > 1) {
+        if (platforms.length > 1) {
           platformBadge = `<span class="badge platform">Multi-platform</span>`;
         } else {
-          platformBadge = `<span class="badge platform">${platformSafe}</span>`;
+          platformBadge = `<span class="badge platform">${escapeHtml(platforms[0] || '')}</span>`;
         }
 
         card.innerHTML = `
@@ -181,33 +238,6 @@ if (themeType === "user") {
     }
   }
 
-  {async function loadModels() {
-  try {
-    const res = await fetch('models.json');
-    const models = await res.json();
-    const gallery = document.getElementById('modelGallery');
-    
-    gallery.innerHTML = models.map(m => `
-      <div class="model-card" data-model="${m.name}">
-        <img src="${m.image}" alt="${m.name}">
-        <p>${m.name}</p>
-      </div>
-    `).join('');
-
-    // Make them clickable for filtering
-    gallery.querySelectorAll('.model-card').forEach(card => {
-      card.addEventListener('click', () => {
-        modelFilter.value = card.dataset.model;
-        renderThemes();
-      });
-    });
-  } catch (err) {
-    console.error("Failed to load models.json", err);
-  }
-}
-}
-
-  modelFilter.addEventListener('change', renderThemes);
   platformFilter.addEventListener('change', renderThemes);
   resolutionFilter.addEventListener('change', renderThemes);
   typeFilter.addEventListener('change', renderThemes);

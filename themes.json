@@ -448,7 +448,7 @@
   {
     "id": "clarity-db3150",
     "name": "Clarity (DB3150)",
-    "originalModel": ["C702", "C902"],
+    "originalModel": ["C702", "C902", "T700"],
     "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
     "platform": "DB3150",
     "resolution": "240x320",
@@ -607,7 +607,7 @@
     "screenshots": [
       "themes/screenshots/Connectoid_home.jpg",
       "themes/screenshots/Connectoid_menu.jpg",
-      "themes/screenshots/Connectoid_tab.jpg"
+      "themes/screenshots/Connectoid_settings.jpg"
     ],
     "file": "themes/Connectoid.thm",
     "swf": "themes/swf/Connectoid_desktop.swf"
@@ -638,6 +638,7 @@
     "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/Cranberry white_home.jpg",
+      "themes/screenshots/Cranberry white_menu.jpg",
       "themes/screenshots/Cranberry white_settings.jpg"
     ],
     "file": "themes/Cranberry white.thm",
@@ -687,6 +688,22 @@
       "themes/screenshots/Crystal line_settings.jpg"
     ],
     "file": "themes/Crystal line.thm"
+  },
+  {
+    "id": "crystal-spark",
+    "name": "Crystal spark",
+    "originalModel": "T700",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Crystal spark_home.jpg",
+      "themes/screenshots/Crystal spark_menu.jpg",
+      "themes/screenshots/Crystal spark_settings.jpg"
+    ],
+    "file": "themes/Crystal spark.thm",
+    "swf": "themes/swf/Crystal spark_desktop.swf"
   },
   {
     "id": "cubey",
@@ -896,7 +913,7 @@
     "screenshots": [
       "themes/screenshots/Digitize_home.jpg",
       "themes/screenshots/Digitize_menu.jpg",
-      "themes/screenshots/Digitize_tab.jpg"
+      "themes/screenshots/Digitize_settings.jpg"
     ],
     "file": "themes/Digitize.thm",
     "swf": "themes/swf/Digitize_desktop.swf"
@@ -2292,6 +2309,22 @@
     "swf": "themes/swf/Na_dt_ScribbleBeat.swf"
   },
   {
+    "id": "sequinity",
+    "name": "Sequinity",
+    "originalModel": "T700",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Sequinity_home.jpg",
+      "themes/screenshots/Sequinity_menu.jpg",
+      "themes/screenshots/Sequinity_settings.jpg"
+    ],
+    "file": "themes/Sequinity.thm",
+    "swf": "themes/swf/Sequinity_desktop.swf"
+  },
+  {
     "id": "shadow-the-hedgehog-k700i",
     "name": "Shadow the Hedgehog (K700i)",
     "author": "Meganium412",
@@ -2355,8 +2388,8 @@
     "id": "shadow-the-hedgehog-w205",
     "name": "Shadow the Hedgehog (W205)",
     "author": "Meganium412",
-    "supportedModels": ["K330", "R300", "R306", "T303", "W205", "Z250i", "Z320i"],
-    "platform": "D6553BQ",
+    "supportedModels": ["K330", "R300", "R306", "T250i", "T270i", "T280i", "T303", "W205", "Z250i", "Z320i"],
+    "platform": "S1 Locosto",
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
@@ -2422,6 +2455,7 @@
     "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/Silver grey_home.jpg",
+      "themes/screenshots/Silver grey_menu.jpg",
       "themes/screenshots/Silver grey_settings.jpg"
     ],
     "file": "themes/Silver grey.thm",
@@ -2990,6 +3024,22 @@
     ],
     "file": "themes/Waves.thm",
     "swf": "themes/swf/WavesDesktop.swf"
+  },
+  {
+    "id": "whisper",
+    "name": "Whisper",
+    "originalModel": "T700",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Whisper_home.jpg",
+      "themes/screenshots/Whisper_menu.jpg",
+      "themes/screenshots/Whisper_settings.jpg"
+    ],
+    "file": "themes/Whisper.thm",
+    "swf": "themes/swf/Whisper_desktop.swf"
   },
   {
     "id": "wink",

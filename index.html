@@ -23,9 +23,14 @@
       </label>
 
       <label>
-        Model:
-        <select id="modelFilter"><option value="all">All</option></select>
-      </label>
+  Model:
+  <div class="custom-select" id="modelSelect">
+    <button type="button" class="select-btn">All</button>
+    <ul class="select-options"></ul>
+  </div>
+</label>
+<input type="hidden" id="modelFilter" value="all">
+
 
       <label>
         Platform:
