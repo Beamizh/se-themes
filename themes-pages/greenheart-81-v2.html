@@ -5,6 +5,56 @@
   <title>GreenHeart™ 81 v2</title>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <link rel="stylesheet" href="../css/style.css">
+  <style>
+    /* Fix stretched screenshots */
+    .screenshots {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .screenshots img {
+      max-width: 300px;
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+      cursor: pointer;
+      object-fit: contain;
+      background: #111;
+    }
+
+    /* Lightbox */
+    #lightbox {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.4);
+      backdrop-filter: blur(10px);
+      display: none;
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+    }
+    #lightbox .content {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    #lightbox img {
+      max-width: 90vw;
+      max-height: 90vh;
+      border-radius: 8px;
+    }
+    #lightbox .arrow {
+      font-size: 3rem;
+      color: white;
+      cursor: pointer;
+      user-select: none;
+      padding: 0 10px;
+      transition: color 0.2s;
+    }
+    #lightbox .arrow:hover {
+      color: #ccc;
+    }
+  </style>
 </head>
 <body>
 
@@ -30,8 +80,8 @@
 
       <h2>Screenshots</h2>
       <div class="screenshots">
-        <img src="../themes/screenshots/GreenHeart™ 81 v2_home.jpg" alt="GreenHeart™ 81 v2 screenshot">
-<img src="../themes/screenshots/GreenHeart™ 81 v2_menu.jpg" alt="GreenHeart™ 81 v2 screenshot">
+        <img src="../themes/screenshots/GreenHeart™ 81 v2_home.jpg" alt="GreenHeart™ 81 v2 screenshot" data-index="0">
+<img src="../themes/screenshots/GreenHeart™ 81 v2_menu.jpg" alt="GreenHeart™ 81 v2 screenshot" data-index="1">
       </div>
 
       <a class="download-btn" href="../themes/GreenHeart™ 81 v2.thm" download>⬇️ Download this Theme</a>
@@ -39,9 +89,79 @@
     </section>
   </main>
 
+  <!-- Lightbox -->
+  <div id="lightbox">
+    <div class="content">
+      <span class="arrow left">❮</span>
+      <img src="" alt="Expanded screenshot">
+      <span class="arrow right">❯</span>
+    </div>
+  </div>
+
   <footer>
     <p>made by Beamish 🦆</p>
   </footer>
+
+  <!-- Screenshot click handling -->
+  <script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const lightbox = document.getElementById("lightbox");
+    const lightboxImg = lightbox.querySelector("img");
+    const leftArrow = lightbox.querySelector(".arrow.left");
+    const rightArrow = lightbox.querySelector(".arrow.right");
+    const screenshots = Array.from(document.querySelectorAll(".screenshots img"));
+    let currentIndex = 0;
+
+    function openLightbox(index) {
+      currentIndex = index;
+      lightboxImg.src = screenshots[currentIndex].src;
+      lightbox.style.display = "flex";
+    }
+
+    function closeLightbox() {
+      lightbox.style.display = "none";
+      lightboxImg.src = "";
+    }
+
+    function showPrev() {
+      currentIndex = (currentIndex - 1 + screenshots.length) % screenshots.length;
+      lightboxImg.src = screenshots[currentIndex].src;
+    }
+
+    function showNext() {
+      currentIndex = (currentIndex + 1) % screenshots.length;
+      lightboxImg.src = screenshots[currentIndex].src;
+    }
+
+    screenshots.forEach((img, i) => {
+      img.addEventListener("click", () => openLightbox(i));
+    });
+
+    leftArrow.addEventListener("click", e => {
+      e.stopPropagation();
+      showPrev();
+    });
+
+    rightArrow.addEventListener("click", e => {
+      e.stopPropagation();
+      showNext();
+    });
+
+    // Close on click outside the image
+    lightbox.addEventListener("click", (e) => {
+      if (e.target === lightbox) closeLightbox();
+    });
+
+    // Keyboard navigation
+    document.addEventListener("keydown", (e) => {
+      if (lightbox.style.display === "flex") {
+        if (e.key === "Escape") closeLightbox();
+        if (e.key === "ArrowLeft") showPrev();
+        if (e.key === "ArrowRight") showNext();
+      }
+    });
+  });
+  </script>
 
 </body>
 </html>
