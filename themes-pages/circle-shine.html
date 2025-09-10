@@ -5,6 +5,56 @@
   <title>Circle Shine</title>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <link rel="stylesheet" href="../css/style.css">
+  <style>
+    /* Fix stretched screenshots */
+    .screenshots {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .screenshots img {
+      max-width: 300px;
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+      cursor: pointer;
+      object-fit: contain;
+      background: #111;
+    }
+
+    /* Lightbox */
+    #lightbox {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.4);
+      backdrop-filter: blur(10px);
+      display: none;
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+    }
+    #lightbox .content {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    #lightbox img {
+      max-width: 90vw;
+      max-height: 90vh;
+      border-radius: 8px;
+    }
+    #lightbox .arrow {
+      font-size: 3rem;
+      color: white;
+      cursor: pointer;
+      user-select: none;
+      padding: 0 10px;
+      transition: color 0.2s;
+    }
+    #lightbox .arrow:hover {
+      color: #ccc;
+    }
+  </style>
 </head>
 <body>
 
@@ -25,14 +75,14 @@
       </div>
 
       <p><strong>Preloaded on:</strong> W300i</p>
-      <p><strong>Supported models:</strong> K310i, K320i, K510i, W200i, W300i, Z520i, Z530i</p>
-      <p><strong>Supported platforms:</strong> DB2010</p>
+      <p><strong>Supported models:</strong> K310i, K320i, K330, K510i, R300, R306, T303, W200i, W205, W300i, Z250i, Z310i, Z320i, Z520i, Z530i</p>
+      <p><strong>Supported platforms:</strong> DB2010, PNX5230, S1 Locosto</p>
 
       <h2>Screenshots</h2>
       <div class="screenshots">
-        <img src="../themes/screenshots/Circle Shine_home.jpg" alt="Circle Shine screenshot">
-<img src="../themes/screenshots/Circle Shine_menu.jpg" alt="Circle Shine screenshot">
-<img src="../themes/screenshots/Circle Shine_settings.jpg" alt="Circle Shine screenshot">
+        <img src="../themes/screenshots/Circle Shine_home.jpg" alt="Circle Shine screenshot" data-index="0">
+<img src="../themes/screenshots/Circle Shine_menu.jpg" alt="Circle Shine screenshot" data-index="1">
+<img src="../themes/screenshots/Circle Shine_settings.jpg" alt="Circle Shine screenshot" data-index="2">
       </div>
 
       <a class="download-btn" href="../themes/Circle Shine.thm" download>⬇️ Download this Theme</a>
@@ -40,9 +90,79 @@
     </section>
   </main>
 
+  <!-- Lightbox -->
+  <div id="lightbox">
+    <div class="content">
+      <span class="arrow left">❮</span>
+      <img src="" alt="Expanded screenshot">
+      <span class="arrow right">❯</span>
+    </div>
+  </div>
+
   <footer>
     <p>made by Beamish 🦆</p>
   </footer>
+
+  <!-- Screenshot click handling -->
+  <script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const lightbox = document.getElementById("lightbox");
+    const lightboxImg = lightbox.querySelector("img");
+    const leftArrow = lightbox.querySelector(".arrow.left");
+    const rightArrow = lightbox.querySelector(".arrow.right");
+    const screenshots = Array.from(document.querySelectorAll(".screenshots img"));
+    let currentIndex = 0;
+
+    function openLightbox(index) {
+      currentIndex = index;
+      lightboxImg.src = screenshots[currentIndex].src;
+      lightbox.style.display = "flex";
+    }
+
+    function closeLightbox() {
+      lightbox.style.display = "none";
+      lightboxImg.src = "";
+    }
+
+    function showPrev() {
+      currentIndex = (currentIndex - 1 + screenshots.length) % screenshots.length;
+      lightboxImg.src = screenshots[currentIndex].src;
+    }
+
+    function showNext() {
+      currentIndex = (currentIndex + 1) % screenshots.length;
+      lightboxImg.src = screenshots[currentIndex].src;
+    }
+
+    screenshots.forEach((img, i) => {
+      img.addEventListener("click", () => openLightbox(i));
+    });
+
+    leftArrow.addEventListener("click", e => {
+      e.stopPropagation();
+      showPrev();
+    });
+
+    rightArrow.addEventListener("click", e => {
+      e.stopPropagation();
+      showNext();
+    });
+
+    // Close on click outside the image
+    lightbox.addEventListener("click", (e) => {
+      if (e.target === lightbox) closeLightbox();
+    });
+
+    // Keyboard navigation
+    document.addEventListener("keydown", (e) => {
+      if (lightbox.style.display === "flex") {
+        if (e.key === "Escape") closeLightbox();
+        if (e.key === "ArrowLeft") showPrev();
+        if (e.key === "ArrowRight") showNext();
+      }
+    });
+  });
+  </script>
 
 </body>
 </html>
