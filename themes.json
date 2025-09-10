@@ -1760,19 +1760,19 @@
     "swf": "themes/swf/Hypnotic_desktop.swf"
   },
   {
-    "id": "hypnotic-pink",
-    "name": "Hypnotic pink",
+    "id": "hyponotic-pink",
+    "name": "Hyponotic pink",
     "originalModel": "W205",
     "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Hypnotic pink_home.jpg",
-      "themes/screenshots/Hypnotic pink_menu.jpg",
-      "themes/screenshots/Hypnotic pink_activity.jpg"
+      "themes/screenshots/Hyponotic pink_home.jpg",
+      "themes/screenshots/Hyponotic pink_menu.jpg",
+      "themes/screenshots/Hyponotic pink_activity.jpg"
     ],
-    "file": "themes/Hypnotic pink.thm"
+    "file": "themes/Hyponotic pink.thm"
   },
   {
     "id": "in-the-air",
