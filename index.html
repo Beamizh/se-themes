@@ -23,14 +23,13 @@
       </label>
 
       <label>
-  Model:
-  <div class="custom-select" id="modelSelect">
-    <button type="button" class="select-btn">All</button>
-    <ul class="select-options"></ul>
-  </div>
-</label>
-<input type="hidden" id="modelFilter" value="all">
-
+        Model:
+        <div class="custom-select" id="modelSelect">
+          <button type="button" class="select-btn">All</button>
+          <ul class="select-options"></ul>
+        </div>
+      </label>
+      <input type="hidden" id="modelFilter" value="all">
 
       <label>
         Platform:
@@ -41,16 +40,36 @@
         Resolution:
         <select id="resolutionFilter"><option value="all">All</option></select>
       </label>
+    
+      <label>
+        Flash menu:
+        <select id="flashFilter">
+         <option value="all">All</option>
+         <option value="yes">Yes</option>
+        <option value="no">No</option>
+       </select>
+      </label>
+
+      <label>
+        Home screen type:
+        <select id="bgFilter">
+          <option value="all">All</option>
+          <option value="Animated">Animated</option>
+          <option value="Slideshow">Slideshow</option>
+          <option value="Still image">Still Image</option>
+        </select>
+      </label>
 
       <label>
         Theme Type:
         <select id="typeFilter">
-          <option value="all">All Types</option>
+          <option value="all">All</option>
           <option value="preloaded">Preloaded</option>
           <option value="user">User-made</option>
           <option value="carrier">Carrier branded</option>
         </select>
       </label>
+
     </section>
 
     <!-- Model gallery -->
