@@ -231,6 +231,11 @@ footer {
   background-color: #1e90ff; /* blue */
   color: #fff;
 }
+
+.badge.flash {
+  background-color: #dd7d0f; /* blue */
+  color: #fff;
+}
 /* Custom model select */
 .custom-select {
   position: relative;
