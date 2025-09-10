@@ -4,6 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const platformFilter = document.getElementById('platformFilter');
   const resolutionFilter = document.getElementById('resolutionFilter');
   const typeFilter = document.getElementById('typeFilter');
+  const flashFilter = document.getElementById('flashFilter'); // new
+  const bgFilter = document.getElementById('bgFilter'); // new
   const searchInput = document.getElementById('searchInput');
   const themeList = document.getElementById('themeList');
   const errorBox = document.getElementById('errorBox');
@@ -130,6 +132,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const selectedPlatform = platformFilter.value;
     const selectedResolution = resolutionFilter.value;
     const selectedType = typeFilter.value;
+    const selectedFlash = flashFilter.value;
+    const selectedBg = bgFilter.value;
 
     themeList.innerHTML = '';
     let visibleCount = 0;
@@ -141,6 +145,8 @@ document.addEventListener('DOMContentLoaded', () => {
       const author = theme.author || null;
       const originalModel = theme.originalModel;
       const carrier = theme.carrier || null;
+      const hasFlash = !!theme.swf;
+      const bgType = theme.homeType || '';
       let themeType = "preloaded";
 
       if (carrier) {
@@ -156,7 +162,8 @@ document.addEventListener('DOMContentLoaded', () => {
         carrier || '',
         Array.isArray(originalModel) ? originalModel.join(' ') : (originalModel || ''),
         platforms.join(' '),
-        resolution
+        resolution,
+        bgType
       ].join(' ').toLowerCase();
 
       const matchesSearch = searchTerm === '' || haystack.includes(searchTerm);
@@ -164,8 +171,12 @@ document.addEventListener('DOMContentLoaded', () => {
       const matchesPlatform = selectedPlatform === 'all' || platforms.includes(selectedPlatform);
       const matchesResolution = selectedResolution === 'all' || resolution === selectedResolution;
       const matchesType = selectedType === 'all' || selectedType === themeType;
+      const matchesFlash = selectedFlash === 'all' ||
+        (selectedFlash === 'yes' && hasFlash) ||
+        (selectedFlash === 'no' && !hasFlash);
+      const matchesBg = selectedBg === 'all' || selectedBg === bgType;
 
-      if (matchesSearch && matchesModel && matchesPlatform && matchesResolution && matchesType) {
+      if (matchesSearch && matchesModel && matchesPlatform && matchesResolution && matchesType && matchesFlash && matchesBg) {
         visibleCount++;
         const card = document.createElement('div');
         card.className = 'theme-card';
@@ -222,6 +233,7 @@ document.addEventListener('DOMContentLoaded', () => {
                   ${platformBadge}
                   <span class="badge resolution">${resolutionSafe}</span>
                   ${theme.homeType ? `<span class="badge home-type">${escapeHtml(theme.homeType)}</span>` : ''}
+                  ${hasFlash ? `<span class="badge flash">Flash Menu</span>` : ''}
                   ${typeBadge}
                 </div>
               </div>
@@ -241,6 +253,8 @@ document.addEventListener('DOMContentLoaded', () => {
   platformFilter.addEventListener('change', renderThemes);
   resolutionFilter.addEventListener('change', renderThemes);
   typeFilter.addEventListener('change', renderThemes);
+  flashFilter.addEventListener('change', renderThemes);
+  bgFilter.addEventListener('change', renderThemes);
   searchInput.addEventListener('input', renderThemes);
 
   init();
