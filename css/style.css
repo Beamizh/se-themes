@@ -192,15 +192,48 @@ footer {
 .screenshots {
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
-  margin-top: 1rem;
+  gap: 12px;
+  justify-content: center;
 }
 
 .screenshots img {
   max-width: 200px;
+  height: auto;
   border-radius: 8px;
-  border: 1px solid #ddd;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  object-fit: contain;
+  display: block;
 }
+
+.screenshots img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+/* Lightbox overlay */
+#lightbox {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  inset: 0;
+  background: rgba(0,0,0,0.85);
+  justify-content: center;
+  align-items: center;
+}
+
+#lightbox img {
+  max-width: 95%;
+  max-height: 90%;
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.6);
+}
+
+#lightbox:target {
+  display: flex;
+}
+
 
 .download-btn {
   display: inline-block;
