@@ -124,6 +124,21 @@
     "file": "themes/Aqua Tiles.thm"
   },
   {
+    "id": "aurora",
+    "name": "Aurora",
+    "originalModel": "G700",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Aurora_home.jpg",
+      "themes/screenshots/Aurora_menu.jpg",
+      "themes/screenshots/Aurora_list.jpg"
+    ],
+    "file": "themes/Aurora.utz"
+  },
+  {
     "id": "avenue",
     "name": "Avenue",
     "originalModel": "W900i",
@@ -133,8 +148,7 @@
     "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/Avenue_home.jpg",
-      "themes/screenshots/Avenue_menu.jpg",
-      "themes/screenshots/Avenue_settings.jpg"
+      "themes/screenshots/Avenue_menu.jpg"
     ],
     "file": "themes/Avenue.thm"
   },
@@ -148,8 +162,7 @@
     "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/Backstreet_home.jpg",
-      "themes/screenshots/Backstreet_menu.jpg",
-      "themes/screenshots/Backstreet_settings.jpg"
+      "themes/screenshots/Backstreet_menu.jpg"
     ],
     "file": "themes/Backstreet.thm"
   },
@@ -157,7 +170,7 @@
     "id": "beam",
     "name": "Beam",
     "originalModel": "K750i",
-    "supportedModels": ["D750i", "K750i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
     "platform": "DB2010",
     "resolution": "176x220",
     "homeType": "Animated",
@@ -217,7 +230,7 @@
     "id": "bling",
     "name": "Bling",
     "originalModel": "Z530i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -259,6 +272,38 @@
     "file": "themes/Blub.thm"
   },
   {
+    "id": "blue-melody",
+    "name": "Blue Melody",
+    "originalModel": "Elm (J10i2)",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Blue Melody_home.jpg",
+      "themes/screenshots/Blue Melody_menu.jpg",
+      "themes/screenshots/Blue Melody_charging.jpg"
+    ],
+    "file": "themes/Blue Melody.thm",
+    "swf": "themes/swf/BlueMelodyDesktop.swf"
+  },
+  {
+    "id": "bluelines",
+    "name": "Bluelines",
+    "originalModel": "P990i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Bluelines_home.jpg",
+      "themes/screenshots/Bluelines_menu.jpg",
+      "themes/screenshots/Bluelines_list.jpg",
+      "themes/screenshots/Bluelines_homeclosed.jpg"
+    ],
+    "file": "themes/Bluelines.utz"
+  },
+  {
     "id": "borderline",
     "name": "Borderline",
     "originalModel": "C903",
@@ -272,6 +317,22 @@
       "themes/screenshots/Borderline_settings.jpg"
     ],
     "file": "themes/Borderline.thm"
+  },
+  {
+    "id": "breakbeat",
+    "name": "Breakbeat",
+    "originalModel": ["W550i", "W600i"],
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "note": "Missing flash menu",
+    "screenshots": [
+      "themes/screenshots/Breakbeat_home.jpg",
+      "themes/screenshots/Breakbeat_menu.jpg",
+      "themes/screenshots/Breakbeat_settings.jpg"
+    ],
+    "file": "themes/Breakbeat.thm"
   },
   {
     "id": "breeze",
@@ -293,7 +354,7 @@
     "id": "bronze-flower",
     "name": "Bronze flower",
     "originalModel": "Z310i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -324,7 +385,7 @@
     "id": "c",
     "name": "C",
     "author": "maren",
-    "supportedModels": ["D750i", "K750i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
     "platform": "DB2010",
     "resolution": "176x220",
     "homeType": "Still image",
@@ -341,7 +402,7 @@
     "id": "cheerful",
     "name": "Cheerful",
     "originalModel": "W200i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -386,7 +447,7 @@
     "id": "circle-shine",
     "name": "Circle Shine",
     "originalModel": "W300i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -396,6 +457,22 @@
       "themes/screenshots/Circle Shine_settings.jpg"
     ],
     "file": "themes/Circle Shine.thm"
+  },
+  {
+    "id": "circles",
+    "name": "Circles",
+    "originalModel": "P990i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Circles_home.jpg",
+      "themes/screenshots/Circles_menu.jpg",
+      "themes/screenshots/Circles_list.jpg",
+      "themes/screenshots/Circles_homeclosed.jpg"
+    ],
+    "file": "themes/Circles.utz"
   },
   {
     "id": "city",
@@ -475,6 +552,21 @@
       "themes/screenshots/Clarity (Aino)_settings.jpg"
     ],
     "file": "themes/Clarity (Aino).thm"
+  },
+  {
+    "id": "clarity-db2001",
+    "name": "Clarity (DB2001)",
+    "originalModel": ["G700", "G900"],
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Clarity (DB2001)_home.jpg",
+      "themes/screenshots/Clarity (DB2001)_menu.jpg",
+      "themes/screenshots/Clarity (DB2001)_list.jpg"
+    ],
+    "file": "themes/Clarity.utz"
   },
   {
     "id": "clarity-db2030",
@@ -585,8 +677,8 @@
     "id": "clarity-w205",
     "name": "Clarity (W205)",
     "originalModel": "W205",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
-    "platform": ["DB2010", "PNX5230", "S1 Locosto"],
+    "supportedModels": ["W205"],
+    "platform": ["S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
@@ -631,8 +723,8 @@
     "id": "club-light",
     "name": "Club light",
     "originalModel": "W300i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
-    "platform": ["DB2010", "PNX5230", "S1 Locosto"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z520i", "Z530i"],
+    "platform": ["DB2010", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
@@ -641,6 +733,22 @@
       "themes/screenshots/Club light_settings.jpg"
     ],
     "file": "themes/Club light.thm"
+  },
+  {
+    "id": "clubpulse",
+    "name": "Clubpulse",
+    "originalModel": ["W550i", "W600i"],
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "note": "Missing flash menu",
+    "screenshots": [
+      "themes/screenshots/Clubpulse_home.jpg",
+      "themes/screenshots/Clubpulse_menu.jpg",
+      "themes/screenshots/Clubpulse_settings.jpg"
+    ],
+    "file": "themes/Clubpulse.thm"
   },
   {
     "id": "colourite-c702",
@@ -908,7 +1016,7 @@
     "id": "dayleaves",
     "name": "Dayleaves",
     "originalModel": "Z310i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Still image",
@@ -923,7 +1031,7 @@
     "id": "daylines",
     "name": "Daylines",
     "originalModel": "Z310i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -950,10 +1058,71 @@
     "file": "themes/Deepest purple.thm"
   },
   {
+    "id": "default-g700",
+    "name": "Default (G700)",
+    "originalModel": "G700",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Default (G700)_home.jpg",
+      "themes/screenshots/Default (G700)_menu.jpg",
+      "themes/screenshots/Default (G700)_list.jpg"
+    ],
+    "file": "themes/Default (G700).utz"
+  },
+  {
+    "id": "default-g900",
+    "name": "Default (G900)",
+    "originalModel": "G900",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Default (G900)_home.jpg",
+      "themes/screenshots/Default (G900)_menu.jpg",
+      "themes/screenshots/Default (G900)_list.jpg"
+    ],
+    "file": "themes/Default (G900).utz"
+  },
+  {
+    "id": "default-p1i",
+    "name": "Default (P1i)",
+    "originalModel": "P1i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Default (P1i)_home.jpg",
+      "themes/screenshots/Default (P1i)_menu.jpg",
+      "themes/screenshots/Default (P1i)_list.jpg"
+    ],
+    "file": "themes/Default (P1i).utz"
+  },
+  {
+    "id": "default-p990i",
+    "name": "Default (P990i)",
+    "originalModel": "P990i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Default (P990i)_home.jpg",
+      "themes/screenshots/Default (P990i)_menu.jpg",
+      "themes/screenshots/Default (P990i)_list.jpg",
+      "themes/screenshots/Default (P990i)_homeclosed.jpg"
+    ],
+    "file": "themes/Default (P990i).utz"
+  },
+  {
     "id": "default-w200i",
     "name": "Default (W200i)",
     "originalModel": "W200i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -965,6 +1134,21 @@
     "file": "themes/Default (W200i).thm"
   },
   {
+    "id": "default-w550i",
+    "name": "Default (W550i)",
+    "originalModel": ["W550i", "W600i"],
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Default (W550i)_home.jpg",
+      "themes/screenshots/Default (W550i)_menu.jpg",
+      "themes/screenshots/Default (W550i)_settings.jpg"
+    ],
+    "file": "themes/Default (W550i).thm"
+  },
+  {
     "id": "default-w900i",
     "name": "Default (W900i)",
     "originalModel": "W900i",
@@ -974,8 +1158,7 @@
     "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/Default (W900i)_home.jpg",
-      "themes/screenshots/Default (W900i)_menu.jpg",
-      "themes/screenshots/Default (W900i)_settings.jpg"
+      "themes/screenshots/Default (W900i)_menu.jpg"
     ],
     "file": "themes/Default (W900i).thm"
   },
@@ -983,7 +1166,7 @@
     "id": "default-z530i",
     "name": "Default (Z530i)",
     "originalModel": "Z530i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Still image",
@@ -1140,7 +1323,7 @@
     "id": "eternal",
     "name": "Eternal",
     "originalModel": "K750i",
-    "supportedModels": ["D750i", "K750i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
     "platform": "DB2010",
     "resolution": "176x220",
     "homeType": "Animated",
@@ -1291,7 +1474,7 @@
     "id": "floomasia",
     "name": "Floomasia",
     "originalModel": "Z530i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Still image",
@@ -1367,7 +1550,7 @@
     "id": "flower-k310i",
     "name": "Flower (K310i)",
     "originalModel": "K310i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -1382,7 +1565,7 @@
     "id": "flower-k320i",
     "name": "Flower (K320i)",
     "originalModel": "K320i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -1397,7 +1580,7 @@
     "id": "flower-k510i",
     "name": "Flower (K510i)",
     "originalModel": "K510i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -1518,7 +1701,7 @@
     "id": "goldfish",
     "name": "Goldfish",
     "originalModel": "Z530i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -1722,7 +1905,7 @@
     "screenshots": [
       "themes/screenshots/Harp_home.jpg",
       "themes/screenshots/Harp_menu.jpg",
-      "themes/screenshots/Harp_settings.jpg"
+      "themes/screenshots/Harp_charging.jpg"
     ],
     "file": "themes/Harp.thm",
     "swf": "themes/swf/HarpDesktop.swf"
@@ -1744,6 +1927,21 @@
     "swf": "themes/swf/HiddenPeak_desktop.swf"
   },
   {
+    "id": "horizon",
+    "name": "Horizon",
+    "originalModel": "P1i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Horizon_home.jpg",
+      "themes/screenshots/Horizon_menu.jpg",
+      "themes/screenshots/Horizon_list.jpg"
+    ],
+    "file": "themes/Horizon.utz"
+  },
+  {
     "id": "hypnotic",
     "name": "Hypnotic",
     "originalModel": "W350i",
@@ -1763,8 +1961,8 @@
     "id": "hyponotic-pink",
     "name": "Hyponotic pink",
     "originalModel": "W205",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
-    "platform": ["DB2010", "PNX5230", "S1 Locosto"],
+    "supportedModels": ["W205"],
+    "platform": ["S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
@@ -1963,7 +2161,7 @@
     "id": "leaves",
     "name": "Leaves",
     "originalModel": ["K310i", "K320i"],
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Still image",
@@ -2039,7 +2237,7 @@
     "id": "lines",
     "name": "Lines",
     "originalModel": "K510i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -2060,8 +2258,7 @@
     "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/Lounge_home.jpg",
-      "themes/screenshots/Lounge_menu.jpg",
-      "themes/screenshots/Lounge_settings.jpg"
+      "themes/screenshots/Lounge_menu.jpg"
     ],
     "file": "themes/Lounge.thm"
   },
@@ -2129,7 +2326,7 @@
     "id": "medallion-k310i",
     "name": "Medallion (K310i)",
     "originalModel": ["K310i", "K320i"],
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -2144,7 +2341,7 @@
     "id": "medallion-k510i",
     "name": "Medallion (K510i)",
     "originalModel": "K510i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -2166,7 +2363,7 @@
     "screenshots": [
       "themes/screenshots/Melody_home.jpg",
       "themes/screenshots/Melody_menu.jpg",
-      "themes/screenshots/Melody_settings.jpg"
+      "themes/screenshots/Melody_charging.jpg"
     ],
     "file": "themes/Melody.thm",
     "swf": "themes/swf/MelodyDesktop.swf"
@@ -2200,6 +2397,21 @@
       "themes/screenshots/Metalix_settings.jpg"
     ],
     "file": "themes/Metalix.thm"
+  },
+  {
+    "id": "mojo",
+    "name": "Mojo",
+    "originalModel": "G900",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Mojo_home.jpg",
+      "themes/screenshots/Mojo_menu.jpg",
+      "themes/screenshots/Mojo_list.jpg"
+    ],
+    "file": "themes/Mojo.utz"
   },
   {
     "id": "morning-glisten",
@@ -2298,7 +2510,7 @@
     "id": "nightlight",
     "name": "Nightlight",
     "originalModel": "Z310i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -2313,7 +2525,7 @@
     "id": "nightmirror",
     "name": "Nightmirror",
     "originalModel": "Z310i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -2374,7 +2586,7 @@
     "id": "orange-orbit",
     "name": "Orange orbit",
     "originalModel": "W200i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -2390,8 +2602,8 @@
     "name": "Orange Theme (W205)",
     "originalModel": "W205",
     "carrier": "Orange (Poland)",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
-    "platform": ["DB2010", "PNX5230", "S1 Locosto"],
+    "supportedModels": ["W205"],
+    "platform": ["S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
@@ -2430,6 +2642,21 @@
       "themes/screenshots/Organical_settings.jpg"
     ],
     "file": "themes/Organical.thm"
+  },
+  {
+    "id": "organza",
+    "name": "Organza",
+    "originalModel": "G700",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Organza_home.jpg",
+      "themes/screenshots/Organza_menu.jpg",
+      "themes/screenshots/Organza_list.jpg"
+    ],
+    "file": "themes/Organza.utz"
   },
   {
     "id": "origami-brown",
@@ -2602,6 +2829,22 @@
     "file": "themes/Pop art.thm"
   },
   {
+    "id": "porcelain",
+    "name": "Porcelain",
+    "originalModel": "P990i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Porcelain_home.jpg",
+      "themes/screenshots/Porcelain_menu.jpg",
+      "themes/screenshots/Porcelain_list.jpg",
+      "themes/screenshots/Porcelain_homeclosed.jpg"
+    ],
+    "file": "themes/Porcelain.utz"
+  },
+  {
     "id": "purple-dimension",
     "name": "Purple Dimension",
     "author": "RedillGMV",
@@ -2631,6 +2874,22 @@
     ],
     "file": "themes/Purple sky.thm",
     "swf": "themes/swf/PurpleSky_desktop.swf"
+  },
+  {
+    "id": "quiksilver",
+    "name": "Quiksilver",
+    "originalModel": "Hazel (J20i)",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Quiksilver_home.jpg",
+      "themes/screenshots/Quiksilver_menu.jpg",
+      "themes/screenshots/Quiksilver_charging.jpg"
+    ],
+    "file": "themes/Quiksilver.thm",
+    "swf": "themes/swf/QuicksilverDesktop.swf"
   },
   {
     "id": "ray",
@@ -2727,6 +2986,21 @@
     "swf": "themes/swf/Sequinity_desktop.swf"
   },
   {
+    "id": "sequoia",
+    "name": "Sequoia",
+    "originalModel": "G700",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Sequoia_home.jpg",
+      "themes/screenshots/Sequoia_menu.jpg",
+      "themes/screenshots/Sequoia_list.jpg"
+    ],
+    "file": "themes/Sequoia.utz"
+  },
+  {
     "id": "shadow-the-hedgehog-k700i",
     "name": "Shadow the Hedgehog (K700i)",
     "author": "Meganium412",
@@ -2745,7 +3019,7 @@
     "id": "shadow-the-hedgehog-k750i",
     "name": "Shadow the Hedgehog (K750i)",
     "author": "Meganium412",
-    "supportedModels": ["D750i", "K750i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
     "platform": "DB2010",
     "resolution": "176x220",
     "homeType": "Still image",
@@ -2790,8 +3064,8 @@
     "id": "shadow-the-hedgehog-w205",
     "name": "Shadow the Hedgehog (W205)",
     "author": "Meganium412",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
-    "platform": ["DB2010", "PNX5230", "S1 Locosto"],
+    "supportedModels": ["W205"],
+    "platform": ["S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
@@ -2818,10 +3092,25 @@
     "swf": "themes/swf/SharapovaDesktop.swf"
   },
   {
+    "id": "shards",
+    "name": "Shards",
+    "originalModel": "P1i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Shards_home.jpg",
+      "themes/screenshots/Shards_menu.jpg",
+      "themes/screenshots/Shards_list.jpg"
+    ],
+    "file": "themes/Shards.utz"
+  },
+  {
     "id": "shimmer",
     "name": "Shimmer",
     "originalModel": "K510i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -2831,6 +3120,21 @@
       "themes/screenshots/Shimmer_settings.jpg"
     ],
     "file": "themes/Shimmer.thm"
+  },
+  {
+    "id": "shineline",
+    "name": "Shineline",
+    "originalModel": ["W550i", "W600i"],
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Shineline_home.jpg",
+      "themes/screenshots/Shineline_menu.jpg",
+      "themes/screenshots/Shineline_settings.jpg"
+    ],
+    "file": "themes/Shineline.thm"
   },
   {
     "id": "shuttershine",
@@ -2846,6 +3150,21 @@
       "themes/screenshots/Shuttershine_settings.jpg"
     ],
     "file": "themes/Shuttershine.thm"
+  },
+  {
+    "id": "silk",
+    "name": "Silk",
+    "originalModel": "P1i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Silk_home.jpg",
+      "themes/screenshots/Silk_menu.jpg",
+      "themes/screenshots/Silk_list.jpg"
+    ],
+    "file": "themes/Silk.utz"
   },
   {
     "id": "silver-grey",
@@ -2877,6 +3196,21 @@
       "themes/screenshots/Sky light_settings.jpg"
     ],
     "file": "themes/Sky light.thm"
+  },
+  {
+    "id": "skyline",
+    "name": "Skyline",
+    "originalModel": "G900",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Skyline_home.jpg",
+      "themes/screenshots/Skyline_menu.jpg",
+      "themes/screenshots/Skyline_list.jpg"
+    ],
+    "file": "themes/Skyline.utz"
   },
   {
     "id": "smove",
@@ -2990,7 +3324,7 @@
     "id": "spots-k310i",
     "name": "Spots (K310i)",
     "originalModel": "K310i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -3005,7 +3339,7 @@
     "id": "spots-k320i",
     "name": "Spots (K320i)",
     "originalModel": "K320i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -3035,7 +3369,7 @@
     "id": "stencil-art",
     "name": "Stencil art",
     "originalModel": "W200i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -3080,7 +3414,7 @@
     "id": "street-style",
     "name": "Street Style",
     "originalModel": "W300i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -3095,8 +3429,8 @@
     "id": "stripe-w205",
     "name": "Stripe (W205)",
     "originalModel": "W205",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
-    "platform": ["DB2010", "PNX5230", "S1 Locosto"],
+    "supportedModels": ["W205"],
+    "platform": ["S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
@@ -3141,7 +3475,7 @@
     "id": "tiles",
     "name": "Tiles",
     "originalModel": "K750i",
-    "supportedModels": ["D750i", "K750i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
     "platform": "DB2010",
     "resolution": "176x220",
     "homeType": "Animated",
@@ -3385,8 +3719,8 @@
     "id": "walkman-w205",
     "name": "Walkman (W205)",
     "originalModel": "W205",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
-    "platform": ["DB2010", "PNX5230", "S1 Locosto"],
+    "supportedModels": ["W205"],
+    "platform": ["S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
@@ -3400,7 +3734,7 @@
     "id": "walkman-w300i",
     "name": "Walkman (W300i)",
     "originalModel": "W300i",
-    "supportedModels": ["K310i", "K320i", "K330", "K510i", "R300", "R306", "T303", "W200i", "W205", "W300i", "Z250i", "Z310i", "Z320i", "Z520i", "Z530i"],
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -3476,7 +3810,7 @@
     "id": "wave",
     "name": "Wave",
     "originalModel": "K750i",
-    "supportedModels": ["D750i", "K750i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
     "platform": "DB2010",
     "resolution": "176x220",
     "homeType": "Animated",
