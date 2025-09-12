@@ -199,7 +199,7 @@
   {
     "id": "blaqua",
     "name": "Blaqua",
-    "originalModel": "K610im",
+    "originalModel": ["K610im", "Z610i"],
     "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W610i", "W660i", "W710i", "Z610i", "Z710i"],
     "platform": "DB2020",
     "resolution": "176x220",
@@ -270,6 +270,21 @@
       "themes/screenshots/Blub_tab.jpg"
     ],
     "file": "themes/Blub.thm"
+  },
+  {
+    "id": "blue",
+    "name": "Blue",
+    "originalModel": "P900",
+    "supportedModels": ["P900", "P910i"],
+    "platform": "PNX4000",
+    "resolution": "208x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Blue_homeclosed.jpg",
+      "themes/screenshots/Blue_menu.jpg",
+      "themes/screenshots/Blue_messaging.jpg"
+    ],
+    "file": "themes/Blue.utz"
   },
   {
     "id": "blue-melody",
@@ -569,6 +584,21 @@
     "file": "themes/Clarity.utz"
   },
   {
+    "id": "clarity-db2020",
+    "name": "Clarity (DB2020)",
+    "originalModel": ["S500i", "W580i"],
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Clarity (DB2020)_home.jpg",
+      "themes/screenshots/Clarity (DB2020)_menu.jpg",
+      "themes/screenshots/Clarity (DB2020)_settings.jpg"
+    ],
+    "file": "themes/Clarity (DB2020).thm"
+  },
+  {
     "id": "clarity-db2030",
     "name": "Clarity (DB2030)",
     "originalModel": "K770i",
@@ -689,17 +719,47 @@
     "file": "themes/Clarity (W205).thm"
   },
   {
-    "id": "classical",
-    "name": "Classical",
+    "id": "classical-p900",
+    "name": "Classical (P900)",
+    "originalModel": "P900",
+    "supportedModels": ["P900", "P910i"],
+    "platform": "PNX4000",
+    "resolution": "208x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Classical (P900)_homeclosed.jpg",
+      "themes/screenshots/Classical (P900)_menu.jpg",
+      "themes/screenshots/Classical (P900)_messaging.jpg"
+    ],
+    "file": "themes/Classical (P900).utz"
+  },
+  {
+    "id": "classical-p910i",
+    "name": "Classical (P910i)",
+    "originalModel": "P910i",
+    "supportedModels": ["P900", "P910i"],
+    "platform": "PNX4000",
+    "resolution": "208x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Classical (P910i)_homeclosed.jpg",
+      "themes/screenshots/Classical (P910i)_menu.jpg",
+      "themes/screenshots/Classical (P910i)_messaging.jpg"
+    ],
+    "file": "themes/Classical (P910i).utz"
+  },
+  {
+    "id": "classical-t610",
+    "name": "Classical (T610)",
     "originalModel": "T610",
     "supportedModels": ["T610", "T630", "Z600"],
     "platform": "DB1000",
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Classical_home.jpg",
-      "themes/screenshots/Classical_menu.jpg",
-      "themes/screenshots/Classical_settings.jpg"
+      "themes/screenshots/Classical (T610)_home.jpg",
+      "themes/screenshots/Classical (T610)_menu.jpg",
+      "themes/screenshots/Classical (T610)_settings.jpg"
     ],
     "file": "themes/Classical.thm"
   },
@@ -1350,19 +1410,52 @@
     "file": "themes/Equalizer.thm"
   },
   {
-    "id": "female-line",
-    "name": "Female Line",
+    "id": "female-line-w710i",
+    "name": "Female Line (W710i)",
     "originalModel": "W710i",
     "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W610i", "W660i", "W710i", "Z610i", "Z710i"],
     "platform": "DB2020",
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Female Line_home.jpg",
-      "themes/screenshots/Female Line_menu.jpg",
-      "themes/screenshots/Female Line_settings.jpg"
+      "themes/screenshots/Female Line (W710i)_home.jpg",
+      "themes/screenshots/Female Line (W710i)_menu.jpg",
+      "themes/screenshots/Female Line (W710i)_settings.jpg"
     ],
-    "file": "themes/Female Line.thm"
+    "file": "themes/Female Line (W710i).thm",
+    "swf": "themes/swf/FemaleLine_desktop.swf"
+  },
+  {
+    "id": "female-line-w850i",
+    "name": "Female Line (W850i)",
+    "originalModel": ["W830i", "W850i"],
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W610i", "W660i", "W710i", "Z610i", "Z710i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Female Line (W850i)_home.jpg",
+      "themes/screenshots/Female Line (W850i)_menu.jpg",
+      "themes/screenshots/Female Line (W850i)_settings.jpg"
+    ],
+    "file": "themes/Female Line (W850i).thm",
+    "swf": "themes/swf/femaleLine_desktop.swf"
+  },
+  {
+    "id": "female-lines",
+    "name": "Female lines",
+    "originalModel": "W660i",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W610i", "W660i", "W710i", "Z610i", "Z710i"],
+    "platform": "DB2020",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Female lines_home.jpg",
+      "themes/screenshots/Female lines_menu.jpg",
+      "themes/screenshots/Female lines_settings.jpg"
+    ],
+    "file": "themes/Female lines.thm",
+    "swf": "themes/swf/faye_patternline_desktop.swf"
   },
   {
     "id": "fero",
@@ -1698,6 +1791,22 @@
     "file": "themes/Glimmer.thm"
   },
   {
+    "id": "gold-record",
+    "name": "Gold record",
+    "originalModel": "W660i",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W610i", "W660i", "W710i", "Z610i", "Z710i"],
+    "platform": "DB2020",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Gold record_home.jpg",
+      "themes/screenshots/Gold record_menu.jpg",
+      "themes/screenshots/Gold record_settings.jpg"
+    ],
+    "file": "themes/Gold record.thm",
+    "swf": "themes/swf/faye_glamgold_desktop.swf"
+  },
+  {
     "id": "goldfish",
     "name": "Goldfish",
     "originalModel": "Z530i",
@@ -1849,6 +1958,22 @@
     "file": "themes/Grid line.thm"
   },
   {
+    "id": "grouped",
+    "name": "Grouped",
+    "originalModel": ["W830i", "W850i"],
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Grouped_home.jpg",
+      "themes/screenshots/Grouped_menu.jpg",
+      "themes/screenshots/Grouped_settings.jpg"
+    ],
+    "file": "themes/Grouped.thm",
+    "swf": "themes/swf/grouped_desktop.swf"
+  },
+  {
     "id": "gsharp",
     "name": "gSharp",
     "originalModel": "W610i",
@@ -1986,6 +2111,21 @@
       "themes/screenshots/In the air_settings.jpg"
     ],
     "file": "themes/In the air.thm"
+  },
+  {
+    "id": "into-the-blue",
+    "name": "Into The Blue",
+    "originalModel": "P910i",
+    "supportedModels": ["P900", "P910i"],
+    "platform": "PNX4000",
+    "resolution": "208x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Into The Blue_homeclosed.jpg",
+      "themes/screenshots/Into The Blue_menu.jpg",
+      "themes/screenshots/Into The Blue_messaging.jpg"
+    ],
+    "file": "themes/Into The Blue.utz"
   },
   {
     "id": "jet",
@@ -2583,6 +2723,37 @@
     "swf": "themes/swf/Onto_desktop.swf"
   },
   {
+    "id": "orange-bubbles",
+    "name": "Orange Bubbles",
+    "originalModel": ["W830i", "W850i"],
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Orange Bubbles_home.jpg",
+      "themes/screenshots/Orange Bubbles_menu.jpg",
+      "themes/screenshots/Orange Bubbles_settings.jpg"
+    ],
+    "file": "themes/Orange Bubbles.thm",
+    "swf": "themes/swf/orangeBubbles_desktop.swf"
+  },
+  {
+    "id": "orange-cloud",
+    "name": "Orange Cloud",
+    "originalModel": "P910i",
+    "supportedModels": ["P900", "P910i"],
+    "platform": "PNX4000",
+    "resolution": "208x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Orange Cloud_homeclosed.jpg",
+      "themes/screenshots/Orange Cloud_menu.jpg",
+      "themes/screenshots/Orange Cloud_messaging.jpg"
+    ],
+    "file": "themes/Orange Cloud.utz"
+  },
+  {
     "id": "orange-orbit",
     "name": "Orange orbit",
     "originalModel": "W200i",
@@ -2798,6 +2969,21 @@
     "swf": "themes/swf/PinklilacDesktop.swf"
   },
   {
+    "id": "pinstripe",
+    "name": "Pinstripe",
+    "originalModel": "P910i",
+    "supportedModels": ["P900", "P910i"],
+    "platform": "PNX4000",
+    "resolution": "208x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Pinstripe_homeclosed.jpg",
+      "themes/screenshots/Pinstripe_menu.jpg",
+      "themes/screenshots/Pinstripe_messaging.jpg"
+    ],
+    "file": "themes/Pinstripe.utz"
+  },
+  {
     "id": "play-db3350",
     "name": "PLAY (DB3350)",
     "originalModel": "Yari (U100i)",
@@ -2906,6 +3092,21 @@
     ],
     "file": "themes/Ray.thm",
     "swf": "themes/swf/Ray_desktop.swf"
+  },
+  {
+    "id": "red",
+    "name": "Red",
+    "originalModel": "P900",
+    "supportedModels": ["P900", "P910i"],
+    "platform": "PNX4000",
+    "resolution": "208x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Red_homeclosed.jpg",
+      "themes/screenshots/Red_menu.jpg",
+      "themes/screenshots/Red_messaging.jpg"
+    ],
+    "file": "themes/Red.utz"
   },
   {
     "id": "red-fragrance",
@@ -3291,6 +3492,38 @@
     "file": "themes/Spinler (Z500a).thm"
   },
   {
+    "id": "spinnin-w580i",
+    "name": "Spinnin' (W580i)",
+    "originalModel": "W580i",
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Spinnin' (W580i)_home.jpg",
+      "themes/screenshots/Spinnin' (W580i)_menu.jpg",
+      "themes/screenshots/Spinnin' (W580i)_settings.jpg"
+    ],
+    "file": "themes/Spinnin' (W580i).thm",
+    "swf": "themes/swf/spinninDesktop.swf"
+  },
+  {
+    "id": "spinnin-w660i",
+    "name": "Spinnin' (W660i)",
+    "originalModel": "W660i",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W610i", "W660i", "W710i", "Z610i", "Z710i"],
+    "platform": "DB2020",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Spinnin' (W660i)_home.jpg",
+      "themes/screenshots/Spinnin' (W660i)_menu.jpg",
+      "themes/screenshots/Spinnin' (W660i)_settings.jpg"
+    ],
+    "file": "themes/Spinnin' (W660i).thm",
+    "swf": "themes/swf/faye_spinning_desktop.swf"
+  },
+  {
     "id": "spiral-k530i",
     "name": "Spiral (K530i)",
     "originalModel": "K530i",
@@ -3319,6 +3552,22 @@
       "themes/screenshots/Spiral (Z710i)_settings.jpg"
     ],
     "file": "themes/Spiral (Z710i).thm"
+  },
+  {
+    "id": "splat",
+    "name": "Splat",
+    "originalModel": "W580i",
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Splat_home.jpg",
+      "themes/screenshots/Splat_menu.jpg",
+      "themes/screenshots/Splat_settings.jpg"
+    ],
+    "file": "themes/Splat.thm",
+    "swf": "themes/swf/Laura_fd_Splat_11.swf"
   },
   {
     "id": "spots-k310i",
@@ -3454,6 +3703,22 @@
       "themes/screenshots/Stripes_settings.jpg"
     ],
     "file": "themes/Stripes.thm"
+  },
+  {
+    "id": "strobe",
+    "name": "Strobe",
+    "originalModel": "W580i",
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Strobe_home.jpg",
+      "themes/screenshots/Strobe_menu.jpg",
+      "themes/screenshots/Strobe_settings.jpg"
+    ],
+    "file": "themes/Strobe.thm",
+    "swf": "themes/swf/Laura_dt_strobe_14.swf"
   },
   {
     "id": "the-red-carpet",
@@ -3762,6 +4027,21 @@
     "swf": "Walkman_desktop.swf"
   },
   {
+    "id": "walkman-w580i",
+    "name": "Walkman (W580i)",
+    "originalModel": ["W580i", "W830i", "W850i"],
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Walkman (W580i)_home.jpg",
+      "themes/screenshots/Walkman (W580i)_menu.jpg",
+      "themes/screenshots/Walkman (W580i)_settings.jpg"
+    ],
+    "file": "themes/Walkman (W580i).thm"
+  },
+  {
     "id": "walkman-w610i",
     "name": "Walkman (W610i)",
     "originalModel": ["W610i", "W660i"],
@@ -3867,6 +4147,36 @@
     ],
     "file": "themes/Whisper.thm",
     "swf": "themes/swf/Whisper_desktop.swf"
+  },
+  {
+    "id": "white-out",
+    "name": "White Out",
+    "originalModel": "P910i",
+    "supportedModels": ["P900", "P910i"],
+    "platform": "PNX4000",
+    "resolution": "208x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/White Out_homeclosed.jpg",
+      "themes/screenshots/White Out_menu.jpg",
+      "themes/screenshots/White Out_messaging.jpg"
+    ],
+    "file": "themes/White Out.utz"
+  },
+  {
+    "id": "white",
+    "name": "White",
+    "originalModel": "P900",
+    "supportedModels": ["P900", "P910i"],
+    "platform": "PNX4000",
+    "resolution": "208x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/White_homeclosed.jpg",
+      "themes/screenshots/White_menu.jpg",
+      "themes/screenshots/White_messaging.jpg"
+    ],
+    "file": "themes/White.utz"
   },
   {
     "id": "wink",
