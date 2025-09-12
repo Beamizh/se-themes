@@ -2313,6 +2313,21 @@
     "file": "themes/Leaves.thm"
   },
   {
+    "id": "lech-kaczynski",
+    "name": "Lech Kaczyński",
+    "author": "ogurek",
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
+    "platform": ["DB2010", "PNX5230", "S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Lech Kaczyński_home.jpg",
+      "themes/screenshots/Lech Kaczyński_menu.jpg",
+      "themes/screenshots/Lech Kaczyński_settings.jpg"
+    ],
+    "file": "themes/Lech Kaczyński.thm"
+  },
+  {
     "id": "light-flow",
     "name": "Light flow",
     "originalModel": "K810i",
