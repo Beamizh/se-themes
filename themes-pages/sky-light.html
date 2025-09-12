@@ -6,11 +6,12 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <link rel="stylesheet" href="../css/style.css">
   <style>
-    /* Fix stretched screenshots */
+    /* Screenshots */
     .screenshots {
       display: flex;
       flex-wrap: wrap;
       gap: 12px;
+      justify-content: center;
     }
     .screenshots img {
       max-width: 300px;
@@ -19,7 +20,17 @@
       box-shadow: 0 2px 6px rgba(0,0,0,0.2);
       cursor: pointer;
       object-fit: contain;
-      background: #111;
+    }
+
+    /* Theme note */
+    .theme-note {
+      background: #f9f9f9;
+      border-left: 4px solid #4a90e2;
+      padding: 10px 14px;
+      margin: 16px 0;
+      border-radius: 6px;
+      font-size: 0.95em;
+      color: #333;
     }
 
     /* Lightbox */
@@ -34,22 +45,41 @@
       z-index: 9999;
     }
     #lightbox .content {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      height: 100%;
+    }
+    #lightbox .img-wrapper {
       position: relative;
       display: flex;
       align-items: center;
+      justify-content: center;
+      transition: transform 0.2s ease-out;
     }
     #lightbox img {
       max-width: 90vw;
       max-height: 90vh;
       border-radius: 8px;
+      pointer-events: none;
     }
     #lightbox .arrow {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
       font-size: 3rem;
       color: white;
       cursor: pointer;
       user-select: none;
       padding: 0 10px;
       transition: color 0.2s;
+    }
+    #lightbox .arrow.left {
+      left: -3rem;
+    }
+    #lightbox .arrow.right {
+      right: -3rem;
     }
     #lightbox .arrow:hover {
       color: #ccc;
@@ -78,6 +108,8 @@
       <p><strong>Supported models:</strong> K530i, K550i, K610i, K618i, V630i, W610i, W660i, W710i, Z610i, Z710i</p>
       <p><strong>Supported platforms:</strong> DB2020</p>
 
+      
+
       <h2>Screenshots</h2>
       <div class="screenshots">
         <img src="../themes/screenshots/Sky light_home.jpg" alt="Sky light screenshot" data-index="0">
@@ -93,9 +125,11 @@
   <!-- Lightbox -->
   <div id="lightbox">
     <div class="content">
-      <span class="arrow left">❮</span>
-      <img src="" alt="Expanded screenshot">
-      <span class="arrow right">❯</span>
+      <div class="img-wrapper">
+        <span class="arrow left">❮</span>
+        <img src="" alt="Expanded screenshot">
+        <span class="arrow right">❯</span>
+      </div>
     </div>
   </div>
 
@@ -107,16 +141,28 @@
   <script>
   document.addEventListener("DOMContentLoaded", () => {
     const lightbox = document.getElementById("lightbox");
-    const lightboxImg = lightbox.querySelector("img");
-    const leftArrow = lightbox.querySelector(".arrow.left");
-    const rightArrow = lightbox.querySelector(".arrow.right");
+    const wrapper = lightbox.querySelector(".img-wrapper");
+    const lightboxImg = wrapper.querySelector("img");
+    const leftArrow = wrapper.querySelector(".arrow.left");
+    const rightArrow = wrapper.querySelector(".arrow.right");
     const screenshots = Array.from(document.querySelectorAll(".screenshots img"));
     let currentIndex = 0;
+    let scale = 1;
+    let posX = 0, posY = 0;
+    let isDragging = false, startX, startY;
+
+    function updateTransform() {
+      wrapper.style.transform = `translate(${posX}px, ${posY}px) scale(${scale})`;
+    }
 
     function openLightbox(index) {
       currentIndex = index;
       lightboxImg.src = screenshots[currentIndex].src;
       lightbox.style.display = "flex";
+      scale = 1;
+      posX = 0;
+      posY = 0;
+      updateTransform();
     }
 
     function closeLightbox() {
@@ -127,11 +173,20 @@
     function showPrev() {
       currentIndex = (currentIndex - 1 + screenshots.length) % screenshots.length;
       lightboxImg.src = screenshots[currentIndex].src;
+      resetView();
     }
 
     function showNext() {
       currentIndex = (currentIndex + 1) % screenshots.length;
       lightboxImg.src = screenshots[currentIndex].src;
+      resetView();
+    }
+
+    function resetView() {
+      scale = 1.2; // slightly zoomed by default
+      posX = 0;
+      posY = 0;
+      updateTransform();
     }
 
     screenshots.forEach((img, i) => {
@@ -148,10 +203,14 @@
       showNext();
     });
 
-    // Close on click outside the image
-    lightbox.addEventListener("click", (e) => {
-      if (e.target === lightbox) closeLightbox();
-    });
+    // Close on click outside image
+lightbox.addEventListener("click", (e) => {
+  // Only close if the click is NOT inside the img-wrapper
+  if (!wrapper.contains(e.target)) {
+    closeLightbox();
+  }
+});
+
 
     // Keyboard navigation
     document.addEventListener("keydown", (e) => {
@@ -160,6 +219,51 @@
         if (e.key === "ArrowLeft") showPrev();
         if (e.key === "ArrowRight") showNext();
       }
+    });
+
+    // Dragging
+    wrapper.addEventListener("mousedown", (e) => {
+      isDragging = true;
+      startX = e.clientX - posX;
+      startY = e.clientY - posY;
+      e.preventDefault();
+    });
+    document.addEventListener("mouseup", () => {
+      if (isDragging) {
+        isDragging = false;
+        // recenter when released
+        posX = 0;
+        posY = 0;
+        updateTransform();
+      }
+    });
+    document.addEventListener("mousemove", (e) => {
+      if (isDragging) {
+        posX = e.clientX - startX;
+        posY = e.clientY - startY;
+        updateTransform();
+      }
+    });
+
+    // Scroll zoom
+    wrapper.addEventListener("wheel", (e) => {
+      e.preventDefault();
+      scale += e.deltaY < 0 ? 0.1 : -0.1;
+      if (scale < 0.5) scale = 0.5;
+      if (scale > 5) scale = 5;
+      updateTransform();
+    });
+
+    // Double click to toggle zoom
+    wrapper.addEventListener("dblclick", () => {
+      if (scale > 1) {
+        scale = 1.2;
+        posX = 0;
+        posY = 0;
+      } else {
+        scale = 2;
+      }
+      updateTransform();
     });
   });
   </script>
