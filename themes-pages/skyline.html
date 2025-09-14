@@ -13,13 +13,19 @@
       gap: 12px;
       justify-content: center;
     }
-    .screenshots img {
+    .screenshots img,
+    .alt-card img {
       max-width: 300px;
       height: auto;
       border-radius: 8px;
       box-shadow: 0 2px 6px rgba(0,0,0,0.2);
       cursor: pointer;
       object-fit: contain;
+      transition: transform 0.2s ease-in-out;
+    }
+    .screenshots img:hover,
+    .alt-card img:hover {
+      transform: scale(1.05);
     }
 
     /* Theme note */
@@ -27,14 +33,37 @@
       background: #f9f9f9;
       border-left: 4px solid #4a90e2;
       padding: 10px 14px;
-      margin: 16px 0;
+      margin: 8px auto; /* centered under image */
       border-radius: 6px;
       font-size: 0.95em;
       color: #333;
+      max-width: 300px; /* match image width */
+      text-align: left;
     }
 
-    /* Lightbox */
-    #lightbox {
+    /* Alternate flash menus */
+    .alt-flash-menus {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      margin-top: 20px;
+      justify-content: center;
+    }
+    .alt-flash-menu {
+      text-align: center;
+    }
+    .alt-card {
+      display: inline-block;
+      text-align: center;
+    }
+    .alt-card .download-btn {
+      display: block;
+      margin: 8px auto 0 auto;
+      max-width: 300px; /* match image width */
+    }
+
+    /* Lightbox shared styles */
+    .lightbox {
       position: fixed;
       top: 0; left: 0; right: 0; bottom: 0;
       background: rgba(0,0,0,0.4);
@@ -44,27 +73,27 @@
       align-items: center;
       z-index: 9999;
     }
-    #lightbox .content {
+    .lightbox .content {
       display: flex;
       justify-content: center;
       align-items: center;
       width: 100%;
       height: 100%;
     }
-    #lightbox .img-wrapper {
+    .lightbox .img-wrapper {
       position: relative;
       display: flex;
       align-items: center;
       justify-content: center;
       transition: transform 0.2s ease-out;
     }
-    #lightbox img {
+    .lightbox img {
       max-width: 90vw;
       max-height: 90vh;
       border-radius: 8px;
       pointer-events: none;
     }
-    #lightbox .arrow {
+    .lightbox .arrow {
       position: absolute;
       top: 50%;
       transform: translateY(-50%);
@@ -75,15 +104,9 @@
       padding: 0 10px;
       transition: color 0.2s;
     }
-    #lightbox .arrow.left {
-      left: -3rem;
-    }
-    #lightbox .arrow.right {
-      right: -3rem;
-    }
-    #lightbox .arrow:hover {
-      color: #ccc;
-    }
+    .lightbox .arrow.left { left: -3rem; }
+    .lightbox .arrow.right { right: -3rem; }
+    .lightbox .arrow:hover { color: #ccc; }
   </style>
 </head>
 <body>
@@ -118,12 +141,14 @@
       </div>
 
       <a class="download-btn" href="../themes/Skyline.utz" download>⬇️ Download this Theme</a>
-      
+
+
+
     </section>
   </main>
 
-  <!-- Lightbox -->
-  <div id="lightbox">
+  <!-- Main Lightbox (with arrows) -->
+  <div id="lightbox-main" class="lightbox">
     <div class="content">
       <div class="img-wrapper">
         <span class="arrow left">❮</span>
@@ -133,18 +158,27 @@
     </div>
   </div>
 
+  <!-- Alt Lightbox (no arrows, with zoom/drag) -->
+  <div id="lightbox-alt" class="lightbox">
+    <div class="content">
+      <div class="img-wrapper">
+        <img src="" alt="Expanded alternate screenshot">
+      </div>
+    </div>
+  </div>
+
   <footer>
     <p>made by Beamish 🦆</p>
   </footer>
 
-  <!-- Screenshot click handling -->
   <script>
   document.addEventListener("DOMContentLoaded", () => {
-    const lightbox = document.getElementById("lightbox");
-    const wrapper = lightbox.querySelector(".img-wrapper");
-    const lightboxImg = wrapper.querySelector("img");
-    const leftArrow = wrapper.querySelector(".arrow.left");
-    const rightArrow = wrapper.querySelector(".arrow.right");
+    // --- Main screenshots lightbox ---
+    const mainLightbox = document.getElementById("lightbox-main");
+    const mainWrapper = mainLightbox.querySelector(".img-wrapper");
+    const mainImg = mainWrapper.querySelector("img");
+    const leftArrow = mainWrapper.querySelector(".arrow.left");
+    const rightArrow = mainWrapper.querySelector(".arrow.right");
     const screenshots = Array.from(document.querySelectorAll(".screenshots img"));
     let currentIndex = 0;
     let scale = 1;
@@ -152,77 +186,49 @@
     let isDragging = false, startX, startY;
 
     function updateTransform() {
-      wrapper.style.transform = `translate(${posX}px, ${posY}px) scale(${scale})`;
+      mainWrapper.style.transform = `translate(${posX}px, ${posY}px) scale(${scale})`;
     }
-
     function openLightbox(index) {
       currentIndex = index;
-      lightboxImg.src = screenshots[currentIndex].src;
-      lightbox.style.display = "flex";
-      scale = 1;
-      posX = 0;
-      posY = 0;
-      updateTransform();
+      mainImg.src = screenshots[currentIndex].src;
+      mainLightbox.style.display = "flex";
+      resetView();
     }
-
     function closeLightbox() {
-      lightbox.style.display = "none";
-      lightboxImg.src = "";
+      mainLightbox.style.display = "none";
+      mainImg.src = "";
     }
-
     function showPrev() {
       currentIndex = (currentIndex - 1 + screenshots.length) % screenshots.length;
-      lightboxImg.src = screenshots[currentIndex].src;
+      mainImg.src = screenshots[currentIndex].src;
       resetView();
     }
-
     function showNext() {
       currentIndex = (currentIndex + 1) % screenshots.length;
-      lightboxImg.src = screenshots[currentIndex].src;
+      mainImg.src = screenshots[currentIndex].src;
       resetView();
     }
-
     function resetView() {
-      scale = 1.2; // slightly zoomed by default
-      posX = 0;
-      posY = 0;
+      scale = 1.2;
+      posX = 0; posY = 0;
       updateTransform();
     }
-
     screenshots.forEach((img, i) => {
       img.addEventListener("click", () => openLightbox(i));
     });
-
-    leftArrow.addEventListener("click", e => {
-      e.stopPropagation();
-      showPrev();
+    leftArrow.addEventListener("click", e => { e.stopPropagation(); showPrev(); });
+    rightArrow.addEventListener("click", e => { e.stopPropagation(); showNext(); });
+    mainLightbox.addEventListener("click", (e) => {
+      if (!mainWrapper.contains(e.target)) closeLightbox();
     });
-
-    rightArrow.addEventListener("click", e => {
-      e.stopPropagation();
-      showNext();
-    });
-
-    // Close on click outside image
-lightbox.addEventListener("click", (e) => {
-  // Only close if the click is NOT inside the img-wrapper
-  if (!wrapper.contains(e.target)) {
-    closeLightbox();
-  }
-});
-
-
-    // Keyboard navigation
     document.addEventListener("keydown", (e) => {
-      if (lightbox.style.display === "flex") {
+      if (mainLightbox.style.display === "flex") {
         if (e.key === "Escape") closeLightbox();
         if (e.key === "ArrowLeft") showPrev();
         if (e.key === "ArrowRight") showNext();
       }
     });
-
-    // Dragging
-    wrapper.addEventListener("mousedown", (e) => {
+    mainWrapper.addEventListener("mousedown", (e) => {
       isDragging = true;
       startX = e.clientX - posX;
       startY = e.clientY - posY;
@@ -231,9 +237,7 @@ lightbox.addEventListener("click", (e) => {
     document.addEventListener("mouseup", () => {
       if (isDragging) {
         isDragging = false;
-        // recenter when released
-        posX = 0;
-        posY = 0;
+        posX = 0; posY = 0;
         updateTransform();
       }
     });
@@ -244,26 +248,89 @@ lightbox.addEventListener("click", (e) => {
         updateTransform();
       }
     });
-
-    // Scroll zoom
-    wrapper.addEventListener("wheel", (e) => {
+    mainWrapper.addEventListener("wheel", (e) => {
       e.preventDefault();
       scale += e.deltaY < 0 ? 0.1 : -0.1;
       if (scale < 0.5) scale = 0.5;
       if (scale > 5) scale = 5;
       updateTransform();
     });
-
-    // Double click to toggle zoom
-    wrapper.addEventListener("dblclick", () => {
+    mainWrapper.addEventListener("dblclick", () => {
       if (scale > 1) {
-        scale = 1.2;
-        posX = 0;
-        posY = 0;
+        scale = 1.2; posX = 0; posY = 0;
       } else {
         scale = 2;
       }
       updateTransform();
+    });
+
+    // --- Alternate flash menu lightbox ---
+    const altLightbox = document.getElementById("lightbox-alt");
+    const altWrapper = altLightbox.querySelector(".img-wrapper");
+    const altImg = altWrapper.querySelector("img");
+    const altScreenshots = Array.from(document.querySelectorAll(".alt-card img"));
+
+    let altScale = 1;
+    let altPosX = 0, altPosY = 0;
+    let altDragging = false, altStartX, altStartY;
+
+    function updateAltTransform() {
+      altWrapper.style.transform = `translate(${altPosX}px, ${altPosY}px) scale(${altScale})`;
+    }
+    altScreenshots.forEach((img) => {
+      img.addEventListener("click", () => {
+        altImg.src = img.src;
+        altLightbox.style.display = "flex";
+        altScale = 1.2; altPosX = 0; altPosY = 0;
+        updateAltTransform();
+      });
+    });
+    altLightbox.addEventListener("click", (e) => {
+      if (!altWrapper.contains(e.target)) {
+        altLightbox.style.display = "none";
+        altImg.src = "";
+      }
+    });
+    document.addEventListener("keydown", (e) => {
+      if (altLightbox.style.display === "flex" && e.key === "Escape") {
+        altLightbox.style.display = "none";
+        altImg.src = "";
+      }
+    });
+    altWrapper.addEventListener("mousedown", (e) => {
+      altDragging = true;
+      altStartX = e.clientX - altPosX;
+      altStartY = e.clientY - altPosY;
+      e.preventDefault();
+    });
+    document.addEventListener("mouseup", () => {
+      if (altDragging) {
+        altDragging = false;
+        altPosX = 0; altPosY = 0;
+        updateAltTransform();
+      }
+    });
+    document.addEventListener("mousemove", (e) => {
+      if (altDragging) {
+        altPosX = e.clientX - altStartX;
+        altPosY = e.clientY - altStartY;
+        updateAltTransform();
+      }
+    });
+    altWrapper.addEventListener("wheel", (e) => {
+      e.preventDefault();
+      altScale += e.deltaY < 0 ? 0.1 : -0.1;
+      if (altScale < 0.5) altScale = 0.5;
+      if (altScale > 5) altScale = 5;
+      updateAltTransform();
+    });
+    altWrapper.addEventListener("dblclick", () => {
+      if (altScale > 1) {
+        altScale = 1.2; altPosX = 0; altPosY = 0;
+      } else {
+        altScale = 2;
+      }
+      updateAltTransform();
     });
   });
   </script>
