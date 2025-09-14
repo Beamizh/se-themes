@@ -858,6 +858,23 @@
     "swf": "themes/swf/Compo_desktop.swf"
   },
   {
+    "id": "compo-orange",
+    "name": "Compo (Orange)",
+    "originalModel": "C702",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Modified version of the <a href='compo.html'>Compo</a> theme that came on Orange (Israel) branded phones.",
+    "screenshots": [
+      "themes/screenshots/Compo (Orange)_home.jpg",
+      "themes/screenshots/Compo (Orange)_menu.jpg",
+      "themes/screenshots/Compo (Orange)_settings.jpg"
+    ],
+    "file": "themes/Compo (Orange).thm",
+    "swf": "themes/swf/CompoOrange_desktop.swf"
+  },
+  {
     "id": "connecto",
     "name": "Connecto",
     "originalModel": "W595",
@@ -1355,7 +1372,15 @@
       "themes/screenshots/Earth_settings.jpg"
     ],
     "file": "themes/Earth.thm",
-    "swf": "themes/swf/Earth_desktop.swf"
+    "swf": "themes/swf/Earth_desktop.swf",
+
+  "alternateFlashMenus": [
+    {
+      "screenshot": "themes/screenshots/Earth (o2)_menu.jpg",
+      "file": "themes/swf/Alternate/o2/Earth_desktop.swf",
+      "note": "o2 branded icons"
+    }
+  ]
   },
   {
     "id": "echo",
@@ -1943,6 +1968,23 @@
     "swf": "themes/swf/Grape_desktop.swf"
   },
   {
+    "id": "grape-o2",
+    "name": "Grape (o2)",
+    "originalModel": "W902",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Modified version of the <a href='grape.html'>Grape</a> theme that came on o2 (Germany) branded phones.",
+    "screenshots": [
+      "themes/screenshots/Grape (o2)_home.jpg",
+      "themes/screenshots/Grape (o2)_menu.jpg",
+      "themes/screenshots/Grape (o2)_settings.jpg"
+    ],
+    "file": "themes/Grape (o2).thm",
+    "swf": "themes/swf/Grapeo2_desktop.swf"
+  },
+  {
     "id": "gravity",
     "name": "Gravity",
     "originalModel": "K600i",
@@ -2263,7 +2305,15 @@
       "themes/screenshots/Jet_settings.jpg"
     ],
     "file": "themes/Jet.thm",
-    "swf": "themes/swf/Jet_desktop.swf"
+    "swf": "themes/swf/Jet_desktop.swf",
+
+  "alternateFlashMenus": [
+    {
+      "screenshot": "themes/screenshots/Jet (o2)_menu.jpg",
+      "file": "themes/swf/Alternate/o2/Jet_desktop.swf",
+      "note": "o2 branded icons"
+    }
+  ]
   },
   {
     "id": "kaleidoscope-black",
@@ -2488,6 +2538,23 @@
       "note": "o2 branded icons"
     }
   ]
+  },
+  {
+    "id": "light-trace-orange",
+    "name": "Light trace (Orange)",
+    "originalModel": "C702",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Modified version of the <a href='light-trace.html'>Light trace</a> theme that came on Orange (Israel) branded phones.",
+    "screenshots": [
+      "themes/screenshots/Light trace (Orange)_home.jpg",
+      "themes/screenshots/Light trace (Orange)_menu.jpg",
+      "themes/screenshots/Light trace (Orange)_settings.jpg"
+    ],
+    "file": "themes/Light trace (Orange).thm",
+    "swf": "themes/swf/LighttraceOrange_desktop.swf"
   },
   {
     "id": "lime-stream-aino",
@@ -2871,6 +2938,22 @@
       "themes/screenshots/Nightmirror_settings.jpg"
     ],
     "file": "themes/Nightmirror.thm"
+  },
+  {
+    "id": "o2-theme",
+    "name": "o2 Theme",
+    "originalModel": ["W595", "W902"],
+    "carrier": "o2 (Germany)",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/o2 Theme_home.jpg",
+      "themes/screenshots/o2 Theme_menu.jpg",
+      "themes/screenshots/o2 Theme_settings.jpg"
+    ],
+    "file": "themes/o2 Theme.thm"
   },
   {
     "id": "oboe",
