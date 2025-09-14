@@ -2281,7 +2281,8 @@
       "themes/screenshots/In the air_menu.jpg",
       "themes/screenshots/In the air_settings.jpg"
     ],
-    "file": "themes/In the air.thm"
+    "file": "themes/In the air.thm",
+    "swf": "themes/swf/inAir_desktop.swf"
   },
   {
     "id": "into-the-blue",
@@ -3037,7 +3038,8 @@
       "themes/screenshots/On land_menu.jpg",
       "themes/screenshots/On land_settings.jpg"
     ],
-    "file": "themes/On land.thm"
+    "file": "themes/On land.thm",
+    "swf": "themes/swf/onLand_desktop.swf"
   },
   {
     "id": "onto",
@@ -4347,7 +4349,8 @@
       "themes/screenshots/Under water_menu.jpg",
       "themes/screenshots/Under water_settings.jpg"
     ],
-    "file": "themes/Under water.thm"
+    "file": "themes/Under water.thm",
+    "swf": "themes/swf/underWater_desktop.swf"
   },
   {
     "id": "universe",
