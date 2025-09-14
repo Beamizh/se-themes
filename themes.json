@@ -956,7 +956,7 @@
   {
     "id": "crystaline",
     "name": "Crystaline",
-    "originalModel": "K810i",
+    "originalModel": ["K790i", "K800i", "K810i"],
     "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
     "platform": "DB2020",
     "resolution": "240x320",
@@ -1147,11 +1147,12 @@
   {
     "id": "deepest-purple",
     "name": "Deepest purple",
-    "originalModel": "K810i",
+    "originalModel": ["K790i", "K800i", "K810i"],
     "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
     "platform": "DB2020",
     "resolution": "240x320",
     "homeType": "Still image",
+    "note": "Known as 'Deep Purple' on the K790i and K800i",
     "screenshots": [
       "themes/screenshots/Deepest purple_home.jpg",
       "themes/screenshots/Deepest purple_menu.jpg",
@@ -1495,7 +1496,7 @@
     "id": "female-line-w850i",
     "name": "Female Line (W850i)",
     "originalModel": ["W830i", "W850i"],
-    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W610i", "W660i", "W710i", "Z610i", "Z710i"],
+    "supportedModels": ["S500i", "W580i", "W830i", "W850i"],
     "platform": "DB2020",
     "resolution": "240x320",
     "homeType": "Animated",
@@ -1922,6 +1923,21 @@
     "swf": "themes/swf/faye_glamgold_desktop.swf"
   },
   {
+    "id": "golden-light",
+    "name": "Golden Light",
+    "originalModel": ["K790i", "K800i"],
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Golden Light_home.jpg",
+      "themes/screenshots/Golden Light_menu.jpg",
+      "themes/screenshots/Golden Light_settings.jpg"
+    ],
+    "file": "themes/Golden Light.thm"
+  },
+  {
     "id": "goldfish",
     "name": "Goldfish",
     "originalModel": "Z530i",
@@ -2093,7 +2109,7 @@
     "id": "grouped",
     "name": "Grouped",
     "originalModel": ["W830i", "W850i"],
-    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "supportedModels": ["S500i", "W580i", "W830i", "W850i"],
     "platform": "DB2020",
     "resolution": "240x320",
     "homeType": "Animated",
@@ -2940,6 +2956,21 @@
     "file": "themes/Nightmirror.thm"
   },
   {
+    "id": "nightshot",
+    "name": "Nightshot",
+    "originalModel": ["K790i", "K800i"],
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Nightshot_home.jpg",
+      "themes/screenshots/Nightshot_menu.jpg",
+      "themes/screenshots/Nightshot_settings.jpg"
+    ],
+    "file": "themes/Nightshot.thm"
+  },
+  {
     "id": "o2-theme",
     "name": "o2 Theme",
     "originalModel": ["W595", "W902"],
@@ -3005,7 +3036,7 @@
     "id": "orange-bubbles",
     "name": "Orange Bubbles",
     "originalModel": ["W830i", "W850i"],
-    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "supportedModels": ["S500i", "W580i", "W830i", "W850i"],
     "platform": "DB2020",
     "resolution": "240x320",
     "homeType": "Animated",
@@ -3252,7 +3283,7 @@
     "id": "persona5-a100-v1.2",
     "name": "Persona 5 v1.2 (DB2020)",
     "author": "RedillGMV",
-    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "supportedModels": ["S500i", "W580i", "W830i", "W850i"],
     "platform": "DB2020",
     "resolution": "240x320",
     "homeType": "Still image",
@@ -3822,7 +3853,7 @@
     "id": "spinnin-w580i",
     "name": "Spinnin' (W580i)",
     "originalModel": "W580i",
-    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "supportedModels": ["S500i", "W580i", "W830i", "W850i"],
     "platform": "DB2020",
     "resolution": "240x320",
     "homeType": "Animated",
@@ -3884,7 +3915,7 @@
     "id": "splat",
     "name": "Splat",
     "originalModel": "W580i",
-    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "supportedModels": ["S500i", "W580i", "W830i", "W850i"],
     "platform": "DB2020",
     "resolution": "240x320",
     "homeType": "Animated",
@@ -4059,7 +4090,7 @@
     "id": "strobe",
     "name": "Strobe",
     "originalModel": "W580i",
-    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "supportedModels": ["S500i", "W580i", "W830i", "W850i"],
     "platform": "DB2020",
     "resolution": "240x320",
     "homeType": "Animated",
@@ -4070,6 +4101,22 @@
     ],
     "file": "themes/Strobe.thm",
     "swf": "themes/swf/Laura_dt_strobe_14.swf"
+  },
+  {
+    "id": "tems-pocket-theme",
+    "name": "TEMS Pocket Theme",
+    "originalModel": "K790a",
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Exclusive to TEMS units",
+    "screenshots": [
+      "themes/screenshots/TEMS Pocket Theme_home.jpg",
+      "themes/screenshots/TEMS Pocket Theme_menu.jpg",
+      "themes/screenshots/TEMS Pocket Theme_settings.jpg"
+    ],
+    "file": "themes/TEMS Pocket Theme.thm"
   },
   {
     "id": "the-red-carpet",
