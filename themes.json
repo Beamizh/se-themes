@@ -124,6 +124,23 @@
     "file": "themes/Aqua Tiles.thm"
   },
   {
+    "id": "aquatic-white",
+    "name": "Aquatic white",
+    "originalModel": "W200i",
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
+    "platform": ["DB2010", "PNX5230", "S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Animated",
+    "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
+    "screenshots": [
+      "themes/screenshots/Aquatic white_home.jpg",
+      "themes/screenshots/Aquatic white_menu.jpg",
+      "themes/screenshots/Aquatic white_settings.jpg"
+    ],
+    "file": "themes/Aquatic white.thm",
+    "swf": "themes/swf/desktop_aquaticwhite.swf"
+  },
+  {
     "id": "aurora",
     "name": "Aurora",
     "originalModel": "G700",
@@ -421,12 +438,14 @@
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
+    "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
     "screenshots": [
       "themes/screenshots/Cheerful_home.jpg",
       "themes/screenshots/Cheerful_menu.jpg",
       "themes/screenshots/Cheerful_settings.jpg"
     ],
-    "file": "themes/Cheerful.thm"
+    "file": "themes/Cheerful.thm",
+    "swf": "themes/swf/Cheerful_061016.swf"
   },
   {
     "id": "cherry-stream-aino",
@@ -482,12 +501,14 @@
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
+    "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
     "screenshots": [
       "themes/screenshots/Circle Shine_home.jpg",
       "themes/screenshots/Circle Shine_menu.jpg",
       "themes/screenshots/Circle Shine_settings.jpg"
     ],
-    "file": "themes/Circle Shine.thm"
+    "file": "themes/Circle Shine.thm",
+    "swf": "themes/swf/circleShine.swf"
   },
   {
     "id": "circles",
@@ -788,12 +809,14 @@
     "platform": ["DB2010", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
+    "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
     "screenshots": [
       "themes/screenshots/Club light_home.jpg",
       "themes/screenshots/Club light_menu.jpg",
       "themes/screenshots/Club light_settings.jpg"
     ],
-    "file": "themes/Club light.thm"
+    "file": "themes/Club light.thm",
+    "swf": "themes/swf/clublight.swf"
   },
   {
     "id": "clubpulse",
@@ -3071,12 +3094,14 @@
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
+    "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
     "screenshots": [
       "themes/screenshots/Orange orbit_home.jpg",
       "themes/screenshots/Orange orbit_menu.jpg",
       "themes/screenshots/Orange orbit_settings.jpg"
     ],
-    "file": "themes/Orange orbit.thm"
+    "file": "themes/Orange orbit.thm",
+    "swf": "themes/swf/OrangeOrbit_061016.swf"
   },
   {
     "id": "orange-theme-w205",
@@ -4004,12 +4029,14 @@
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
+    "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
     "screenshots": [
       "themes/screenshots/Stencil art_home.jpg",
       "themes/screenshots/Stencil art_menu.jpg",
       "themes/screenshots/Stencil art_settings.jpg"
     ],
-    "file": "themes/Stencil art.thm"
+    "file": "themes/Stencil art.thm",
+    "swf": "themes/swf/StencilArt_061016.swf"
   },
   {
     "id": "still-life",
@@ -4042,6 +4069,23 @@
     "file": "themes/Stitches.thm"
   },
   {
+    "id": "street-grey",
+    "name": "Street grey",
+    "originalModel": "W200i",
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
+    "platform": ["DB2010", "PNX5230", "S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Animated",
+    "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
+    "screenshots": [
+      "themes/screenshots/Street grey_home.jpg",
+      "themes/screenshots/Street grey_menu.jpg",
+      "themes/screenshots/Street grey_settings.jpg"
+    ],
+    "file": "themes/Street grey.thm",
+    "swf": "themes/swf/desktop_Streetgrey.swf"
+  },
+  {
     "id": "street-style",
     "name": "Street Style",
     "originalModel": "W300i",
@@ -4049,12 +4093,14 @@
     "platform": ["DB2010", "PNX5230", "S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
+    "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
     "screenshots": [
       "themes/screenshots/Street Style_home.jpg",
       "themes/screenshots/Street Style_menu.jpg",
       "themes/screenshots/Street Style_settings.jpg"
     ],
-    "file": "themes/Street Style.thm"
+    "file": "themes/Street Style.thm",
+    "swf": "themes/swf/streetStyle.swf"
   },
   {
     "id": "stripe-w205",
@@ -4101,6 +4147,23 @@
     ],
     "file": "themes/Strobe.thm",
     "swf": "themes/swf/Laura_dt_strobe_14.swf"
+  },
+  {
+    "id": "sweet-pink",
+    "name": "Sweet pink",
+    "originalModel": "W200i",
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
+    "platform": ["DB2010", "PNX5230", "S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Animated",
+    "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
+    "screenshots": [
+      "themes/screenshots/Sweet pink_home.jpg",
+      "themes/screenshots/Sweet pink_menu.jpg",
+      "themes/screenshots/Sweet pink_settings.jpg"
+    ],
+    "file": "themes/Sweet pink.thm",
+    "swf": "themes/swf/desktop_sweetPink.swf"
   },
   {
     "id": "tems-pocket-theme",
