@@ -321,19 +321,49 @@
     "file": "themes/Blub.thm"
   },
   {
-    "id": "blue",
-    "name": "Blue",
+    "id": "blue-p900",
+    "name": "Blue (P900)",
     "originalModel": "P900",
     "supportedModels": ["P900", "P910i"],
     "platform": "PNX4000",
     "resolution": "208x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Blue_homeclosed.jpg",
-      "themes/screenshots/Blue_menu.jpg",
-      "themes/screenshots/Blue_messaging.jpg"
+      "themes/screenshots/Blue (P900)_homeclosed.jpg",
+      "themes/screenshots/Blue (P900)_menu.jpg",
+      "themes/screenshots/Blue (P900)_messaging.jpg"
     ],
     "file": "themes/Blue.utz"
+  },
+  {
+    "id": "blue-z600",
+    "name": "Blue (Z600)",
+    "originalModel": "Z600",
+    "supportedModels": ["T610", "T630", "Z600"],
+    "platform": "DB1000",
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Blue (Z600)_home.jpg",
+      "themes/screenshots/Blue (Z600)_menu.jpg",
+      "themes/screenshots/Blue (Z600)_list.jpg"
+    ],
+    "file": "themes/Blue.thm"
+  },
+  {
+    "id": "blue-&-stripes",
+    "name": "Blue & Stripes",
+    "originalModel": "Z600",
+    "supportedModels": ["T610", "T630", "Z600"],
+    "platform": "DB1000",
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Blue & Stripes_home.jpg",
+      "themes/screenshots/Blue & Stripes_menu.jpg",
+      "themes/screenshots/Blue & Stripes_list.jpg"
+    ],
+    "file": "themes/Blue & Stripes.thm"
   },
   {
     "id": "bluelines",
@@ -3924,6 +3954,21 @@
     "file": "themes/Silk.utz"
   },
   {
+    "id": "silver-&-night",
+    "name": "Silver & Night",
+    "originalModel": "Z600",
+    "supportedModels": ["T610", "T630", "Z600"],
+    "platform": "DB1000",
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Silver & Night_home.jpg",
+      "themes/screenshots/Silver & Night_menu.jpg",
+      "themes/screenshots/Silver & Night_list.jpg"
+    ],
+    "file": "themes/Silver & Night.thm"
+  },
+  {
     "id": "silver-grey",
     "name": "Silver grey",
     "originalModel": "Yari (U100i)",
@@ -3983,6 +4028,21 @@
       "themes/screenshots/Smove_settings.jpg"
     ],
     "file": "themes/Smove.thm"
+  },
+  {
+    "id": "snowtheme",
+    "name": "Snowtheme",
+    "author": "Unknown, submitted by SpiroWalkman",
+    "supportedModels": ["T610", "T630", "Z600"],
+    "platform": "DB1000",
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Snowtheme_home.jpg",
+      "themes/screenshots/Snowtheme_menu.jpg",
+      "themes/screenshots/Snowtheme_list.jpg"
+    ],
+    "file": "themes/Snowtheme.thm"
   },
   {
     "id": "sonar-pink",
@@ -4602,6 +4662,22 @@
     ],
     "file": "themes/Vibes.thm",
     "swf": "themes/swf/Vibes_desktop.swf"
+  },
+  {
+    "id": "vodafone-z600",
+    "name": "Vodafone (Z600)",
+    "originalModel": "Z600",
+    "carrier": "Vodafone",
+    "supportedModels": ["T610", "T630", "Z600"],
+    "platform": "DB1000",
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Vodafone (Z600)_home.jpg",
+      "themes/screenshots/Vodafone (Z600)_menu.jpg",
+      "themes/screenshots/Vodafone (Z600)_list.jpg"
+    ],
+    "file": "themes/Vodafone (Z600).thm"
   },
   {
     "id": "waip",
