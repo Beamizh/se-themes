@@ -200,6 +200,22 @@
     "file": "themes/Backstreet.thm"
   },
   {
+    "id": "balance",
+    "name": "Balance",
+    "originalModel": "W380i",
+    "supportedModels": ["W350i", "W380i", "Z555i"],
+    "platform": "PNX5230",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Balance_home.jpg",
+      "themes/screenshots/Balance_menu.jpg",
+      "themes/screenshots/Balance_list.jpg"
+    ],
+    "file": "themes/Balance.thm",
+    "swf": "themes/swf/Balance_desktop.swf"
+  },
+  {
     "id": "beam",
     "name": "Beam",
     "originalModel": "K750i",
@@ -1171,6 +1187,28 @@
     "swf": "themes/swf/DandelionDesktop.swf"
   },
   {
+    "id": "day-and-night",
+    "name": "Day and Night",
+    "originalModel": "S500i",
+    "supportedModels": ["S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Due to this themes structure, extra files are necessary, put the extra .thm files alongside the flash menu in tpa/preset/desktop/flash, and put the standby screen in tpa/preset/standby/flash",
+    "screenshots": [
+      "themes/screenshots/Day and Night_home.jpg",
+      "themes/screenshots/Day and Night_menu.jpg",
+      "themes/screenshots/Day and Night_settings.jpg"
+    ],
+    "file": "themes/Day and Night.thm",
+    "swf": "themes/swf/DayAndNight_desktop.swf",
+    "extraFiles": [
+      { "name": "D1.thm", "path": "themes/swf/S500/Day and Night/D1.thm" },
+      { "name": "D2.thm", "path": "themes/swf/S500/Day and Night/D2.thm" },
+      { "name": "standby screen", "path": "themes/swf/S500/Day and Night/DayAndNight_standby.swf" }
+    ]
+  },
+  {
     "id": "dayleaves",
     "name": "Dayleaves",
     "originalModel": "Z310i",
@@ -1531,6 +1569,31 @@
       "themes/screenshots/Equalizer_settings.jpg"
     ],
     "file": "themes/Equalizer.thm"
+  },
+  {
+    "id": "everchanging",
+    "name": "Everchanging",
+    "originalModel": "S500i",
+    "supportedModels": ["S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Due to this themes structure, extra files are necessary, put the extra .thm files alongside the flash menu in tpa/preset/desktop/flash, and put the standby screen in tpa/preset/standby/flash",
+    "screenshots": [
+      "themes/screenshots/Everchanging_home.jpg",
+      "themes/screenshots/Everchanging_menu.jpg",
+      "themes/screenshots/Everchanging_settings.jpg"
+    ],
+    "file": "themes/Everchanging.thm",
+    "swf": "themes/swf/Everchanging_desktop.swf",
+    "extraFiles": [
+      { "name": "E1.thm", "path": "themes/swf/S500/Everchanging/E1.thm" },
+      { "name": "E2.thm", "path": "themes/swf/S500/Everchanging/E2.thm" },
+      { "name": "E3.thm", "path": "themes/swf/S500/Everchanging/E3.thm" },
+      { "name": "E4.thm", "path": "themes/swf/S500/Everchanging/E4.thm" },
+      { "name": "E5.thm", "path": "themes/swf/S500/Everchanging/E5.thm" },
+      { "name": "standby screen", "path": "themes/swf/S500/Everchanging/Everchanging_standby.swf" }
+    ]
   },
   {
     "id": "female-line-w710i",
@@ -4173,6 +4236,22 @@
     "file": "themes/Stripe (W205).thm"
   },
   {
+    "id": "stripe-w380i",
+    "name": "Stripe (W380i)",
+    "originalModel": "W380i",
+    "supportedModels": ["W350i", "W380i", "Z555i"],
+    "platform": "PNX5230",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Stripe (W380i)_home.jpg",
+      "themes/screenshots/Stripe (W380i)_menu.jpg",
+      "themes/screenshots/Stripe (W380i)_list.jpg"
+    ],
+    "file": "themes/Stripe (W380i).thm",
+    "swf": "themes/swf/Stripe_desktop.swf"
+  },
+  {
     "id": "stripes",
     "name": "Stripes",
     "originalModel": "J300i",
@@ -4451,6 +4530,22 @@
     ],
     "file": "themes/Unlimited (Yari).thm",
     "swf": "themes/swf/UnlimitedDesktop.swf"
+  },
+  {
+    "id": "vibes",
+    "name": "Vibes",
+    "originalModel": "W380i",
+    "supportedModels": ["W350i", "W380i", "Z555i"],
+    "platform": "PNX5230",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Vibes_home.jpg",
+      "themes/screenshots/Vibes_menu.jpg",
+      "themes/screenshots/Vibes_list.jpg"
+    ],
+    "file": "themes/Vibes.thm",
+    "swf": "themes/swf/Vibes_desktop.swf"
   },
   {
     "id": "waip",
