@@ -54,6 +54,8 @@
   { "name": "T270i", "image": "images/models/T270i.jpg" },
   { "name": "T280i", "image": "images/models/T280i.jpg" },
   { "name": "T303", "image": "images/models/T303.jpg" },
+  { "name": "T610", "image": "images/models/T610.jpg" },
+  { "name": "T630", "image": "images/models/T630.jpg" },
   { "name": "T650i", "image": "images/models/T650i.jpg" },
   { "name": "T700", "image": "images/models/T700.jpg" },
   { "name": "T707", "image": "images/models/T707.jpg" },
