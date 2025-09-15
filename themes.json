@@ -1526,6 +1526,21 @@
     "file": "themes/Default (W900i).thm"
   },
   {
+    "id": "default-w960i",
+    "name": "Default (W960i)",
+    "originalModel": "W960i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/W960i/Default_home.jpg",
+      "themes/screenshots/W960i/Default_menu.jpg",
+      "themes/screenshots/W960i/Default_list.jpg"
+    ],
+    "file": "themes/Default (W960i).utz"
+  },
+  {
     "id": "default-z530i",
     "name": "Default (Z530i)",
     "originalModel": "Z530i",
@@ -5325,6 +5340,21 @@
       "themes/screenshots/W880i/Walkman_settings.jpg"
     ],
     "file": "themes/Walkman (W880i).thm"
+  },
+  {
+    "id": "walkman-for-p1",
+    "name": "Walkman for P1",
+    "author": "Unknown, submitted by GoZiLlA98",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Walkman for P1_home.jpg",
+      "themes/screenshots/User-made/Walkman for P1_menu.jpg",
+      "themes/screenshots/User-made/Walkman for P1_list.jpg"
+    ],
+    "file": "themes/Walkman for P1.utz"
   },
   {
     "id": "wave",
