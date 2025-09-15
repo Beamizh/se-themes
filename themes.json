@@ -1451,6 +1451,21 @@
     "file": "themes/Default (G900).utz"
   },
   {
+    "id": "default-m600i",
+    "name": "Default (M600i)",
+    "originalModel": "M600i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/M600i/Default_home.jpg",
+      "themes/screenshots/M600i/Default_menu.jpg",
+      "themes/screenshots/M600i/Default_list.jpg"
+    ],
+    "file": "themes/Default (M600i).utz"
+  },
+  {
     "id": "default-p1i",
     "name": "Default (P1i)",
     "originalModel": "P1i",
