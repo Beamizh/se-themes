@@ -478,6 +478,23 @@
     "file": "themes/Cherry stream (Yari).thm"
   },
   {
+    "id": "cingularic",
+    "name": "Cingularic",
+    "originalModel": "Z500a",
+    "carrier": "Cingular (USA)",
+    "supportedModels": ["F500i", "K500i", "K506c", "K508i", "Z500a"],
+    "platform": "DB2010",
+    "resolution": "128x160",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Cingularic_home.jpg",
+      "themes/screenshots/Cingularic_menu.jpg",
+      "themes/screenshots/Cingularic_settings.jpg",
+      "themes/screenshots/Cingularic_external.jpg"
+    ],
+    "file": "themes/Cingularic.thm"
+  },
+  {
     "id": "circa",
     "name": "Circa",
     "originalModel": "W995",
@@ -739,6 +756,22 @@
       "themes/screenshots/Clarity (W205)_activity.jpg"
     ],
     "file": "themes/Clarity (W205).thm"
+  },
+  {
+    "id": "classic-trilogy-heroes",
+    "name": "'Classic Trilogy Heroes'",
+    "originalModel": "Z500a",
+    "supportedModels": ["F500i", "K500i", "K506c", "K508i", "Z500a"],
+    "platform": "DB2010",
+    "resolution": "128x160",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/'Classic Trilogy Heroes'_home.jpg",
+      "themes/screenshots/'Classic Trilogy Heroes'_menu.jpg",
+      "themes/screenshots/'Classic Trilogy Heroes'_settings.jpg",
+      "themes/screenshots/'Classic Trilogy Heroes'_external.jpg"
+    ],
+    "file": "themes/'Classic Trilogy Heroes'.thm"
   },
   {
     "id": "classical-p900",
@@ -1645,6 +1678,7 @@
     "platform": "DB2010",
     "resolution": "128x160",
     "homeType": "Animated",
+    "note": "Features images for the external display on the Z500a, otherwise identical to the <a href='floom-k500i.html'>K500i version</a>.",
     "screenshots": [
       "themes/screenshots/Floom (Z500a)_home.jpg",
       "themes/screenshots/Floom (Z500a)_menu.jpg",
@@ -1706,6 +1740,7 @@
     "platform": "DB2010",
     "resolution": "128x160",
     "homeType": "Animated",
+    "note": "Features images for the external display on the Z500a, otherwise identical to the <a href='floom-k500i.html'>K500i version</a>.",
     "screenshots": [
       "themes/screenshots/Floroflow (Z500a)_home.jpg",
       "themes/screenshots/Floroflow (Z500a)_menu.jpg",
@@ -2810,19 +2845,36 @@
     "file": "themes/Metal rings.thm"
   },
   {
-    "id": "metalix",
-    "name": "Metalix",
+    "id": "metalix-k500i",
+    "name": "Metalix (K500i)",
     "originalModel": "K500i",
     "supportedModels": ["F500i", "K500i", "K506c", "K508i", "Z500a"],
     "platform": "DB2010",
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Metalix_home.jpg",
-      "themes/screenshots/Metalix_menu.jpg",
-      "themes/screenshots/Metalix_settings.jpg"
+      "themes/screenshots/Metalix (K500i)_home.jpg",
+      "themes/screenshots/Metalix (K500i)_menu.jpg",
+      "themes/screenshots/Metalix (K500i)_settings.jpg"
     ],
-    "file": "themes/Metalix.thm"
+    "file": "themes/Metalix (K500i).thm"
+  },
+  {
+    "id": "metalix-z500a",
+    "name": "Metalix (Z500a)",
+    "originalModel": "Z500a",
+    "supportedModels": ["F500i", "K500i", "K506c", "K508i", "Z500a"],
+    "platform": "DB2010",
+    "resolution": "128x160",
+    "homeType": "Animated",
+    "note": "Features images for the external display on the Z500a, otherwise identical to the <a href='floom-k500i.html'>K500i version</a>.",
+    "screenshots": [
+      "themes/screenshots/Metalix (Z500a)_home.jpg",
+      "themes/screenshots/Metalix (Z500a)_menu.jpg",
+      "themes/screenshots/Metalix (Z500a)_settings.jpg",
+      "themes/screenshots/Metalix (Z500a)_external.jpg"
+    ],
+    "file": "themes/Metalix (Z500a).thm"
   },
   {
     "id": "metropolitan",
@@ -3868,6 +3920,7 @@
     "platform": "DB2010",
     "resolution": "128x160",
     "homeType": "Animated",
+    "note": "Features images for the external display on the Z500a, otherwise identical to the <a href='floom-k500i.html'>K500i version</a>.",
     "screenshots": [
       "themes/screenshots/Spinler (Z500a)_home.jpg",
       "themes/screenshots/Spinler (Z500a)_menu.jpg",
