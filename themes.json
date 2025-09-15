@@ -1353,6 +1353,21 @@
     "swf": "themes/swf/DandelionDesktop.swf"
   },
   {
+    "id": "dark-waves",
+    "name": "Dark Waves",
+    "originalModel": "W950i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/W950i/Dark Waves_home.jpg",
+      "themes/screenshots/W950i/Dark Waves_menu.jpg",
+      "themes/screenshots/W950i/Dark Waves_list.jpg"
+    ],
+    "file": "themes/Dark Waves.utz"
+  },
+  {
     "id": "day-and-night",
     "name": "Day and night",
     "originalModel": "S500i",
@@ -1539,6 +1554,21 @@
       "themes/screenshots/W900i/Default_menu.jpg"
     ],
     "file": "themes/Default (W900i).thm"
+  },
+  {
+    "id": "default-w950i",
+    "name": "Default (W950i)",
+    "originalModel": "W950i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/W950i/Default_home.jpg",
+      "themes/screenshots/W950i/Default_menu.jpg",
+      "themes/screenshots/W950i/Default_list.jpg"
+    ],
+    "file": "themes/Default (W950i).utz"
   },
   {
     "id": "default-w960i",
@@ -3842,6 +3872,21 @@
     "swf": "themes/swf/Persona5DesktopA1.swf"
   },
   {
+    "id": "petals",
+    "name": "Petals",
+    "originalModel": "W950i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/W950i/Petals_home.jpg",
+      "themes/screenshots/W950i/Petals_menu.jpg",
+      "themes/screenshots/W950i/Petals_list.jpg"
+    ],
+    "file": "themes/Petals.utz"
+  },
+  {
     "id": "phenomenon",
     "name": "Phenomenon",
     "originalModel": "K810i",
@@ -5046,6 +5091,21 @@
       "themes/screenshots/Aino (U10i)/TV2_settings.jpg"
     ],
     "file": "themes/TV2.thm"
+  },
+  {
+    "id": "twilight",
+    "name": "Twilight",
+    "originalModel": "W950i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/W950i/Twilight_home.jpg",
+      "themes/screenshots/W950i/Twilight_menu.jpg",
+      "themes/screenshots/W950i/Twilight_list.jpg"
+    ],
+    "file": "themes/Twilight.utz"
   },
   {
     "id": "twine",
