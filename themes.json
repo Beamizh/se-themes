@@ -82,8 +82,8 @@
     "id": "airport",
     "name": "Airport",
     "originalModel": "K600i",
-    "supportedModels": ["K600i", "K608i", "V600", "V800", "Z800", "Z1010"],
-    "platform": "DB2000",
+    "supportedModels": ["D750i", "K600i", "K608i", "K750i", "V600", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": ["DB2000", "DB2010"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -92,6 +92,22 @@
       "themes/screenshots/K600i/Airport_tab.jpg"
     ],
     "file": "themes/Airport.thm"
+  },
+  {
+    "id": "alumi",
+    "name": "Alumi",
+    "originalModel": "Z800",
+    "supportedModels": ["V800", "Z800"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Z800/Alumi_home.jpg",
+      "themes/screenshots/Z800/Alumi_menu.jpg",
+      "themes/screenshots/Z800/Alumi_tab.jpg",
+      "themes/screenshots/Z800/Alumi_external.jpg"
+    ],
+    "file": "themes/Alumi.thm"
   },
   {
     "id": "amber",
@@ -189,8 +205,8 @@
     "swf": "themes/swf/desktop_aquaticwhite.swf"
   },
   {
-    "id": "aurora",
-    "name": "Aurora",
+    "id": "aurora-g700",
+    "name": "Aurora (G700)",
     "originalModel": "G700",
     "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
     "platform": "DB2001",
@@ -202,6 +218,22 @@
       "themes/screenshots/G700/Aurora_list.jpg"
     ],
     "file": "themes/Aurora.utz"
+  },
+  {
+    "id": "aurora-z800",
+    "name": "Aurora (Z800)",
+    "originalModel": "Z800",
+    "supportedModels": ["V800", "Z800"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Z800/Aurora_home.jpg",
+      "themes/screenshots/Z800/Aurora_menu.jpg",
+      "themes/screenshots/Z800/Aurora_tab.jpg",
+      "themes/screenshots/Z800/Aurora_external.jpg"
+    ],
+    "file": "themes/Aurora.thm"
   },
   {
     "id": "avenue",
@@ -277,6 +309,22 @@
       "themes/screenshots/K750i/Beam_tab.jpg"
     ],
     "file": "themes/Beam.thm"
+  },
+  {
+    "id": "bezier",
+    "name": "Bezier",
+    "originalModel": "Z800",
+    "supportedModels": ["V800", "Z800"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Z800/Bezier_home.jpg",
+      "themes/screenshots/Z800/Bezier_menu.jpg",
+      "themes/screenshots/Z800/Bezier_tab.jpg",
+      "themes/screenshots/Z800/Bezier_external.jpg"
+    ],
+    "file": "themes/Bezier.thm"
   },
   {
     "id": "black-classy",
@@ -428,6 +476,22 @@
       "themes/screenshots/P990i/Bluelines_homeclosed.jpg"
     ],
     "file": "themes/Bluelines.utz"
+  },
+  {
+    "id": "blues",
+    "name": "Blues",
+    "originalModel": "Z800",
+    "supportedModels": ["V800", "Z800"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Z800/Blues_home.jpg",
+      "themes/screenshots/Z800/Blues_menu.jpg",
+      "themes/screenshots/Z800/Blues_tab.jpg",
+      "themes/screenshots/Z800/Blues_external.jpg"
+    ],
+    "file": "themes/Blues.thm"
   },
   {
     "id": "borderline",
@@ -1264,8 +1328,8 @@
     "id": "cubey",
     "name": "Cubey",
     "originalModel": "K600i",
-    "supportedModels": ["K600i", "K608i", "V600", "V800", "Z800", "Z1010"],
-    "platform": "DB2000",
+    "supportedModels": ["D750i", "K600i", "K608i", "K750i", "V600", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": ["DB2000", "DB2010"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -1646,6 +1710,22 @@
     ],
     "file": "themes/Divism.thm",
     "swf": "themes/swf/DivismDesktop.swf"
+  },
+  {
+    "id": "dor",
+    "name": "Dor",
+    "originalModel": "Z800",
+    "supportedModels": ["V800", "Z800"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Z800/Dor_home.jpg",
+      "themes/screenshots/Z800/Dor_menu.jpg",
+      "themes/screenshots/Z800/Dor_tab.jpg",
+      "themes/screenshots/Z800/Dor_external.jpg"
+    ],
+    "file": "themes/Dor.thm"
   },
   {
     "id": "dreamscape",
@@ -2224,6 +2304,21 @@
     "swf": "themes/swf/ForesttaleDesktop.swf"
   },
   {
+    "id": "frosty",
+    "name": "Frosty",
+    "originalModel": "Z1010",
+    "supportedModels": ["V800", "Z800", "Z1010"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Z1010/Frosty_home.jpg",
+      "themes/screenshots/Z1010/Frosty_menu.jpg",
+      "themes/screenshots/Z1010/Frosty_tab.jpg"
+    ],
+    "file": "themes/Frosty.thm"
+  },
+  {
     "id": "funky",
     "name": "Funky",
     "originalModel": "Z320i",
@@ -2411,8 +2506,8 @@
     "id": "gravity",
     "name": "Gravity",
     "originalModel": "K600i",
-    "supportedModels": ["K600i", "K608i", "V600", "V800", "Z800", "Z1010"],
-    "platform": "DB2000",
+    "supportedModels": ["D750i", "K600i", "K608i", "K750i", "V600", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": ["DB2000", "DB2010"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -2895,6 +2990,21 @@
     "swf": "themes/swf/Lava_desktop.swf"
   },
   {
+    "id": "layer",
+    "name": "Layer",
+    "originalModel": "Z1010",
+    "supportedModels": ["V800", "Z800", "Z1010"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Z1010/Layer_home.jpg",
+      "themes/screenshots/Z1010/Layer_menu.jpg",
+      "themes/screenshots/Z1010/Layer_tab.jpg"
+    ],
+    "file": "themes/Layer.thm"
+  },
+  {
     "id": "lazer-precision",
     "name": "Lazer precision",
     "originalModel": "C902",
@@ -3370,6 +3480,22 @@
     "swf": "themes/swf/NebulaDesktop.swf"
   },
   {
+    "id": "neo",
+    "name": "Neo",
+    "originalModel": "Z800",
+    "supportedModels": ["V800", "Z800"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Z800/Neo_home.jpg",
+      "themes/screenshots/Z800/Neo_menu.jpg",
+      "themes/screenshots/Z800/Neo_tab.jpg",
+      "themes/screenshots/Z800/Neo_external.jpg"
+    ],
+    "file": "themes/Neo.thm"
+  },
+  {
     "id": "neohighway",
     "name": "NeoHighway",
     "originalModel": "Z710i",
@@ -3828,8 +3954,8 @@
     "id": "pendulum",
     "name": "Pendulum",
     "originalModel": "K600i",
-    "supportedModels": ["K600i", "K608i", "V600", "V800", "Z800", "Z1010"],
-    "platform": "DB2000",
+    "supportedModels": ["D750i", "K600i", "K608i", "K750i", "V600", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": ["DB2000", "DB2010"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -4094,6 +4220,22 @@
     "file": "themes/Porcelain.utz"
   },
   {
+    "id": "power-saving",
+    "name": "Power Saving",
+    "originalModel": ["V800", "Z800"],
+    "supportedModels": ["V800", "Z800"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/V800/Power Saving_home.jpg",
+      "themes/screenshots/V800/Power Saving_menu.jpg",
+      "themes/screenshots/V800/Power Saving_tab.jpg",
+      "themes/screenshots/V800/Power Saving_external.jpg"
+    ],
+    "file": "themes/Power Saving.thm"
+  },
+  {
     "id": "purple-dimension",
     "name": "Purple Dimension",
     "author": "RedillGMV",
@@ -4230,6 +4372,22 @@
     ],
     "file": "themes/Ripples.thm",
     "swf": "themes/swf/RipplesDesktop.swf"
+  },
+  {
+    "id": "rouge",
+    "name": "Rouge",
+    "originalModel": "V800",
+    "supportedModels": ["V800", "Z800"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/V800/Rouge_home.jpg",
+      "themes/screenshots/V800/Rouge_menu.jpg",
+      "themes/screenshots/V800/Rouge_tab.jpg",
+      "themes/screenshots/V800/Rouge_external.jpg"
+    ],
+    "file": "themes/Rouge.thm"
   },
   {
     "id": "scribblebeats",
@@ -5250,6 +5408,40 @@
     "file": "themes/Vodafone live! (S700i).thm"
   },
   {
+    "id": "vodafone-live-v800",
+    "name": "Vodafone live! (V800)",
+    "originalModel": "V800",
+    "carrier": "Vodafone",
+    "supportedModels": ["V800", "Z800"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/V800/Vodafone live!_home.jpg",
+      "themes/screenshots/V800/Vodafone live!_menu.jpg",
+      "themes/screenshots/V800/Vodafone live!_tab.jpg",
+      "themes/screenshots/V800/Vodafone live!_external.jpg"
+    ],
+    "file": "themes/Vodafone live! (V800).thm"
+  },
+  {
+    "id": "vodafone-rings",
+    "name": "Vodafone Rings",
+    "originalModel": "V800",
+    "carrier": "Vodafone",
+    "supportedModels": ["V800", "Z800"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/V800/Vodafone Rings_home.jpg",
+      "themes/screenshots/V800/Vodafone Rings_menu.jpg",
+      "themes/screenshots/V800/Vodafone Rings_tab.jpg",
+      "themes/screenshots/V800/Vodafone Rings_external.jpg"
+    ],
+    "file": "themes/Vodafone Rings.thm"
+  },
+  {
     "id": "vodafone-sky",
     "name": "Vodafone Sky",
     "originalModel": "S700i",
@@ -5538,6 +5730,21 @@
     ],
     "file": "themes/Wink.thm",
     "swf": "themes/swf/Wink_desktop.swf"
+  },
+  {
+    "id": "winter-night",
+    "name": "Winter Night",
+    "originalModel": "Z1010",
+    "supportedModels": ["V800", "Z800", "Z1010"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Z1010/Winter Night_home.jpg",
+      "themes/screenshots/Z1010/Winter Night_menu.jpg",
+      "themes/screenshots/Z1010/Winter Night_tab.jpg"
+    ],
+    "file": "themes/Winter Night.thm"
   },
   {
     "id": "yelo",
