@@ -1,5 +1,53 @@
 [
   {
+    "id": "3-theme-k660i",
+    "name": "3 Theme (K660i)",
+    "originalModel": "K660i",
+    "carrier": "Three",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/3 Theme (K660i)_home.jpg",
+      "themes/screenshots/3 Theme (K660i)_menu.jpg",
+      "themes/screenshots/3 Theme (K660i)_settings.jpg"
+    ],
+    "file": "themes/3 Theme (K660i).thm"
+  },
+  {
+    "id": "3-theme-k770i",
+    "name": "3 Theme (K770i)",
+    "originalModel": "K770i",
+    "carrier": "Three",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/3 Theme (K770i)_home.jpg",
+      "themes/screenshots/3 Theme (K770i)_menu.jpg",
+      "themes/screenshots/3 Theme (K770i)_settings.jpg"
+    ],
+    "file": "themes/3 Theme (K770i).thm"
+  },
+  {
+    "id": "3-theme-w880i",
+    "name": "3 Theme (W880i)",
+    "originalModel": "W880i",
+    "carrier": "Three",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/3 Theme (W880i)_home.jpg",
+      "themes/screenshots/3 Theme (W880i)_menu.jpg",
+      "themes/screenshots/3 Theme (W880i)_settings.jpg"
+    ],
+    "file": "themes/3 Theme (W880i).thm"
+  },
+  {
     "id": "active",
     "name": "Active",
     "originalModel": "W710i",
@@ -524,6 +572,22 @@
     "file": "themes/Cherry stream (Yari).thm"
   },
   {
+    "id": "china-mobile",
+    "name": "China Mobile",
+    "originalModel": "W760c",
+    "carrier": "Chine Mobile (China)",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/China Mobile_home.jpg",
+      "themes/screenshots/China Mobile_menu.jpg",
+      "themes/screenshots/China Mobile_settings.jpg"
+    ],
+    "file": "themes/China Mobile.thm"
+  },
+  {
     "id": "cingularic",
     "name": "Cingularic",
     "originalModel": "Z500a",
@@ -892,7 +956,49 @@
       "themes/screenshots/Clero_settings.jpg"
     ],
     "file": "themes/Clero.thm",
-    "swf": "themes/swf/Clero_desktop.swf"
+    "swf": "themes/swf/Clero_desktop.swf",
+
+  "alternateFlashMenus": [
+    {
+      "screenshot": "themes/screenshots/Clero (China Mobile)_menu.jpg",
+      "file": "themes/swf/Alternate/China Mobile/Clero_desktop.swf",
+      "note": "China Mobile branded icons"
+    }
+  ]
+  },
+  {
+    "id": "clero-o2",
+    "name": "Clero (o2)",
+    "originalModel": "W760i",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Modified version of the <a href='clero.html'>Clero</a> theme that came on o2 (Germany) branded phones.",
+    "screenshots": [
+      "themes/screenshots/Clero (o2)_home.jpg",
+      "themes/screenshots/Clero (o2)_menu.jpg",
+      "themes/screenshots/Clero (o2)_settings.jpg"
+    ],
+    "file": "themes/Clero (o2).thm",
+    "swf": "themes/swf/Cleroo2_desktop.swf"
+  },
+  {
+    "id": "clero-orange",
+    "name": "Clero (Orange)",
+    "originalModel": "W760i",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Modified version of the <a href='clero.html'>Clero</a> theme that came on Orange (Israel) branded phones.",
+    "screenshots": [
+      "themes/screenshots/Clero (Orange)_home.jpg",
+      "themes/screenshots/Clero (Orange)_menu.jpg",
+      "themes/screenshots/Clero (Orange)_settings.jpg"
+    ],
+    "file": "themes/Clero (Orange).thm",
+    "swf": "themes/swf/CleroOrange_desktop.swf"
   },
   {
     "id": "club-light",
@@ -1037,6 +1143,22 @@
     ],
     "file": "themes/Constellation.thm",
     "swf": "themes/swf/ConstellationDesktop.swf"
+  },
+  {
+    "id": "cosmote-t700",
+    "name": "Cosmote (T700)",
+    "originalModel": "T700",
+    "carrier": "Cosmote (Greece)",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Cosmote (T700)_home.jpg",
+      "themes/screenshots/Cosmote (T700)_menu.jpg",
+      "themes/screenshots/Cosmote (T700)_settings.jpg"
+    ],
+    "file": "themes/Cosmote (T700).thm"
   },
   {
     "id": "cranberry-white",
@@ -1570,6 +1692,22 @@
     "swf": "themes/swf/EmersionDesktop.swf"
   },
   {
+    "id": "era-db2030",
+    "name": "Era (DB2030)",
+    "originalModel": "K770i",
+    "carrier": "Era (Poland)",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Era (DB2030)_home.jpg",
+      "themes/screenshots/Era (DB2030)_menu.jpg",
+      "themes/screenshots/Era (DB2030)_settings.jpg"
+    ],
+    "file": "themes/Era (DB2030).thm"
+  },
+  {
     "id": "era-theme",
     "name": "ERA Theme",
     "originalModel": "T630",
@@ -1964,6 +2102,22 @@
     "swf": "themes/swf/Flowers_desktop.swf"
   },
   {
+    "id": "fluits",
+    "name": "Fluits",
+    "originalModel": "W980",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Fluits_home.jpg",
+      "themes/screenshots/Fluits_menu.jpg",
+      "themes/screenshots/Fluits_settings.jpg"
+    ],
+    "file": "themes/Fluits.thm",
+    "swf": "themes/swf/Fluits_desktop.swf"
+  },
+  {
     "id": "fluor-star",
     "name": "Fluor star",
     "originalModel": "K630i",
@@ -2315,20 +2469,36 @@
     "swf": "themes/swf/grouped_desktop.swf"
   },
   {
-    "id": "gsharp",
-    "name": "gSharp",
+    "id": "gsharp-w610i",
+    "name": "gSharp (W610i)",
     "originalModel": "W610i",
     "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W610i", "W660i", "W710i", "Z610i", "Z710i"],
     "platform": "DB2020",
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/gSharp_home.jpg",
-      "themes/screenshots/gSharp_menu.jpg",
-      "themes/screenshots/gSharp_settings.jpg"
+      "themes/screenshots/gSharp (W610i)_home.jpg",
+      "themes/screenshots/gSharp (W610i)_menu.jpg",
+      "themes/screenshots/gSharp (W610i)_settings.jpg"
     ],
-    "file": "themes/gSharp.thm",
+    "file": "themes/gSharp (W610i).thm",
     "swf": "themes/swf/Na_dt_gSharp.swf"
+  },
+  {
+    "id": "gsharp-w880i",
+    "name": "Gsharp (W880i)",
+    "originalModel": "W880i",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Gsharp (W880i)_home.jpg",
+      "themes/screenshots/Gsharp (W880i)_menu.jpg",
+      "themes/screenshots/Gsharp (W880i)_settings.jpg"
+    ],
+    "file": "themes/Gsharp (W880i).thm",
+    "swf": "themes/swf/Final_Gsharp_desktop.swf"
   },
   {
     "id": "hapee-j300i",
@@ -2633,22 +2803,6 @@
     "file": "themes/Komi Shouko (S700i).thm"
   },
   {
-    "id": "lava",
-    "name": "Lava",
-    "originalModel": "W710i",
-    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W610i", "W660i", "W710i", "Z610i", "Z710i"],
-    "platform": "DB2020",
-    "resolution": "176x220",
-    "homeType": "Animated",
-    "screenshots": [
-      "themes/screenshots/Lava_home.jpg",
-      "themes/screenshots/Lava_menu.jpg",
-      "themes/screenshots/Lava_settings.jpg"
-    ],
-    "file": "themes/Lava.thm",
-    "swf": "themes/swf/Lava_desktop.swf"
-  },
-  {
     "id": "laser-precision",
     "name": "Laser precision",
     "originalModel": "K850i",
@@ -2665,6 +2819,22 @@
     "swf": "themes/swf/Precision_desktop.swf"
   },
   {
+    "id": "lava",
+    "name": "Lava",
+    "originalModel": "W710i",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W610i", "W660i", "W710i", "Z610i", "Z710i"],
+    "platform": "DB2020",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Lava_home.jpg",
+      "themes/screenshots/Lava_menu.jpg",
+      "themes/screenshots/Lava_settings.jpg"
+    ],
+    "file": "themes/Lava.thm",
+    "swf": "themes/swf/Lava_desktop.swf"
+  },
+  {
     "id": "lazer-precision",
     "name": "Lazer precision",
     "originalModel": "C902",
@@ -2678,6 +2848,23 @@
       "themes/screenshots/Lazer precision_settings.jpg"
     ],
     "file": "themes/Lazer precision.thm"
+  },
+  {
+    "id": "lazer-precision-o2",
+    "name": "Lazer Precision (o2)",
+    "originalModel": "W760i",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Modified version of the <a href='lazer-precision.html'>Lazer precision</a> theme that uses the <a href='laser-precision.html'>Laser precision</a> themes flash menu, it came on o2 (Germany) branded phones.",
+    "screenshots": [
+      "themes/screenshots/Lazer Precision (o2)_home.jpg",
+      "themes/screenshots/Lazer Precision (o2)_menu.jpg",
+      "themes/screenshots/Lazer Precision (o2)_settings.jpg"
+    ],
+    "file": "themes/Lazer Precision (o2).thm",
+    "swf": "themes/swf/Lazer precision_desktop.swf"
   },
   {
     "id": "leaves",
@@ -3075,19 +3262,35 @@
     "file": "themes/Mosaique.thm"
   },
   {
-    "id": "musaic",
-    "name": "Musaic",
+    "id": "musaic-w880i",
+    "name": "Musaic (W880i)",
+    "originalModel": "W880i",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Musaic (W880i)_home.jpg",
+      "themes/screenshots/Musaic (W880i)_menu.jpg",
+      "themes/screenshots/Musaic (W880i)_settings.jpg"
+    ],
+    "file": "themes/Musaic (W880i).thm",
+    "swf": "themes/swf/Final_Musaic_desktop.swf"
+  },
+  {
+    "id": "musaic-w890i",
+    "name": "Musaic (W890i)",
     "originalModel": "W890i",
     "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
     "platform": "DB3150",
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Musaic_home.jpg",
-      "themes/screenshots/Musaic_menu.jpg",
-      "themes/screenshots/Musaic_settings.jpg"
+      "themes/screenshots/Musaic (W890i)_home.jpg",
+      "themes/screenshots/Musaic (W890i)_menu.jpg",
+      "themes/screenshots/Musaic (W890i)_settings.jpg"
     ],
-    "file": "themes/Musaic.thm",
+    "file": "themes/Musaic (W890i).thm",
     "swf": "themes/swf/Musaic_desktop.swf"
   },
   {
@@ -3242,7 +3445,89 @@
       "themes/screenshots/Onto_settings.jpg"
     ],
     "file": "themes/Onto.thm",
-    "swf": "themes/swf/Onto_desktop.swf"
+    "swf": "themes/swf/Onto_desktop.swf",
+
+  "alternateFlashMenus": [
+    {
+      "screenshot": "themes/screenshots/Onto (China Mobile)_menu.jpg",
+      "file": "themes/swf/Alternate/China Mobile/Onto_desktop.swf",
+      "note": "China Mobile branded icons"
+    },
+    {
+      "screenshot": "themes/screenshots/Onto (o2)_menu.jpg",
+      "file": "themes/swf/Alternate/o2/Onto_desktop.swf",
+      "note": "o2 branded icons"
+    },
+    {
+      "screenshot": "themes/screenshots/Onto (Orange IL)_menu.jpg",
+      "file": "themes/swf/Alternate/Orange IL/Onto_desktop.swf",
+      "note": "Orange IL branded icons"
+    }
+  ]
+  },
+  {
+    "id": "optus-zoo-w980",
+    "name": "Optus Zoo (W980)",
+    "originalModel": "W980",
+    "carrier": "Optus (Australia)",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Optus Zoo (W980)_home.jpg",
+      "themes/screenshots/Optus Zoo (W980)_menu.jpg",
+      "themes/screenshots/Optus Zoo (W980)_settings.jpg"
+    ],
+    "file": "themes/Optus Zoo (W980).thm"
+  },
+  {
+    "id": "orange-c905",
+    "name": "Orange (C905)",
+    "originalModel": "C905",
+    "carrier": "Orange",
+    "supportedModels": ["C510", "C901", "C903", "C905", "G705", "T715", "W705", "W715", "W995"],
+    "platform": "DB3210",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Orange (C905)_home.jpg",
+      "themes/screenshots/Orange (C905)_menu.jpg",
+      "themes/screenshots/Orange (C905)_settings.jpg"
+    ],
+    "file": "themes/Orange (C905).thm"
+  },
+  {
+    "id": "orange-db2030",
+    "name": "Orange (DB2030)",
+    "originalModel": "W880i",
+    "carrier": "Orange (Poland)",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Orange (DB2030)_home.jpg",
+      "themes/screenshots/Orange (DB2030)_menu.jpg",
+      "themes/screenshots/Orange (DB2030)_settings.jpg"
+    ],
+    "file": "themes/Orange (DB2030).thm"
+  },
+  {
+    "id": "orange-db3150",
+    "name": "Orange (DB3150)",
+    "originalModel": "K660i",
+    "carrier": "Orange (Poland)",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Orange (DB3150)_home.jpg",
+      "themes/screenshots/Orange (DB3150)_menu.jpg",
+      "themes/screenshots/Orange (DB3150)_settings.jpg"
+    ],
+    "file": "themes/Orange (DB3150).thm"
   },
   {
     "id": "orange-bubbles",
@@ -3274,6 +3559,23 @@
       "themes/screenshots/Orange Cloud_messaging.jpg"
     ],
     "file": "themes/Orange Cloud.utz"
+  },
+  {
+    "id": "orange-music",
+    "name": "Orange Music",
+    "originalModel": "W880i",
+    "carrier": "Orange (Poland)",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Orange Music_home.jpg",
+      "themes/screenshots/Orange Music_menu.jpg",
+      "themes/screenshots/Orange Music_settings.jpg"
+    ],
+    "file": "themes/Orange Music.thm",
+    "swf": "themes/swf/Ai_dt_orange.swf"
   },
   {
     "id": "orange-orbit",
@@ -3525,6 +3827,56 @@
     "file": "themes/Phenomenon.thm"
   },
   {
+    "id": "pianos",
+    "name": "Pianos",
+    "originalModel": "W980",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Pianos_home.jpg",
+      "themes/screenshots/Pianos_menu.jpg",
+      "themes/screenshots/Pianos_settings.jpg"
+    ],
+    "file": "themes/Pianos.thm",
+    "swf": "themes/swf/Pianos_desktop.swf"
+  },
+  {
+    "id": "pianos-o2",
+    "name": "Pianos (o2)",
+    "originalModel": "W980",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Modified version of the <a href='pianos.html'>Pianos</a> theme that came on o2 (Germany) branded phones.",
+    "screenshots": [
+      "themes/screenshots/Pianos (o2)_home.jpg",
+      "themes/screenshots/Pianos (o2)_menu.jpg",
+      "themes/screenshots/Pianos (o2)_settings.jpg"
+    ],
+    "file": "themes/Pianos (o2).thm",
+    "swf": "themes/swf/Pianoso2_desktop.swf"
+  },
+  {
+    "id": "pianos-orange",
+    "name": "Pianos (Orange)",
+    "originalModel": "W980",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Modified version of the <a href='pianos.html'>Pianos</a> theme that came on Orange (Israel) branded phones.",
+    "screenshots": [
+      "themes/screenshots/Pianos (Orange)_home.jpg",
+      "themes/screenshots/Pianos (Orange)_menu.jpg",
+      "themes/screenshots/Pianos (Orange)_settings.jpg"
+    ],
+    "file": "themes/Pianos (Orange).thm",
+    "swf": "themes/swf/Pianos Orange.swf"
+  },
+  {
     "id": "pink-lilac",
     "name": "Pink lilac",
     "originalModel": "T707",
@@ -3556,9 +3908,41 @@
     "file": "themes/Pinstripe.utz"
   },
   {
+    "id": "play-db2030",
+    "name": "PLAY (DB2030)",
+    "originalModel": "K770i",
+    "carrier": "PLAY (Poland)",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/PLAY (DB2030)_home.jpg",
+      "themes/screenshots/PLAY (DB2030)_menu.jpg",
+      "themes/screenshots/PLAY (DB2030)_settings.jpg"
+    ],
+    "file": "themes/PLAY (DB2030).thm"
+  },
+  {
+    "id": "play-db3150",
+    "name": "PLAY (DB3150)",
+    "originalModel": "K660i",
+    "carrier": "PLAY (Poland)",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/PLAY (DB3150)_home.jpg",
+      "themes/screenshots/PLAY (DB3150)_menu.jpg",
+      "themes/screenshots/PLAY (DB3150)_settings.jpg"
+    ],
+    "file": "themes/PLAY (DB3150).thm"
+  },
+  {
     "id": "play-db3350",
     "name": "PLAY (DB3350)",
-    "originalModel": "Yari (U100i)",
+    "originalModel": ["Elm (J10i2)", "Yari (U100i)"],
     "carrier": "PLAY (Poland)",
     "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
     "platform": "DB3350",
@@ -3570,6 +3954,38 @@
       "themes/screenshots/PLAY (DB3350)_tab.jpg"
     ],
     "file": "themes/PLAY (DB3350).thm"
+  },
+  {
+    "id": "plus-db2030",
+    "name": "Plus (DB2030)",
+    "originalModel": ["K770i", "T650i"],
+    "carrier": "Plus (Poland)",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Plus (DB2030)_home.jpg",
+      "themes/screenshots/Plus (DB2030)_menu.jpg",
+      "themes/screenshots/Plus (DB2030)_settings.jpg"
+    ],
+    "file": "themes/Plus (DB2030).thm"
+  },
+  {
+    "id": "plus-db3150",
+    "name": "Plus (DB3150)",
+    "originalModel": ["K660i", "W760i"],
+    "carrier": "Plus (Poland)",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Plus (DB3150)_home.jpg",
+      "themes/screenshots/Plus (DB3150)_menu.jpg",
+      "themes/screenshots/Plus (DB3150)_settings.jpg"
+    ],
+    "file": "themes/Plus (DB3150).thm"
   },
   {
     "id": "pop-art",
@@ -4416,6 +4832,38 @@
     "swf": "themes/swf/desktop_sweetPink.swf"
   },
   {
+    "id": "telstra-k800i",
+    "name": "Telstra (K800i)",
+    "originalModel": "K800i",
+    "carrier": "Telstra (Australia)",
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Telstra (K800i)_home.jpg",
+      "themes/screenshots/Telstra (K800i)_menu.jpg",
+      "themes/screenshots/Telstra (K800i)_settings.jpg"
+    ],
+    "file": "themes/Telstra (K800i).thm"
+  },
+  {
+    "id": "telstra-theme-w760i",
+    "name": "Telstra Theme (W760i)",
+    "originalModel": "W760i",
+    "carrier": "Telstra (Australia)",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Telstra Theme (W760i)_home.jpg",
+      "themes/screenshots/Telstra Theme (W760i)_menu.jpg",
+      "themes/screenshots/Telstra Theme (W760i)_settings.jpg"
+    ],
+    "file": "themes/Telstra Theme (W760i).thm"
+  },
+  {
     "id": "tems-pocket-theme",
     "name": "TEMS Pocket Theme",
     "originalModel": "K790a",
@@ -4664,6 +5112,22 @@
     "swf": "themes/swf/Vibes_desktop.swf"
   },
   {
+    "id": "violis",
+    "name": "Violis",
+    "originalModel": "W980",
+    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
+    "platform": "DB3150",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Violis_home.jpg",
+      "themes/screenshots/Violis_menu.jpg",
+      "themes/screenshots/Violis_settings.jpg"
+    ],
+    "file": "themes/Violis.thm",
+    "swf": "themes/swf/Violis_desktop.swf"
+  },
+  {
     "id": "vodafone-z600",
     "name": "Vodafone (Z600)",
     "originalModel": "Z600",
@@ -4678,6 +5142,38 @@
       "themes/screenshots/Vodafone (Z600)_list.jpg"
     ],
     "file": "themes/Vodafone (Z600).thm"
+  },
+  {
+    "id": "vodafone-live-s700i",
+    "name": "Vodafone live! (S700i)",
+    "originalModel": "S700i",
+    "carrier": "Vodafone",
+    "supportedModels": ["S700i", "S710a"],
+    "platform": "DB2010",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Vodafone live! (S700i)_home.jpg",
+      "themes/screenshots/Vodafone live! (S700i)_menu.jpg",
+      "themes/screenshots/Vodafone live! (S700i)_settings.jpg"
+    ],
+    "file": "themes/Vodafone live! (S700i).thm"
+  },
+  {
+    "id": "vodafone-sky",
+    "name": "Vodafone Sky",
+    "originalModel": "S700i",
+    "carrier": "Vodafone",
+    "supportedModels": ["S700i", "S710a"],
+    "platform": "DB2010",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Vodafone Sky_home.jpg",
+      "themes/screenshots/Vodafone Sky_menu.jpg",
+      "themes/screenshots/Vodafone Sky_settings.jpg"
+    ],
+    "file": "themes/Vodafone Sky.thm"
   },
   {
     "id": "waip",
@@ -4697,7 +5193,7 @@
   {
     "id": "walkman-db3150",
     "name": "Walkman (DB3150)",
-    "originalModel": ["W595", "W760i", "W890i", "W902", "W910i"],
+    "originalModel": ["W595", "W760i", "W890i", "W902", "W910i", "W980"],
     "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
     "platform": "DB3150",
     "resolution": "240x320",
@@ -4952,6 +5448,24 @@
       "themes/screenshots/Yelo_settings.jpg"
     ],
     "file": "themes/Yelo.thm",
-    "swf": "themes/swf/Yelo_desktop.swf"
+    "swf": "themes/swf/Yelo_desktop.swf",
+
+  "alternateFlashMenus": [
+    {
+      "screenshot": "themes/screenshots/Yelo (China Mobile)_menu.jpg",
+      "file": "themes/swf/Alternate/China Mobile/Yelo_desktop.swf",
+      "note": "China Mobile branded icons"
+    },
+    {
+      "screenshot": "themes/screenshots/Yelo (o2)_menu.jpg",
+      "file": "themes/swf/Alternate/o2/Yelo_desktop.swf",
+      "note": "o2 branded icons"
+    },
+    {
+      "screenshot": "themes/screenshots/Yelo (Orange IL)_menu.jpg",
+      "file": "themes/swf/Alternate/Orange IL/Yelo_desktop.swf",
+      "note": "Orange IL branded icons"
+    }
+  ]
   }
 ]
