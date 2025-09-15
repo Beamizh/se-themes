@@ -774,6 +774,20 @@
     "file": "themes/Clarity (W205).thm"
   },
   {
+    "id": "clarity-z320i",
+    "name": "Clarity (Z320i)",
+    "originalModel": "Z320i",
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z320i", "Z520i", "Z530i"],
+    "platform": ["DB2010", "S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Clarity (Z320i)_home.jpg",
+      "themes/screenshots/Clarity (Z320i)_tab.jpg"
+    ],
+    "file": "themes/Clarity (Z320i).thm"
+  },
+  {
     "id": "classic-trilogy-heroes",
     "name": "'Classic Trilogy Heroes'",
     "originalModel": "Z500a",
@@ -1873,6 +1887,20 @@
     "file": "themes/Flower (K510i).thm"
   },
   {
+    "id": "flower-z320i",
+    "name": "Flower (Z320i)",
+    "originalModel": "Z320i",
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z320i", "Z520i", "Z530i"],
+    "platform": ["DB2010", "S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Flower (Z320i)_home.jpg",
+      "themes/screenshots/Flower (Z320i)_tab.jpg"
+    ],
+    "file": "themes/Flower (Z320i).thm"
+  },
+  {
     "id": "flower-power",
     "name": "Flower power",
     "originalModel": "W595",
@@ -1950,6 +1978,20 @@
     ],
     "file": "themes/Forest tale.thm",
     "swf": "themes/swf/ForesttaleDesktop.swf"
+  },
+  {
+    "id": "funky",
+    "name": "Funky",
+    "originalModel": "Z320i",
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z320i", "Z520i", "Z530i"],
+    "platform": ["DB2010", "S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Funky_home.jpg",
+      "themes/screenshots/Funky_tab.jpg"
+    ],
+    "file": "themes/Funky.thm"
   },
   {
     "id": "futurism",
@@ -3622,6 +3664,20 @@
       "themes/screenshots/Red Fragrance_settings.jpg"
     ],
     "file": "themes/Red Fragrance.thm"
+  },
+  {
+    "id": "retro",
+    "name": "Retro",
+    "originalModel": "Z320i",
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z320i", "Z520i", "Z530i"],
+    "platform": ["DB2010", "S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Retro_home.jpg",
+      "themes/screenshots/Retro_tab.jpg"
+    ],
+    "file": "themes/Retro.thm"
   },
   {
     "id": "rings",
