@@ -9,9 +9,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/3 Theme (K660i)_home.jpg",
-      "themes/screenshots/3 Theme (K660i)_menu.jpg",
-      "themes/screenshots/3 Theme (K660i)_settings.jpg"
+      "themes/screenshots/K660i/3 Theme_home.jpg",
+      "themes/screenshots/K660i/3 Theme_menu.jpg",
+      "themes/screenshots/K660i/3 Theme_settings.jpg"
     ],
     "file": "themes/3 Theme (K660i).thm"
   },
@@ -25,9 +25,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/3 Theme (K770i)_home.jpg",
-      "themes/screenshots/3 Theme (K770i)_menu.jpg",
-      "themes/screenshots/3 Theme (K770i)_settings.jpg"
+      "themes/screenshots/K770i/3 Theme_home.jpg",
+      "themes/screenshots/K770i/3 Theme_menu.jpg",
+      "themes/screenshots/K770i/3 Theme_settings.jpg"
     ],
     "file": "themes/3 Theme (K770i).thm"
   },
@@ -41,9 +41,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/3 Theme (W880i)_home.jpg",
-      "themes/screenshots/3 Theme (W880i)_menu.jpg",
-      "themes/screenshots/3 Theme (W880i)_settings.jpg"
+      "themes/screenshots/W880i/3 Theme_home.jpg",
+      "themes/screenshots/W880i/3 Theme_menu.jpg",
+      "themes/screenshots/W880i/3 Theme_settings.jpg"
     ],
     "file": "themes/3 Theme (W880i).thm"
   },
@@ -56,9 +56,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Active_home.jpg",
-      "themes/screenshots/Active_menu.jpg",
-      "themes/screenshots/Active_settings.jpg"
+      "themes/screenshots/W710i/Active_home.jpg",
+      "themes/screenshots/W710i/Active_menu.jpg",
+      "themes/screenshots/W710i/Active_settings.jpg"
     ],
     "file": "themes/Active.thm",
     "swf": "themes/swf/Active_desktop.swf"
@@ -72,9 +72,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Aerial_home.jpg",
-      "themes/screenshots/Aerial_menu.jpg",
-      "themes/screenshots/Aerial_settings.jpg"
+      "themes/screenshots/Z750i/Aerial_home.jpg",
+      "themes/screenshots/Z750i/Aerial_menu.jpg",
+      "themes/screenshots/Z750i/Aerial_settings.jpg"
     ],
     "file": "themes/Aerial.thm"
   },
@@ -87,9 +87,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Airport_home.jpg",
-      "themes/screenshots/Airport_menu.jpg",
-      "themes/screenshots/Airport_tab.jpg"
+      "themes/screenshots/K600i/Airport_home.jpg",
+      "themes/screenshots/K600i/Airport_menu.jpg",
+      "themes/screenshots/K600i/Airport_tab.jpg"
     ],
     "file": "themes/Airport.thm"
   },
@@ -102,9 +102,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Amber_home.jpg",
-      "themes/screenshots/Amber_menu.jpg",
-      "themes/screenshots/Amber_settings.jpg"
+      "themes/screenshots/C903/Amber_home.jpg",
+      "themes/screenshots/C903/Amber_menu.jpg",
+      "themes/screenshots/C903/Amber_settings.jpg"
     ],
     "file": "themes/Amber.thm",
     "swf": "themes/swf/Amber_desktop.swf"
@@ -118,9 +118,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Amethyst (C903)_home.jpg",
-      "themes/screenshots/Amethyst (C903)_menu.jpg",
-      "themes/screenshots/Amethyst (C903)_settings.jpg"
+      "themes/screenshots/C903/Amethyst_home.jpg",
+      "themes/screenshots/C903/Amethyst_menu.jpg",
+      "themes/screenshots/C903/Amethyst_settings.jpg"
     ],
     "file": "themes/Amethyst (C903).thm",
     "swf": "themes/swf/Amethyst_desktop.swf"
@@ -134,9 +134,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Amethyst (K660i)_home.jpg",
-      "themes/screenshots/Amethyst (K660i)_menu.jpg",
-      "themes/screenshots/Amethyst (K660i)_settings.jpg"
+      "themes/screenshots/K660i/Amethyst_home.jpg",
+      "themes/screenshots/K660i/Amethyst_menu.jpg",
+      "themes/screenshots/K660i/Amethyst_settings.jpg"
     ],
     "file": "themes/Amethyst (K660i).thm"
   },
@@ -149,9 +149,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Aperture_home.jpg",
-      "themes/screenshots/Aperture_menu.jpg",
-      "themes/screenshots/Aperture_settings.jpg"
+      "themes/screenshots/K770i/Aperture_home.jpg",
+      "themes/screenshots/K770i/Aperture_menu.jpg",
+      "themes/screenshots/K770i/Aperture_settings.jpg"
     ],
     "file": "themes/Aperture.thm",
     "swf": "themes/swf/Aperture_desktop.swf"
@@ -165,9 +165,9 @@
     "resolution": "128x128",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Aqua Tiles_home.jpg",
-      "themes/screenshots/Aqua Tiles_menu.jpg",
-      "themes/screenshots/Aqua Tiles_settings.jpg"
+      "themes/screenshots/K300i/Aqua Tiles_home.jpg",
+      "themes/screenshots/K300i/Aqua Tiles_menu.jpg",
+      "themes/screenshots/K300i/Aqua Tiles_settings.jpg"
     ],
     "file": "themes/Aqua Tiles.thm"
   },
@@ -181,9 +181,9 @@
     "homeType": "Animated",
     "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
     "screenshots": [
-      "themes/screenshots/Aquatic white_home.jpg",
-      "themes/screenshots/Aquatic white_menu.jpg",
-      "themes/screenshots/Aquatic white_settings.jpg"
+      "themes/screenshots/W200i/Aquatic white_home.jpg",
+      "themes/screenshots/W200i/Aquatic white_menu.jpg",
+      "themes/screenshots/W200i/Aquatic white_settings.jpg"
     ],
     "file": "themes/Aquatic white.thm",
     "swf": "themes/swf/desktop_aquaticwhite.swf"
@@ -197,9 +197,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Aurora_home.jpg",
-      "themes/screenshots/Aurora_menu.jpg",
-      "themes/screenshots/Aurora_list.jpg"
+      "themes/screenshots/G700/Aurora_home.jpg",
+      "themes/screenshots/G700/Aurora_menu.jpg",
+      "themes/screenshots/G700/Aurora_list.jpg"
     ],
     "file": "themes/Aurora.utz"
   },
@@ -212,8 +212,8 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Avenue_home.jpg",
-      "themes/screenshots/Avenue_menu.jpg"
+      "themes/screenshots/W900i/Avenue_home.jpg",
+      "themes/screenshots/W900i/Avenue_menu.jpg"
     ],
     "file": "themes/Avenue.thm"
   },
@@ -226,9 +226,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Back to black_home.jpg",
-      "themes/screenshots/Back to black_menu.jpg",
-      "themes/screenshots/Back to black_settings.jpg"
+      "themes/screenshots/G705/Back to black_home.jpg",
+      "themes/screenshots/G705/Back to black_menu.jpg",
+      "themes/screenshots/G705/Back to black_settings.jpg"
     ],
     "file": "themes/Back to black.thm",
     "swf": "themes/swf/Back to black_desktop.swf"
@@ -242,8 +242,8 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Backstreet_home.jpg",
-      "themes/screenshots/Backstreet_menu.jpg"
+      "themes/screenshots/W900i/Backstreet_home.jpg",
+      "themes/screenshots/W900i/Backstreet_menu.jpg"
     ],
     "file": "themes/Backstreet.thm"
   },
@@ -256,9 +256,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Balance_home.jpg",
-      "themes/screenshots/Balance_menu.jpg",
-      "themes/screenshots/Balance_list.jpg"
+      "themes/screenshots/W380i/Balance_home.jpg",
+      "themes/screenshots/W380i/Balance_menu.jpg",
+      "themes/screenshots/W380i/Balance_list.jpg"
     ],
     "file": "themes/Balance.thm",
     "swf": "themes/swf/Balance_desktop.swf"
@@ -272,9 +272,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Beam_home.jpg",
-      "themes/screenshots/Beam_menu.jpg",
-      "themes/screenshots/Beam_tab.jpg"
+      "themes/screenshots/K750i/Beam_home.jpg",
+      "themes/screenshots/K750i/Beam_menu.jpg",
+      "themes/screenshots/K750i/Beam_tab.jpg"
     ],
     "file": "themes/Beam.thm"
   },
@@ -287,9 +287,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Black classy_home.jpg",
-      "themes/screenshots/Black classy_menu.jpg",
-      "themes/screenshots/Black classy_settings.jpg"
+      "themes/screenshots/G502/Black classy_home.jpg",
+      "themes/screenshots/G502/Black classy_menu.jpg",
+      "themes/screenshots/G502/Black classy_settings.jpg"
     ],
     "file": "themes/Black classy.thm"
   },
@@ -302,9 +302,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Blaqua_home.jpg",
-      "themes/screenshots/Blaqua_menu.jpg",
-      "themes/screenshots/Blaqua_settings.jpg"
+      "themes/screenshots/K610i/Blaqua_home.jpg",
+      "themes/screenshots/K610i/Blaqua_menu.jpg",
+      "themes/screenshots/K610i/Blaqua_settings.jpg"
     ],
     "file": "themes/Blaqua.thm"
   },
@@ -317,9 +317,9 @@
     "resolution": "128x128",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Blinds_home.jpg",
-      "themes/screenshots/Blinds_menu.jpg",
-      "themes/screenshots/Blinds_settings.jpg"
+      "themes/screenshots/K300i/Blinds_home.jpg",
+      "themes/screenshots/K300i/Blinds_menu.jpg",
+      "themes/screenshots/K300i/Blinds_settings.jpg"
     ],
     "file": "themes/Blinds.thm"
   },
@@ -332,9 +332,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Bling_home.jpg",
-      "themes/screenshots/Bling_menu.jpg",
-      "themes/screenshots/Bling_settings.jpg"
+      "themes/screenshots/Z530i/Bling_home.jpg",
+      "themes/screenshots/Z530i/Bling_menu.jpg",
+      "themes/screenshots/Z530i/Bling_settings.jpg"
     ],
     "file": "themes/Bling.thm"
   },
@@ -347,9 +347,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Bloc_home.jpg",
-      "themes/screenshots/Bloc_menu.jpg",
-      "themes/screenshots/Bloc_settings.jpg"
+      "themes/screenshots/S700i/Bloc_home.jpg",
+      "themes/screenshots/S700i/Bloc_menu.jpg",
+      "themes/screenshots/S700i/Bloc_settings.jpg"
     ],
     "file": "themes/Bloc.thm"
   },
@@ -362,9 +362,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Blub_home.jpg",
-      "themes/screenshots/Blub_menu.jpg",
-      "themes/screenshots/Blub_tab.jpg"
+      "themes/screenshots/K700i/Blub_home.jpg",
+      "themes/screenshots/K700i/Blub_menu.jpg",
+      "themes/screenshots/K700i/Blub_tab.jpg"
     ],
     "file": "themes/Blub.thm"
   },
@@ -377,9 +377,9 @@
     "resolution": "208x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Blue (P900)_homeclosed.jpg",
-      "themes/screenshots/Blue (P900)_menu.jpg",
-      "themes/screenshots/Blue (P900)_messaging.jpg"
+      "themes/screenshots/P900/Blue_homeclosed.jpg",
+      "themes/screenshots/P900/Blue_menu.jpg",
+      "themes/screenshots/P900/Blue_messaging.jpg"
     ],
     "file": "themes/Blue.utz"
   },
@@ -392,9 +392,9 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Blue (Z600)_home.jpg",
-      "themes/screenshots/Blue (Z600)_menu.jpg",
-      "themes/screenshots/Blue (Z600)_list.jpg"
+      "themes/screenshots/Z600/Blue_home.jpg",
+      "themes/screenshots/Z600/Blue_menu.jpg",
+      "themes/screenshots/Z600/Blue_list.jpg"
     ],
     "file": "themes/Blue.thm"
   },
@@ -407,9 +407,9 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Blue & Stripes_home.jpg",
-      "themes/screenshots/Blue & Stripes_menu.jpg",
-      "themes/screenshots/Blue & Stripes_list.jpg"
+      "themes/screenshots/Z600/Blue & Stripes_home.jpg",
+      "themes/screenshots/Z600/Blue & Stripes_menu.jpg",
+      "themes/screenshots/Z600/Blue & Stripes_list.jpg"
     ],
     "file": "themes/Blue & Stripes.thm"
   },
@@ -422,10 +422,10 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Bluelines_home.jpg",
-      "themes/screenshots/Bluelines_menu.jpg",
-      "themes/screenshots/Bluelines_list.jpg",
-      "themes/screenshots/Bluelines_homeclosed.jpg"
+      "themes/screenshots/P990i/Bluelines_home.jpg",
+      "themes/screenshots/P990i/Bluelines_menu.jpg",
+      "themes/screenshots/P990i/Bluelines_list.jpg",
+      "themes/screenshots/P990i/Bluelines_homeclosed.jpg"
     ],
     "file": "themes/Bluelines.utz"
   },
@@ -438,9 +438,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Borderline_home.jpg",
-      "themes/screenshots/Borderline_menu.jpg",
-      "themes/screenshots/Borderline_settings.jpg"
+      "themes/screenshots/C903/Borderline_home.jpg",
+      "themes/screenshots/C903/Borderline_menu.jpg",
+      "themes/screenshots/C903/Borderline_settings.jpg"
     ],
     "file": "themes/Borderline.thm"
   },
@@ -454,9 +454,9 @@
     "homeType": "Animated",
     "note": "Missing flash menu",
     "screenshots": [
-      "themes/screenshots/Breakbeat_home.jpg",
-      "themes/screenshots/Breakbeat_menu.jpg",
-      "themes/screenshots/Breakbeat_settings.jpg"
+      "themes/screenshots/W550i/Breakbeat_home.jpg",
+      "themes/screenshots/W550i/Breakbeat_menu.jpg",
+      "themes/screenshots/W550i/Breakbeat_settings.jpg"
     ],
     "file": "themes/Breakbeat.thm"
   },
@@ -469,9 +469,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Breeze_home.jpg",
-      "themes/screenshots/Breeze_menu.jpg",
-      "themes/screenshots/Breeze_charging.jpg"
+      "themes/screenshots/Hazel (J20i)/Breeze_home.jpg",
+      "themes/screenshots/Hazel (J20i)/Breeze_menu.jpg",
+      "themes/screenshots/Hazel (J20i)/Breeze_charging.jpg"
     ],
     "file": "themes/Breeze.thm",
     "swf": "themes/swf/BreezeDesktop.swf"
@@ -485,9 +485,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Bronze flower_home.jpg",
-      "themes/screenshots/Bronze flower_menu.jpg",
-      "themes/screenshots/Bronze flower_settings.jpg"
+      "themes/screenshots/Z310i/Bronze flower_home.jpg",
+      "themes/screenshots/Z310i/Bronze flower_menu.jpg",
+      "themes/screenshots/Z310i/Bronze flower_settings.jpg"
     ],
     "file": "themes/Bronze flower.thm"
   },
@@ -500,9 +500,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Bronzy_home.jpg",
-      "themes/screenshots/Bronzy_menu.jpg",
-      "themes/screenshots/Bronzy_settings.jpg"
+      "themes/screenshots/W890i/Bronzy_home.jpg",
+      "themes/screenshots/W890i/Bronzy_menu.jpg",
+      "themes/screenshots/W890i/Bronzy_settings.jpg"
     ],
     "file": "themes/Bronzy.thm",
     "swf": "themes/swf/Bronzy_desktop.swf"
@@ -516,11 +516,11 @@
     "resolution": "176x220",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/C_home.jpg",
-      "themes/screenshots/C_menu.jpg",
-      "themes/screenshots/C_popup.jpg",
-      "themes/screenshots/C_list.jpg",
-      "themes/screenshots/C_input.jpg"
+      "themes/screenshots/User-made/C_home.jpg",
+      "themes/screenshots/User-made/C_menu.jpg",
+      "themes/screenshots/User-made/C_popup.jpg",
+      "themes/screenshots/User-made/C_list.jpg",
+      "themes/screenshots/User-made/C_input.jpg"
     ],
     "file": "themes/C.thm"
   },
@@ -534,9 +534,9 @@
     "homeType": "Animated",
     "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
     "screenshots": [
-      "themes/screenshots/Cheerful_home.jpg",
-      "themes/screenshots/Cheerful_menu.jpg",
-      "themes/screenshots/Cheerful_settings.jpg"
+      "themes/screenshots/W200i/Cheerful_home.jpg",
+      "themes/screenshots/W200i/Cheerful_menu.jpg",
+      "themes/screenshots/W200i/Cheerful_settings.jpg"
     ],
     "file": "themes/Cheerful.thm",
     "swf": "themes/swf/Cheerful_061016.swf"
@@ -550,9 +550,9 @@
     "resolution": "240x432",
     "homeType": "Slideshow",
     "screenshots": [
-      "themes/screenshots/Cherry stream (Aino)_home.jpg",
-      "themes/screenshots/Cherry stream (Aino)_menu.jpg",
-      "themes/screenshots/Cherry stream (Aino)_settings.jpg"
+      "themes/screenshots/Aino (U10i)/Cherry stream_home.jpg",
+      "themes/screenshots/Aino (U10i)/Cherry stream_menu.jpg",
+      "themes/screenshots/Aino (U10i)/Cherry stream_settings.jpg"
     ],
     "file": "themes/Cherry stream (Aino).thm"
   },
@@ -565,9 +565,9 @@
     "resolution": "240x320",
     "homeType": "Slideshow",
     "screenshots": [
-      "themes/screenshots/Cherry stream (Yari)_home.jpg",
-      "themes/screenshots/Cherry stream (Yari)_menu.jpg",
-      "themes/screenshots/Cherry stream (Yari)_settings.jpg"
+      "themes/screenshots/Yari (U100i)/Cherry stream_home.jpg",
+      "themes/screenshots/Yari (U100i)/Cherry stream_menu.jpg",
+      "themes/screenshots/Yari (U100i)/Cherry stream_settings.jpg"
     ],
     "file": "themes/Cherry stream (Yari).thm"
   },
@@ -581,9 +581,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/China Mobile_home.jpg",
-      "themes/screenshots/China Mobile_menu.jpg",
-      "themes/screenshots/China Mobile_settings.jpg"
+      "themes/screenshots/W760i/China Mobile_home.jpg",
+      "themes/screenshots/W760i/China Mobile_menu.jpg",
+      "themes/screenshots/W760i/China Mobile_settings.jpg"
     ],
     "file": "themes/China Mobile.thm"
   },
@@ -597,10 +597,10 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Cingularic_home.jpg",
-      "themes/screenshots/Cingularic_menu.jpg",
-      "themes/screenshots/Cingularic_settings.jpg",
-      "themes/screenshots/Cingularic_external.jpg"
+      "themes/screenshots/Z500a/Cingularic_home.jpg",
+      "themes/screenshots/Z500a/Cingularic_menu.jpg",
+      "themes/screenshots/Z500a/Cingularic_settings.jpg",
+      "themes/screenshots/Z500a/Cingularic_external.jpg"
     ],
     "file": "themes/Cingularic.thm"
   },
@@ -613,9 +613,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Circa_home.jpg",
-      "themes/screenshots/Circa_menu.jpg",
-      "themes/screenshots/Circa_settings.jpg"
+      "themes/screenshots/W995/Circa_home.jpg",
+      "themes/screenshots/W995/Circa_menu.jpg",
+      "themes/screenshots/W995/Circa_settings.jpg"
     ],
     "file": "themes/Circa.thm",
     "swf": "themes/swf/CircaDesktop.swf"
@@ -630,9 +630,9 @@
     "homeType": "Animated",
     "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
     "screenshots": [
-      "themes/screenshots/Circle Shine_home.jpg",
-      "themes/screenshots/Circle Shine_menu.jpg",
-      "themes/screenshots/Circle Shine_settings.jpg"
+      "themes/screenshots/W300i/Circle Shine_home.jpg",
+      "themes/screenshots/W300i/Circle Shine_menu.jpg",
+      "themes/screenshots/W300i/Circle Shine_settings.jpg"
     ],
     "file": "themes/Circle Shine.thm",
     "swf": "themes/swf/circleShine.swf"
@@ -646,10 +646,10 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Circles_home.jpg",
-      "themes/screenshots/Circles_menu.jpg",
-      "themes/screenshots/Circles_list.jpg",
-      "themes/screenshots/Circles_homeclosed.jpg"
+      "themes/screenshots/P990i/Circles_home.jpg",
+      "themes/screenshots/P990i/Circles_menu.jpg",
+      "themes/screenshots/P990i/Circles_list.jpg",
+      "themes/screenshots/P990i/Circles_homeclosed.jpg"
     ],
     "file": "themes/Circles.utz"
   },
@@ -662,9 +662,9 @@
     "resolution": "240x432",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/City_home.jpg",
-      "themes/screenshots/City_menu.jpg",
-      "themes/screenshots/City_settings.jpg"
+      "themes/screenshots/Aino (U10i)/City_home.jpg",
+      "themes/screenshots/Aino (U10i)/City_menu.jpg",
+      "themes/screenshots/Aino (U10i)/City_settings.jpg"
     ],
     "file": "themes/City.thm",
     "swf": "themes/swf/CityDesktop.swf"
@@ -678,9 +678,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/City lights_home.jpg",
-      "themes/screenshots/City lights_menu.jpg",
-      "themes/screenshots/City lights_settings.jpg"
+      "themes/screenshots/W350i/City lights_home.jpg",
+      "themes/screenshots/W350i/City lights_menu.jpg",
+      "themes/screenshots/W350i/City lights_settings.jpg"
     ],
     "file": "themes/City lights.thm",
     "swf": "themes/swf/City lights_desktop.swf"
@@ -694,9 +694,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Citybeat (W610i)_home.jpg",
-      "themes/screenshots/Citybeat (W610i)_menu.jpg",
-      "themes/screenshots/Citybeat (W610i)_settings.jpg"
+      "themes/screenshots/W610i/Citybeat_home.jpg",
+      "themes/screenshots/W610i/Citybeat_menu.jpg",
+      "themes/screenshots/W610i/Citybeat_settings.jpg"
     ],
     "file": "themes/Citybeat (W610i).thm",
     "swf": "themes/swf/Na_dt_cityBeat.swf"
@@ -710,9 +710,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Citybeat (W880i)_home.jpg",
-      "themes/screenshots/Citybeat (W880i)_menu.jpg",
-      "themes/screenshots/Citybeat (W880i)_settings.jpg"
+      "themes/screenshots/W880i/Citybeat_home.jpg",
+      "themes/screenshots/W880i/Citybeat_menu.jpg",
+      "themes/screenshots/W880i/Citybeat_settings.jpg"
     ],
     "file": "themes/Citybeat (W880i).thm",
     "swf": "themes/swf/Final_Citybeat_desktop.swf"
@@ -726,9 +726,9 @@
     "resolution": "240x432",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Clarity (Aino)_home.jpg",
-      "themes/screenshots/Clarity (Aino)_menu.jpg",
-      "themes/screenshots/Clarity (Aino)_settings.jpg"
+      "themes/screenshots/Aino (U10i)/Clarity_home.jpg",
+      "themes/screenshots/Aino (U10i)/Clarity_menu.jpg",
+      "themes/screenshots/Aino (U10i)/Clarity_settings.jpg"
     ],
     "file": "themes/Clarity (Aino).thm"
   },
@@ -741,9 +741,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Clarity (DB2001)_home.jpg",
-      "themes/screenshots/Clarity (DB2001)_menu.jpg",
-      "themes/screenshots/Clarity (DB2001)_list.jpg"
+      "themes/screenshots/G700/Clarity_home.jpg",
+      "themes/screenshots/G700/Clarity_menu.jpg",
+      "themes/screenshots/G700/Clarity_list.jpg"
     ],
     "file": "themes/Clarity.utz"
   },
@@ -756,9 +756,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Clarity (DB2020)_home.jpg",
-      "themes/screenshots/Clarity (DB2020)_menu.jpg",
-      "themes/screenshots/Clarity (DB2020)_settings.jpg"
+      "themes/screenshots/W580i/Clarity_home.jpg",
+      "themes/screenshots/W580i/Clarity_menu.jpg",
+      "themes/screenshots/W580i/Clarity_settings.jpg"
     ],
     "file": "themes/Clarity (DB2020).thm"
   },
@@ -771,9 +771,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Clarity (DB2030)_home.jpg",
-      "themes/screenshots/Clarity (DB2030)_menu.jpg",
-      "themes/screenshots/Clarity (DB2030)_settings.jpg"
+      "themes/screenshots/K770i/Clarity_home.jpg",
+      "themes/screenshots/K770i/Clarity_menu.jpg",
+      "themes/screenshots/K770i/Clarity_settings.jpg"
     ],
     "file": "themes/Clarity (DB2030).thm"
   },
@@ -786,9 +786,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Clarity (DB3150)_home.jpg",
-      "themes/screenshots/Clarity (DB3150)_menu.jpg",
-      "themes/screenshots/Clarity (DB3150)_settings.jpg"
+      "themes/screenshots/T700/Clarity_home.jpg",
+      "themes/screenshots/T700/Clarity_menu.jpg",
+      "themes/screenshots/T700/Clarity_settings.jpg"
     ],
     "file": "themes/Clarity (DB3150).thm"
   },
@@ -801,9 +801,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Clarity (DB3200)_home.jpg",
-      "themes/screenshots/Clarity (DB3200)_menu.jpg",
-      "themes/screenshots/Clarity (DB3200)_settings.jpg"
+      "themes/screenshots/C510/Clarity_home.jpg",
+      "themes/screenshots/C510/Clarity_menu.jpg",
+      "themes/screenshots/C510/Clarity_settings.jpg"
     ],
     "file": "themes/Clarity (DB3200).thm"
   },
@@ -816,9 +816,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Clarity (DB3350)_home.jpg",
-      "themes/screenshots/Clarity (DB3350)_menu.jpg",
-      "themes/screenshots/Clarity (DB3350)_settings.jpg"
+      "themes/screenshots/Yari (U100i)/Clarity_home.jpg",
+      "themes/screenshots/Yari (U100i)/Clarity_menu.jpg",
+      "themes/screenshots/Yari (U100i)/Clarity_settings.jpg"
     ],
     "file": "themes/Clarity (DB3350).thm"
   },
@@ -831,9 +831,9 @@
     "resolution": "176x220",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Clarity (K630i)_home.jpg",
-      "themes/screenshots/Clarity (K630i)_menu.jpg",
-      "themes/screenshots/Clarity (K630i)_tab.jpg"
+      "themes/screenshots/K630i/Clarity_home.jpg",
+      "themes/screenshots/K630i/Clarity_menu.jpg",
+      "themes/screenshots/K630i/Clarity_tab.jpg"
     ],
     "file": "themes/Clarity (K630i).thm"
   },
@@ -846,9 +846,9 @@
     "resolution": "176x220",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Clarity (PNX5230)_home.jpg",
-      "themes/screenshots/Clarity (PNX5230)_menu.jpg",
-      "themes/screenshots/Clarity (PNX5230)_settings.jpg"
+      "themes/screenshots/W350i/Clarity_home.jpg",
+      "themes/screenshots/W350i/Clarity_menu.jpg",
+      "themes/screenshots/W350i/Clarity_settings.jpg"
     ],
     "file": "themes/Clarity (PNX5230).thm"
   },
@@ -861,9 +861,9 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Clarity (W205)_home.jpg",
-      "themes/screenshots/Clarity (W205)_menu.jpg",
-      "themes/screenshots/Clarity (W205)_activity.jpg"
+      "themes/screenshots/W205/Clarity_home.jpg",
+      "themes/screenshots/W205/Clarity_menu.jpg",
+      "themes/screenshots/W205/Clarity_activity.jpg"
     ],
     "file": "themes/Clarity (W205).thm"
   },
@@ -876,8 +876,8 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Clarity (Z320i)_home.jpg",
-      "themes/screenshots/Clarity (Z320i)_tab.jpg"
+      "themes/screenshots/Z320i/Clarity_home.jpg",
+      "themes/screenshots/Z320i/Clarity_tab.jpg"
     ],
     "file": "themes/Clarity (Z320i).thm"
   },
@@ -890,10 +890,10 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/'Classic Trilogy Heroes'_home.jpg",
-      "themes/screenshots/'Classic Trilogy Heroes'_menu.jpg",
-      "themes/screenshots/'Classic Trilogy Heroes'_settings.jpg",
-      "themes/screenshots/'Classic Trilogy Heroes'_external.jpg"
+      "themes/screenshots/Z500a/'Classic Trilogy Heroes'_home.jpg",
+      "themes/screenshots/Z500a/'Classic Trilogy Heroes'_menu.jpg",
+      "themes/screenshots/Z500a/'Classic Trilogy Heroes'_settings.jpg",
+      "themes/screenshots/Z500a/'Classic Trilogy Heroes'_external.jpg"
     ],
     "file": "themes/'Classic Trilogy Heroes'.thm"
   },
@@ -906,9 +906,9 @@
     "resolution": "208x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Classical (P900)_homeclosed.jpg",
-      "themes/screenshots/Classical (P900)_menu.jpg",
-      "themes/screenshots/Classical (P900)_messaging.jpg"
+      "themes/screenshots/P900/Classical_homeclosed.jpg",
+      "themes/screenshots/P900/Classical_menu.jpg",
+      "themes/screenshots/P900/Classical_messaging.jpg"
     ],
     "file": "themes/Classical (P900).utz"
   },
@@ -921,9 +921,9 @@
     "resolution": "208x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Classical (P910i)_homeclosed.jpg",
-      "themes/screenshots/Classical (P910i)_menu.jpg",
-      "themes/screenshots/Classical (P910i)_messaging.jpg"
+      "themes/screenshots/P910i/Classical_homeclosed.jpg",
+      "themes/screenshots/P910i/Classical_menu.jpg",
+      "themes/screenshots/P910i/Classical_messaging.jpg"
     ],
     "file": "themes/Classical (P910i).utz"
   },
@@ -936,9 +936,9 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Classical (T610)_home.jpg",
-      "themes/screenshots/Classical (T610)_menu.jpg",
-      "themes/screenshots/Classical (T610)_settings.jpg"
+      "themes/screenshots/T610/Classical_home.jpg",
+      "themes/screenshots/T610/Classical_menu.jpg",
+      "themes/screenshots/T610/Classical_settings.jpg"
     ],
     "file": "themes/Classical.thm"
   },
@@ -951,9 +951,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Clero_home.jpg",
-      "themes/screenshots/Clero_menu.jpg",
-      "themes/screenshots/Clero_settings.jpg"
+      "themes/screenshots/W760i/Clero_home.jpg",
+      "themes/screenshots/W760i/Clero_menu.jpg",
+      "themes/screenshots/W760i/Clero_settings.jpg"
     ],
     "file": "themes/Clero.thm",
     "swf": "themes/swf/Clero_desktop.swf",
@@ -976,9 +976,9 @@
     "homeType": "Animated",
     "note": "Modified version of the <a href='clero.html'>Clero</a> theme that came on o2 (Germany) branded phones.",
     "screenshots": [
-      "themes/screenshots/Clero (o2)_home.jpg",
-      "themes/screenshots/Clero (o2)_menu.jpg",
-      "themes/screenshots/Clero (o2)_settings.jpg"
+      "themes/screenshots/W760i/Clero (o2)_home.jpg",
+      "themes/screenshots/W760i/Clero (o2)_menu.jpg",
+      "themes/screenshots/W760i/Clero (o2)_settings.jpg"
     ],
     "file": "themes/Clero (o2).thm",
     "swf": "themes/swf/Cleroo2_desktop.swf"
@@ -993,9 +993,9 @@
     "homeType": "Animated",
     "note": "Modified version of the <a href='clero.html'>Clero</a> theme that came on Orange (Israel) branded phones.",
     "screenshots": [
-      "themes/screenshots/Clero (Orange)_home.jpg",
-      "themes/screenshots/Clero (Orange)_menu.jpg",
-      "themes/screenshots/Clero (Orange)_settings.jpg"
+      "themes/screenshots/W760i/Clero (Orange)_home.jpg",
+      "themes/screenshots/W760i/Clero (Orange)_menu.jpg",
+      "themes/screenshots/W760i/Clero (Orange)_settings.jpg"
     ],
     "file": "themes/Clero (Orange).thm",
     "swf": "themes/swf/CleroOrange_desktop.swf"
@@ -1010,9 +1010,9 @@
     "homeType": "Animated",
     "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
     "screenshots": [
-      "themes/screenshots/Club light_home.jpg",
-      "themes/screenshots/Club light_menu.jpg",
-      "themes/screenshots/Club light_settings.jpg"
+      "themes/screenshots/W300i/Club light_home.jpg",
+      "themes/screenshots/W300i/Club light_menu.jpg",
+      "themes/screenshots/W300i/Club light_settings.jpg"
     ],
     "file": "themes/Club light.thm",
     "swf": "themes/swf/clublight.swf"
@@ -1027,9 +1027,9 @@
     "homeType": "Animated",
     "note": "Missing flash menu",
     "screenshots": [
-      "themes/screenshots/Clubpulse_home.jpg",
-      "themes/screenshots/Clubpulse_menu.jpg",
-      "themes/screenshots/Clubpulse_settings.jpg"
+      "themes/screenshots/W550i/Clubpulse_home.jpg",
+      "themes/screenshots/W550i/Clubpulse_menu.jpg",
+      "themes/screenshots/W550i/Clubpulse_settings.jpg"
     ],
     "file": "themes/Clubpulse.thm"
   },
@@ -1042,9 +1042,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Colourite (C702)_home.jpg",
-      "themes/screenshots/Colourite (C702)_menu.jpg",
-      "themes/screenshots/Colourite (C702)_settings.jpg"
+      "themes/screenshots/C702/Colourite_home.jpg",
+      "themes/screenshots/C702/Colourite_menu.jpg",
+      "themes/screenshots/C702/Colourite_settings.jpg"
     ],
     "file": "themes/Colourite (C702).thm"
   },
@@ -1057,9 +1057,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Colourite (K850i)_home.jpg",
-      "themes/screenshots/Colourite (K850i)_menu.jpg",
-      "themes/screenshots/Colourite (K850i)_settings.jpg"
+      "themes/screenshots/K850i/Colourite_home.jpg",
+      "themes/screenshots/K850i/Colourite_menu.jpg",
+      "themes/screenshots/K850i/Colourite_settings.jpg"
     ],
     "file": "themes/Colourite (K850i).thm"
   },
@@ -1072,9 +1072,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Compo_home.jpg",
-      "themes/screenshots/Compo_menu.jpg",
-      "themes/screenshots/Compo_settings.jpg"
+      "themes/screenshots/C702/Compo_home.jpg",
+      "themes/screenshots/C702/Compo_menu.jpg",
+      "themes/screenshots/C702/Compo_settings.jpg"
     ],
     "file": "themes/Compo.thm",
     "swf": "themes/swf/Compo_desktop.swf"
@@ -1089,9 +1089,9 @@
     "homeType": "Animated",
     "note": "Modified version of the <a href='compo.html'>Compo</a> theme that came on Orange (Israel) branded phones.",
     "screenshots": [
-      "themes/screenshots/Compo (Orange)_home.jpg",
-      "themes/screenshots/Compo (Orange)_menu.jpg",
-      "themes/screenshots/Compo (Orange)_settings.jpg"
+      "themes/screenshots/C702/Compo (Orange)_home.jpg",
+      "themes/screenshots/C702/Compo (Orange)_menu.jpg",
+      "themes/screenshots/C702/Compo (Orange)_settings.jpg"
     ],
     "file": "themes/Compo (Orange).thm",
     "swf": "themes/swf/CompoOrange_desktop.swf"
@@ -1105,9 +1105,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Connecto_home.jpg",
-      "themes/screenshots/Connecto_menu.jpg",
-      "themes/screenshots/Connecto_settings.jpg"
+      "themes/screenshots/W595/Connecto_home.jpg",
+      "themes/screenshots/W595/Connecto_menu.jpg",
+      "themes/screenshots/W595/Connecto_settings.jpg"
     ],
     "file": "themes/Connecto.thm",
     "swf": "themes/swf/Connecto_desktop.swf"
@@ -1121,9 +1121,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Connectoid_home.jpg",
-      "themes/screenshots/Connectoid_menu.jpg",
-      "themes/screenshots/Connectoid_settings.jpg"
+      "themes/screenshots/K660i/Connectoid_home.jpg",
+      "themes/screenshots/K660i/Connectoid_menu.jpg",
+      "themes/screenshots/K660i/Connectoid_settings.jpg"
     ],
     "file": "themes/Connectoid.thm",
     "swf": "themes/swf/Connectoid_desktop.swf"
@@ -1137,9 +1137,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Constellation_home.jpg",
-      "themes/screenshots/Constellation_menu.jpg",
-      "themes/screenshots/Constellation_settings.jpg"
+      "themes/screenshots/Jalou (F100i)/Constellation_home.jpg",
+      "themes/screenshots/Jalou (F100i)/Constellation_menu.jpg",
+      "themes/screenshots/Jalou (F100i)/Constellation_settings.jpg"
     ],
     "file": "themes/Constellation.thm",
     "swf": "themes/swf/ConstellationDesktop.swf"
@@ -1154,9 +1154,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Cosmote (T700)_home.jpg",
-      "themes/screenshots/Cosmote (T700)_menu.jpg",
-      "themes/screenshots/Cosmote (T700)_settings.jpg"
+      "themes/screenshots/T700/Cosmote_home.jpg",
+      "themes/screenshots/T700/Cosmote_menu.jpg",
+      "themes/screenshots/T700/Cosmote_settings.jpg"
     ],
     "file": "themes/Cosmote (T700).thm"
   },
@@ -1169,9 +1169,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Cranberry white_home.jpg",
-      "themes/screenshots/Cranberry white_menu.jpg",
-      "themes/screenshots/Cranberry white_settings.jpg"
+      "themes/screenshots/Yari (U100i)/Cranberry white_home.jpg",
+      "themes/screenshots/Yari (U100i)/Cranberry white_menu.jpg",
+      "themes/screenshots/Yari (U100i)/Cranberry white_settings.jpg"
     ],
     "file": "themes/Cranberry white.thm",
     "swf": "themes/swf/CranberrywhiteDesktop.swf"
@@ -1185,9 +1185,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Crystal_home.jpg",
-      "themes/screenshots/Crystal_menu.jpg",
-      "themes/screenshots/Crystal_settings.jpg"
+      "themes/screenshots/K850i/Crystal_home.jpg",
+      "themes/screenshots/K850i/Crystal_menu.jpg",
+      "themes/screenshots/K850i/Crystal_settings.jpg"
     ],
     "file": "themes/Crystal.thm"
   },
@@ -1200,9 +1200,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Crystaline_home.jpg",
-      "themes/screenshots/Crystaline_menu.jpg",
-      "themes/screenshots/Crystaline_settings.jpg"
+      "themes/screenshots/K810i/Crystaline_home.jpg",
+      "themes/screenshots/K810i/Crystaline_menu.jpg",
+      "themes/screenshots/K810i/Crystaline_settings.jpg"
     ],
     "file": "themes/Crystaline.thm"
   },
@@ -1215,9 +1215,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Crystalite_home.jpg",
-      "themes/screenshots/Crystalite_menu.jpg",
-      "themes/screenshots/Crystalite_settings.jpg"
+      "themes/screenshots/K550i/Crystalite_home.jpg",
+      "themes/screenshots/K550i/Crystalite_menu.jpg",
+      "themes/screenshots/K550i/Crystalite_settings.jpg"
     ],
     "file": "themes/Crystalite.thm"
   },
@@ -1230,9 +1230,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Crystal line_home.jpg",
-      "themes/screenshots/Crystal line_menu.jpg",
-      "themes/screenshots/Crystal line_settings.jpg"
+      "themes/screenshots/C702/Crystal line_home.jpg",
+      "themes/screenshots/C702/Crystal line_menu.jpg",
+      "themes/screenshots/C702/Crystal line_settings.jpg"
     ],
     "file": "themes/Crystal line.thm"
   },
@@ -1245,16 +1245,16 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Crystal spark_home.jpg",
-      "themes/screenshots/Crystal spark_menu.jpg",
-      "themes/screenshots/Crystal spark_settings.jpg"
+      "themes/screenshots/T700/Crystal spark_home.jpg",
+      "themes/screenshots/T700/Crystal spark_menu.jpg",
+      "themes/screenshots/T700/Crystal spark_settings.jpg"
     ],
     "file": "themes/Crystal spark.thm",
     "swf": "themes/swf/Crystal spark_desktop.swf",
 
   "alternateFlashMenus": [
     {
-      "screenshot": "themes/screenshots/Crystal spark (Three)_menu.jpg",
+      "screenshot": "themes/screenshots/T700/Crystal spark (Three)_menu.jpg",
       "file": "themes/swf/Alternate/Three/Crystal spark_desktop.swf",
       "note": "Three branded icons"
     }
@@ -1269,9 +1269,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Cubey_home.jpg",
-      "themes/screenshots/Cubey_menu.jpg",
-      "themes/screenshots/Cubey_tab.jpg"
+      "themes/screenshots/K600i/Cubey_home.jpg",
+      "themes/screenshots/K600i/Cubey_menu.jpg",
+      "themes/screenshots/K600i/Cubey_tab.jpg"
     ],
     "file": "themes/Cubey.thm"
   },
@@ -1284,9 +1284,9 @@
     "resolution": "240x320",
     "homeType": "Slideshow",
     "screenshots": [
-      "themes/screenshots/Cyber-shot (C510)_home.jpg",
-      "themes/screenshots/Cyber-shot (C510)_menu.jpg",
-      "themes/screenshots/Cyber-shot (C510)_settings.jpg"
+      "themes/screenshots/C510/Cyber-shot_home.jpg",
+      "themes/screenshots/C510/Cyber-shot_menu.jpg",
+      "themes/screenshots/C510/Cyber-shot_settings.jpg"
     ],
     "file": "themes/Cyber-shot (C510).thm"
   },
@@ -1299,9 +1299,9 @@
     "resolution": "240x320",
     "homeType": "Slideshow",
     "screenshots": [
-      "themes/screenshots/Cyber-shot (C901)_home.jpg",
-      "themes/screenshots/Cyber-shot (C901)_menu.jpg",
-      "themes/screenshots/Cyber-shot (C901)_settings.jpg"
+      "themes/screenshots/C901/Cyber-shot_home.jpg",
+      "themes/screenshots/C901/Cyber-shot_menu.jpg",
+      "themes/screenshots/C901/Cyber-shot_settings.jpg"
     ],
     "file": "themes/Cyber-shot (C901).thm"
   },
@@ -1314,9 +1314,9 @@
     "resolution": "240x320",
     "homeType": "Slideshow",
     "screenshots": [
-      "themes/screenshots/Cyber-shot (C903)_home.jpg",
-      "themes/screenshots/Cyber-shot (C903)_menu.jpg",
-      "themes/screenshots/Cyber-shot (C903)_settings.jpg"
+      "themes/screenshots/C903/Cyber-shot_home.jpg",
+      "themes/screenshots/C903/Cyber-shot_menu.jpg",
+      "themes/screenshots/C903/Cyber-shot_settings.jpg"
     ],
     "file": "themes/Cyber-shot (C903).thm",
     "swf": "themes/swf/CybershotDesktop.swf"
@@ -1330,9 +1330,9 @@
     "resolution": "240x320",
     "homeType": "Slideshow",
     "screenshots": [
-      "themes/screenshots/Cyber-shot (C905)_home.jpg",
-      "themes/screenshots/Cyber-shot (C905)_menu.jpg",
-      "themes/screenshots/Cyber-shot (C905)_settings.jpg"
+      "themes/screenshots/C905/Cyber-shot_home.jpg",
+      "themes/screenshots/C905/Cyber-shot_menu.jpg",
+      "themes/screenshots/C905/Cyber-shot_settings.jpg"
     ],
     "file": "themes/Cyber-shot (C905).thm"
   },
@@ -1345,9 +1345,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Dandelion_home.jpg",
-      "themes/screenshots/Dandelion_menu.jpg",
-      "themes/screenshots/Dandelion_settings.jpg"
+      "themes/screenshots/T707/Dandelion_home.jpg",
+      "themes/screenshots/T707/Dandelion_menu.jpg",
+      "themes/screenshots/T707/Dandelion_settings.jpg"
     ],
     "file": "themes/Dandelion.thm",
     "swf": "themes/swf/DandelionDesktop.swf"
@@ -1362,9 +1362,9 @@
     "homeType": "Animated",
     "note": "Due to this themes structure, extra files are necessary, put the extra .thm files alongside the flash menu in tpa/preset/desktop/flash, and put the standby screen in tpa/preset/standby/flash",
     "screenshots": [
-      "themes/screenshots/Day and Night_home.jpg",
-      "themes/screenshots/Day and Night_menu.jpg",
-      "themes/screenshots/Day and Night_settings.jpg"
+      "themes/screenshots/S500i/Day and Night_home.jpg",
+      "themes/screenshots/S500i/Day and Night_menu.jpg",
+      "themes/screenshots/S500i/Day and Night_settings.jpg"
     ],
     "file": "themes/Day and night.thm",
     "swf": "themes/swf/DayAndNight_desktop.swf",
@@ -1383,9 +1383,9 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Dayleaves_home.jpg",
-      "themes/screenshots/Dayleaves_menu.jpg",
-      "themes/screenshots/Dayleaves_settings.jpg"
+      "themes/screenshots/Z310i/Dayleaves_home.jpg",
+      "themes/screenshots/Z310i/Dayleaves_menu.jpg",
+      "themes/screenshots/Z310i/Dayleaves_settings.jpg"
     ],
     "file": "themes/Dayleaves.thm"
   },
@@ -1398,9 +1398,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Daylines_home.jpg",
-      "themes/screenshots/Daylines_menu.jpg",
-      "themes/screenshots/Daylines_settings.jpg"
+      "themes/screenshots/Z310i/Daylines_home.jpg",
+      "themes/screenshots/Z310i/Daylines_menu.jpg",
+      "themes/screenshots/Z310i/Daylines_settings.jpg"
     ],
     "file": "themes/Daylines.thm"
   },
@@ -1414,9 +1414,9 @@
     "homeType": "Still image",
     "note": "Known as 'Deep Purple' on the K790i and K800i",
     "screenshots": [
-      "themes/screenshots/Deepest purple_home.jpg",
-      "themes/screenshots/Deepest purple_menu.jpg",
-      "themes/screenshots/Deepest purple_settings.jpg"
+      "themes/screenshots/K810i/Deepest purple_home.jpg",
+      "themes/screenshots/K810i/Deepest purple_menu.jpg",
+      "themes/screenshots/K810i/Deepest purple_settings.jpg"
     ],
     "file": "themes/Deepest purple.thm"
   },
@@ -1429,9 +1429,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Default (G700)_home.jpg",
-      "themes/screenshots/Default (G700)_menu.jpg",
-      "themes/screenshots/Default (G700)_list.jpg"
+      "themes/screenshots/G700/Default_home.jpg",
+      "themes/screenshots/G700/Default_menu.jpg",
+      "themes/screenshots/G700/Default_list.jpg"
     ],
     "file": "themes/Default (G700).utz"
   },
@@ -1444,9 +1444,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Default (G900)_home.jpg",
-      "themes/screenshots/Default (G900)_menu.jpg",
-      "themes/screenshots/Default (G900)_list.jpg"
+      "themes/screenshots/G900/Default_home.jpg",
+      "themes/screenshots/G900/Default_menu.jpg",
+      "themes/screenshots/G900/Default_list.jpg"
     ],
     "file": "themes/Default (G900).utz"
   },
@@ -1459,9 +1459,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Default (P1i)_home.jpg",
-      "themes/screenshots/Default (P1i)_menu.jpg",
-      "themes/screenshots/Default (P1i)_list.jpg"
+      "themes/screenshots/P1i/Default_home.jpg",
+      "themes/screenshots/P1i/Default_menu.jpg",
+      "themes/screenshots/P1i/Default_list.jpg"
     ],
     "file": "themes/Default (P1i).utz"
   },
@@ -1474,10 +1474,10 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Default (P990i)_home.jpg",
-      "themes/screenshots/Default (P990i)_menu.jpg",
-      "themes/screenshots/Default (P990i)_list.jpg",
-      "themes/screenshots/Default (P990i)_homeclosed.jpg"
+      "themes/screenshots/P990i/Default_home.jpg",
+      "themes/screenshots/P990i/Default_menu.jpg",
+      "themes/screenshots/P990i/Default_list.jpg",
+      "themes/screenshots/P990i/Default_homeclosed.jpg"
     ],
     "file": "themes/Default (P990i).utz"
   },
@@ -1490,9 +1490,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Default (W200i)_home.jpg",
-      "themes/screenshots/Default (W200i)_menu.jpg",
-      "themes/screenshots/Default (W200i)_settings.jpg"
+      "themes/screenshots/W200i/Default_home.jpg",
+      "themes/screenshots/W200i/Default_menu.jpg",
+      "themes/screenshots/W200i/Default_settings.jpg"
     ],
     "file": "themes/Default (W200i).thm"
   },
@@ -1505,9 +1505,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Default (W550i)_home.jpg",
-      "themes/screenshots/Default (W550i)_menu.jpg",
-      "themes/screenshots/Default (W550i)_settings.jpg"
+      "themes/screenshots/W550i/Default_home.jpg",
+      "themes/screenshots/W550i/Default_menu.jpg",
+      "themes/screenshots/W550i/Default_settings.jpg"
     ],
     "file": "themes/Default (W550i).thm"
   },
@@ -1520,8 +1520,8 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Default (W900i)_home.jpg",
-      "themes/screenshots/Default (W900i)_menu.jpg"
+      "themes/screenshots/W900i/Default_home.jpg",
+      "themes/screenshots/W900i/Default_menu.jpg"
     ],
     "file": "themes/Default (W900i).thm"
   },
@@ -1534,9 +1534,9 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Default (Z530i)_home.jpg",
-      "themes/screenshots/Default (Z530i)_menu.jpg",
-      "themes/screenshots/Default (Z530i)_settings.jpg"
+      "themes/screenshots/Z530i/Default_home.jpg",
+      "themes/screenshots/Z530i/Default_menu.jpg",
+      "themes/screenshots/Z530i/Default_settings.jpg"
     ],
     "file": "themes/Default (Z530i).thm"
   },
@@ -1549,9 +1549,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Digital purple_home.jpg",
-      "themes/screenshots/Digital purple_menu.jpg",
-      "themes/screenshots/Digital purple_settings.jpg"
+      "themes/screenshots/K530i/Digital purple_home.jpg",
+      "themes/screenshots/K530i/Digital purple_menu.jpg",
+      "themes/screenshots/K530i/Digital purple_settings.jpg"
     ],
     "file": "themes/Digital purple.thm"
   },
@@ -1564,9 +1564,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Digitize_home.jpg",
-      "themes/screenshots/Digitize_menu.jpg",
-      "themes/screenshots/Digitize_settings.jpg"
+      "themes/screenshots/K660i/Digitize_home.jpg",
+      "themes/screenshots/K660i/Digitize_menu.jpg",
+      "themes/screenshots/K660i/Digitize_settings.jpg"
     ],
     "file": "themes/Digitize.thm",
     "swf": "themes/swf/Digitize_desktop.swf"
@@ -1580,9 +1580,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Divism_home.jpg",
-      "themes/screenshots/Divism_menu.jpg",
-      "themes/screenshots/Divism_settings.jpg"
+      "themes/screenshots/W995/Divism_home.jpg",
+      "themes/screenshots/W995/Divism_menu.jpg",
+      "themes/screenshots/W995/Divism_settings.jpg"
     ],
     "file": "themes/Divism.thm",
     "swf": "themes/swf/DivismDesktop.swf"
@@ -1596,9 +1596,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Dreamscape_home.jpg",
-      "themes/screenshots/Dreamscape_menu.jpg",
-      "themes/screenshots/Dreamscape_settings.jpg"
+      "themes/screenshots/W350i/Dreamscape_home.jpg",
+      "themes/screenshots/W350i/Dreamscape_menu.jpg",
+      "themes/screenshots/W350i/Dreamscape_settings.jpg"
     ],
     "file": "themes/Dreamscape.thm",
     "swf": "themes/swf/Dreamscape_desktop.swf"
@@ -1612,9 +1612,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Dusk setting_home.jpg",
-      "themes/screenshots/Dusk setting_menu.jpg",
-      "themes/screenshots/Dusk setting_settings.jpg"
+      "themes/screenshots/C510/Dusk setting_home.jpg",
+      "themes/screenshots/C510/Dusk setting_menu.jpg",
+      "themes/screenshots/C510/Dusk setting_settings.jpg"
     ],
     "file": "themes/Dusk setting.thm",
     "swf": "themes/swf/Dusk setting_desktop.swf"
@@ -1628,16 +1628,16 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Earth_home.jpg",
-      "themes/screenshots/Earth_menu.jpg",
-      "themes/screenshots/Earth_settings.jpg"
+      "themes/screenshots/W902/Earth_home.jpg",
+      "themes/screenshots/W902/Earth_menu.jpg",
+      "themes/screenshots/W902/Earth_settings.jpg"
     ],
     "file": "themes/Earth.thm",
     "swf": "themes/swf/Earth_desktop.swf",
 
   "alternateFlashMenus": [
     {
-      "screenshot": "themes/screenshots/Earth (o2)_menu.jpg",
+      "screenshot": "themes/screenshots/W902/Earth (o2)_menu.jpg",
       "file": "themes/swf/Alternate/o2/Earth_desktop.swf",
       "note": "o2 branded icons"
     }
@@ -1652,9 +1652,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Echo_home.jpg",
-      "themes/screenshots/Echo_menu.jpg",
-      "themes/screenshots/Echo_settings.jpg"
+      "themes/screenshots/Zylo (W20i)/Echo_home.jpg",
+      "themes/screenshots/Zylo (W20i)/Echo_menu.jpg",
+      "themes/screenshots/Zylo (W20i)/Echo_settings.jpg"
     ],
     "file": "themes/Echo.thm",
     "swf": "themes/swf/EchoDesktop.swf"
@@ -1668,9 +1668,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Eclipse_home.jpg",
-      "themes/screenshots/Eclipse_menu.jpg",
-      "themes/screenshots/Eclipse_settings.jpg"
+      "themes/screenshots/W910i/Eclipse_home.jpg",
+      "themes/screenshots/W910i/Eclipse_menu.jpg",
+      "themes/screenshots/W910i/Eclipse_settings.jpg"
     ],
     "file": "themes/Eclipse.thm",
     "swf": "themes/swf/Eclipse_desktop.swf"
@@ -1684,9 +1684,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Emersion_home.jpg",
-      "themes/screenshots/Emersion_menu.jpg",
-      "themes/screenshots/Emersion_settings.jpg"
+      "themes/screenshots/Zylo (W20i)/Emersion_home.jpg",
+      "themes/screenshots/Zylo (W20i)/Emersion_menu.jpg",
+      "themes/screenshots/Zylo (W20i)/Emersion_settings.jpg"
     ],
     "file": "themes/Emersion.thm",
     "swf": "themes/swf/EmersionDesktop.swf"
@@ -1701,9 +1701,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Era (DB2030)_home.jpg",
-      "themes/screenshots/Era (DB2030)_menu.jpg",
-      "themes/screenshots/Era (DB2030)_settings.jpg"
+      "themes/screenshots/K770i/Era_home.jpg",
+      "themes/screenshots/K770i/Era_menu.jpg",
+      "themes/screenshots/K770i/Era_settings.jpg"
     ],
     "file": "themes/Era (DB2030).thm"
   },
@@ -1717,8 +1717,8 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/ERA Theme_home.jpg",
-      "themes/screenshots/ERA Theme_menu.jpg"
+      "themes/screenshots/T630/ERA Theme_home.jpg",
+      "themes/screenshots/T630/ERA Theme_menu.jpg"
     ],
     "file": "themes/ERA Theme.thm"
   },
@@ -1731,9 +1731,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Eternal_home.jpg",
-      "themes/screenshots/Eternal_menu.jpg",
-      "themes/screenshots/Eternal_tab.jpg"
+      "themes/screenshots/K750i/Eternal_home.jpg",
+      "themes/screenshots/K750i/Eternal_menu.jpg",
+      "themes/screenshots/K750i/Eternal_tab.jpg"
     ],
     "file": "themes/Eternal.thm"
   },
@@ -1746,9 +1746,9 @@
     "resolution": "128x128",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Equalizer_home.jpg",
-      "themes/screenshots/Equalizer_menu.jpg",
-      "themes/screenshots/Equalizer_settings.jpg"
+      "themes/screenshots/J300i/Equalizer_home.jpg",
+      "themes/screenshots/J300i/Equalizer_menu.jpg",
+      "themes/screenshots/J300i/Equalizer_settings.jpg"
     ],
     "file": "themes/Equalizer.thm"
   },
@@ -1762,9 +1762,9 @@
     "homeType": "Animated",
     "note": "Due to this themes structure, extra files are necessary, put the extra .thm files alongside the flash menu in tpa/preset/desktop/flash, and put the standby screen in tpa/preset/standby/flash",
     "screenshots": [
-      "themes/screenshots/Everchanging_home.jpg",
-      "themes/screenshots/Everchanging_menu.jpg",
-      "themes/screenshots/Everchanging_settings.jpg"
+      "themes/screenshots/S500i/Everchanging_home.jpg",
+      "themes/screenshots/S500i/Everchanging_menu.jpg",
+      "themes/screenshots/S500i/Everchanging_settings.jpg"
     ],
     "file": "themes/Everchanging.thm",
     "swf": "themes/swf/Everchanging_desktop.swf",
@@ -1786,9 +1786,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Female Line (W710i)_home.jpg",
-      "themes/screenshots/Female Line (W710i)_menu.jpg",
-      "themes/screenshots/Female Line (W710i)_settings.jpg"
+      "themes/screenshots/W710i/Female Line_home.jpg",
+      "themes/screenshots/W710i/Female Line_menu.jpg",
+      "themes/screenshots/W710i/Female Line_settings.jpg"
     ],
     "file": "themes/Female Line (W710i).thm",
     "swf": "themes/swf/FemaleLine_desktop.swf"
@@ -1802,9 +1802,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Female Line (W850i)_home.jpg",
-      "themes/screenshots/Female Line (W850i)_menu.jpg",
-      "themes/screenshots/Female Line (W850i)_settings.jpg"
+      "themes/screenshots/W850i/Female Line_home.jpg",
+      "themes/screenshots/W850i/Female Line_menu.jpg",
+      "themes/screenshots/W850i/Female Line_settings.jpg"
     ],
     "file": "themes/Female Line (W850i).thm",
     "swf": "themes/swf/femaleLine_desktop.swf"
@@ -1818,9 +1818,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Female lines_home.jpg",
-      "themes/screenshots/Female lines_menu.jpg",
-      "themes/screenshots/Female lines_settings.jpg"
+      "themes/screenshots/W660i/Female lines_home.jpg",
+      "themes/screenshots/W660i/Female lines_menu.jpg",
+      "themes/screenshots/W660i/Female lines_settings.jpg"
     ],
     "file": "themes/Female lines.thm",
     "swf": "themes/swf/faye_patternline_desktop.swf"
@@ -1834,9 +1834,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Fero_home.jpg",
-      "themes/screenshots/Fero_menu.jpg",
-      "themes/screenshots/Fero_settings.jpg"
+      "themes/screenshots/S700i/Fero_home.jpg",
+      "themes/screenshots/S700i/Fero_menu.jpg",
+      "themes/screenshots/S700i/Fero_settings.jpg"
     ],
     "file": "themes/Fero.thm"
   },
@@ -1849,9 +1849,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Fiber_home.jpg",
-      "themes/screenshots/Fiber_menu.jpg",
-      "themes/screenshots/Fiber_settings.jpg"
+      "themes/screenshots/Z770i/Fiber_home.jpg",
+      "themes/screenshots/Z770i/Fiber_menu.jpg",
+      "themes/screenshots/Z770i/Fiber_settings.jpg"
     ],
     "file": "themes/Fiber.thm"
   },
@@ -1864,9 +1864,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Fiber bold_home.jpg",
-      "themes/screenshots/Fiber bold_menu.jpg",
-      "themes/screenshots/Fiber bold_settings.jpg"
+      "themes/screenshots/Z780i/Fiber bold_home.jpg",
+      "themes/screenshots/Z780i/Fiber bold_menu.jpg",
+      "themes/screenshots/Z780i/Fiber bold_settings.jpg"
     ],
     "file": "themes/Fiber bold.thm"
   },
@@ -1879,9 +1879,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Flare_home.jpg",
-      "themes/screenshots/Flare_menu.jpg",
-      "themes/screenshots/Flare_settings.jpg"
+      "themes/screenshots/Z710i/Flare_home.jpg",
+      "themes/screenshots/Z710i/Flare_menu.jpg",
+      "themes/screenshots/Z710i/Flare_settings.jpg"
     ],
     "file": "themes/Flare.thm"
   },
@@ -1894,9 +1894,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Flo_home.jpg",
-      "themes/screenshots/Flo_menu.jpg",
-      "themes/screenshots/Flo_tab.jpg"
+      "themes/screenshots/K700i/Flo_home.jpg",
+      "themes/screenshots/K700i/Flo_menu.jpg",
+      "themes/screenshots/K700i/Flo_tab.jpg"
     ],
     "file": "themes/Flo.thm"
   },
@@ -1909,9 +1909,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Floom (K500i)_home.jpg",
-      "themes/screenshots/Floom (K500i)_menu.jpg",
-      "themes/screenshots/Floom (K500i)_settings.jpg"
+      "themes/screenshots/K500i/Floom_home.jpg",
+      "themes/screenshots/K500i/Floom_menu.jpg",
+      "themes/screenshots/K500i/Floom_settings.jpg"
     ],
     "file": "themes/Floom (K500i).thm"
   },
@@ -1925,10 +1925,10 @@
     "homeType": "Animated",
     "note": "Features images for the external display on the Z500a, otherwise identical to the <a href='floom-k500i.html'>K500i version</a>.",
     "screenshots": [
-      "themes/screenshots/Floom (Z500a)_home.jpg",
-      "themes/screenshots/Floom (Z500a)_menu.jpg",
-      "themes/screenshots/Floom (Z500a)_settings.jpg",
-      "themes/screenshots/Floom (Z500a)_external.jpg"
+      "themes/screenshots/Z500a/Floom_home.jpg",
+      "themes/screenshots/Z500a/Floom_menu.jpg",
+      "themes/screenshots/Z500a/Floom_settings.jpg",
+      "themes/screenshots/Z500a/Floom_external.jpg"
     ],
     "file": "themes/Floom (Z500a).thm"
   },
@@ -1941,9 +1941,9 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Floomasia_home.jpg",
-      "themes/screenshots/Floomasia_menu.jpg",
-      "themes/screenshots/Floomasia_settings.jpg"
+      "themes/screenshots/Z530i/Floomasia_home.jpg",
+      "themes/screenshots/Z530i/Floomasia_menu.jpg",
+      "themes/screenshots/Z530i/Floomasia_settings.jpg"
     ],
     "file": "themes/Floomasia.thm"
   },
@@ -1956,9 +1956,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Floral_home.jpg",
-      "themes/screenshots/Floral_menu.jpg",
-      "themes/screenshots/Floral_settings.jpg"
+      "themes/screenshots/Z750i/Floral_home.jpg",
+      "themes/screenshots/Z750i/Floral_menu.jpg",
+      "themes/screenshots/Z750i/Floral_settings.jpg"
     ],
     "file": "themes/Floral.thm"
   },
@@ -1971,9 +1971,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Floroflow (K500i)_home.jpg",
-      "themes/screenshots/Floroflow (K500i)_menu.jpg",
-      "themes/screenshots/Floroflow (K500i)_settings.jpg"
+      "themes/screenshots/K500i/Floroflow_home.jpg",
+      "themes/screenshots/K500i/Floroflow_menu.jpg",
+      "themes/screenshots/K500i/Floroflow_settings.jpg"
     ],
     "file": "themes/Floroflow (K500i).thm"
   },
@@ -1987,10 +1987,10 @@
     "homeType": "Animated",
     "note": "Features images for the external display on the Z500a, otherwise identical to the <a href='floom-k500i.html'>K500i version</a>.",
     "screenshots": [
-      "themes/screenshots/Floroflow (Z500a)_home.jpg",
-      "themes/screenshots/Floroflow (Z500a)_menu.jpg",
-      "themes/screenshots/Floroflow (Z500a)_settings.jpg",
-      "themes/screenshots/Floroflow (Z500a)_external.jpg"
+      "themes/screenshots/Z500a/Floroflow_home.jpg",
+      "themes/screenshots/Z500a/Floroflow_menu.jpg",
+      "themes/screenshots/Z500a/Floroflow_settings.jpg",
+      "themes/screenshots/Z500a/Floroflow_external.jpg"
     ],
     "file": "themes/Floroflow (Z500a).thm"
   },
@@ -2003,9 +2003,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Flow_home.jpg",
-      "themes/screenshots/Flow_menu.jpg",
-      "themes/screenshots/Flow_settings.jpg"
+      "themes/screenshots/Zylo (W20i)/Flow_home.jpg",
+      "themes/screenshots/Zylo (W20i)/Flow_menu.jpg",
+      "themes/screenshots/Zylo (W20i)/Flow_settings.jpg"
     ],
     "file": "themes/Flow.thm"
   },
@@ -2018,9 +2018,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Flower (K310i)_home.jpg",
-      "themes/screenshots/Flower (K310i)_menu.jpg",
-      "themes/screenshots/Flower (K310i)_settings.jpg"
+      "themes/screenshots/K310i/Flower_home.jpg",
+      "themes/screenshots/K310i/Flower_menu.jpg",
+      "themes/screenshots/K310i/Flower_settings.jpg"
     ],
     "file": "themes/Flower (K310i).thm"
   },
@@ -2033,9 +2033,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Flower (K320i)_home.jpg",
-      "themes/screenshots/Flower (K320i)_menu.jpg",
-      "themes/screenshots/Flower (K320i)_settings.jpg"
+      "themes/screenshots/K320i/Flower_home.jpg",
+      "themes/screenshots/K320i/Flower_menu.jpg",
+      "themes/screenshots/K320i/Flower_settings.jpg"
     ],
     "file": "themes/Flower (K320i).thm"
   },
@@ -2048,9 +2048,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Flower (K510i)_home.jpg",
-      "themes/screenshots/Flower (K510i)_menu.jpg",
-      "themes/screenshots/Flower (K510i)_settings.jpg"
+      "themes/screenshots/K510i/Flower_home.jpg",
+      "themes/screenshots/K510i/Flower_menu.jpg",
+      "themes/screenshots/K510i/Flower_settings.jpg"
     ],
     "file": "themes/Flower (K510i).thm"
   },
@@ -2063,8 +2063,8 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Flower (Z320i)_home.jpg",
-      "themes/screenshots/Flower (Z320i)_tab.jpg"
+      "themes/screenshots/Z320i/Flower_home.jpg",
+      "themes/screenshots/Z320i/Flower_tab.jpg"
     ],
     "file": "themes/Flower (Z320i).thm"
   },
@@ -2078,9 +2078,9 @@
     "homeType": "Animated",
     "note": "Exclusive to the Floral special edition",
     "screenshots": [
-      "themes/screenshots/Flower power_home.jpg",
-      "themes/screenshots/Flower power_menu.jpg",
-      "themes/screenshots/Flower power_settings.jpg"
+      "themes/screenshots/W595/Flower power_home.jpg",
+      "themes/screenshots/W595/Flower power_menu.jpg",
+      "themes/screenshots/W595/Flower power_settings.jpg"
     ],
     "file": "themes/Flower power.thm",
     "swf": "themes/swf/Flower power_desktop.swf"
@@ -2094,9 +2094,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Flowers_home.jpg",
-      "themes/screenshots/Flowers_menu.jpg",
-      "themes/screenshots/Flowers_settings.jpg"
+      "themes/screenshots/G705/Flowers_home.jpg",
+      "themes/screenshots/G705/Flowers_menu.jpg",
+      "themes/screenshots/G705/Flowers_settings.jpg"
     ],
     "file": "themes/Flowers.thm",
     "swf": "themes/swf/Flowers_desktop.swf"
@@ -2110,9 +2110,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Fluits_home.jpg",
-      "themes/screenshots/Fluits_menu.jpg",
-      "themes/screenshots/Fluits_settings.jpg"
+      "themes/screenshots/W980/Fluits_home.jpg",
+      "themes/screenshots/W980/Fluits_menu.jpg",
+      "themes/screenshots/W980/Fluits_settings.jpg"
     ],
     "file": "themes/Fluits.thm",
     "swf": "themes/swf/Fluits_desktop.swf"
@@ -2126,9 +2126,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Fluor star_home.jpg",
-      "themes/screenshots/Fluor star_menu.jpg",
-      "themes/screenshots/Fluor star_tab.jpg"
+      "themes/screenshots/K630i/Fluor star_home.jpg",
+      "themes/screenshots/K630i/Fluor star_menu.jpg",
+      "themes/screenshots/K630i/Fluor star_tab.jpg"
     ],
     "file": "themes/Fluor star.thm"
   },
@@ -2141,9 +2141,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Focus_home.jpg",
-      "themes/screenshots/Focus_menu.jpg",
-      "themes/screenshots/Focus_settings.jpg"
+      "themes/screenshots/K550i/Focus_home.jpg",
+      "themes/screenshots/K550i/Focus_menu.jpg",
+      "themes/screenshots/K550i/Focus_settings.jpg"
     ],
     "file": "themes/Focus.thm"
   },
@@ -2156,9 +2156,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Forest tale_home.jpg",
-      "themes/screenshots/Forest tale_menu.jpg",
-      "themes/screenshots/Forest tale_settings.jpg"
+      "themes/screenshots/T707/Forest tale_home.jpg",
+      "themes/screenshots/T707/Forest tale_menu.jpg",
+      "themes/screenshots/T707/Forest tale_settings.jpg"
     ],
     "file": "themes/Forest tale.thm",
     "swf": "themes/swf/ForesttaleDesktop.swf"
@@ -2172,8 +2172,8 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Funky_home.jpg",
-      "themes/screenshots/Funky_tab.jpg"
+      "themes/screenshots/Z320i/Funky_home.jpg",
+      "themes/screenshots/Z320i/Funky_tab.jpg"
     ],
     "file": "themes/Funky.thm"
   },
@@ -2186,9 +2186,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Futurism_home.jpg",
-      "themes/screenshots/Futurism_menu.jpg",
-      "themes/screenshots/Futurism_settings.jpg"
+      "themes/screenshots/C902/Futurism_home.jpg",
+      "themes/screenshots/C902/Futurism_menu.jpg",
+      "themes/screenshots/C902/Futurism_settings.jpg"
     ],
     "file": "themes/Futurism.thm"
   },
@@ -2201,9 +2201,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Glacial_home.jpg",
-      "themes/screenshots/Glacial_menu.jpg",
-      "themes/screenshots/Glacial_settings.jpg"
+      "themes/screenshots/Z750i/Glacial_home.jpg",
+      "themes/screenshots/Z750i/Glacial_menu.jpg",
+      "themes/screenshots/Z750i/Glacial_settings.jpg"
     ],
     "file": "themes/Glacial.thm"
   },
@@ -2216,9 +2216,9 @@
     "resolution": "176x220",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Glacier_home.jpg",
-      "themes/screenshots/Glacier_menu.jpg",
-      "themes/screenshots/Glacier_settings.jpg"
+      "themes/screenshots/K550i/Glacier_home.jpg",
+      "themes/screenshots/K550i/Glacier_menu.jpg",
+      "themes/screenshots/K550i/Glacier_settings.jpg"
     ],
     "file": "themes/Glacier.thm"
   },
@@ -2231,9 +2231,9 @@
     "resolution": "176x220",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Glimmer_home.jpg",
-      "themes/screenshots/Glimmer_menu.jpg",
-      "themes/screenshots/Glimmer_settings.jpg"
+      "themes/screenshots/K550i/Glimmer_home.jpg",
+      "themes/screenshots/K550i/Glimmer_menu.jpg",
+      "themes/screenshots/K550i/Glimmer_settings.jpg"
     ],
     "file": "themes/Glimmer.thm"
   },
@@ -2246,9 +2246,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Gold lines_home.jpg",
-      "themes/screenshots/Gold lines_menu.jpg",
-      "themes/screenshots/Gold lines_settings.jpg"
+      "themes/screenshots/G705/Gold lines_home.jpg",
+      "themes/screenshots/G705/Gold lines_menu.jpg",
+      "themes/screenshots/G705/Gold lines_settings.jpg"
     ],
     "file": "themes/Gold lines.thm",
     "swf": "themes/swf/Gold lines_desktop.swf"
@@ -2262,9 +2262,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Gold record_home.jpg",
-      "themes/screenshots/Gold record_menu.jpg",
-      "themes/screenshots/Gold record_settings.jpg"
+      "themes/screenshots/W660i/Gold record_home.jpg",
+      "themes/screenshots/W660i/Gold record_menu.jpg",
+      "themes/screenshots/W660i/Gold record_settings.jpg"
     ],
     "file": "themes/Gold record.thm",
     "swf": "themes/swf/faye_glamgold_desktop.swf"
@@ -2278,9 +2278,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Golden Light_home.jpg",
-      "themes/screenshots/Golden Light_menu.jpg",
-      "themes/screenshots/Golden Light_settings.jpg"
+      "themes/screenshots/K800i/Golden Light_home.jpg",
+      "themes/screenshots/K800i/Golden Light_menu.jpg",
+      "themes/screenshots/K800i/Golden Light_settings.jpg"
     ],
     "file": "themes/Golden Light.thm"
   },
@@ -2293,9 +2293,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Goldfish_home.jpg",
-      "themes/screenshots/Goldfish_menu.jpg",
-      "themes/screenshots/Goldfish_settings.jpg"
+      "themes/screenshots/Z530i/Goldfish_home.jpg",
+      "themes/screenshots/Z530i/Goldfish_menu.jpg",
+      "themes/screenshots/Z530i/Goldfish_settings.jpg"
     ],
     "file": "themes/Goldfish.thm"
   },
@@ -2308,9 +2308,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Gossamer_home.jpg",
-      "themes/screenshots/Gossamer_menu.jpg",
-      "themes/screenshots/Gossamer_tab.jpg"
+      "themes/screenshots/K660i/Gossamer_home.jpg",
+      "themes/screenshots/K660i/Gossamer_menu.jpg",
+      "themes/screenshots/K660i/Gossamer_tab.jpg"
     ],
     "file": "themes/Gossamer.thm"
   },
@@ -2323,9 +2323,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Grape_home.jpg",
-      "themes/screenshots/Grape_menu.jpg",
-      "themes/screenshots/Grape_settings.jpg"
+      "themes/screenshots/W902/Grape_home.jpg",
+      "themes/screenshots/W902/Grape_menu.jpg",
+      "themes/screenshots/W902/Grape_settings.jpg"
     ],
     "file": "themes/Grape.thm",
     "swf": "themes/swf/Grape_desktop.swf"
@@ -2340,9 +2340,9 @@
     "homeType": "Animated",
     "note": "Modified version of the <a href='grape.html'>Grape</a> theme that came on o2 (Germany) branded phones.",
     "screenshots": [
-      "themes/screenshots/Grape (o2)_home.jpg",
-      "themes/screenshots/Grape (o2)_menu.jpg",
-      "themes/screenshots/Grape (o2)_settings.jpg"
+      "themes/screenshots/W902/Grape (o2)_home.jpg",
+      "themes/screenshots/W902/Grape (o2)_menu.jpg",
+      "themes/screenshots/W902/Grape (o2)_settings.jpg"
     ],
     "file": "themes/Grape (o2).thm",
     "swf": "themes/swf/Grapeo2_desktop.swf"
@@ -2356,9 +2356,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Gravity_home.jpg",
-      "themes/screenshots/Gravity_menu.jpg",
-      "themes/screenshots/Gravity_tab.jpg"
+      "themes/screenshots/K600i/Gravity_home.jpg",
+      "themes/screenshots/K600i/Gravity_menu.jpg",
+      "themes/screenshots/K600i/Gravity_tab.jpg"
     ],
     "file": "themes/Gravity.thm"
   },
@@ -2371,9 +2371,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Greenheart_home.jpg",
-      "themes/screenshots/Greenheart_menu.jpg",
-      "themes/screenshots/Greenheart_settings.jpg"
+      "themes/screenshots/Elm (J10i2)/Greenheart_home.jpg",
+      "themes/screenshots/Elm (J10i2)/Greenheart_menu.jpg",
+      "themes/screenshots/Elm (J10i2)/Greenheart_settings.jpg"
     ],
     "file": "themes/Greenheart.thm"
   },
@@ -2386,8 +2386,8 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/GreenHeart™ 52_home.jpg",
-      "themes/screenshots/GreenHeart™ 52_menu.jpg"
+      "themes/screenshots/User-made/GreenHeart™ 52_home.jpg",
+      "themes/screenshots/User-made/GreenHeart™ 52_menu.jpg"
     ],
     "file": "themes/GreenHeart™ 52.thm",
     "swf": "themes/swf/Greenheart52Desktop.swf"
@@ -2401,8 +2401,8 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/GreenHeart™ 53 v2_home.jpg",
-      "themes/screenshots/GreenHeart™ 53 v2_menu.jpg"
+      "themes/screenshots/User-made/GreenHeart™ 53 v2_home.jpg",
+      "themes/screenshots/User-made/GreenHeart™ 53 v2_menu.jpg"
     ],
     "file": "themes/GreenHeart™ 53 v2.thm",
     "swf": "themes/swf/Greenheart53v2Desktop.swf"
@@ -2416,8 +2416,8 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/GreenHeart™ 81 v2_home.jpg",
-      "themes/screenshots/GreenHeart™ 81 v2_menu.jpg"
+      "themes/screenshots/User-made/GreenHeart™ 81 v2_home.jpg",
+      "themes/screenshots/User-made/GreenHeart™ 81 v2_menu.jpg"
     ],
     "file": "themes/GreenHeart™ 81 v2.thm",
     "swf": "themes/swf/Greenheart81v2Desktop.swf"
@@ -2431,9 +2431,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/GreenHeart (Naite)_home.jpg",
-      "themes/screenshots/GreenHeart (Naite)_menu.jpg",
-      "themes/screenshots/GreenHeart (Naite)_settings.jpg"
+      "themes/screenshots/Naite (J105i)/GreenHeart_home.jpg",
+      "themes/screenshots/Naite (J105i)/GreenHeart_menu.jpg",
+      "themes/screenshots/Naite (J105i)/GreenHeart_settings.jpg"
     ],
     "file": "themes/GreenHeart (Naite).thm"
   },
@@ -2446,9 +2446,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Grid line_home.jpg",
-      "themes/screenshots/Grid line_menu.jpg",
-      "themes/screenshots/Grid line_settings.jpg"
+      "themes/screenshots/K770i/Grid line_home.jpg",
+      "themes/screenshots/K770i/Grid line_menu.jpg",
+      "themes/screenshots/K770i/Grid line_settings.jpg"
     ],
     "file": "themes/Grid line.thm"
   },
@@ -2461,9 +2461,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Grouped_home.jpg",
-      "themes/screenshots/Grouped_menu.jpg",
-      "themes/screenshots/Grouped_settings.jpg"
+      "themes/screenshots/W850i/Grouped_home.jpg",
+      "themes/screenshots/W850i/Grouped_menu.jpg",
+      "themes/screenshots/W850i/Grouped_settings.jpg"
     ],
     "file": "themes/Grouped.thm",
     "swf": "themes/swf/grouped_desktop.swf"
@@ -2477,9 +2477,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/gSharp (W610i)_home.jpg",
-      "themes/screenshots/gSharp (W610i)_menu.jpg",
-      "themes/screenshots/gSharp (W610i)_settings.jpg"
+      "themes/screenshots/W610i/gSharp_home.jpg",
+      "themes/screenshots/W610i/gSharp_menu.jpg",
+      "themes/screenshots/W610i/gSharp_settings.jpg"
     ],
     "file": "themes/gSharp (W610i).thm",
     "swf": "themes/swf/Na_dt_gSharp.swf"
@@ -2493,9 +2493,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Gsharp (W880i)_home.jpg",
-      "themes/screenshots/Gsharp (W880i)_menu.jpg",
-      "themes/screenshots/Gsharp (W880i)_settings.jpg"
+      "themes/screenshots/W880i/Gsharp_home.jpg",
+      "themes/screenshots/W880i/Gsharp_menu.jpg",
+      "themes/screenshots/W880i/Gsharp_settings.jpg"
     ],
     "file": "themes/Gsharp (W880i).thm",
     "swf": "themes/swf/Final_Gsharp_desktop.swf"
@@ -2509,9 +2509,9 @@
     "resolution": "128x128",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Hapee (J300i)_home.jpg",
-      "themes/screenshots/Hapee (J300i)_menu.jpg",
-      "themes/screenshots/Hapee (J300i)_settings.jpg"
+      "themes/screenshots/J300i/Hapee_home.jpg",
+      "themes/screenshots/J300i/Hapee_menu.jpg",
+      "themes/screenshots/J300i/Hapee_settings.jpg"
     ],
     "file": "themes/Hapee (J300i).thm"
   },
@@ -2524,9 +2524,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Hapee (S700i)_home.jpg",
-      "themes/screenshots/Hapee (S700i)_menu.jpg",
-      "themes/screenshots/Hapee (S700i)_settings.jpg"
+      "themes/screenshots/S700i/Hapee_home.jpg",
+      "themes/screenshots/S700i/Hapee_menu.jpg",
+      "themes/screenshots/S700i/Hapee_settings.jpg"
     ],
     "file": "themes/Hapee (S700i).thm"
   },
@@ -2539,9 +2539,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Harp_home.jpg",
-      "themes/screenshots/Harp_menu.jpg",
-      "themes/screenshots/Harp_charging.jpg"
+      "themes/screenshots/Elm (J10i2)/Harp_home.jpg",
+      "themes/screenshots/Elm (J10i2)/Harp_menu.jpg",
+      "themes/screenshots/Elm (J10i2)/Harp_charging.jpg"
     ],
     "file": "themes/Harp.thm",
     "swf": "themes/swf/HarpDesktop.swf"
@@ -2555,9 +2555,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Hidden peak_home.jpg",
-      "themes/screenshots/Hidden peak_menu.jpg",
-      "themes/screenshots/Hidden peak_settings.jpg"
+      "themes/screenshots/W910i/Hidden peak_home.jpg",
+      "themes/screenshots/W910i/Hidden peak_menu.jpg",
+      "themes/screenshots/W910i/Hidden peak_settings.jpg"
     ],
     "file": "themes/Hidden peak.thm",
     "swf": "themes/swf/HiddenPeak_desktop.swf"
@@ -2571,9 +2571,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Horizon_home.jpg",
-      "themes/screenshots/Horizon_menu.jpg",
-      "themes/screenshots/Horizon_list.jpg"
+      "themes/screenshots/P1i/Horizon_home.jpg",
+      "themes/screenshots/P1i/Horizon_menu.jpg",
+      "themes/screenshots/P1i/Horizon_list.jpg"
     ],
     "file": "themes/Horizon.utz"
   },
@@ -2586,9 +2586,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Hypnotic_home.jpg",
-      "themes/screenshots/Hypnotic_menu.jpg",
-      "themes/screenshots/Hypnotic_settings.jpg"
+      "themes/screenshots/W350i/Hypnotic_home.jpg",
+      "themes/screenshots/W350i/Hypnotic_menu.jpg",
+      "themes/screenshots/W350i/Hypnotic_settings.jpg"
     ],
     "file": "themes/Hypnotic.thm",
     "swf": "themes/swf/Hypnotic_desktop.swf"
@@ -2602,9 +2602,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Hyponotic pink_home.jpg",
-      "themes/screenshots/Hyponotic pink_menu.jpg",
-      "themes/screenshots/Hyponotic pink_activity.jpg"
+      "themes/screenshots/W205/Hyponotic pink_home.jpg",
+      "themes/screenshots/W205/Hyponotic pink_menu.jpg",
+      "themes/screenshots/W205/Hyponotic pink_activity.jpg"
     ],
     "file": "themes/Hyponotic pink.thm"
   },
@@ -2617,9 +2617,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/In the air_home.jpg",
-      "themes/screenshots/In the air_menu.jpg",
-      "themes/screenshots/In the air_settings.jpg"
+      "themes/screenshots/T650i/In the air_home.jpg",
+      "themes/screenshots/T650i/In the air_menu.jpg",
+      "themes/screenshots/T650i/In the air_settings.jpg"
     ],
     "file": "themes/In the air.thm",
     "swf": "themes/swf/inAir_desktop.swf"
@@ -2633,9 +2633,9 @@
     "resolution": "208x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Into The Blue_homeclosed.jpg",
-      "themes/screenshots/Into The Blue_menu.jpg",
-      "themes/screenshots/Into The Blue_messaging.jpg"
+      "themes/screenshots/P910i/Into The Blue_homeclosed.jpg",
+      "themes/screenshots/P910i/Into The Blue_menu.jpg",
+      "themes/screenshots/P910i/Into The Blue_messaging.jpg"
     ],
     "file": "themes/Into The Blue.utz"
   },
@@ -2648,9 +2648,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Isch_home.jpg",
-      "themes/screenshots/Isch_menu.jpg",
-      "themes/screenshots/Isch_settings.jpg"
+      "themes/screenshots/W705/Isch_home.jpg",
+      "themes/screenshots/W705/Isch_menu.jpg",
+      "themes/screenshots/W705/Isch_settings.jpg"
     ],
     "file": "themes/Isch.thm",
     "swf": "themes/swf/Isch_desktop.swf"
@@ -2665,9 +2665,9 @@
     "homeType": "Animated",
     "note": "Exclusive to the James Bond special edition",
     "screenshots": [
-      "themes/screenshots/James Bond Theme_home.jpg",
-      "themes/screenshots/James Bond Theme_menu.jpg",
-      "themes/screenshots/James Bond Theme_settings.jpg"
+      "themes/screenshots/C902/James Bond Theme_home.jpg",
+      "themes/screenshots/C902/James Bond Theme_menu.jpg",
+      "themes/screenshots/C902/James Bond Theme_settings.jpg"
     ],
     "file": "themes/James Bond Theme.thm"
   },
@@ -2680,16 +2680,16 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Jet_home.jpg",
-      "themes/screenshots/Jet_menu.jpg",
-      "themes/screenshots/Jet_settings.jpg"
+      "themes/screenshots/W902/Jet_home.jpg",
+      "themes/screenshots/W902/Jet_menu.jpg",
+      "themes/screenshots/W902/Jet_settings.jpg"
     ],
     "file": "themes/Jet.thm",
     "swf": "themes/swf/Jet_desktop.swf",
 
   "alternateFlashMenus": [
     {
-      "screenshot": "themes/screenshots/Jet (o2)_menu.jpg",
+      "screenshot": "themes/screenshots/W902/Jet (o2)_menu.jpg",
       "file": "themes/swf/Alternate/o2/Jet_desktop.swf",
       "note": "o2 branded icons"
     }
@@ -2704,9 +2704,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Kaleidoscope black_home.jpg",
-      "themes/screenshots/Kaleidoscope black_menu.jpg",
-      "themes/screenshots/Kaleidoscope black_settings.jpg"
+      "themes/screenshots/W508/Kaleidoscope black_home.jpg",
+      "themes/screenshots/W508/Kaleidoscope black_menu.jpg",
+      "themes/screenshots/W508/Kaleidoscope black_settings.jpg"
     ],
     "file": "themes/Kaleidoscope black.thm",
     "swf": "Kaleidoscope black_desktop.swf"
@@ -2720,9 +2720,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Kaleidoscope white_home.jpg",
-      "themes/screenshots/Kaleidoscope white_menu.jpg",
-      "themes/screenshots/Kaleidoscope white_settings.jpg"
+      "themes/screenshots/W508/Kaleidoscope white_home.jpg",
+      "themes/screenshots/W508/Kaleidoscope white_menu.jpg",
+      "themes/screenshots/W508/Kaleidoscope white_settings.jpg"
     ],
     "file": "themes/Kaleidoscope white.thm",
     "swf": "Kaleidoscope white_desktop.swf"
@@ -2736,9 +2736,9 @@
     "resolution": "240x432",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Komi Shouko (Aino)_home.jpg",
-      "themes/screenshots/Komi Shouko (Aino)_menu.jpg",
-      "themes/screenshots/Komi Shouko (Aino)_tab.jpg"
+      "themes/screenshots/User-made/Komi Shouko (Aino)_home.jpg",
+      "themes/screenshots/User-made/Komi Shouko (Aino)_menu.jpg",
+      "themes/screenshots/User-made/Komi Shouko (Aino)_tab.jpg"
     ],
     "file": "themes/Komi Shouko (Aino).thm"
   },
@@ -2751,9 +2751,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Komi Shouko (Elm)_home.jpg",
-      "themes/screenshots/Komi Shouko (Elm)_menu.jpg",
-      "themes/screenshots/Komi Shouko (Elm)_tab.jpg"
+      "themes/screenshots/User-made/Komi Shouko (Elm)_home.jpg",
+      "themes/screenshots/User-made/Komi Shouko (Elm)_menu.jpg",
+      "themes/screenshots/User-made/Komi Shouko (Elm)_tab.jpg"
     ],
     "file": "themes/Komi Shouko (Elm).thm"
   },
@@ -2766,9 +2766,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Komi Shouko (K800i)_home.jpg",
-      "themes/screenshots/Komi Shouko (K800i)_menu.jpg",
-      "themes/screenshots/Komi Shouko (K800i)_tab.jpg"
+      "themes/screenshots/User-made/Komi Shouko (K800i)_home.jpg",
+      "themes/screenshots/User-made/Komi Shouko (K800i)_menu.jpg",
+      "themes/screenshots/User-made/Komi Shouko (K800i)_tab.jpg"
     ],
     "file": "themes/Komi Shouko (K800i).thm"
   },
@@ -2781,9 +2781,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Komi Shouko (K850i)_home.jpg",
-      "themes/screenshots/Komi Shouko (K850i)_menu.jpg",
-      "themes/screenshots/Komi Shouko (K850i)_tab.jpg"
+      "themes/screenshots/User-made/Komi Shouko (K850i)_home.jpg",
+      "themes/screenshots/User-made/Komi Shouko (K850i)_menu.jpg",
+      "themes/screenshots/User-made/Komi Shouko (K850i)_tab.jpg"
     ],
     "file": "themes/Komi Shouko (K850i).thm"
   },
@@ -2796,9 +2796,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Komi Shouko (S700i)_home.jpg",
-      "themes/screenshots/Komi Shouko (S700i)_menu.jpg",
-      "themes/screenshots/Komi Shouko (S700i)_tab.jpg"
+      "themes/screenshots/User-made/Komi Shouko (S700i)_home.jpg",
+      "themes/screenshots/User-made/Komi Shouko (S700i)_menu.jpg",
+      "themes/screenshots/User-made/Komi Shouko (S700i)_tab.jpg"
     ],
     "file": "themes/Komi Shouko (S700i).thm"
   },
@@ -2811,9 +2811,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Laser precision_home.jpg",
-      "themes/screenshots/Laser precision_menu.jpg",
-      "themes/screenshots/Laser precision_settings.jpg"
+      "themes/screenshots/K850i/Laser precision_home.jpg",
+      "themes/screenshots/K850i/Laser precision_menu.jpg",
+      "themes/screenshots/K850i/Laser precision_settings.jpg"
     ],
     "file": "themes/Laser precision.thm",
     "swf": "themes/swf/Precision_desktop.swf"
@@ -2827,9 +2827,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Lava_home.jpg",
-      "themes/screenshots/Lava_menu.jpg",
-      "themes/screenshots/Lava_settings.jpg"
+      "themes/screenshots/W710i/Lava_home.jpg",
+      "themes/screenshots/W710i/Lava_menu.jpg",
+      "themes/screenshots/W710i/Lava_settings.jpg"
     ],
     "file": "themes/Lava.thm",
     "swf": "themes/swf/Lava_desktop.swf"
@@ -2843,9 +2843,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Lazer precision_home.jpg",
-      "themes/screenshots/Lazer precision_menu.jpg",
-      "themes/screenshots/Lazer precision_settings.jpg"
+      "themes/screenshots/C902/Lazer precision_home.jpg",
+      "themes/screenshots/C902/Lazer precision_menu.jpg",
+      "themes/screenshots/C902/Lazer precision_settings.jpg"
     ],
     "file": "themes/Lazer precision.thm"
   },
@@ -2859,9 +2859,9 @@
     "homeType": "Animated",
     "note": "Modified version of the <a href='lazer-precision.html'>Lazer precision</a> theme that uses the <a href='laser-precision.html'>Laser precision</a> themes flash menu, it came on o2 (Germany) branded phones.",
     "screenshots": [
-      "themes/screenshots/Lazer Precision (o2)_home.jpg",
-      "themes/screenshots/Lazer Precision (o2)_menu.jpg",
-      "themes/screenshots/Lazer Precision (o2)_settings.jpg"
+      "themes/screenshots/W760i/Lazer Precision (o2)_home.jpg",
+      "themes/screenshots/W760i/Lazer Precision (o2)_menu.jpg",
+      "themes/screenshots/W760i/Lazer Precision (o2)_settings.jpg"
     ],
     "file": "themes/Lazer Precision (o2).thm",
     "swf": "themes/swf/Lazer precision_desktop.swf"
@@ -2875,9 +2875,9 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Leaves_home.jpg",
-      "themes/screenshots/Leaves_menu.jpg",
-      "themes/screenshots/Leaves_settings.jpg"
+      "themes/screenshots/K310i/Leaves_home.jpg",
+      "themes/screenshots/K310i/Leaves_menu.jpg",
+      "themes/screenshots/K310i/Leaves_settings.jpg"
     ],
     "file": "themes/Leaves.thm"
   },
@@ -2890,9 +2890,9 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Lech Kaczyński_home.jpg",
-      "themes/screenshots/Lech Kaczyński_menu.jpg",
-      "themes/screenshots/Lech Kaczyński_settings.jpg"
+      "themes/screenshots/User-made/Lech Kaczyński_home.jpg",
+      "themes/screenshots/User-made/Lech Kaczyński_menu.jpg",
+      "themes/screenshots/User-made/Lech Kaczyński_settings.jpg"
     ],
     "file": "themes/Lech Kaczyński.thm"
   },
@@ -2905,9 +2905,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Light flow_home.jpg",
-      "themes/screenshots/Light flow_menu.jpg",
-      "themes/screenshots/Light flow_settings.jpg"
+      "themes/screenshots/K810i/Light flow_home.jpg",
+      "themes/screenshots/K810i/Light flow_menu.jpg",
+      "themes/screenshots/K810i/Light flow_settings.jpg"
     ],
     "file": "themes/Light flow.thm"
   },
@@ -2921,16 +2921,16 @@
     "homeType": "Animated",
     "note": "Also appeared on the W595 when branded to o2 (Germany)",
     "screenshots": [
-      "themes/screenshots/Light trace_home.jpg",
-      "themes/screenshots/Light trace_menu.jpg",
-      "themes/screenshots/Light trace_settings.jpg"
+      "themes/screenshots/C702/Light trace_home.jpg",
+      "themes/screenshots/C702/Light trace_menu.jpg",
+      "themes/screenshots/C702/Light trace_settings.jpg"
     ],
     "file": "themes/Light trace.thm",
     "swf": "themes/swf/Light trace_desktop.swf",
 
   "alternateFlashMenus": [
     {
-      "screenshot": "themes/screenshots/Light trace (o2)_menu.jpg",
+      "screenshot": "themes/screenshots/C702/Light trace (o2)_menu.jpg",
       "file": "themes/swf/Alternate/o2/Light trace_desktop.swf",
       "note": "o2 branded icons"
     }
@@ -2946,9 +2946,9 @@
     "homeType": "Animated",
     "note": "Modified version of the <a href='light-trace.html'>Light trace</a> theme that came on Orange (Israel) branded phones.",
     "screenshots": [
-      "themes/screenshots/Light trace (Orange)_home.jpg",
-      "themes/screenshots/Light trace (Orange)_menu.jpg",
-      "themes/screenshots/Light trace (Orange)_settings.jpg"
+      "themes/screenshots/C702/Light trace (Orange)_home.jpg",
+      "themes/screenshots/C702/Light trace (Orange)_menu.jpg",
+      "themes/screenshots/C702/Light trace (Orange)_settings.jpg"
     ],
     "file": "themes/Light trace (Orange).thm",
     "swf": "themes/swf/LighttraceOrange_desktop.swf"
@@ -2962,9 +2962,9 @@
     "resolution": "240x432",
     "homeType": "Slideshow",
     "screenshots": [
-      "themes/screenshots/Lime stream (Aino)_home.jpg",
-      "themes/screenshots/Lime stream (Aino)_menu.jpg",
-      "themes/screenshots/Lime stream (Aino)_settings.jpg"
+      "themes/screenshots/Aino (U10i)/Lime stream_home.jpg",
+      "themes/screenshots/Aino (U10i)/Lime stream_menu.jpg",
+      "themes/screenshots/Aino (U10i)/Lime stream_settings.jpg"
     ],
     "file": "themes/Lime stream (Aino).thm"
   },
@@ -2977,9 +2977,9 @@
     "resolution": "240x320",
     "homeType": "Slideshow",
     "screenshots": [
-      "themes/screenshots/Lime stream (Yari)_home.jpg",
-      "themes/screenshots/Lime stream (Yari)_menu.jpg",
-      "themes/screenshots/Lime stream (Yari)_settings.jpg"
+      "themes/screenshots/Yari (U100i)/Lime stream_home.jpg",
+      "themes/screenshots/Yari (U100i)/Lime stream_menu.jpg",
+      "themes/screenshots/Yari (U100i)/Lime stream_settings.jpg"
     ],
     "file": "themes/Lime stream (Yari).thm"
   },
@@ -2992,9 +2992,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Lines_home.jpg",
-      "themes/screenshots/Lines_menu.jpg",
-      "themes/screenshots/Lines_settings.jpg"
+      "themes/screenshots/K510i/Lines_home.jpg",
+      "themes/screenshots/K510i/Lines_menu.jpg",
+      "themes/screenshots/K510i/Lines_settings.jpg"
     ],
     "file": "themes/Lines.thm"
   },
@@ -3007,8 +3007,8 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Lounge_home.jpg",
-      "themes/screenshots/Lounge_menu.jpg"
+      "themes/screenshots/W900i/Lounge_home.jpg",
+      "themes/screenshots/W900i/Lounge_menu.jpg"
     ],
     "file": "themes/Lounge.thm"
   },
@@ -3021,9 +3021,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Lumic_home.jpg",
-      "themes/screenshots/Lumic_menu.jpg",
-      "themes/screenshots/Lumic_tab.jpg"
+      "themes/screenshots/K700i/Lumic_home.jpg",
+      "themes/screenshots/K700i/Lumic_menu.jpg",
+      "themes/screenshots/K700i/Lumic_tab.jpg"
     ],
     "file": "themes/Lumic.thm"
   },
@@ -3036,9 +3036,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Luminosity_home.jpg",
-      "themes/screenshots/Luminosity_menu.jpg",
-      "themes/screenshots/Luminosity_settings.jpg"
+      "themes/screenshots/K850i/Luminosity_home.jpg",
+      "themes/screenshots/K850i/Luminosity_menu.jpg",
+      "themes/screenshots/K850i/Luminosity_settings.jpg"
     ],
     "file": "themes/Luminosity.thm"
   },
@@ -3051,9 +3051,9 @@
     "resolution": "128x128",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Lunarspots_home.jpg",
-      "themes/screenshots/Lunarspots_menu.jpg",
-      "themes/screenshots/Lunarspots_settings.jpg"
+      "themes/screenshots/K300i/Lunarspots_home.jpg",
+      "themes/screenshots/K300i/Lunarspots_menu.jpg",
+      "themes/screenshots/K300i/Lunarspots_settings.jpg"
     ],
     "file": "themes/Lunarspots.thm"
   },
@@ -3066,9 +3066,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Lux_home.jpg",
-      "themes/screenshots/Lux_menu.jpg",
-      "themes/screenshots/Lux_settings.jpg"
+      "themes/screenshots/W705/Lux_home.jpg",
+      "themes/screenshots/W705/Lux_menu.jpg",
+      "themes/screenshots/W705/Lux_settings.jpg"
     ],
     "file": "themes/Lux.thm",
     "swf": "themes/swf/Lux_desktop.swf"
@@ -3082,9 +3082,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Maple_home.jpg",
-      "themes/screenshots/Maple_menu.jpg",
-      "themes/screenshots/Maple_settings.jpg"
+      "themes/screenshots/Z770i/Maple_home.jpg",
+      "themes/screenshots/Z770i/Maple_menu.jpg",
+      "themes/screenshots/Z770i/Maple_settings.jpg"
     ],
     "file": "themes/Maple.thm"
   },
@@ -3097,9 +3097,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Medallion (K310i)_home.jpg",
-      "themes/screenshots/Medallion (K310i)_menu.jpg",
-      "themes/screenshots/Medallion (K310i)_settings.jpg"
+      "themes/screenshots/K310i/Medallion_home.jpg",
+      "themes/screenshots/K310i/Medallion_menu.jpg",
+      "themes/screenshots/K310i/Medallion_settings.jpg"
     ],
     "file": "themes/Medallion (K310i).thm"
   },
@@ -3112,9 +3112,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Medallion (K510i)_home.jpg",
-      "themes/screenshots/Medallion (K510i)_menu.jpg",
-      "themes/screenshots/Medallion (K510i)_settings.jpg"
+      "themes/screenshots/K510i/Medallion_home.jpg",
+      "themes/screenshots/K510i/Medallion_menu.jpg",
+      "themes/screenshots/K510i/Medallion_settings.jpg"
     ],
     "file": "themes/Medallion (K510i).thm"
   },
@@ -3127,9 +3127,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Melody_home.jpg",
-      "themes/screenshots/Melody_menu.jpg",
-      "themes/screenshots/Melody_charging.jpg"
+      "themes/screenshots/Elm (J10i2)/Melody_home.jpg",
+      "themes/screenshots/Elm (J10i2)/Melody_menu.jpg",
+      "themes/screenshots/Elm (J10i2)/Melody_charging.jpg"
     ],
     "file": "themes/Melody.thm",
     "swf": "themes/swf/MelodyDesktop.swf"
@@ -3144,9 +3144,9 @@
     "homeType": "Animated",
     "note": "Modified version of the <a href='melody.html'>Melody</a> theme that came on o2 (Germany) branded phones.",
     "screenshots": [
-      "themes/screenshots/Blue Melody_home.jpg",
-      "themes/screenshots/Blue Melody_menu.jpg",
-      "themes/screenshots/Blue Melody_charging.jpg"
+      "themes/screenshots/Elm (J10i2)/Melody (o2)_home.jpg",
+      "themes/screenshots/Elm (J10i2)/Melody (o2)_menu.jpg",
+      "themes/screenshots/Elm (J10i2)/Melody (o2)_charging.jpg"
     ],
     "file": "themes/Blue Melody.thm",
     "swf": "themes/swf/BlueMelodyDesktop.swf"
@@ -3160,9 +3160,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Metal rings_home.jpg",
-      "themes/screenshots/Metal rings_menu.jpg",
-      "themes/screenshots/Metal rings_tab.jpg"
+      "themes/screenshots/K630i/Metal rings_home.jpg",
+      "themes/screenshots/K630i/Metal rings_menu.jpg",
+      "themes/screenshots/K630i/Metal rings_tab.jpg"
     ],
     "file": "themes/Metal rings.thm"
   },
@@ -3175,9 +3175,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Metalix (K500i)_home.jpg",
-      "themes/screenshots/Metalix (K500i)_menu.jpg",
-      "themes/screenshots/Metalix (K500i)_settings.jpg"
+      "themes/screenshots/K500i/Metalix_home.jpg",
+      "themes/screenshots/K500i/Metalix_menu.jpg",
+      "themes/screenshots/K500i/Metalix_settings.jpg"
     ],
     "file": "themes/Metalix (K500i).thm"
   },
@@ -3191,10 +3191,10 @@
     "homeType": "Animated",
     "note": "Features images for the external display on the Z500a, otherwise identical to the <a href='floom-k500i.html'>K500i version</a>.",
     "screenshots": [
-      "themes/screenshots/Metalix (Z500a)_home.jpg",
-      "themes/screenshots/Metalix (Z500a)_menu.jpg",
-      "themes/screenshots/Metalix (Z500a)_settings.jpg",
-      "themes/screenshots/Metalix (Z500a)_external.jpg"
+      "themes/screenshots/Z500a/Metalix_home.jpg",
+      "themes/screenshots/Z500a/Metalix_menu.jpg",
+      "themes/screenshots/Z500a/Metalix_settings.jpg",
+      "themes/screenshots/Z500a/Metalix_external.jpg"
     ],
     "file": "themes/Metalix (Z500a).thm"
   },
@@ -3207,9 +3207,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Metropolitan_home.jpg",
-      "themes/screenshots/Metropolitan_menu.jpg",
-      "themes/screenshots/Metropolitan_settings.jpg"
+      "themes/screenshots/T715/Metropolitan_home.jpg",
+      "themes/screenshots/T715/Metropolitan_menu.jpg",
+      "themes/screenshots/T715/Metropolitan_settings.jpg"
     ],
     "file": "themes/Metropolitan.thm",
     "swf": "themes/swf/MetropolitanDesktop.swf"
@@ -3223,9 +3223,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Mojo_home.jpg",
-      "themes/screenshots/Mojo_menu.jpg",
-      "themes/screenshots/Mojo_list.jpg"
+      "themes/screenshots/G900/Mojo_home.jpg",
+      "themes/screenshots/G900/Mojo_menu.jpg",
+      "themes/screenshots/G900/Mojo_list.jpg"
     ],
     "file": "themes/Mojo.utz"
   },
@@ -3239,9 +3239,9 @@
     "homeType": "Animated",
     "note": "Also appeared on the W595 when branded to o2 (Germany)",
     "screenshots": [
-      "themes/screenshots/Morning glisten_home.jpg",
-      "themes/screenshots/Morning glisten_menu.jpg",
-      "themes/screenshots/Morning glisten_settings.jpg"
+      "themes/screenshots/C510/Morning glisten_home.jpg",
+      "themes/screenshots/C510/Morning glisten_menu.jpg",
+      "themes/screenshots/C510/Morning glisten_settings.jpg"
     ],
     "file": "themes/Morning glisten.thm",
     "swf": "themes/swf/Morning glisten_desktop.swf"
@@ -3255,9 +3255,9 @@
     "resolution": "128x128",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Mosaique_home.jpg",
-      "themes/screenshots/Mosaique_menu.jpg",
-      "themes/screenshots/Mosaique_settings.jpg"
+      "themes/screenshots/K300i/Mosaique_home.jpg",
+      "themes/screenshots/K300i/Mosaique_menu.jpg",
+      "themes/screenshots/K300i/Mosaique_settings.jpg"
     ],
     "file": "themes/Mosaique.thm"
   },
@@ -3270,9 +3270,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Musaic (W880i)_home.jpg",
-      "themes/screenshots/Musaic (W880i)_menu.jpg",
-      "themes/screenshots/Musaic (W880i)_settings.jpg"
+      "themes/screenshots/W880i/Musaic_home.jpg",
+      "themes/screenshots/W880i/Musaic_menu.jpg",
+      "themes/screenshots/W880i/Musaic_settings.jpg"
     ],
     "file": "themes/Musaic (W880i).thm",
     "swf": "themes/swf/Final_Musaic_desktop.swf"
@@ -3286,9 +3286,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Musaic (W890i)_home.jpg",
-      "themes/screenshots/Musaic (W890i)_menu.jpg",
-      "themes/screenshots/Musaic (W890i)_settings.jpg"
+      "themes/screenshots/W890i/Musaic_home.jpg",
+      "themes/screenshots/W890i/Musaic_menu.jpg",
+      "themes/screenshots/W890i/Musaic_settings.jpg"
     ],
     "file": "themes/Musaic (W890i).thm",
     "swf": "themes/swf/Musaic_desktop.swf"
@@ -3302,9 +3302,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Nebula_home.jpg",
-      "themes/screenshots/Nebula_menu.jpg",
-      "themes/screenshots/Nebula_settings.jpg"
+      "themes/screenshots/Jalou (F100i)/Nebula_home.jpg",
+      "themes/screenshots/Jalou (F100i)/Nebula_menu.jpg",
+      "themes/screenshots/Jalou (F100i)/Nebula_settings.jpg"
     ],
     "file": "themes/Nebula.thm",
     "swf": "themes/swf/NebulaDesktop.swf"
@@ -3318,9 +3318,9 @@
     "resolution": "176x220",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/NeoHighway_home.jpg",
-      "themes/screenshots/NeoHighway_menu.jpg",
-      "themes/screenshots/NeoHighway_settings.jpg"
+      "themes/screenshots/Z710i/NeoHighway_home.jpg",
+      "themes/screenshots/Z710i/NeoHighway_menu.jpg",
+      "themes/screenshots/Z710i/NeoHighway_settings.jpg"
     ],
     "file": "themes/NeoHighway.thm"
   },
@@ -3333,9 +3333,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Neon_home.jpg",
-      "themes/screenshots/Neon_menu.jpg",
-      "themes/screenshots/Neon_settings.jpg"
+      "themes/screenshots/Z770i/Neon_home.jpg",
+      "themes/screenshots/Z770i/Neon_menu.jpg",
+      "themes/screenshots/Z770i/Neon_settings.jpg"
     ],
     "file": "themes/Neon.thm"
   },
@@ -3348,9 +3348,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Nightlight_home.jpg",
-      "themes/screenshots/Nightlight_menu.jpg",
-      "themes/screenshots/Nightlight_settings.jpg"
+      "themes/screenshots/Z310i/Nightlight_home.jpg",
+      "themes/screenshots/Z310i/Nightlight_menu.jpg",
+      "themes/screenshots/Z310i/Nightlight_settings.jpg"
     ],
     "file": "themes/Nightlight.thm"
   },
@@ -3363,9 +3363,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Nightmirror_home.jpg",
-      "themes/screenshots/Nightmirror_menu.jpg",
-      "themes/screenshots/Nightmirror_settings.jpg"
+      "themes/screenshots/Z310i/Nightmirror_home.jpg",
+      "themes/screenshots/Z310i/Nightmirror_menu.jpg",
+      "themes/screenshots/Z310i/Nightmirror_settings.jpg"
     ],
     "file": "themes/Nightmirror.thm"
   },
@@ -3378,9 +3378,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Nightshot_home.jpg",
-      "themes/screenshots/Nightshot_menu.jpg",
-      "themes/screenshots/Nightshot_settings.jpg"
+      "themes/screenshots/K800i/Nightshot_home.jpg",
+      "themes/screenshots/K800i/Nightshot_menu.jpg",
+      "themes/screenshots/K800i/Nightshot_settings.jpg"
     ],
     "file": "themes/Nightshot.thm"
   },
@@ -3394,9 +3394,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/o2 Theme_home.jpg",
-      "themes/screenshots/o2 Theme_menu.jpg",
-      "themes/screenshots/o2 Theme_settings.jpg"
+      "themes/screenshots/W595/o2 Theme_home.jpg",
+      "themes/screenshots/W595/o2 Theme_menu.jpg",
+      "themes/screenshots/W595/o2 Theme_settings.jpg"
     ],
     "file": "themes/o2 Theme.thm"
   },
@@ -3409,9 +3409,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Oboe_home.jpg",
-      "themes/screenshots/Oboe_menu.jpg",
-      "themes/screenshots/Oboe_tab.jpg"
+      "themes/screenshots/K630i/Oboe_home.jpg",
+      "themes/screenshots/K630i/Oboe_menu.jpg",
+      "themes/screenshots/K630i/Oboe_tab.jpg"
     ],
     "file": "themes/Oboe.thm"
   },
@@ -3424,9 +3424,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/On land_home.jpg",
-      "themes/screenshots/On land_menu.jpg",
-      "themes/screenshots/On land_settings.jpg"
+      "themes/screenshots/T650i/On land_home.jpg",
+      "themes/screenshots/T650i/On land_menu.jpg",
+      "themes/screenshots/T650i/On land_settings.jpg"
     ],
     "file": "themes/On land.thm",
     "swf": "themes/swf/onLand_desktop.swf"
@@ -3440,26 +3440,26 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Onto_home.jpg",
-      "themes/screenshots/Onto_menu.jpg",
-      "themes/screenshots/Onto_settings.jpg"
+      "themes/screenshots/W760i/Onto_home.jpg",
+      "themes/screenshots/W760i/Onto_menu.jpg",
+      "themes/screenshots/W760i/Onto_settings.jpg"
     ],
     "file": "themes/Onto.thm",
     "swf": "themes/swf/Onto_desktop.swf",
 
   "alternateFlashMenus": [
     {
-      "screenshot": "themes/screenshots/Onto (China Mobile)_menu.jpg",
+      "screenshot": "themes/screenshots/W760i/Onto (China Mobile)_menu.jpg",
       "file": "themes/swf/Alternate/China Mobile/Onto_desktop.swf",
       "note": "China Mobile branded icons"
     },
     {
-      "screenshot": "themes/screenshots/Onto (o2)_menu.jpg",
+      "screenshot": "themes/screenshots/W760i/Onto (o2)_menu.jpg",
       "file": "themes/swf/Alternate/o2/Onto_desktop.swf",
       "note": "o2 branded icons"
     },
     {
-      "screenshot": "themes/screenshots/Onto (Orange IL)_menu.jpg",
+      "screenshot": "themes/screenshots/W760i/Onto (Orange IL)_menu.jpg",
       "file": "themes/swf/Alternate/Orange IL/Onto_desktop.swf",
       "note": "Orange IL branded icons"
     }
@@ -3475,9 +3475,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Optus Zoo (W980)_home.jpg",
-      "themes/screenshots/Optus Zoo (W980)_menu.jpg",
-      "themes/screenshots/Optus Zoo (W980)_settings.jpg"
+      "themes/screenshots/W980/Optus Zoo_home.jpg",
+      "themes/screenshots/W980/Optus Zoo_menu.jpg",
+      "themes/screenshots/W980/Optus Zoo_settings.jpg"
     ],
     "file": "themes/Optus Zoo (W980).thm"
   },
@@ -3491,9 +3491,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Orange (C905)_home.jpg",
-      "themes/screenshots/Orange (C905)_menu.jpg",
-      "themes/screenshots/Orange (C905)_settings.jpg"
+      "themes/screenshots/C905/Orange_home.jpg",
+      "themes/screenshots/C905/Orange_menu.jpg",
+      "themes/screenshots/C905/Orange_settings.jpg"
     ],
     "file": "themes/Orange (C905).thm"
   },
@@ -3507,9 +3507,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Orange (DB2030)_home.jpg",
-      "themes/screenshots/Orange (DB2030)_menu.jpg",
-      "themes/screenshots/Orange (DB2030)_settings.jpg"
+      "themes/screenshots/W880i/Orange_home.jpg",
+      "themes/screenshots/W880i/Orange_menu.jpg",
+      "themes/screenshots/W880i/Orange_settings.jpg"
     ],
     "file": "themes/Orange (DB2030).thm"
   },
@@ -3523,9 +3523,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Orange (DB3150)_home.jpg",
-      "themes/screenshots/Orange (DB3150)_menu.jpg",
-      "themes/screenshots/Orange (DB3150)_settings.jpg"
+      "themes/screenshots/K660i/Orange_home.jpg",
+      "themes/screenshots/K660i/Orange_menu.jpg",
+      "themes/screenshots/K660i/Orange_settings.jpg"
     ],
     "file": "themes/Orange (DB3150).thm"
   },
@@ -3538,9 +3538,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Orange Bubbles_home.jpg",
-      "themes/screenshots/Orange Bubbles_menu.jpg",
-      "themes/screenshots/Orange Bubbles_settings.jpg"
+      "themes/screenshots/W850i/Orange Bubbles_home.jpg",
+      "themes/screenshots/W850i/Orange Bubbles_menu.jpg",
+      "themes/screenshots/W850i/Orange Bubbles_settings.jpg"
     ],
     "file": "themes/Orange Bubbles.thm",
     "swf": "themes/swf/orangeBubbles_desktop.swf"
@@ -3554,9 +3554,9 @@
     "resolution": "208x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Orange Cloud_homeclosed.jpg",
-      "themes/screenshots/Orange Cloud_menu.jpg",
-      "themes/screenshots/Orange Cloud_messaging.jpg"
+      "themes/screenshots/P910i/Orange Cloud_homeclosed.jpg",
+      "themes/screenshots/P910i/Orange Cloud_menu.jpg",
+      "themes/screenshots/P910i/Orange Cloud_messaging.jpg"
     ],
     "file": "themes/Orange Cloud.utz"
   },
@@ -3570,9 +3570,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Orange Music_home.jpg",
-      "themes/screenshots/Orange Music_menu.jpg",
-      "themes/screenshots/Orange Music_settings.jpg"
+      "themes/screenshots/W880i/Orange Music_home.jpg",
+      "themes/screenshots/W880i/Orange Music_menu.jpg",
+      "themes/screenshots/W880i/Orange Music_settings.jpg"
     ],
     "file": "themes/Orange Music.thm",
     "swf": "themes/swf/Ai_dt_orange.swf"
@@ -3587,9 +3587,9 @@
     "homeType": "Animated",
     "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
     "screenshots": [
-      "themes/screenshots/Orange orbit_home.jpg",
-      "themes/screenshots/Orange orbit_menu.jpg",
-      "themes/screenshots/Orange orbit_settings.jpg"
+      "themes/screenshots/W200i/Orange orbit_home.jpg",
+      "themes/screenshots/W200i/Orange orbit_menu.jpg",
+      "themes/screenshots/W200i/Orange orbit_settings.jpg"
     ],
     "file": "themes/Orange orbit.thm",
     "swf": "themes/swf/OrangeOrbit_061016.swf"
@@ -3604,9 +3604,9 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Orange Theme (W205)_home.jpg",
-      "themes/screenshots/Orange Theme (W205)_menu.jpg",
-      "themes/screenshots/Orange Theme (W205)_activity.jpg"
+      "themes/screenshots/W205/Orange Theme_home.jpg",
+      "themes/screenshots/W205/Orange Theme_menu.jpg",
+      "themes/screenshots/W205/Orange Theme_activity.jpg"
     ],
     "file": "themes/Orange Theme (W205).thm"
   },
@@ -3619,9 +3619,9 @@
     "resolution": "128x128",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Oranque_home.jpg",
-      "themes/screenshots/Oranque_menu.jpg",
-      "themes/screenshots/Oranque_settings.jpg"
+      "themes/screenshots/K300i/Oranque_home.jpg",
+      "themes/screenshots/K300i/Oranque_menu.jpg",
+      "themes/screenshots/K300i/Oranque_settings.jpg"
     ],
     "file": "themes/Oranque.thm"
   },
@@ -3634,9 +3634,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Organical_home.jpg",
-      "themes/screenshots/Organical_menu.jpg",
-      "themes/screenshots/Organical_settings.jpg"
+      "themes/screenshots/Z710i/Organical_home.jpg",
+      "themes/screenshots/Z710i/Organical_menu.jpg",
+      "themes/screenshots/Z710i/Organical_settings.jpg"
     ],
     "file": "themes/Organical.thm"
   },
@@ -3649,9 +3649,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Organza_home.jpg",
-      "themes/screenshots/Organza_menu.jpg",
-      "themes/screenshots/Organza_list.jpg"
+      "themes/screenshots/G700/Organza_home.jpg",
+      "themes/screenshots/G700/Organza_menu.jpg",
+      "themes/screenshots/G700/Organza_list.jpg"
     ],
     "file": "themes/Organza.utz"
   },
@@ -3664,9 +3664,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Origami brown_home.jpg",
-      "themes/screenshots/Origami brown_menu.jpg",
-      "themes/screenshots/Origami brown_settings.jpg"
+      "themes/screenshots/Naite (J105i)/Origami brown_home.jpg",
+      "themes/screenshots/Naite (J105i)/Origami brown_menu.jpg",
+      "themes/screenshots/Naite (J105i)/Origami brown_settings.jpg"
     ],
     "file": "themes/Origami brown.thm"
   },
@@ -3679,9 +3679,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Origami scarlet_home.jpg",
-      "themes/screenshots/Origami scarlet_menu.jpg",
-      "themes/screenshots/Origami scarlet_settings.jpg"
+      "themes/screenshots/Naite (J105i)/Origami scarlet_home.jpg",
+      "themes/screenshots/Naite (J105i)/Origami scarlet_menu.jpg",
+      "themes/screenshots/Naite (J105i)/Origami scarlet_settings.jpg"
     ],
     "file": "themes/Origami scarlet.thm"
   },
@@ -3694,9 +3694,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Partim_home.jpg",
-      "themes/screenshots/Partim_menu.jpg",
-      "themes/screenshots/Partim_settings.jpg"
+      "themes/screenshots/W995/Partim_home.jpg",
+      "themes/screenshots/W995/Partim_menu.jpg",
+      "themes/screenshots/W995/Partim_settings.jpg"
     ],
     "file": "themes/Partim.thm",
     "swf": "themes/swf/PartimDesktop.swf"
@@ -3710,9 +3710,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Passion_home.jpg",
-      "themes/screenshots/Passion_menu.jpg",
-      "themes/screenshots/Passion_settings.jpg"
+      "themes/screenshots/W705/Passion_home.jpg",
+      "themes/screenshots/W705/Passion_menu.jpg",
+      "themes/screenshots/W705/Passion_settings.jpg"
     ],
     "file": "themes/Passion.thm",
     "swf": "themes/swf/Passion_desktop.swf"
@@ -3726,9 +3726,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Pastelle_home.jpg",
-      "themes/screenshots/Pastelle_menu.jpg",
-      "themes/screenshots/Pastelle_settings.jpg"
+      "themes/screenshots/W595/Pastelle_home.jpg",
+      "themes/screenshots/W595/Pastelle_menu.jpg",
+      "themes/screenshots/W595/Pastelle_settings.jpg"
     ],
     "file": "themes/Pastelle.thm",
     "swf": "themes/swf/Pastelle_desktop.swf"
@@ -3742,9 +3742,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Pattern_home.jpg",
-      "themes/screenshots/Pattern_menu.jpg",
-      "themes/screenshots/Pattern_settings.jpg"
+      "themes/screenshots/G502/Pattern_home.jpg",
+      "themes/screenshots/G502/Pattern_menu.jpg",
+      "themes/screenshots/G502/Pattern_settings.jpg"
     ],
     "file": "themes/Pattern.thm"
   },
@@ -3757,9 +3757,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Peach_home.jpg",
-      "themes/screenshots/Peach_menu.jpg",
-      "themes/screenshots/Peach_settings.jpg"
+      "themes/screenshots/C901/Peach_home.jpg",
+      "themes/screenshots/C901/Peach_menu.jpg",
+      "themes/screenshots/C901/Peach_settings.jpg"
     ],
     "file": "themes/Peach.thm",
     "swf": "themes/swf/Peach_desktop.swf"
@@ -3773,9 +3773,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Pendulum_home.jpg",
-      "themes/screenshots/Pendulum_menu.jpg",
-      "themes/screenshots/Pendulum_tab.jpg"
+      "themes/screenshots/K600i/Pendulum_home.jpg",
+      "themes/screenshots/K600i/Pendulum_menu.jpg",
+      "themes/screenshots/K600i/Pendulum_tab.jpg"
     ],
     "file": "themes/Pendulum.thm"
   },
@@ -3788,9 +3788,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Persona 5 v1.15 (DB3350)_home.jpg",
-      "themes/screenshots/Persona 5 v1.15 (DB3350)_menu.jpg",
-      "themes/screenshots/Persona 5 v1.15 (DB3350)_settings.jpg"
+      "themes/screenshots/User-made/Persona 5 v1.15 (DB3350)_home.jpg",
+      "themes/screenshots/User-made/Persona 5 v1.15 (DB3350)_menu.jpg",
+      "themes/screenshots/User-made/Persona 5 v1.15 (DB3350)_settings.jpg"
     ],
     "file": "themes/Persona5-A200-v1.15.thm",
     "swf": "themes/swf/Persona5_desktop.swf"
@@ -3804,9 +3804,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Persona 5 v1.2 (DB2020)_home.jpg",
-      "themes/screenshots/Persona 5 v1.2 (DB2020)_menu.jpg",
-      "themes/screenshots/Persona 5 v1.2 (DB2020)_settings.jpg"
+      "themes/screenshots/User-made/Persona 5 v1.2 (DB2020)_home.jpg",
+      "themes/screenshots/User-made/Persona 5 v1.2 (DB2020)_menu.jpg",
+      "themes/screenshots/User-made/Persona 5 v1.2 (DB2020)_settings.jpg"
     ],
     "file": "themes/Persona5-A100-v1.2.thm",
     "swf": "themes/swf/Persona5DesktopA1.swf"
@@ -3820,9 +3820,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Phenomenon_home.jpg",
-      "themes/screenshots/Phenomenon_menu.jpg",
-      "themes/screenshots/Phenomenon_settings.jpg"
+      "themes/screenshots/K810i/Phenomenon_home.jpg",
+      "themes/screenshots/K810i/Phenomenon_menu.jpg",
+      "themes/screenshots/K810i/Phenomenon_settings.jpg"
     ],
     "file": "themes/Phenomenon.thm"
   },
@@ -3835,9 +3835,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Pianos_home.jpg",
-      "themes/screenshots/Pianos_menu.jpg",
-      "themes/screenshots/Pianos_settings.jpg"
+      "themes/screenshots/W980/Pianos_home.jpg",
+      "themes/screenshots/W980/Pianos_menu.jpg",
+      "themes/screenshots/W980/Pianos_settings.jpg"
     ],
     "file": "themes/Pianos.thm",
     "swf": "themes/swf/Pianos_desktop.swf"
@@ -3852,9 +3852,9 @@
     "homeType": "Animated",
     "note": "Modified version of the <a href='pianos.html'>Pianos</a> theme that came on o2 (Germany) branded phones.",
     "screenshots": [
-      "themes/screenshots/Pianos (o2)_home.jpg",
-      "themes/screenshots/Pianos (o2)_menu.jpg",
-      "themes/screenshots/Pianos (o2)_settings.jpg"
+      "themes/screenshots/W980/Pianos (o2)_home.jpg",
+      "themes/screenshots/W980/Pianos (o2)_menu.jpg",
+      "themes/screenshots/W980/Pianos (o2)_settings.jpg"
     ],
     "file": "themes/Pianos (o2).thm",
     "swf": "themes/swf/Pianoso2_desktop.swf"
@@ -3869,9 +3869,9 @@
     "homeType": "Animated",
     "note": "Modified version of the <a href='pianos.html'>Pianos</a> theme that came on Orange (Israel) branded phones.",
     "screenshots": [
-      "themes/screenshots/Pianos (Orange)_home.jpg",
-      "themes/screenshots/Pianos (Orange)_menu.jpg",
-      "themes/screenshots/Pianos (Orange)_settings.jpg"
+      "themes/screenshots/W980/Pianos (Orange)_home.jpg",
+      "themes/screenshots/W980/Pianos (Orange)_menu.jpg",
+      "themes/screenshots/W980/Pianos (Orange)_settings.jpg"
     ],
     "file": "themes/Pianos (Orange).thm",
     "swf": "themes/swf/Pianos Orange.swf"
@@ -3885,9 +3885,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Pink lilac_home.jpg",
-      "themes/screenshots/Pink lilac_menu.jpg",
-      "themes/screenshots/Pink lilac_settings.jpg"
+      "themes/screenshots/T707/Pink lilac_home.jpg",
+      "themes/screenshots/T707/Pink lilac_menu.jpg",
+      "themes/screenshots/T707/Pink lilac_settings.jpg"
     ],
     "file": "themes/Pink lilac.thm",
     "swf": "themes/swf/PinklilacDesktop.swf"
@@ -3901,9 +3901,9 @@
     "resolution": "208x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Pinstripe_homeclosed.jpg",
-      "themes/screenshots/Pinstripe_menu.jpg",
-      "themes/screenshots/Pinstripe_messaging.jpg"
+      "themes/screenshots/P910i/Pinstripe_homeclosed.jpg",
+      "themes/screenshots/P910i/Pinstripe_menu.jpg",
+      "themes/screenshots/P910i/Pinstripe_messaging.jpg"
     ],
     "file": "themes/Pinstripe.utz"
   },
@@ -3917,9 +3917,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/PLAY (DB2030)_home.jpg",
-      "themes/screenshots/PLAY (DB2030)_menu.jpg",
-      "themes/screenshots/PLAY (DB2030)_settings.jpg"
+      "themes/screenshots/K770i/PLAY_home.jpg",
+      "themes/screenshots/K770i/PLAY_menu.jpg",
+      "themes/screenshots/K770i/PLAY_settings.jpg"
     ],
     "file": "themes/PLAY (DB2030).thm"
   },
@@ -3933,9 +3933,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/PLAY (DB3150)_home.jpg",
-      "themes/screenshots/PLAY (DB3150)_menu.jpg",
-      "themes/screenshots/PLAY (DB3150)_settings.jpg"
+      "themes/screenshots/K660i/PLAY_home.jpg",
+      "themes/screenshots/K660i/PLAY_menu.jpg",
+      "themes/screenshots/K660i/PLAY_settings.jpg"
     ],
     "file": "themes/PLAY (DB3150).thm"
   },
@@ -3949,9 +3949,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/PLAY (DB3350)_home.jpg",
-      "themes/screenshots/PLAY (DB3350)_menu.jpg",
-      "themes/screenshots/PLAY (DB3350)_tab.jpg"
+      "themes/screenshots/Yari (U100i)/PLAY_home.jpg",
+      "themes/screenshots/Yari (U100i)/PLAY_menu.jpg",
+      "themes/screenshots/Yari (U100i)/PLAY_tab.jpg"
     ],
     "file": "themes/PLAY (DB3350).thm"
   },
@@ -3965,9 +3965,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Plus (DB2030)_home.jpg",
-      "themes/screenshots/Plus (DB2030)_menu.jpg",
-      "themes/screenshots/Plus (DB2030)_settings.jpg"
+      "themes/screenshots/K770i/Plus_home.jpg",
+      "themes/screenshots/K770i/Plus_menu.jpg",
+      "themes/screenshots/K770i/Plus_settings.jpg"
     ],
     "file": "themes/Plus (DB2030).thm"
   },
@@ -3981,9 +3981,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Plus (DB3150)_home.jpg",
-      "themes/screenshots/Plus (DB3150)_menu.jpg",
-      "themes/screenshots/Plus (DB3150)_settings.jpg"
+      "themes/screenshots/K660i/Plus_home.jpg",
+      "themes/screenshots/K660i/Plus_menu.jpg",
+      "themes/screenshots/K660i/Plus_settings.jpg"
     ],
     "file": "themes/Plus (DB3150).thm"
   },
@@ -3996,9 +3996,9 @@
     "resolution": "240x432",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Pop art_home.jpg",
-      "themes/screenshots/Pop art_menu.jpg",
-      "themes/screenshots/Pop art_settings.jpg"
+      "themes/screenshots/Aino (U10i)/Pop art_home.jpg",
+      "themes/screenshots/Aino (U10i)/Pop art_menu.jpg",
+      "themes/screenshots/Aino (U10i)/Pop art_settings.jpg"
     ],
     "file": "themes/Pop art.thm"
   },
@@ -4011,10 +4011,10 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Porcelain_home.jpg",
-      "themes/screenshots/Porcelain_menu.jpg",
-      "themes/screenshots/Porcelain_list.jpg",
-      "themes/screenshots/Porcelain_homeclosed.jpg"
+      "themes/screenshots/P990i/Porcelain_home.jpg",
+      "themes/screenshots/P990i/Porcelain_menu.jpg",
+      "themes/screenshots/P990i/Porcelain_list.jpg",
+      "themes/screenshots/P990i/Porcelain_homeclosed.jpg"
     ],
     "file": "themes/Porcelain.utz"
   },
@@ -4027,9 +4027,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Purple Dimension_home.jpg",
-      "themes/screenshots/Purple Dimension_menu.jpg",
-      "themes/screenshots/Purple Dimension_list.jpg"
+      "themes/screenshots/User-made/Purple Dimension_home.jpg",
+      "themes/screenshots/User-made/Purple Dimension_menu.jpg",
+      "themes/screenshots/User-made/Purple Dimension_list.jpg"
     ],
     "file": "themes/Purple Dimension.utz"
   },
@@ -4042,9 +4042,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Purple sky_home.jpg",
-      "themes/screenshots/Purple sky_menu.jpg",
-      "themes/screenshots/Purple sky_settings.jpg"
+      "themes/screenshots/W890i/Purple sky_home.jpg",
+      "themes/screenshots/W890i/Purple sky_menu.jpg",
+      "themes/screenshots/W890i/Purple sky_settings.jpg"
     ],
     "file": "themes/Purple sky.thm",
     "swf": "themes/swf/PurpleSky_desktop.swf"
@@ -4058,9 +4058,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Quiksilver_home.jpg",
-      "themes/screenshots/Quiksilver_menu.jpg",
-      "themes/screenshots/Quiksilver_charging.jpg"
+      "themes/screenshots/Hazel (J20i)/Quiksilver_home.jpg",
+      "themes/screenshots/Hazel (J20i)/Quiksilver_menu.jpg",
+      "themes/screenshots/Hazel (J20i)/Quiksilver_charging.jpg"
     ],
     "file": "themes/Quiksilver.thm",
     "swf": "themes/swf/QuicksilverDesktop.swf"
@@ -4074,9 +4074,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Ray_home.jpg",
-      "themes/screenshots/Ray_menu.jpg",
-      "themes/screenshots/Ray_settings.jpg"
+      "themes/screenshots/C510/Ray_home.jpg",
+      "themes/screenshots/C510/Ray_menu.jpg",
+      "themes/screenshots/C510/Ray_settings.jpg"
     ],
     "file": "themes/Ray.thm",
     "swf": "themes/swf/Ray_desktop.swf"
@@ -4090,9 +4090,9 @@
     "resolution": "208x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Red_homeclosed.jpg",
-      "themes/screenshots/Red_menu.jpg",
-      "themes/screenshots/Red_messaging.jpg"
+      "themes/screenshots/P900/Red_homeclosed.jpg",
+      "themes/screenshots/P900/Red_menu.jpg",
+      "themes/screenshots/P900/Red_messaging.jpg"
     ],
     "file": "themes/Red.utz"
   },
@@ -4105,9 +4105,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Red Fragrance_home.jpg",
-      "themes/screenshots/Red Fragrance_menu.jpg",
-      "themes/screenshots/Red Fragrance_settings.jpg"
+      "themes/screenshots/K610i/Red Fragrance_home.jpg",
+      "themes/screenshots/K610i/Red Fragrance_menu.jpg",
+      "themes/screenshots/K610i/Red Fragrance_settings.jpg"
     ],
     "file": "themes/Red Fragrance.thm"
   },
@@ -4120,8 +4120,8 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Retro_home.jpg",
-      "themes/screenshots/Retro_tab.jpg"
+      "themes/screenshots/Z320i/Retro_home.jpg",
+      "themes/screenshots/Z320i/Retro_tab.jpg"
     ],
     "file": "themes/Retro.thm"
   },
@@ -4134,9 +4134,9 @@
     "resolution": "128x128",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Rings_home.jpg",
-      "themes/screenshots/Rings_menu.jpg",
-      "themes/screenshots/Rings_settings.jpg"
+      "themes/screenshots/J300i/Rings_home.jpg",
+      "themes/screenshots/J300i/Rings_menu.jpg",
+      "themes/screenshots/J300i/Rings_settings.jpg"
     ],
     "file": "themes/Rings.thm"
   },
@@ -4149,9 +4149,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Ripples_home.jpg",
-      "themes/screenshots/Ripples_menu.jpg",
-      "themes/screenshots/Ripples_charging.jpg"
+      "themes/screenshots/Hazel (J20i)/Ripples_home.jpg",
+      "themes/screenshots/Hazel (J20i)/Ripples_menu.jpg",
+      "themes/screenshots/Hazel (J20i)/Ripples_charging.jpg"
     ],
     "file": "themes/Ripples.thm",
     "swf": "themes/swf/RipplesDesktop.swf"
@@ -4165,9 +4165,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/ScribbleBeats_home.jpg",
-      "themes/screenshots/ScribbleBeats_menu.jpg",
-      "themes/screenshots/ScribbleBeats_settings.jpg"
+      "themes/screenshots/W610i/ScribbleBeats_home.jpg",
+      "themes/screenshots/W610i/ScribbleBeats_menu.jpg",
+      "themes/screenshots/W610i/ScribbleBeats_settings.jpg"
     ],
     "file": "themes/ScribbleBeats.thm",
     "swf": "themes/swf/Na_dt_ScribbleBeat.swf"
@@ -4181,9 +4181,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Sequinity_home.jpg",
-      "themes/screenshots/Sequinity_menu.jpg",
-      "themes/screenshots/Sequinity_settings.jpg"
+      "themes/screenshots/T700/Sequinity_home.jpg",
+      "themes/screenshots/T700/Sequinity_menu.jpg",
+      "themes/screenshots/T700/Sequinity_settings.jpg"
     ],
     "file": "themes/Sequinity.thm",
     "swf": "themes/swf/Sequinity_desktop.swf"
@@ -4197,9 +4197,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Sequoia_home.jpg",
-      "themes/screenshots/Sequoia_menu.jpg",
-      "themes/screenshots/Sequoia_list.jpg"
+      "themes/screenshots/G700/Sequoia_home.jpg",
+      "themes/screenshots/G700/Sequoia_menu.jpg",
+      "themes/screenshots/G700/Sequoia_list.jpg"
     ],
     "file": "themes/Sequoia.utz"
   },
@@ -4212,9 +4212,9 @@
     "resolution": "176x220",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Shadow the Hedgehog (K700i)_home.jpg",
-      "themes/screenshots/Shadow the Hedgehog (K700i)_menu.jpg",
-      "themes/screenshots/Shadow the Hedgehog (K700i)_tab.jpg"
+      "themes/screenshots/User-made/Shadow the Hedgehog (K700i)_home.jpg",
+      "themes/screenshots/User-made/Shadow the Hedgehog (K700i)_menu.jpg",
+      "themes/screenshots/User-made/Shadow the Hedgehog (K700i)_tab.jpg"
     ],
     "file": "themes/Shadow the Hedgehog (K700i).thm"
   },
@@ -4227,9 +4227,9 @@
     "resolution": "176x220",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Shadow the Hedgehog (K750i)_home.jpg",
-      "themes/screenshots/Shadow the Hedgehog (K750i)_menu.jpg",
-      "themes/screenshots/Shadow the Hedgehog (K750i)_tab.jpg"
+      "themes/screenshots/User-made/Shadow the Hedgehog (K750i)_home.jpg",
+      "themes/screenshots/User-made/Shadow the Hedgehog (K750i)_menu.jpg",
+      "themes/screenshots/User-made/Shadow the Hedgehog (K750i)_tab.jpg"
     ],
     "file": "themes/Shadow the Hedgehog (K750i).thm"
   },
@@ -4242,9 +4242,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Shadow the Hedgehog (K800i)_home.jpg",
-      "themes/screenshots/Shadow the Hedgehog (K800i)_menu.jpg",
-      "themes/screenshots/Shadow the Hedgehog (K800i)_tab.jpg"
+      "themes/screenshots/User-made/Shadow the Hedgehog (K800i)_home.jpg",
+      "themes/screenshots/User-made/Shadow the Hedgehog (K800i)_menu.jpg",
+      "themes/screenshots/User-made/Shadow the Hedgehog (K800i)_tab.jpg"
     ],
     "file": "themes/Shadow the Hedgehog (K800i).thm"
   },
@@ -4257,9 +4257,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Shadow the Hedgehog (S700i)_home.jpg",
-      "themes/screenshots/Shadow the Hedgehog (S700i)_menu.jpg",
-      "themes/screenshots/Shadow the Hedgehog (S700i)_tab.jpg"
+      "themes/screenshots/User-made/Shadow the Hedgehog (S700i)_home.jpg",
+      "themes/screenshots/User-made/Shadow the Hedgehog (S700i)_menu.jpg",
+      "themes/screenshots/User-made/Shadow the Hedgehog (S700i)_tab.jpg"
     ],
     "file": "themes/Shadow the Hedgehog (S700i).thm"
   },
@@ -4272,9 +4272,9 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Shadow the Hedgehog (W205)_home.jpg",
-      "themes/screenshots/Shadow the Hedgehog (W205)_menu.jpg",
-      "themes/screenshots/Shadow the Hedgehog (W205)_tab.jpg"
+      "themes/screenshots/User-made/Shadow the Hedgehog (W205)_home.jpg",
+      "themes/screenshots/User-made/Shadow the Hedgehog (W205)_menu.jpg",
+      "themes/screenshots/User-made/Shadow the Hedgehog (W205)_tab.jpg"
     ],
     "file": "themes/Shadow the Hedgehog (W205).thm"
   },
@@ -4287,9 +4287,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Sharapova_home.jpg",
-      "themes/screenshots/Sharapova_menu.jpg",
-      "themes/screenshots/Sharapova_settings.jpg"
+      "themes/screenshots/T707/Sharapova_home.jpg",
+      "themes/screenshots/T707/Sharapova_menu.jpg",
+      "themes/screenshots/T707/Sharapova_settings.jpg"
     ],
     "file": "themes/Sharapova.thm",
     "swf": "themes/swf/SharapovaDesktop.swf"
@@ -4303,9 +4303,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Shards_home.jpg",
-      "themes/screenshots/Shards_menu.jpg",
-      "themes/screenshots/Shards_list.jpg"
+      "themes/screenshots/P1i/Shards_home.jpg",
+      "themes/screenshots/P1i/Shards_menu.jpg",
+      "themes/screenshots/P1i/Shards_list.jpg"
     ],
     "file": "themes/Shards.utz"
   },
@@ -4318,9 +4318,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Shimmer_home.jpg",
-      "themes/screenshots/Shimmer_menu.jpg",
-      "themes/screenshots/Shimmer_settings.jpg"
+      "themes/screenshots/K510i/Shimmer_home.jpg",
+      "themes/screenshots/K510i/Shimmer_menu.jpg",
+      "themes/screenshots/K510i/Shimmer_settings.jpg"
     ],
     "file": "themes/Shimmer.thm"
   },
@@ -4333,9 +4333,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Shineline_home.jpg",
-      "themes/screenshots/Shineline_menu.jpg",
-      "themes/screenshots/Shineline_settings.jpg"
+      "themes/screenshots/W550i/Shineline_home.jpg",
+      "themes/screenshots/W550i/Shineline_menu.jpg",
+      "themes/screenshots/W550i/Shineline_settings.jpg"
     ],
     "file": "themes/Shineline.thm"
   },
@@ -4348,9 +4348,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Shuttershine_home.jpg",
-      "themes/screenshots/Shuttershine_menu.jpg",
-      "themes/screenshots/Shuttershine_settings.jpg"
+      "themes/screenshots/C902/Shuttershine_home.jpg",
+      "themes/screenshots/C902/Shuttershine_menu.jpg",
+      "themes/screenshots/C902/Shuttershine_settings.jpg"
     ],
     "file": "themes/Shuttershine.thm"
   },
@@ -4363,9 +4363,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Silk_home.jpg",
-      "themes/screenshots/Silk_menu.jpg",
-      "themes/screenshots/Silk_list.jpg"
+      "themes/screenshots/P1i/Silk_home.jpg",
+      "themes/screenshots/P1i/Silk_menu.jpg",
+      "themes/screenshots/P1i/Silk_list.jpg"
     ],
     "file": "themes/Silk.utz"
   },
@@ -4378,9 +4378,9 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Silver & Night_home.jpg",
-      "themes/screenshots/Silver & Night_menu.jpg",
-      "themes/screenshots/Silver & Night_list.jpg"
+      "themes/screenshots/Z600/Silver & Night_home.jpg",
+      "themes/screenshots/Z600/Silver & Night_menu.jpg",
+      "themes/screenshots/Z600/Silver & Night_list.jpg"
     ],
     "file": "themes/Silver & Night.thm"
   },
@@ -4393,9 +4393,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Silver grey_home.jpg",
-      "themes/screenshots/Silver grey_menu.jpg",
-      "themes/screenshots/Silver grey_settings.jpg"
+      "themes/screenshots/Yari (U100i)/Silver grey_home.jpg",
+      "themes/screenshots/Yari (U100i)/Silver grey_menu.jpg",
+      "themes/screenshots/Yari (U100i)/Silver grey_settings.jpg"
     ],
     "file": "themes/Silver grey.thm",
     "swf": "themes/swf/SilvergreyDesktop.swf"
@@ -4409,9 +4409,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Sky light_home.jpg",
-      "themes/screenshots/Sky light_menu.jpg",
-      "themes/screenshots/Sky light_settings.jpg"
+      "themes/screenshots/K530i/Sky light_home.jpg",
+      "themes/screenshots/K530i/Sky light_menu.jpg",
+      "themes/screenshots/K530i/Sky light_settings.jpg"
     ],
     "file": "themes/Sky light.thm"
   },
@@ -4424,9 +4424,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Skyline_home.jpg",
-      "themes/screenshots/Skyline_menu.jpg",
-      "themes/screenshots/Skyline_list.jpg"
+      "themes/screenshots/G900/Skyline_home.jpg",
+      "themes/screenshots/G900/Skyline_menu.jpg",
+      "themes/screenshots/G900/Skyline_list.jpg"
     ],
     "file": "themes/Skyline.utz"
   },
@@ -4439,9 +4439,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Smove_home.jpg",
-      "themes/screenshots/Smove_menu.jpg",
-      "themes/screenshots/Smove_settings.jpg"
+      "themes/screenshots/S700i/Smove_home.jpg",
+      "themes/screenshots/S700i/Smove_menu.jpg",
+      "themes/screenshots/S700i/Smove_settings.jpg"
     ],
     "file": "themes/Smove.thm"
   },
@@ -4454,9 +4454,9 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Snowtheme_home.jpg",
-      "themes/screenshots/Snowtheme_menu.jpg",
-      "themes/screenshots/Snowtheme_list.jpg"
+      "themes/screenshots/User-made/Snowtheme_home.jpg",
+      "themes/screenshots/User-made/Snowtheme_menu.jpg",
+      "themes/screenshots/User-made/Snowtheme_list.jpg"
     ],
     "file": "themes/Snowtheme.thm"
   },
@@ -4469,9 +4469,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Sonar pink_home.jpg",
-      "themes/screenshots/Sonar pink_menu.jpg",
-      "themes/screenshots/Sonar pink_settings.jpg"
+      "themes/screenshots/Jalou (F100i)/Sonar pink_home.jpg",
+      "themes/screenshots/Jalou (F100i)/Sonar pink_menu.jpg",
+      "themes/screenshots/Jalou (F100i)/Sonar pink_settings.jpg"
     ],
     "file": "themes/Sonar pink.thm",
     "swf": "themes/swf/SonarpinkDesktop.swf"
@@ -4485,9 +4485,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Soundscape_home.jpg",
-      "themes/screenshots/Soundscape_menu.jpg",
-      "themes/screenshots/Soundscape_settings.jpg"
+      "themes/screenshots/W910i/Soundscape_home.jpg",
+      "themes/screenshots/W910i/Soundscape_menu.jpg",
+      "themes/screenshots/W910i/Soundscape_settings.jpg"
     ],
     "file": "themes/Soundscape.thm",
     "swf": "themes/swf/ExpressiveSoundscape_desktop.swf"
@@ -4501,9 +4501,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Spinler (K500i)_home.jpg",
-      "themes/screenshots/Spinler (K500i)_menu.jpg",
-      "themes/screenshots/Spinler (K500i)_settings.jpg"
+      "themes/screenshots/K500i/Spinler_home.jpg",
+      "themes/screenshots/K500i/Spinler_menu.jpg",
+      "themes/screenshots/K500i/Spinler_settings.jpg"
     ],
     "file": "themes/Spinler (K500i).thm"
   },
@@ -4517,10 +4517,10 @@
     "homeType": "Animated",
     "note": "Features images for the external display on the Z500a, otherwise identical to the <a href='floom-k500i.html'>K500i version</a>.",
     "screenshots": [
-      "themes/screenshots/Spinler (Z500a)_home.jpg",
-      "themes/screenshots/Spinler (Z500a)_menu.jpg",
-      "themes/screenshots/Spinler (Z500a)_settings.jpg",
-      "themes/screenshots/Spinler (Z500a)_external.jpg"
+      "themes/screenshots/Z500a/Spinler_home.jpg",
+      "themes/screenshots/Z500a/Spinler_menu.jpg",
+      "themes/screenshots/Z500a/Spinler_settings.jpg",
+      "themes/screenshots/Z500a/Spinler_external.jpg"
     ],
     "file": "themes/Spinler (Z500a).thm"
   },
@@ -4533,9 +4533,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Spinnin' (W580i)_home.jpg",
-      "themes/screenshots/Spinnin' (W580i)_menu.jpg",
-      "themes/screenshots/Spinnin' (W580i)_settings.jpg"
+      "themes/screenshots/W580i/Spinnin'_home.jpg",
+      "themes/screenshots/W580i/Spinnin'_menu.jpg",
+      "themes/screenshots/W580i/Spinnin'_settings.jpg"
     ],
     "file": "themes/Spinnin' (W580i).thm",
     "swf": "themes/swf/spinninDesktop.swf"
@@ -4549,9 +4549,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Spinnin' (W660i)_home.jpg",
-      "themes/screenshots/Spinnin' (W660i)_menu.jpg",
-      "themes/screenshots/Spinnin' (W660i)_settings.jpg"
+      "themes/screenshots/W660i/Spinnin'_home.jpg",
+      "themes/screenshots/W660i/Spinnin'_menu.jpg",
+      "themes/screenshots/W660i/Spinnin'_settings.jpg"
     ],
     "file": "themes/Spinnin' (W660i).thm",
     "swf": "themes/swf/faye_spinning_desktop.swf"
@@ -4565,9 +4565,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Spiral (K530i)_home.jpg",
-      "themes/screenshots/Spiral (K530i)_menu.jpg",
-      "themes/screenshots/Spiral (K530i)_settings.jpg"
+      "themes/screenshots/K530i/Spiral_home.jpg",
+      "themes/screenshots/K530i/Spiral_menu.jpg",
+      "themes/screenshots/K530i/Spiral_settings.jpg"
     ],
     "file": "themes/Spiral (K530i).thm"
   },
@@ -4580,9 +4580,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Spiral (Z710i)_home.jpg",
-      "themes/screenshots/Spiral (Z710i)_menu.jpg",
-      "themes/screenshots/Spiral (Z710i)_settings.jpg"
+      "themes/screenshots/Z710i/Spiral_home.jpg",
+      "themes/screenshots/Z710i/Spiral_menu.jpg",
+      "themes/screenshots/Z710i/Spiral_settings.jpg"
     ],
     "file": "themes/Spiral (Z710i).thm"
   },
@@ -4595,9 +4595,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Splat_home.jpg",
-      "themes/screenshots/Splat_menu.jpg",
-      "themes/screenshots/Splat_settings.jpg"
+      "themes/screenshots/W580i/Splat_home.jpg",
+      "themes/screenshots/W580i/Splat_menu.jpg",
+      "themes/screenshots/W580i/Splat_settings.jpg"
     ],
     "file": "themes/Splat.thm",
     "swf": "themes/swf/Laura_fd_Splat_11.swf"
@@ -4611,16 +4611,16 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Splatta_home.jpg",
-      "themes/screenshots/Splatta_menu.jpg",
-      "themes/screenshots/Splatta_settings.jpg"
+      "themes/screenshots/W595/Splatta_home.jpg",
+      "themes/screenshots/W595/Splatta_menu.jpg",
+      "themes/screenshots/W595/Splatta_settings.jpg"
     ],
     "file": "themes/Splatta.thm",
     "swf": "themes/swf/Splatta_desktop.swf",
 
   "alternateFlashMenus": [
     {
-      "screenshot": "themes/screenshots/Splatta (o2)_menu.jpg",
+      "screenshot": "themes/screenshots/W595/Splatta (o2)_menu.jpg",
       "file": "themes/swf/Alternate/o2/Splatta_desktop.swf",
       "note": "o2 branded icons"
     }
@@ -4635,9 +4635,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Spots (K310i)_home.jpg",
-      "themes/screenshots/Spots (K310i)_menu.jpg",
-      "themes/screenshots/Spots (K310i)_settings.jpg"
+      "themes/screenshots/K310i/Spots_home.jpg",
+      "themes/screenshots/K310i/Spots_menu.jpg",
+      "themes/screenshots/K310i/Spots_settings.jpg"
     ],
     "file": "themes/Spots (K310i).thm"
   },
@@ -4650,9 +4650,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Spots (K320i)_home.jpg",
-      "themes/screenshots/Spots (K320i)_menu.jpg",
-      "themes/screenshots/Spots (K320i)_settings.jpg"
+      "themes/screenshots/K320i/Spots_home.jpg",
+      "themes/screenshots/K320i/Spots_menu.jpg",
+      "themes/screenshots/K320i/Spots_settings.jpg"
     ],
     "file": "themes/Spots (K320i).thm"
   },
@@ -4665,9 +4665,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Squares_home.jpg",
-      "themes/screenshots/Squares_menu.jpg",
-      "themes/screenshots/Squares_settings.jpg"
+      "themes/screenshots/T650i/Squares_home.jpg",
+      "themes/screenshots/T650i/Squares_menu.jpg",
+      "themes/screenshots/T650i/Squares_settings.jpg"
     ],
     "file": "themes/Squares.thm"
   },
@@ -4681,9 +4681,9 @@
     "homeType": "Animated",
     "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
     "screenshots": [
-      "themes/screenshots/Stencil art_home.jpg",
-      "themes/screenshots/Stencil art_menu.jpg",
-      "themes/screenshots/Stencil art_settings.jpg"
+      "themes/screenshots/W200i/Stencil art_home.jpg",
+      "themes/screenshots/W200i/Stencil art_menu.jpg",
+      "themes/screenshots/W200i/Stencil art_settings.jpg"
     ],
     "file": "themes/Stencil art.thm",
     "swf": "themes/swf/StencilArt_061016.swf"
@@ -4697,9 +4697,9 @@
     "resolution": "240x432",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Still life_home.jpg",
-      "themes/screenshots/Still life_menu.jpg",
-      "themes/screenshots/Still life_settings.jpg"
+      "themes/screenshots/Aino (U10i)/Still life_home.jpg",
+      "themes/screenshots/Aino (U10i)/Still life_menu.jpg",
+      "themes/screenshots/Aino (U10i)/Still life_settings.jpg"
     ],
     "file": "themes/Still life.thm"
   },
@@ -4712,9 +4712,9 @@
     "resolution": "128x128",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Stitches_home.jpg",
-      "themes/screenshots/Stitches_menu.jpg",
-      "themes/screenshots/Stitches_settings.jpg"
+      "themes/screenshots/J300i/Stitches_home.jpg",
+      "themes/screenshots/J300i/Stitches_menu.jpg",
+      "themes/screenshots/J300i/Stitches_settings.jpg"
     ],
     "file": "themes/Stitches.thm"
   },
@@ -4728,9 +4728,9 @@
     "homeType": "Animated",
     "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
     "screenshots": [
-      "themes/screenshots/Street grey_home.jpg",
-      "themes/screenshots/Street grey_menu.jpg",
-      "themes/screenshots/Street grey_settings.jpg"
+      "themes/screenshots/W200i/Street grey_home.jpg",
+      "themes/screenshots/W200i/Street grey_menu.jpg",
+      "themes/screenshots/W200i/Street grey_settings.jpg"
     ],
     "file": "themes/Street grey.thm",
     "swf": "themes/swf/desktop_Streetgrey.swf"
@@ -4745,9 +4745,9 @@
     "homeType": "Animated",
     "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
     "screenshots": [
-      "themes/screenshots/Street Style_home.jpg",
-      "themes/screenshots/Street Style_menu.jpg",
-      "themes/screenshots/Street Style_settings.jpg"
+      "themes/screenshots/W300i/Street Style_home.jpg",
+      "themes/screenshots/W300i/Street Style_menu.jpg",
+      "themes/screenshots/W300i/Street Style_settings.jpg"
     ],
     "file": "themes/Street Style.thm",
     "swf": "themes/swf/streetStyle.swf"
@@ -4761,9 +4761,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Stripe (W205)_home.jpg",
-      "themes/screenshots/Stripe (W205)_menu.jpg",
-      "themes/screenshots/Stripe (W205)_activity.jpg"
+      "themes/screenshots/W205/Stripe_home.jpg",
+      "themes/screenshots/W205/Stripe_menu.jpg",
+      "themes/screenshots/W205/Stripe_activity.jpg"
     ],
     "file": "themes/Stripe (W205).thm"
   },
@@ -4776,9 +4776,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Stripe (W380i)_home.jpg",
-      "themes/screenshots/Stripe (W380i)_menu.jpg",
-      "themes/screenshots/Stripe (W380i)_list.jpg"
+      "themes/screenshots/W380i/Stripe_home.jpg",
+      "themes/screenshots/W380i/Stripe_menu.jpg",
+      "themes/screenshots/W380i/Stripe_list.jpg"
     ],
     "file": "themes/Stripe (W380i).thm",
     "swf": "themes/swf/Stripe_desktop.swf"
@@ -4792,9 +4792,9 @@
     "resolution": "128x128",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Stripes_home.jpg",
-      "themes/screenshots/Stripes_menu.jpg",
-      "themes/screenshots/Stripes_settings.jpg"
+      "themes/screenshots/J300i/Stripes_home.jpg",
+      "themes/screenshots/J300i/Stripes_menu.jpg",
+      "themes/screenshots/J300i/Stripes_settings.jpg"
     ],
     "file": "themes/Stripes.thm"
   },
@@ -4807,9 +4807,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Strobe_home.jpg",
-      "themes/screenshots/Strobe_menu.jpg",
-      "themes/screenshots/Strobe_settings.jpg"
+      "themes/screenshots/W580i/Strobe_home.jpg",
+      "themes/screenshots/W580i/Strobe_menu.jpg",
+      "themes/screenshots/W580i/Strobe_settings.jpg"
     ],
     "file": "themes/Strobe.thm",
     "swf": "themes/swf/Laura_dt_strobe_14.swf"
@@ -4824,9 +4824,9 @@
     "homeType": "Animated",
     "note": "The flash menu will only work on the W200i and W300i, on other phones, the theme will use the default menu",
     "screenshots": [
-      "themes/screenshots/Sweet pink_home.jpg",
-      "themes/screenshots/Sweet pink_menu.jpg",
-      "themes/screenshots/Sweet pink_settings.jpg"
+      "themes/screenshots/W200i/Sweet pink_home.jpg",
+      "themes/screenshots/W200i/Sweet pink_menu.jpg",
+      "themes/screenshots/W200i/Sweet pink_settings.jpg"
     ],
     "file": "themes/Sweet pink.thm",
     "swf": "themes/swf/desktop_sweetPink.swf"
@@ -4841,9 +4841,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Telstra (K800i)_home.jpg",
-      "themes/screenshots/Telstra (K800i)_menu.jpg",
-      "themes/screenshots/Telstra (K800i)_settings.jpg"
+      "themes/screenshots/K800i/Telstra_home.jpg",
+      "themes/screenshots/K800i/Telstra_menu.jpg",
+      "themes/screenshots/K800i/Telstra_settings.jpg"
     ],
     "file": "themes/Telstra (K800i).thm"
   },
@@ -4857,9 +4857,9 @@
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Telstra Theme (W760i)_home.jpg",
-      "themes/screenshots/Telstra Theme (W760i)_menu.jpg",
-      "themes/screenshots/Telstra Theme (W760i)_settings.jpg"
+      "themes/screenshots/W760i/Telstra Theme_home.jpg",
+      "themes/screenshots/W760i/Telstra Theme_menu.jpg",
+      "themes/screenshots/W760i/Telstra Theme_settings.jpg"
     ],
     "file": "themes/Telstra Theme (W760i).thm"
   },
@@ -4873,9 +4873,9 @@
     "homeType": "Animated",
     "note": "Exclusive to TEMS units",
     "screenshots": [
-      "themes/screenshots/TEMS Pocket Theme_home.jpg",
-      "themes/screenshots/TEMS Pocket Theme_menu.jpg",
-      "themes/screenshots/TEMS Pocket Theme_settings.jpg"
+      "themes/screenshots/K800i/TEMS Pocket Theme_home.jpg",
+      "themes/screenshots/K800i/TEMS Pocket Theme_menu.jpg",
+      "themes/screenshots/K800i/TEMS Pocket Theme_settings.jpg"
     ],
     "file": "themes/TEMS Pocket Theme.thm"
   },
@@ -4888,9 +4888,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/The red carpet_home.jpg",
-      "themes/screenshots/The red carpet_menu.jpg",
-      "themes/screenshots/The red carpet_settings.jpg"
+      "themes/screenshots/C902/The red carpet_home.jpg",
+      "themes/screenshots/C902/The red carpet_menu.jpg",
+      "themes/screenshots/C902/The red carpet_settings.jpg"
     ],
     "file": "themes/The red carpet.thm",
     "swf": "themes/swf/The red carpet_desktop.swf"
@@ -4904,9 +4904,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Tiles_home.jpg",
-      "themes/screenshots/Tiles_menu.jpg",
-      "themes/screenshots/Tiles_tab.jpg"
+      "themes/screenshots/K750i/Tiles_home.jpg",
+      "themes/screenshots/K750i/Tiles_menu.jpg",
+      "themes/screenshots/K750i/Tiles_tab.jpg"
     ],
     "file": "themes/Tiles.thm"
   },
@@ -4919,9 +4919,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Trace_home.jpg",
-      "themes/screenshots/Trace_menu.jpg",
-      "themes/screenshots/Trace_settings.jpg"
+      "themes/screenshots/Zylo (W20i)/Trace_home.jpg",
+      "themes/screenshots/Zylo (W20i)/Trace_menu.jpg",
+      "themes/screenshots/Zylo (W20i)/Trace_settings.jpg"
     ],
     "file": "themes/Trace.thm",
     "swf": "themes/swf/TraceDesktop.swf"
@@ -4935,9 +4935,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Track flow_home.jpg",
-      "themes/screenshots/Track flow_menu.jpg",
-      "themes/screenshots/Track flow_settings.jpg"
+      "themes/screenshots/C510/Track flow_home.jpg",
+      "themes/screenshots/C510/Track flow_menu.jpg",
+      "themes/screenshots/C510/Track flow_settings.jpg"
     ],
     "file": "themes/Track flow.thm",
     "swf": "themes/swf/Track flow_desktop.swf"
@@ -4951,9 +4951,9 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Traditional_home.jpg",
-      "themes/screenshots/Traditional_menu.jpg",
-      "themes/screenshots/Traditional_settings.jpg"
+      "themes/screenshots/T630/Traditional_home.jpg",
+      "themes/screenshots/T630/Traditional_menu.jpg",
+      "themes/screenshots/T630/Traditional_settings.jpg"
     ],
     "file": "themes/Traditional.thm"
   },
@@ -4966,9 +4966,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Tunnel vision_home.jpg",
-      "themes/screenshots/Tunnel vision_menu.jpg",
-      "themes/screenshots/Tunnel vision_tab.jpg"
+      "themes/screenshots/K630i/Tunnel vision_home.jpg",
+      "themes/screenshots/K630i/Tunnel vision_menu.jpg",
+      "themes/screenshots/K630i/Tunnel vision_tab.jpg"
     ],
     "file": "themes/Tunnel vision.thm"
   },
@@ -4981,9 +4981,9 @@
     "resolution": "240x432",
     "homeType": "Slideshow",
     "screenshots": [
-      "themes/screenshots/Turquoise stream (Aino)_home.jpg",
-      "themes/screenshots/Turquoise stream (Aino)_menu.jpg",
-      "themes/screenshots/Turquoise stream (Aino)_settings.jpg"
+      "themes/screenshots/Aino (U10i)/Turquoise stream_home.jpg",
+      "themes/screenshots/Aino (U10i)/Turquoise stream_menu.jpg",
+      "themes/screenshots/Aino (U10i)/Turquoise stream_settings.jpg"
     ],
     "file": "themes/Turquoise stream (Aino).thm"
   },
@@ -4996,9 +4996,9 @@
     "resolution": "240x320",
     "homeType": "Slideshow",
     "screenshots": [
-      "themes/screenshots/Turquoise stream (Yari)_home.jpg",
-      "themes/screenshots/Turquoise stream (Yari)_menu.jpg",
-      "themes/screenshots/Turquoise stream (Yari)_settings.jpg"
+      "themes/screenshots/Yari (U100i)/Turquoise stream_home.jpg",
+      "themes/screenshots/Yari (U100i)/Turquoise stream_menu.jpg",
+      "themes/screenshots/Yari (U100i)/Turquoise stream_settings.jpg"
     ],
     "file": "themes/Turquoise stream (Yari).thm"
   },
@@ -5011,9 +5011,9 @@
     "resolution": "240x432",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/TV2_home.jpg",
-      "themes/screenshots/TV2_menu.jpg",
-      "themes/screenshots/TV2_settings.jpg"
+      "themes/screenshots/Aino (U10i)/TV2_home.jpg",
+      "themes/screenshots/Aino (U10i)/TV2_menu.jpg",
+      "themes/screenshots/Aino (U10i)/TV2_settings.jpg"
     ],
     "file": "themes/TV2.thm"
   },
@@ -5026,9 +5026,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Twine_home.jpg",
-      "themes/screenshots/Twine_menu.jpg",
-      "themes/screenshots/Twine_settings.jpg"
+      "themes/screenshots/G502/Twine_home.jpg",
+      "themes/screenshots/G502/Twine_menu.jpg",
+      "themes/screenshots/G502/Twine_settings.jpg"
     ],
     "file": "themes/Twine.thm"
   },
@@ -5041,9 +5041,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Under water_home.jpg",
-      "themes/screenshots/Under water_menu.jpg",
-      "themes/screenshots/Under water_settings.jpg"
+      "themes/screenshots/T650i/Under water_home.jpg",
+      "themes/screenshots/T650i/Under water_menu.jpg",
+      "themes/screenshots/T650i/Under water_settings.jpg"
     ],
     "file": "themes/Under water.thm",
     "swf": "themes/swf/underWater_desktop.swf"
@@ -5057,9 +5057,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Universe_home.jpg",
-      "themes/screenshots/Universe_menu.jpg",
-      "themes/screenshots/Universe_settings.jpg"
+      "themes/screenshots/K530i/Universe_home.jpg",
+      "themes/screenshots/K530i/Universe_menu.jpg",
+      "themes/screenshots/K530i/Universe_settings.jpg"
     ],
     "file": "themes/Universe.thm"
   },
@@ -5072,9 +5072,9 @@
     "resolution": "240x432",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Unlimited (Aino)_home.jpg",
-      "themes/screenshots/Unlimited (Aino)_menu.jpg",
-      "themes/screenshots/Unlimited (Aino)_settings.jpg"
+      "themes/screenshots/Aino (U10i)/Unlimited_home.jpg",
+      "themes/screenshots/Aino (U10i)/Unlimited_menu.jpg",
+      "themes/screenshots/Aino (U10i)/Unlimited_settings.jpg"
     ],
     "file": "themes/Unlimited (Aino).thm",
     "swf": "themes/swf/Aino/UnlimitedDesktop.swf"
@@ -5088,9 +5088,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Unlimited (Yari)_home.jpg",
-      "themes/screenshots/Unlimited (Yari)_menu.jpg",
-      "themes/screenshots/Unlimited (Yari)_settings.jpg"
+      "themes/screenshots/Yari (U100i)/Unlimited_home.jpg",
+      "themes/screenshots/Yari (U100i)/Unlimited_menu.jpg",
+      "themes/screenshots/Yari (U100i)/Unlimited_settings.jpg"
     ],
     "file": "themes/Unlimited (Yari).thm",
     "swf": "themes/swf/UnlimitedDesktop.swf"
@@ -5104,9 +5104,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Vibes_home.jpg",
-      "themes/screenshots/Vibes_menu.jpg",
-      "themes/screenshots/Vibes_list.jpg"
+      "themes/screenshots/W380i/Vibes_home.jpg",
+      "themes/screenshots/W380i/Vibes_menu.jpg",
+      "themes/screenshots/W380i/Vibes_list.jpg"
     ],
     "file": "themes/Vibes.thm",
     "swf": "themes/swf/Vibes_desktop.swf"
@@ -5120,9 +5120,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Violis_home.jpg",
-      "themes/screenshots/Violis_menu.jpg",
-      "themes/screenshots/Violis_settings.jpg"
+      "themes/screenshots/W980/Violis_home.jpg",
+      "themes/screenshots/W980/Violis_menu.jpg",
+      "themes/screenshots/W980/Violis_settings.jpg"
     ],
     "file": "themes/Violis.thm",
     "swf": "themes/swf/Violis_desktop.swf"
@@ -5137,9 +5137,9 @@
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/Vodafone (Z600)_home.jpg",
-      "themes/screenshots/Vodafone (Z600)_menu.jpg",
-      "themes/screenshots/Vodafone (Z600)_list.jpg"
+      "themes/screenshots/Z600/Vodafone_home.jpg",
+      "themes/screenshots/Z600/Vodafone_menu.jpg",
+      "themes/screenshots/Z600/Vodafone_list.jpg"
     ],
     "file": "themes/Vodafone (Z600).thm"
   },
@@ -5153,9 +5153,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Vodafone live! (S700i)_home.jpg",
-      "themes/screenshots/Vodafone live! (S700i)_menu.jpg",
-      "themes/screenshots/Vodafone live! (S700i)_settings.jpg"
+      "themes/screenshots/S700i/Vodafone live!_home.jpg",
+      "themes/screenshots/S700i/Vodafone live!_menu.jpg",
+      "themes/screenshots/S700i/Vodafone live!_settings.jpg"
     ],
     "file": "themes/Vodafone live! (S700i).thm"
   },
@@ -5169,9 +5169,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Vodafone Sky_home.jpg",
-      "themes/screenshots/Vodafone Sky_menu.jpg",
-      "themes/screenshots/Vodafone Sky_settings.jpg"
+      "themes/screenshots/S700i/Vodafone Sky_home.jpg",
+      "themes/screenshots/S700i/Vodafone Sky_menu.jpg",
+      "themes/screenshots/S700i/Vodafone Sky_settings.jpg"
     ],
     "file": "themes/Vodafone Sky.thm"
   },
@@ -5184,9 +5184,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Waip_home.jpg",
-      "themes/screenshots/Waip_menu.jpg",
-      "themes/screenshots/Waip_tab.jpg"
+      "themes/screenshots/K700i/Waip_home.jpg",
+      "themes/screenshots/K700i/Waip_menu.jpg",
+      "themes/screenshots/K700i/Waip_tab.jpg"
     ],
     "file": "themes/Waip.thm"
   },
@@ -5199,9 +5199,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Walkman (DB3150)_home.jpg",
-      "themes/screenshots/Walkman (DB3150)_menu.jpg",
-      "themes/screenshots/Walkman (DB3150)_settings.jpg"
+      "themes/screenshots/W910i/Walkman_home.jpg",
+      "themes/screenshots/W910i/Walkman_menu.jpg",
+      "themes/screenshots/W910i/Walkman_settings.jpg"
     ],
     "file": "themes/Walkman (DB3150).thm"
   },
@@ -5214,9 +5214,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Walkman (PNX5230)_home.jpg",
-      "themes/screenshots/Walkman (PNX5230)_menu.jpg",
-      "themes/screenshots/Walkman (PNX5230)_settings.jpg"
+      "themes/screenshots/W350i/Walkman_home.jpg",
+      "themes/screenshots/W350i/Walkman_menu.jpg",
+      "themes/screenshots/W350i/Walkman_settings.jpg"
     ],
     "file": "themes/Walkman (PNX5230).thm"
   },
@@ -5229,9 +5229,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Walkman (W205)_home.jpg",
-      "themes/screenshots/Walkman (W205)_menu.jpg",
-      "themes/screenshots/Walkman (W205)_activity.jpg"
+      "themes/screenshots/W205/Walkman_home.jpg",
+      "themes/screenshots/W205/Walkman_menu.jpg",
+      "themes/screenshots/W205/Walkman_activity.jpg"
     ],
     "file": "themes/Walkman (W205).thm"
   },
@@ -5244,9 +5244,9 @@
     "resolution": "128x160",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Walkman (W300i)_home.jpg",
-      "themes/screenshots/Walkman (W300i)_menu.jpg",
-      "themes/screenshots/Walkman (W300i)_settings.jpg"
+      "themes/screenshots/W300i/Walkman_home.jpg",
+      "themes/screenshots/W300i/Walkman_menu.jpg",
+      "themes/screenshots/W300i/Walkman_settings.jpg"
     ],
     "file": "themes/Walkman (W300i).thm"
   },
@@ -5259,9 +5259,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Walkman (W508)_home.jpg",
-      "themes/screenshots/Walkman (W508)_menu.jpg",
-      "themes/screenshots/Walkman (W508)_settings.jpg"
+      "themes/screenshots/W508/Walkman_home.jpg",
+      "themes/screenshots/W508/Walkman_menu.jpg",
+      "themes/screenshots/W508/Walkman_settings.jpg"
     ],
     "file": "themes/Walkman (W508).thm",
     "swf": "Walkman_desktop.swf"
@@ -5275,9 +5275,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Walkman (W580i)_home.jpg",
-      "themes/screenshots/Walkman (W580i)_menu.jpg",
-      "themes/screenshots/Walkman (W580i)_settings.jpg"
+      "themes/screenshots/W580i/Walkman_home.jpg",
+      "themes/screenshots/W580i/Walkman_menu.jpg",
+      "themes/screenshots/W580i/Walkman_settings.jpg"
     ],
     "file": "themes/Walkman (W580i).thm"
   },
@@ -5290,9 +5290,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Walkman (W610i)_home.jpg",
-      "themes/screenshots/Walkman (W610i)_menu.jpg",
-      "themes/screenshots/Walkman (W610i)_settings.jpg"
+      "themes/screenshots/W610i/Walkman_home.jpg",
+      "themes/screenshots/W610i/Walkman_menu.jpg",
+      "themes/screenshots/W610i/Walkman_settings.jpg"
     ],
     "file": "themes/Walkman (W610i).thm"
   },
@@ -5305,9 +5305,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Walkman (W710i)_home.jpg",
-      "themes/screenshots/Walkman (W710i)_menu.jpg",
-      "themes/screenshots/Walkman (W710i)_settings.jpg"
+      "themes/screenshots/W710i/Walkman_home.jpg",
+      "themes/screenshots/W710i/Walkman_menu.jpg",
+      "themes/screenshots/W710i/Walkman_settings.jpg"
     ],
     "file": "themes/Walkman (W710i).thm"
   },
@@ -5320,9 +5320,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Walkman (W880i)_home.jpg",
-      "themes/screenshots/Walkman (W880i)_menu.jpg",
-      "themes/screenshots/Walkman (W880i)_settings.jpg"
+      "themes/screenshots/W880i/Walkman_home.jpg",
+      "themes/screenshots/W880i/Walkman_menu.jpg",
+      "themes/screenshots/W880i/Walkman_settings.jpg"
     ],
     "file": "themes/Walkman (W880i).thm"
   },
@@ -5335,9 +5335,9 @@
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Wave_home.jpg",
-      "themes/screenshots/Wave_menu.jpg",
-      "themes/screenshots/Wave_tab.jpg"
+      "themes/screenshots/K750i/Wave_home.jpg",
+      "themes/screenshots/K750i/Wave_menu.jpg",
+      "themes/screenshots/K750i/Wave_tab.jpg"
     ],
     "file": "themes/Wave.thm"
   },
@@ -5350,9 +5350,9 @@
     "resolution": "240x432",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Waves_home.jpg",
-      "themes/screenshots/Waves_menu.jpg",
-      "themes/screenshots/Waves_settings.jpg"
+      "themes/screenshots/Aino (U10i)/Waves_home.jpg",
+      "themes/screenshots/Aino (U10i)/Waves_menu.jpg",
+      "themes/screenshots/Aino (U10i)/Waves_settings.jpg"
     ],
     "file": "themes/Waves.thm",
     "swf": "themes/swf/WavesDesktop.swf"
@@ -5366,9 +5366,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Web_home.jpg",
-      "themes/screenshots/Web_menu.jpg",
-      "themes/screenshots/Web_settings.jpg"
+      "themes/screenshots/G502/Web_home.jpg",
+      "themes/screenshots/G502/Web_menu.jpg",
+      "themes/screenshots/G502/Web_settings.jpg"
     ],
     "file": "themes/Web.thm"
   },
@@ -5381,27 +5381,12 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Whisper_home.jpg",
-      "themes/screenshots/Whisper_menu.jpg",
-      "themes/screenshots/Whisper_settings.jpg"
+      "themes/screenshots/T700/Whisper_home.jpg",
+      "themes/screenshots/T700/Whisper_menu.jpg",
+      "themes/screenshots/T700/Whisper_settings.jpg"
     ],
     "file": "themes/Whisper.thm",
     "swf": "themes/swf/Whisper_desktop.swf"
-  },
-  {
-    "id": "white-out",
-    "name": "White Out",
-    "originalModel": "P910i",
-    "supportedModels": ["P900", "P910i"],
-    "platform": "PNX4000",
-    "resolution": "208x320",
-    "homeType": "Still image",
-    "screenshots": [
-      "themes/screenshots/White Out_homeclosed.jpg",
-      "themes/screenshots/White Out_menu.jpg",
-      "themes/screenshots/White Out_messaging.jpg"
-    ],
-    "file": "themes/White Out.utz"
   },
   {
     "id": "white",
@@ -5412,11 +5397,26 @@
     "resolution": "208x320",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/White_homeclosed.jpg",
-      "themes/screenshots/White_menu.jpg",
-      "themes/screenshots/White_messaging.jpg"
+      "themes/screenshots/P900/White_homeclosed.jpg",
+      "themes/screenshots/P900/White_menu.jpg",
+      "themes/screenshots/P900/White_messaging.jpg"
     ],
     "file": "themes/White.utz"
+  },
+  {
+    "id": "white-out",
+    "name": "White Out",
+    "originalModel": "P910i",
+    "supportedModels": ["P900", "P910i"],
+    "platform": "PNX4000",
+    "resolution": "208x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/P910i/White Out_homeclosed.jpg",
+      "themes/screenshots/P910i/White Out_menu.jpg",
+      "themes/screenshots/P910i/White Out_messaging.jpg"
+    ],
+    "file": "themes/White Out.utz"
   },
   {
     "id": "wink",
@@ -5427,9 +5427,9 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Wink_home.jpg",
-      "themes/screenshots/Wink_menu.jpg",
-      "themes/screenshots/Wink_settings.jpg"
+      "themes/screenshots/C901/Wink_home.jpg",
+      "themes/screenshots/C901/Wink_menu.jpg",
+      "themes/screenshots/C901/Wink_settings.jpg"
     ],
     "file": "themes/Wink.thm",
     "swf": "themes/swf/Wink_desktop.swf"
@@ -5443,26 +5443,26 @@
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
-      "themes/screenshots/Yelo_home.jpg",
-      "themes/screenshots/Yelo_menu.jpg",
-      "themes/screenshots/Yelo_settings.jpg"
+      "themes/screenshots/W760i/Yelo_home.jpg",
+      "themes/screenshots/W760i/Yelo_menu.jpg",
+      "themes/screenshots/W760i/Yelo_settings.jpg"
     ],
     "file": "themes/Yelo.thm",
     "swf": "themes/swf/Yelo_desktop.swf",
 
   "alternateFlashMenus": [
     {
-      "screenshot": "themes/screenshots/Yelo (China Mobile)_menu.jpg",
+      "screenshot": "themes/screenshots/W760i/Yelo (China Mobile)_menu.jpg",
       "file": "themes/swf/Alternate/China Mobile/Yelo_desktop.swf",
       "note": "China Mobile branded icons"
     },
     {
-      "screenshot": "themes/screenshots/Yelo (o2)_menu.jpg",
+      "screenshot": "themes/screenshots/W760i/Yelo (o2)_menu.jpg",
       "file": "themes/swf/Alternate/o2/Yelo_desktop.swf",
       "note": "o2 branded icons"
     },
     {
-      "screenshot": "themes/screenshots/Yelo (Orange IL)_menu.jpg",
+      "screenshot": "themes/screenshots/W760i/Yelo (Orange IL)_menu.jpg",
       "file": "themes/swf/Alternate/Orange IL/Yelo_desktop.swf",
       "note": "Orange IL branded icons"
     }
