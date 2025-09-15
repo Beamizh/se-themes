@@ -1188,7 +1188,7 @@
   },
   {
     "id": "day-and-night",
-    "name": "Day and Night",
+    "name": "Day and night",
     "originalModel": "S500i",
     "supportedModels": ["S500i", "W580i", "W830i", "W850i"],
     "platform": "DB2020",
@@ -1200,7 +1200,7 @@
       "themes/screenshots/Day and Night_menu.jpg",
       "themes/screenshots/Day and Night_settings.jpg"
     ],
-    "file": "themes/Day and Night.thm",
+    "file": "themes/Day and night.thm",
     "swf": "themes/swf/DayAndNight_desktop.swf",
     "extraFiles": [
       { "name": "D1.thm", "path": "themes/swf/S500/Day and Night/D1.thm" },
