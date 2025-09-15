@@ -373,3 +373,45 @@ footer {
   margin-bottom: 8px;
 }
 
+.header-top {
+  display: flex;
+  justify-content: space-between; /* left group + right counter */
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.left-side {
+  display: flex;
+  align-items: center;
+  gap: 20px; /* space between title and nav */
+}
+
+.left-side h1 {
+  margin: 0;
+}
+
+.left-side nav a {
+  margin-left: 10px;
+  text-decoration: none;
+  font-weight: 500;
+  color: #fff;
+}
+
+.left-side nav a:hover {
+  text-decoration: underline;
+}
+
+.theme-counter {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #fff;
+  background: #242424;
+  border-radius: 10px;
+  padding: 6px 12px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease;
+  white-space: nowrap;
+}
+.theme-counter:hover {
+  transform: scale(1.05);
+}

@@ -8,12 +8,17 @@
 </head>
 <body>
   <header>
-    <h1>Sony Ericsson Themes</h1>
-    <nav>
-      <a href="model-reference.html">Model Reference</a> 
-      <a href="about.html">About</a> 
-    </nav>
-  </header>
+  <div class="header-top">
+    <div class="left-side">
+      <h1>Sony Ericsson Themes</h1>
+      <nav>
+        <a href="model-reference.html">Model Reference</a> 
+        <a href="about.html">About</a> 
+      </nav>
+    </div>
+    <div id="theme-counter" class="theme-counter"></div>
+  </div>
+</header>
 
   <main>
     <!-- friendly error / info box -->
@@ -81,6 +86,33 @@
 
     <!-- Themes -->
     <section class="themes" id="themeList" aria-live="polite"></section>
+    <script>
+  fetch("themes.json")
+    .then(res => res.json())
+    .then(themes => {
+      const total = themes.length;
+      const counter = document.getElementById("theme-counter");
+
+      let current = 0;
+      const duration = 1500; // animation duration (ms)
+      const increment = Math.ceil(total / (duration / 30));
+
+      const step = () => {
+        current += increment;
+        if (current >= total) {
+          current = total;
+          counter.textContent = `🖼️ ${current} available themes`;
+        } else {
+          counter.textContent = `🖼️ ${current} available themes`;
+          requestAnimationFrame(step);
+        }
+      };
+
+      requestAnimationFrame(step);
+    });
+</script>
+
+
   </main>
 
   <footer>
