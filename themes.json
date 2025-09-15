@@ -917,10 +917,25 @@
     "file": "themes/Clarity (PNX5230).thm"
   },
   {
+    "id": "clarity-t303",
+    "name": "Clarity (T303)",
+    "originalModel": "T303",
+    "supportedModels": ["T303", "W205"],
+    "platform": ["S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/T303/Clarity_home.jpg",
+      "themes/screenshots/T303/Clarity_menu.jpg",
+      "themes/screenshots/T303/Clarity_activity.jpg"
+    ],
+    "file": "themes/Clarity (T303).thm"
+  },
+  {
     "id": "clarity-w205",
     "name": "Clarity (W205)",
     "originalModel": "W205",
-    "supportedModels": ["W205"],
+    "supportedModels": ["T303", "W205"],
     "platform": ["S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Still image",
@@ -1005,6 +1020,21 @@
       "themes/screenshots/T610/Classical_settings.jpg"
     ],
     "file": "themes/Classical.thm"
+  },
+  {
+    "id": "classy-black",
+    "name": "Classy black",
+    "originalModel": "T303",
+    "supportedModels": ["T303", "W205"],
+    "platform": ["S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/T303/Classy black_home.jpg",
+      "themes/screenshots/T303/Classy black_menu.jpg",
+      "themes/screenshots/T303/Classy black_activity.jpg"
+    ],
+    "file": "themes/Classy black.thm"
   },
   {
     "id": "clero",
@@ -2593,6 +2623,21 @@
     "file": "themes/GreenHeart (Naite).thm"
   },
   {
+    "id": "grey-possession",
+    "name": "Grey possession",
+    "originalModel": "T303",
+    "supportedModels": ["T303", "W205"],
+    "platform": ["S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/T303/Grey possession_home.jpg",
+      "themes/screenshots/T303/Grey possession_menu.jpg",
+      "themes/screenshots/T303/Grey possession_activity.jpg"
+    ],
+    "file": "themes/Grey possession.thm"
+  },
+  {
     "id": "grid-line",
     "name": "Grid line",
     "originalModel": "K770i",
@@ -2752,7 +2797,7 @@
     "id": "hyponotic-pink",
     "name": "Hyponotic pink",
     "originalModel": "W205",
-    "supportedModels": ["W205"],
+    "supportedModels": ["T303", "W205"],
     "platform": ["S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -3785,7 +3830,7 @@
     "name": "Orange Theme (W205)",
     "originalModel": "W205",
     "carrier": "Orange (Poland)",
-    "supportedModels": ["W205"],
+    "supportedModels": ["T303", "W205"],
     "platform": ["S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Still image",
@@ -4618,6 +4663,21 @@
     "file": "themes/Silver & Night.thm"
   },
   {
+    "id": "silver-charm",
+    "name": "Silver charm",
+    "originalModel": "T303",
+    "supportedModels": ["T303", "W205"],
+    "platform": ["S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/T303/Silver charm_home.jpg",
+      "themes/screenshots/T303/Silver charm_menu.jpg",
+      "themes/screenshots/T303/Silver charm_activity.jpg"
+    ],
+    "file": "themes/Silver charm.thm"
+  },
+  {
     "id": "silver-grey",
     "name": "Silver grey",
     "originalModel": "Yari (U100i)",
@@ -4989,7 +5049,7 @@
     "id": "stripe-w205",
     "name": "Stripe (W205)",
     "originalModel": "W205",
-    "supportedModels": ["W205"],
+    "supportedModels": ["T303", "W205"],
     "platform": ["S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
@@ -5506,7 +5566,7 @@
     "id": "walkman-w205",
     "name": "Walkman (W205)",
     "originalModel": "W205",
-    "supportedModels": ["W205"],
+    "supportedModels": ["T303", "W205"],
     "platform": ["S1 Locosto"],
     "resolution": "128x160",
     "homeType": "Animated",
