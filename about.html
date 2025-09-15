@@ -33,11 +33,16 @@
 <body>
 
   <header>
-    <h1>About</h1>
-    <nav>
-      <a href="index.html">⬅ Back to Themes</a>
-    </nav>
-  </header>
+  <div class="header-top">
+    <div class="left-side">
+      <h1>About</h1>
+      <nav>
+        <a href="index.html">⬅ Back to Themes</a>
+      </nav>
+    </div>
+    <div id="theme-counter" class="theme-counter"></div>
+  </div>
+</header>
 
   <main>
     <h2>About this site</h2>
@@ -67,6 +72,32 @@
       If you have any themes you would like me to add, feel free contact me via e-mail: beamishse@gmail.com
     </p>
   </main>
+
+<script>
+  fetch("themes.json")
+    .then(res => res.json())
+    .then(themes => {
+      const total = themes.length;
+      const counter = document.getElementById("theme-counter");
+
+      let current = 0;
+      const duration = 1500; // animation duration (ms)
+      const increment = Math.ceil(total / (duration / 30));
+
+      const step = () => {
+        current += increment;
+        if (current >= total) {
+          current = total;
+          counter.textContent = `🖼️ ${current} available themes`;
+        } else {
+          counter.textContent = `🖼️ ${current} available themes`;
+          requestAnimationFrame(step);
+        }
+      };
+
+      requestAnimationFrame(step);
+    });
+</script>
 
   <footer>
     <p>made by Beamish 🦆</p>

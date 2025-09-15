@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Sony Ericsson Themes</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/style.css">
   <style>
@@ -44,12 +43,16 @@
 <body>
 
   <header>
-    <h1>Sony Ericsson Themes</h1>
-    <h3>Model Reference</h3>
-    <nav>
-      <a href="index.html">⬅ Back to Themes</a>
-    </nav>
-  </header>
+  <div class="header-top">
+    <div class="left-side">
+      <h1>Model Reference</h1>
+      <nav>
+        <a href="index.html">⬅ Back to Themes</a>
+      </nav>
+    </div>
+    <div id="theme-counter" class="theme-counter"></div>
+  </div>
+</header>
 
   <main>
     <div class="table-container">
@@ -357,33 +360,33 @@
               <img src="images/models/K200i.jpg" alt="K200i">
               K200i
             </td>
-            <td>?</td>
+            <td>❌</td>
             <td>TI Calypso</td>
             <td>128x128</td>
             <td>❌</td>
-            <td>?</td>
+            <td>❌</td>
           </tr>
           <tr>
             <td>
               <img src="images/models/K205i.jpg" alt="K205i">
               K205i
             </td>
-            <td>?</td>
+            <td>❌</td>
             <td>TI Calypso</td>
             <td>128x128</td>
             <td>❌</td>
-            <td>?</td>
+            <td>❌</td>
           </tr>
           <tr>
             <td>
               <img src="images/models/K220i.jpg" alt="K220i">
               K220i
             </td>
-            <td>?</td>
+            <td>❌</td>
             <td>TI Calypso</td>
             <td>128x128</td>
             <td>❌</td>
-            <td>?</td>
+            <td>❌</td>
           </tr>
           <tr>
             <td>
@@ -1555,6 +1558,32 @@
       </table>
     </div>
   </main>
+
+  <script>
+  fetch("themes.json")
+    .then(res => res.json())
+    .then(themes => {
+      const total = themes.length;
+      const counter = document.getElementById("theme-counter");
+
+      let current = 0;
+      const duration = 1500; // animation duration (ms)
+      const increment = Math.ceil(total / (duration / 30));
+
+      const step = () => {
+        current += increment;
+        if (current >= total) {
+          current = total;
+          counter.textContent = `🖼️ ${current} available themes`;
+        } else {
+          counter.textContent = `🖼️ ${current} available themes`;
+          requestAnimationFrame(step);
+        }
+      };
+
+      requestAnimationFrame(step);
+    });
+</script>
 
   <footer>
     <p>made by Beamish 🦆</p>

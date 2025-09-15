@@ -76,6 +76,20 @@ themes.forEach((theme) => {
       </div>`;
   }
 
+  // Extra downloads block
+let extraFilesBlock = "";
+if (theme.extraFiles && theme.extraFiles.length > 0) {
+  extraFilesBlock = theme.extraFiles
+    .map(
+      (file) => `
+      <a class="download-btn" href="../${file.path}" download>
+        ⬇️ Download ${file.name}
+      </a>`
+    )
+    .join("\n");
+}
+
+
   // Platforms text
   const platformsText = Array.isArray(theme.platform)
     ? theme.platform.join(", ")
@@ -195,16 +209,59 @@ themes.forEach((theme) => {
     .lightbox .arrow.left { left: -3rem; }
     .lightbox .arrow.right { right: -3rem; }
     .lightbox .arrow:hover { color: #ccc; }
+
+    /* Header layout */
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+.header-top .left-side {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.header-top nav a {
+  margin-left: 10px;
+  text-decoration: none;
+  font-weight: 500;
+  color: #fff;
+}
+.header-top nav a:hover {
+  text-decoration: underline;
+}
+.theme-counter {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #fff;
+  background: #242424;
+  border-radius: 10px;
+  padding: 6px 12px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease;
+  white-space: nowrap;
+}
+.theme-counter:hover {
+  transform: scale(1.05);
+}
+
   </style>
 </head>
 <body>
 
   <header>
-    <h1>${theme.name}</h1>
-    <nav>
-      <a href="../index.html">⬅ Home</a>
-    </nav>
-  </header>
+  <div class="header-top">
+    <div class="left-side">
+      <h1>${theme.name}</h1>
+      <nav>
+        <a href="../index.html">⬅ Home</a>
+      </nav>
+    </div>
+    <div id="theme-counter" class="theme-counter"></div>
+  </div>
+</header>
+
 
   <main>
     <section class="theme-details">
@@ -234,6 +291,8 @@ ${
     ? `<a class="download-btn" href="../${theme.swf}" download>⬇️ Download Flash Menu (.swf)</a>`
     : ""
 }
+${extraFilesBlock}
+
 ${altFlashMenusBlock}
 
     </section>
@@ -426,7 +485,49 @@ ${altFlashMenusBlock}
     });
   });
   </script>
+  
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // path is relative to theme pages (themes-pages/...), so ../themes.json is correct
+  fetch('../themes.json')
+    .then(function(res){
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      return res.json();
+    })
+    .then(function(data){
+      var count = Array.isArray(data) ? data.length : 0;
+      var counterEl = document.getElementById('theme-counter');
+      if (!counterEl) return; // nothing to update
 
+      var current = 0;
+      // animation timing: ~800ms total, ~60fps
+      var duration = 800;
+      var fps = 60;
+      var steps = Math.max(1, Math.round((duration / 1000) * fps));
+      var step = Math.max(1, Math.floor(count / steps));
+
+      function animateCounter() {
+        current += step;
+        if (current >= count) {
+          counterEl.textContent = '🖼️ ' + count + ' themes available';
+        } else {
+          counterEl.textContent = '🖼️ ' + current + ' themes available';
+          requestAnimationFrame(animateCounter);
+        }
+      }
+
+      // start animation (if there are any themes)
+      if (count > 0) animateCounter();
+      else counterEl.textContent = '🖼️ 0 themes available';
+    })
+    .catch(function(err){
+      // fail silently but log so you can see what's wrong
+      console.error('Failed to load themes.json for counter:', err);
+    });
+});
+</script>
+
+  
 </body>
 </html>`;
 
