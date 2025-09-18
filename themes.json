@@ -306,7 +306,7 @@
     "screenshots": [
       "themes/screenshots/K750i/Beam_home.jpg",
       "themes/screenshots/K750i/Beam_menu.jpg",
-      "themes/screenshots/K750i/Beam_tab.jpg"
+      "themes/screenshots/K750i/Beam_settings.jpg"
     ],
     "file": "themes/Beam.thm"
   },
@@ -904,9 +904,9 @@
   {
     "id": "clarity-pnx5230",
     "name": "Clarity (PNX5230)",
-    "originalModel": ["W350i", "W380i"],
-    "supportedModels": ["W350i", "W380i", "Z555i"],
-    "platform": "PNX5230",
+    "originalModel": ["W350i", "W380i", "Z555i"],
+    "supportedModels": ["D750i", "K750i", "W350i", "W380i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z555i", "Z558i"],
+    "platform": ["DB2010", "PNX5230"],
     "resolution": "176x220",
     "homeType": "Still image",
     "screenshots": [
@@ -1846,6 +1846,22 @@
     "swf": "themes/swf/Eclipse_desktop.swf"
   },
   {
+    "id": "emerge",
+    "name": "Emerge",
+    "originalModel": "W810i",
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/W810i/Emerge_home.jpg",
+      "themes/screenshots/W810i/Emerge_menu.jpg",
+      "themes/screenshots/W810i/Emerge_settings.jpg"
+    ],
+    "file": "themes/Emerge.thm",
+    "swf":"themes/swf/emerge.swf"
+  },
+  {
     "id": "emersion",
     "name": "Emersion",
     "originalModel": "Zylo (W20i)",
@@ -1860,6 +1876,53 @@
     ],
     "file": "themes/Emersion.thm",
     "swf": "themes/swf/EmersionDesktop.swf"
+  },
+  {
+    "id": "equalizer-j300i",
+    "name": "Equalizer (J300i)",
+    "originalModel": "J300i",
+    "supportedModels": ["J300i", "K300i"],
+    "platform": "DB2010",
+    "resolution": "128x128",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/J300i/Equalizer_home.jpg",
+      "themes/screenshots/J300i/Equalizer_menu.jpg",
+      "themes/screenshots/J300i/Equalizer_settings.jpg"
+    ],
+    "file": "themes/Equalizer (J300i).thm"
+  },
+  {
+    "id": "equalizer-w800i",
+    "name": "Equalizer (W800i)",
+    "originalModel": ["W700i", "W800i"],
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/W800i/Equalizer_home.jpg",
+      "themes/screenshots/W800i/Equalizer_menu.jpg",
+      "themes/screenshots/W800i/Equalizer_settings.jpg"
+    ],
+    "file": "themes/Equalizer (W800i).thm"
+  },
+  {
+    "id": "equalizer-w810i",
+    "name": "Equalizer (W810i)",
+    "originalModel": "W810i",
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "note": "Features a flash menu, otherwise identical to the <a href='equalizer-w800i.html'>W800i version</a>.",
+    "screenshots": [
+      "themes/screenshots/W810i/Equalizer_home.jpg",
+      "themes/screenshots/W810i/Equalizer_menu.jpg",
+      "themes/screenshots/W810i/Equalizer_settings.jpg"
+    ],
+    "file": "themes/Equalizer (W810i).thm",
+    "swf":"themes/swf/equalizer.swf"
   },
   {
     "id": "era-db2030",
@@ -1878,8 +1941,24 @@
     "file": "themes/Era (DB2030).thm"
   },
   {
-    "id": "era-theme",
-    "name": "ERA Theme",
+    "id": "era-theme-k750i",
+    "name": "ERA Theme (K750i)",
+    "originalModel": ["D750i", "K750i"],
+    "carrier": "Era (Poland)",
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/K750i/ERA Theme_home.jpg",
+      "themes/screenshots/K750i/ERA Theme_menu.jpg",
+      "themes/screenshots/K750i/ERA Theme_settings.jpg"
+    ],
+    "file": "themes/ERA Theme (K750i).thm"
+  },
+  {
+    "id": "era-theme-t630",
+    "name": "ERA Theme (T630)",
     "originalModel": "T630",
     "carrier": "Era (Poland)",
     "supportedModels": ["T610", "T630", "Z600"],
@@ -1890,7 +1969,7 @@
       "themes/screenshots/T630/ERA Theme_home.jpg",
       "themes/screenshots/T630/ERA Theme_menu.jpg"
     ],
-    "file": "themes/ERA Theme.thm"
+    "file": "themes/ERA Theme (T630).thm"
   },
   {
     "id": "eternal",
@@ -1903,24 +1982,9 @@
     "screenshots": [
       "themes/screenshots/K750i/Eternal_home.jpg",
       "themes/screenshots/K750i/Eternal_menu.jpg",
-      "themes/screenshots/K750i/Eternal_tab.jpg"
+      "themes/screenshots/K750i/Eternal_settings.jpg"
     ],
     "file": "themes/Eternal.thm"
-  },
-  {
-    "id": "equalizer",
-    "name": "Equalizer",
-    "originalModel": "J300i",
-    "supportedModels": ["J300i", "K300i"],
-    "platform": "DB2010",
-    "resolution": "128x128",
-    "homeType": "Animated",
-    "screenshots": [
-      "themes/screenshots/J300i/Equalizer_home.jpg",
-      "themes/screenshots/J300i/Equalizer_menu.jpg",
-      "themes/screenshots/J300i/Equalizer_settings.jpg"
-    ],
-    "file": "themes/Equalizer.thm"
   },
   {
     "id": "everchanging",
@@ -2073,7 +2137,7 @@
   {
     "id": "floom-k500i",
     "name": "Floom (K500i)",
-    "originalModel": "K500i",
+    "originalModel": ["F500i", "K500i", "K506c", "K508i"],
     "supportedModels": ["F500i", "K500i", "K506c", "K508i", "Z500a"],
     "platform": "DB2010",
     "resolution": "128x160",
@@ -2135,7 +2199,7 @@
   {
     "id": "floroflow-k500i",
     "name": "Floroflow (K500i)",
-    "originalModel": "K500i",
+    "originalModel": ["K500i", "K506c", "K508i"],
     "supportedModels": ["F500i", "K500i", "K506c", "K508i", "Z500a"],
     "platform": "DB2010",
     "resolution": "128x160",
@@ -2155,7 +2219,7 @@
     "platform": "DB2010",
     "resolution": "128x160",
     "homeType": "Animated",
-    "note": "Features images for the external display on the Z500a, otherwise identical to the <a href='floom-k500i.html'>K500i version</a>.",
+    "note": "Features images for the external display on the Z500a, otherwise identical to the <a href='floroflow-k500i.html'>K500i version</a>.",
     "screenshots": [
       "themes/screenshots/Z500a/Floroflow_home.jpg",
       "themes/screenshots/Z500a/Floroflow_menu.jpg",
@@ -3384,7 +3448,7 @@
   {
     "id": "metalix-k500i",
     "name": "Metalix (K500i)",
-    "originalModel": "K500i",
+    "originalModel": ["F500i", "K500i", "K506c", "K508i"],
     "supportedModels": ["F500i", "K500i", "K506c", "K508i", "Z500a"],
     "platform": "DB2010",
     "resolution": "128x160",
@@ -3399,12 +3463,12 @@
   {
     "id": "metalix-z500a",
     "name": "Metalix (Z500a)",
-    "originalModel": "Z500a",
+    "originalModel": "Z500i (Prototype)",
     "supportedModels": ["F500i", "K500i", "K506c", "K508i", "Z500a"],
     "platform": "DB2010",
     "resolution": "128x160",
     "homeType": "Animated",
-    "note": "Features images for the external display on the Z500a, otherwise identical to the <a href='floom-k500i.html'>K500i version</a>.",
+    "note": "Features images for the external display on the Z500a, otherwise identical to the <a href='metalix-k500i.html'>K500i version</a>.",
     "screenshots": [
       "themes/screenshots/Z500a/Metalix_home.jpg",
       "themes/screenshots/Z500a/Metalix_menu.jpg",
@@ -3855,6 +3919,22 @@
       "themes/screenshots/K300i/Oranque_settings.jpg"
     ],
     "file": "themes/Oranque.thm"
+  },
+  {
+    "id": "orbit",
+    "name": "Orbit",
+    "originalModel": "W810i",
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/W810i/Orbit_home.jpg",
+      "themes/screenshots/W810i/Orbit_menu.jpg",
+      "themes/screenshots/W810i/Orbit_settings.jpg"
+    ],
+    "file": "themes/Orbit.thm",
+    "swf":"themes/swf/orbit.swf"
   },
   {
     "id": "organical",
@@ -4786,9 +4866,24 @@
     "swf": "themes/swf/ExpressiveSoundscape_desktop.swf"
   },
   {
+    "id": "soundwave",
+    "name": "Soundwave",
+    "originalModel": ["W700i", "W800i"],
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/W800i/Soundwave_home.jpg",
+      "themes/screenshots/W800i/Soundwave_menu.jpg",
+      "themes/screenshots/W800i/Soundwave_settings.jpg"
+    ],
+    "file": "themes/Soundwave.thm"
+  },
+  {
     "id": "spinler-k500i",
     "name": "Spinler (K500i)",
-    "originalModel": "K500i",
+    "originalModel": ["F500i", "K500i", "K506c", "K508i"],
     "supportedModels": ["F500i", "K500i", "K506c", "K508i", "Z500a"],
     "platform": "DB2010",
     "resolution": "128x160",
@@ -4808,7 +4903,7 @@
     "platform": "DB2010",
     "resolution": "128x160",
     "homeType": "Animated",
-    "note": "Features images for the external display on the Z500a, otherwise identical to the <a href='floom-k500i.html'>K500i version</a>.",
+    "note": "Features images for the external display on the Z500a, otherwise identical to the <a href='spinler-k500i.html'>K500i version</a>.",
     "screenshots": [
       "themes/screenshots/Z500a/Spinler_home.jpg",
       "themes/screenshots/Z500a/Spinler_menu.jpg",
@@ -5125,6 +5220,21 @@
     "swf": "themes/swf/desktop_sweetPink.swf"
   },
   {
+    "id": "techno",
+    "name": "Techno",
+    "originalModel": "W800i",
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/W800i/Techno_home.jpg",
+      "themes/screenshots/W800i/Techno_menu.jpg",
+      "themes/screenshots/W800i/Techno_settings.jpg"
+    ],
+    "file": "themes/Techno.thm"
+  },
+  {
     "id": "telstra-k800i",
     "name": "Telstra (K800i)",
     "originalModel": "K800i",
@@ -5199,9 +5309,24 @@
     "screenshots": [
       "themes/screenshots/K750i/Tiles_home.jpg",
       "themes/screenshots/K750i/Tiles_menu.jpg",
-      "themes/screenshots/K750i/Tiles_tab.jpg"
+      "themes/screenshots/K750i/Tiles_settings.jpg"
     ],
     "file": "themes/Tiles.thm"
+  },
+  {
+    "id": "titanium",
+    "name": "Titanium",
+    "originalModel": "W700i",
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/W700i/Titanium_home.jpg",
+      "themes/screenshots/W700i/Titanium_menu.jpg",
+      "themes/screenshots/W700i/Titanium_settings.jpg"
+    ],
+    "file": "themes/Titanium.thm"
   },
   {
     "id": "trace",
@@ -5551,8 +5676,8 @@
     "id": "walkman-pnx5230",
     "name": "Walkman (PNX5230)",
     "originalModel": ["W350i", "W380i"],
-    "supportedModels": ["W350i", "W380i", "Z555i"],
-    "platform": "PNX5230",
+    "supportedModels": ["D750i", "K750i", "W350i", "W380i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z555i", "Z558i"],
+    "platform": ["DB2010", "PNX5230"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -5654,6 +5779,22 @@
     "file": "themes/Walkman (W710i).thm"
   },
   {
+    "id": "walkman-w810i",
+    "name": "Walkman (W810i)",
+    "originalModel": ["W700i", "W800i", "W810i"],
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "note": "Known as 'Default' on the W700i and W800i",
+    "screenshots": [
+      "themes/screenshots/W810i/Walkman_home.jpg",
+      "themes/screenshots/W810i/Walkman_menu.jpg",
+      "themes/screenshots/W810i/Walkman_settings.jpg"
+    ],
+    "file": "themes/Walkman (W810i).thm"
+  },
+  {
     "id": "walkman-w880i",
     "name": "Walkman (W880i)",
     "originalModel": "W880i",
@@ -5694,7 +5835,7 @@
     "screenshots": [
       "themes/screenshots/K750i/Wave_home.jpg",
       "themes/screenshots/K750i/Wave_menu.jpg",
-      "themes/screenshots/K750i/Wave_tab.jpg"
+      "themes/screenshots/K750i/Wave_settings.jpg"
     ],
     "file": "themes/Wave.thm"
   },
