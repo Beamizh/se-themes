@@ -226,7 +226,7 @@
     "supportedModels": ["V800", "Z800"],
     "platform": "DB2000",
     "resolution": "176x220",
-    "homeType": "Still image",
+    "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/Z800/Aurora_home.jpg",
       "themes/screenshots/Z800/Aurora_menu.jpg",
@@ -484,7 +484,7 @@
     "supportedModels": ["V800", "Z800"],
     "platform": "DB2000",
     "resolution": "176x220",
-    "homeType": "Still image",
+    "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/Z800/Blues_home.jpg",
       "themes/screenshots/Z800/Blues_menu.jpg",
@@ -1794,7 +1794,7 @@
     "supportedModels": ["V800", "Z800"],
     "platform": "DB2000",
     "resolution": "176x220",
-    "homeType": "Still image",
+    "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/Z800/Dor_home.jpg",
       "themes/screenshots/Z800/Dor_menu.jpg",
@@ -2383,8 +2383,8 @@
     "swf": "themes/swf/Flower power_desktop.swf"
   },
   {
-    "id": "flowers",
-    "name": "Flowers",
+    "id": "flowers-g705",
+    "name": "Flowers (G705)",
     "originalModel": "G705",
     "supportedModels": ["C510", "C901", "C903", "C905", "G705", "T715", "W705", "W715", "W995"],
     "platform": "DB3210",
@@ -2395,8 +2395,24 @@
       "themes/screenshots/G705/Flowers_menu.jpg",
       "themes/screenshots/G705/Flowers_settings.jpg"
     ],
-    "file": "themes/Flowers.thm",
+    "file": "themes/Flowers (G705).thm",
     "swf": "themes/swf/Flowers_desktop.swf"
+  },
+  {
+    "id": "flowers-s500i",
+    "name": "Flowers (S500i)",
+    "originalModel": "S500i",
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "note": "Exclusive to the Flowers special edition",
+    "screenshots": [
+      "themes/screenshots/S500i/Flowers_home.jpg",
+      "themes/screenshots/S500i/Flowers_menu.jpg",
+      "themes/screenshots/S500i/Flowers_settings.jpg"
+    ],
+    "file": "themes/Flowers (S500i).thm"
   },
   {
     "id": "fluits",
@@ -4697,7 +4713,7 @@
     "supportedModels": ["V800", "Z800"],
     "platform": "DB2000",
     "resolution": "176x220",
-    "homeType": "Still image",
+    "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/V800/Rouge_home.jpg",
       "themes/screenshots/V800/Rouge_menu.jpg",
@@ -5808,7 +5824,7 @@
     "supportedModels": ["V800", "Z800"],
     "platform": "DB2000",
     "resolution": "176x220",
-    "homeType": "Still image",
+    "homeType": "Animated",
     "screenshots": [
       "themes/screenshots/V800/Vodafone live!_home.jpg",
       "themes/screenshots/V800/Vodafone live!_menu.jpg",
