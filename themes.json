@@ -290,7 +290,7 @@
     "screenshots": [
       "themes/screenshots/W380i/Balance_home.jpg",
       "themes/screenshots/W380i/Balance_menu.jpg",
-      "themes/screenshots/W380i/Balance_list.jpg"
+      "themes/screenshots/W380i/Balance_settings.jpg"
     ],
     "file": "themes/Balance.thm",
     "swf": "themes/swf/Balance_desktop.swf"
@@ -299,8 +299,8 @@
     "id": "beam",
     "name": "Beam",
     "originalModel": "K750i",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -512,8 +512,8 @@
     "id": "breakbeat",
     "name": "Breakbeat",
     "originalModel": ["W550i", "W600i"],
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "note": "Missing flash menu",
@@ -575,8 +575,8 @@
     "id": "c",
     "name": "C",
     "author": "maren",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Still image",
     "screenshots": [
@@ -889,7 +889,7 @@
   {
     "id": "clarity-k630i",
     "name": "Clarity (K630i)",
-    "originalModel": "K630i",
+    "originalModel": ["K630i", "V640i"],
     "supportedModels": ["K630i", "V640i"],
     "platform": "DB3150",
     "resolution": "176x220",
@@ -910,9 +910,9 @@
     "resolution": "176x220",
     "homeType": "Still image",
     "screenshots": [
-      "themes/screenshots/W350i/Clarity_home.jpg",
-      "themes/screenshots/W350i/Clarity_menu.jpg",
-      "themes/screenshots/W350i/Clarity_settings.jpg"
+      "themes/screenshots/W380i/Clarity_home.jpg",
+      "themes/screenshots/W380i/Clarity_menu.jpg",
+      "themes/screenshots/W380i/Clarity_settings.jpg"
     ],
     "file": "themes/Clarity (PNX5230).thm"
   },
@@ -1115,8 +1115,8 @@
     "id": "clubpulse",
     "name": "Clubpulse",
     "originalModel": ["W550i", "W600i"],
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "note": "Missing flash menu",
@@ -1655,8 +1655,8 @@
     "id": "default-w550i",
     "name": "Default (W550i)",
     "originalModel": ["W550i", "W600i"],
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -1912,8 +1912,8 @@
     "id": "emerge",
     "name": "Emerge",
     "originalModel": "W810i",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -1959,8 +1959,8 @@
     "id": "equalizer-w800i",
     "name": "Equalizer (W800i)",
     "originalModel": ["W700i", "W800i"],
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -1974,8 +1974,8 @@
     "id": "equalizer-w810i",
     "name": "Equalizer (W810i)",
     "originalModel": "W810i",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "note": "Features a flash menu, otherwise identical to the <a href='equalizer-w800i.html'>W800i version</a>.",
@@ -2008,8 +2008,8 @@
     "name": "ERA Theme (K750i)",
     "originalModel": ["D750i", "K750i"],
     "carrier": "Era (Poland)",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -2038,8 +2038,8 @@
     "id": "eternal",
     "name": "Eternal",
     "originalModel": "K750i",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -2171,8 +2171,8 @@
     "id": "flare-z550i",
     "name": "Flare (Z550i)",
     "originalModel": "Z550i",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -2196,6 +2196,29 @@
       "themes/screenshots/Z710i/Flare_settings.jpg"
     ],
     "file": "themes/Flare (Z710i).thm"
+  },
+  {
+    "id": "flircles",
+    "name": "Flircles",
+    "originalModel": "Z555i",
+    "supportedModels": ["W350i", "W380i", "Z555i"],
+    "platform": "PNX5230",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "note": "Due to this themes structure, extra files are necessary, put the extra .thm files alongside the flash menu in tpa/preset/desktop/flash, and put the standby screen in tpa/preset/standby/flash",
+    "screenshots": [
+      "themes/screenshots/Z555i/Flircles_home.jpg",
+      "themes/screenshots/Z555i/Flircles_menu.jpg",
+      "themes/screenshots/Z555i/Flircles_settings.jpg"
+    ],
+    "file": "themes/Flircles.thm",
+    "swf": "themes/swf/Flircles_desktop.swf",
+    "extraFiles": [
+      { "name": "FL1.thm", "path": "themes/swf/Z555/Flircles/FL1.thm" },
+      { "name": "FL2.thm", "path": "themes/swf/Z555/Flircles/FL2.thm" },
+      { "name": "FL3.thm", "path": "themes/swf/Z555/Flircles/FL3.thm" },
+      { "name": "standby screen", "path": "themes/swf/Z555/Flircles/Flircles_standby.swf" }
+    ]
   },
   {
     "id": "flo",
@@ -2448,7 +2471,7 @@
   {
     "id": "fluor-star",
     "name": "Fluor star",
-    "originalModel": "K630i",
+    "originalModel": ["K630i", "V640i"],
     "supportedModels": ["K630i", "V640i"],
     "platform": "DB3150",
     "resolution": "176x220",
@@ -3177,6 +3200,30 @@
     "file": "themes/Komi Shouko (S700i).thm"
   },
   {
+    "id": "kriss-kross",
+    "name": "Kriss kross",
+    "originalModel": "Z555i",
+    "supportedModels": ["W350i", "W380i", "Z555i"],
+    "platform": "PNX5230",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "note": "Due to this themes structure, extra files are necessary, put the extra .thm files alongside the flash menu in tpa/preset/desktop/flash, and put the standby screen in tpa/preset/standby/flash",
+    "screenshots": [
+      "themes/screenshots/Z555i/Kriss kross_home.jpg",
+      "themes/screenshots/Z555i/Kriss kross_menu.jpg",
+      "themes/screenshots/Z555i/Kriss kross_settings.jpg"
+    ],
+    "file": "themes/Kriss kross.thm",
+    "swf": "themes/swf/KrissKross_desktop.swf",
+    "extraFiles": [
+      { "name": "KR1.thm", "path": "themes/swf/Z555/Kriss kross/KR1.thm" },
+      { "name": "KR2.thm", "path": "themes/swf/Z555/Kriss kross/KR2.thm" },
+      { "name": "KR3.thm", "path": "themes/swf/Z555/Kriss kross/KR3.thm" },
+      { "name": "KR4.thm", "path": "themes/swf/Z555/Kriss kross/KR4.thm" },
+      { "name": "standby screen", "path": "themes/swf/Z555/Kriss kross/KrissKross_standby.swf" }
+    ]
+  },
+  {
     "id": "laser-precision",
     "name": "Laser precision",
     "originalModel": "K850i",
@@ -3420,8 +3467,8 @@
     "id": "lumical",
     "name": "Lumical",
     "originalModel": "Z550i",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -3558,7 +3605,7 @@
   {
     "id": "metal-rings",
     "name": "Metal rings",
-    "originalModel": "K630i",
+    "originalModel": ["K630i", "V640i"],
     "supportedModels": ["K630i", "V640i"],
     "platform": "DB3150",
     "resolution": "176x220",
@@ -3853,9 +3900,31 @@
     "file": "themes/o2 Theme.thm"
   },
   {
+    "id": "oblique-peak",
+    "name": "Oblique peak",
+    "originalModel": "Z555i",
+    "supportedModels": ["W350i", "W380i", "Z555i"],
+    "platform": "PNX5230",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "note": "Due to this themes structure, extra files are necessary, put the extra .thm files alongside the flash menu in tpa/preset/desktop/flash, and put the standby screen in tpa/preset/standby/flash",
+    "screenshots": [
+      "themes/screenshots/Z555i/Oblique peak_home.jpg",
+      "themes/screenshots/Z555i/Oblique peak_menu.jpg",
+      "themes/screenshots/Z555i/Oblique peak_settings.jpg"
+    ],
+    "file": "themes/Oblique peak.thm",
+    "swf": "themes/swf/ObliquePeak_desktop.swf",
+    "extraFiles": [
+      { "name": "OB1.thm", "path": "themes/swf/Z555/Oblique peak/OB1.thm" },
+      { "name": "OB2.thm", "path": "themes/swf/Z555/Oblique peak/OB2.thm" },
+      { "name": "standby screen", "path": "themes/swf/Z555/Oblique peak/ObliquePeak_standby.swf" }
+    ]
+  },
+  {
     "id": "oboe",
     "name": "Oboe",
-    "originalModel": "K630i",
+    "originalModel": ["K630i", "V640i"],
     "supportedModels": ["K630i", "V640i"],
     "platform": "DB3150",
     "resolution": "176x220",
@@ -4081,8 +4150,8 @@
     "id": "orbit",
     "name": "Orbit",
     "originalModel": "W810i",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -4680,8 +4749,8 @@
     "id": "red-dream",
     "name": "Red dream",
     "originalModel": "Z558i",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -4755,8 +4824,8 @@
     "id": "river-boat",
     "name": "River boat",
     "originalModel": "Z558i",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -4848,8 +4917,8 @@
     "id": "shadow-the-hedgehog-k750i",
     "name": "Shadow the Hedgehog (K750i)",
     "author": "Meganium412",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Still image",
     "screenshots": [
@@ -4954,8 +5023,8 @@
     "id": "shineline",
     "name": "Shineline",
     "originalModel": ["W550i", "W600i"],
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -5137,8 +5206,8 @@
     "id": "soundwave",
     "name": "Soundwave",
     "originalModel": ["W700i", "W800i"],
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -5316,8 +5385,8 @@
     "id": "sprouting-spring",
     "name": "Sprouting spring",
     "originalModel": "Z558i",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -5449,7 +5518,7 @@
     "screenshots": [
       "themes/screenshots/W380i/Stripe_home.jpg",
       "themes/screenshots/W380i/Stripe_menu.jpg",
-      "themes/screenshots/W380i/Stripe_list.jpg"
+      "themes/screenshots/W380i/Stripe_settings.jpg"
     ],
     "file": "themes/Stripe (W380i).thm",
     "swf": "themes/swf/Stripe_desktop.swf"
@@ -5506,8 +5575,8 @@
     "id": "techno",
     "name": "Techno",
     "originalModel": "W800i",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -5585,8 +5654,8 @@
     "id": "tiles",
     "name": "Tiles",
     "originalModel": "K750i",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -5600,8 +5669,8 @@
     "id": "titanium",
     "name": "Titanium",
     "originalModel": "W700i",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -5661,7 +5730,7 @@
   {
     "id": "tunnel-vision",
     "name": "Tunnel vision",
-    "originalModel": "K630i",
+    "originalModel": ["K630i", "V640i"],
     "supportedModels": ["K630i", "V640i"],
     "platform": "DB3150",
     "resolution": "176x220",
@@ -5838,7 +5907,7 @@
     "screenshots": [
       "themes/screenshots/W380i/Vibes_home.jpg",
       "themes/screenshots/W380i/Vibes_menu.jpg",
-      "themes/screenshots/W380i/Vibes_list.jpg"
+      "themes/screenshots/W380i/Vibes_settings.jpg"
     ],
     "file": "themes/Vibes.thm",
     "swf": "themes/swf/Vibes_desktop.swf"
@@ -5972,21 +6041,6 @@
     "file": "themes/Walkman (DB3150).thm"
   },
   {
-    "id": "walkman-pnx5230",
-    "name": "Walkman (PNX5230)",
-    "originalModel": ["W350i", "W380i"],
-    "supportedModels": ["D750i", "K750i", "W350i", "W380i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z555i", "Z558i"],
-    "platform": ["DB2010", "PNX5230"],
-    "resolution": "176x220",
-    "homeType": "Animated",
-    "screenshots": [
-      "themes/screenshots/W350i/Walkman_home.jpg",
-      "themes/screenshots/W350i/Walkman_menu.jpg",
-      "themes/screenshots/W350i/Walkman_settings.jpg"
-    ],
-    "file": "themes/Walkman (PNX5230).thm"
-  },
-  {
     "id": "walkman-w205",
     "name": "Walkman (W205)",
     "originalModel": "W205",
@@ -6050,9 +6104,9 @@
   {
     "id": "walkman-w610i",
     "name": "Walkman (W610i)",
-    "originalModel": ["W610i", "W660i"],
-    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W610i", "W660i", "W710i", "Z610i", "Z710i"],
-    "platform": "DB2020",
+    "originalModel": ["W350i", "W380i", "W610i", "W660i"],
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "V630i", "W350i", "W380i", "W550i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -6081,8 +6135,8 @@
     "id": "walkman-w810i",
     "name": "Walkman (W810i)",
     "originalModel": ["W700i", "W800i", "W810i"],
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "note": "Known as 'Default' on the W700i and W800i",
@@ -6127,8 +6181,8 @@
     "id": "water-lily",
     "name": "Water lily",
     "originalModel": "Z558i",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -6142,8 +6196,8 @@
     "id": "wave-k750i",
     "name": "Wave (K750i)",
     "originalModel": "K750i",
-    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
-    "platform": "DB2010",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
