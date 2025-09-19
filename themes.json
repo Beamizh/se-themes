@@ -2168,8 +2168,23 @@
     "file": "themes/Fiber bold.thm"
   },
   {
-    "id": "flare",
-    "name": "Flare",
+    "id": "flare-z550i",
+    "name": "Flare (Z550i)",
+    "originalModel": "Z550i",
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Z550i/Flare_home.jpg",
+      "themes/screenshots/Z550i/Flare_menu.jpg",
+      "themes/screenshots/Z550i/Flare_settings.jpg"
+    ],
+    "file": "themes/Flare (Z550i).thm"
+  },
+  {
+    "id": "flare-z710i",
+    "name": "Flare (Z710i)",
     "originalModel": "Z710i",
     "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W610i", "W660i", "W710i", "Z610i", "Z710i"],
     "platform": "DB2020",
@@ -2180,7 +2195,7 @@
       "themes/screenshots/Z710i/Flare_menu.jpg",
       "themes/screenshots/Z710i/Flare_settings.jpg"
     ],
-    "file": "themes/Flare.thm"
+    "file": "themes/Flare (Z710i).thm"
   },
   {
     "id": "flo",
@@ -3402,6 +3417,21 @@
     "file": "themes/Lumic.thm"
   },
   {
+    "id": "lumical",
+    "name": "Lumical",
+    "originalModel": "Z550i",
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Z550i/Lumical_home.jpg",
+      "themes/screenshots/Z550i/Lumical_menu.jpg",
+      "themes/screenshots/Z550i/Lumical_settings.jpg"
+    ],
+    "file": "themes/Lumical.thm"
+  },
+  {
     "id": "luminosity",
     "name": "Luminosity",
     "originalModel": "K850i",
@@ -4066,9 +4096,9 @@
   {
     "id": "organical",
     "name": "Organical",
-    "originalModel": "Z710i",
-    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W610i", "W660i", "W710i", "Z610i", "Z710i"],
-    "platform": "DB2020",
+    "originalModel": ["Z550i", "Z710i"],
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "V630i", "W550i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020"],
     "resolution": "176x220",
     "homeType": "Animated",
     "screenshots": [
@@ -4647,6 +4677,21 @@
     "file": "themes/Red.utz"
   },
   {
+    "id": "red-dream",
+    "name": "Red dream",
+    "originalModel": "Z558i",
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Z558i/Red dream_home.jpg",
+      "themes/screenshots/Z558i/Red dream_menu.jpg",
+      "themes/screenshots/Z558i/Red dream_settings.jpg"
+    ],
+    "file": "themes/Red dream.thm"
+  },
+  {
     "id": "red-fragrance",
     "name": "Red Fragrance",
     "originalModel": ["K610i", "V630i"],
@@ -4705,6 +4750,21 @@
     ],
     "file": "themes/Ripples.thm",
     "swf": "themes/swf/RipplesDesktop.swf"
+  },
+  {
+    "id": "river-boat",
+    "name": "River boat",
+    "originalModel": "Z558i",
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Z558i/River boat_home.jpg",
+      "themes/screenshots/Z558i/River boat_menu.jpg",
+      "themes/screenshots/Z558i/River boat_settings.jpg"
+    ],
+    "file": "themes/River boat.thm"
   },
   {
     "id": "rouge",
@@ -5251,6 +5311,21 @@
       "themes/screenshots/K320i/Spots_settings.jpg"
     ],
     "file": "themes/Spots (K320i).thm"
+  },
+  {
+    "id": "sprouting-spring",
+    "name": "Sprouting spring",
+    "originalModel": "Z558i",
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Z558i/Sprouting spring_home.jpg",
+      "themes/screenshots/Z558i/Sprouting spring_menu.jpg",
+      "themes/screenshots/Z558i/Sprouting spring_settings.jpg"
+    ],
+    "file": "themes/Sprouting spring.thm"
   },
   {
     "id": "squares",
@@ -6049,8 +6124,23 @@
     "file": "themes/Walkman for P1.utz"
   },
   {
-    "id": "wave",
-    "name": "Wave",
+    "id": "water-lily",
+    "name": "Water lily",
+    "originalModel": "Z558i",
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Z558i/Water lily_home.jpg",
+      "themes/screenshots/Z558i/Water lily_menu.jpg",
+      "themes/screenshots/Z558i/Water lily_settings.jpg"
+    ],
+    "file": "themes/Water lily.thm"
+  },
+  {
+    "id": "wave-k750i",
+    "name": "Wave (K750i)",
     "originalModel": "K750i",
     "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
     "platform": "DB2010",
@@ -6061,7 +6151,22 @@
       "themes/screenshots/K750i/Wave_menu.jpg",
       "themes/screenshots/K750i/Wave_settings.jpg"
     ],
-    "file": "themes/Wave.thm"
+    "file": "themes/Wave (K750i).thm"
+  },
+  {
+    "id": "wave-z550i",
+    "name": "Wave (Z550i)",
+    "originalModel": "Z550i",
+    "supportedModels": ["D750i", "K750i", "W550i", "W600i", "W700i", "W800i", "W810i", "Z550i", "Z558i"],
+    "platform": "DB2010",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Z550i/Wave_home.jpg",
+      "themes/screenshots/Z550i/Wave_menu.jpg",
+      "themes/screenshots/Z550i/Wave_settings.jpg"
+    ],
+    "file": "themes/Wave (Z550i).thm"
   },
   {
     "id": "waves",
