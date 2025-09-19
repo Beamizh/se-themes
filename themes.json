@@ -3068,7 +3068,7 @@
       "themes/screenshots/W510/Kami_settings.jpg"
     ],
     "file": "themes/Kami.thm",
-    "swd": "themes/swf/Kami_desktop.swf"
+    "swf": "themes/swf/Kami_desktop.swf"
   },
   {
     "id": "komi-shouko-aino",
@@ -3788,7 +3788,7 @@
       "themes/screenshots/W510/Noshi_settings.jpg"
     ],
     "file": "themes/Noshi.thm",
-    "swd": "themes/swf/Noshi_desktop.swf"
+    "swf": "themes/swf/Noshi_desktop.swf"
   },
   {
     "id": "o2-theme",
@@ -4121,7 +4121,7 @@
       "themes/screenshots/W510/Oru_settings.jpg"
     ],
     "file": "themes/Oru.thm",
-    "swd": "themes/swf/Oru_desktop.swf"
+    "swf": "themes/swf/Oru_desktop.swf"
   },
   {
     "id": "partim",
