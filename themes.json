@@ -1744,6 +1744,21 @@
     "file": "themes/Default (W960i).utz"
   },
   {
+    "id": "default-z520i",
+    "name": "Default (Z520i)",
+    "originalModel": "Z520i",
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
+    "platform": ["DB2010", "PNX5230", "S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Z520i/Default_home.jpg",
+      "themes/screenshots/Z520i/Default_menu.jpg",
+      "themes/screenshots/Z520i/Default_settings.jpg"
+    ],
+    "file": "themes/Default (Z520i).thm"
+  },
+  {
     "id": "default-z530i",
     "name": "Default (Z530i)",
     "originalModel": "Z530i",
@@ -2329,6 +2344,21 @@
       "themes/screenshots/Z530i/Floomasia_settings.jpg"
     ],
     "file": "themes/Floomasia.thm"
+  },
+  {
+    "id": "floomation",
+    "name": "Floomation",
+    "originalModel": "Z520i",
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
+    "platform": ["DB2010", "PNX5230", "S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Z520i/Floomation_home.jpg",
+      "themes/screenshots/Z520i/Floomation_menu.jpg",
+      "themes/screenshots/Z520i/Floomation_settings.jpg"
+    ],
+    "file": "themes/Floomation.thm"
   },
   {
     "id": "floral",
@@ -3728,6 +3758,21 @@
     ],
     "file": "themes/Minty green.thm",
     "swf": "themes/swf/MintygreenDesktop.swf"
+  },
+  {
+    "id": "mistic",
+    "name": "Mistic",
+    "originalModel": "Z520i",
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
+    "platform": ["DB2010", "PNX5230", "S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Z520i/Mistic_home.jpg",
+      "themes/screenshots/Z520i/Mistic_menu.jpg",
+      "themes/screenshots/Z520i/Mistic_settings.jpg"
+    ],
+    "file": "themes/Mistic.thm"
   },
   {
     "id": "mocha-gold",
@@ -5620,6 +5665,21 @@
     ],
     "file": "themes/Street Style.thm",
     "swf": "themes/swf/streetStyle.swf"
+  },
+  {
+    "id": "strimmin",
+    "name": "Strimmin",
+    "originalModel": "Z520i",
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
+    "platform": ["DB2010", "PNX5230", "S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/Z520i/Strimmin_home.jpg",
+      "themes/screenshots/Z520i/Strimmin_menu.jpg",
+      "themes/screenshots/Z520i/Strimmin_settings.jpg"
+    ],
+    "file": "themes/Strimmin.thm"
   },
   {
     "id": "stripe-w205",
