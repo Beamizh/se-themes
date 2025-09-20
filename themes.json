@@ -1955,8 +1955,24 @@
     "swf": "themes/swf/Eclipse_desktop.swf"
   },
   {
-    "id": "ed-hardy",
-    "name": "Ed Hardy",
+    "id": "ed-hardy-s500i",
+    "name": "Ed Hardy (S500i)",
+    "originalModel": "S500i",
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "note": "Exclusive to the Ed Hardy special edition",
+    "screenshots": [
+      "themes/screenshots/S500i/Ed Hardy_home.jpg",
+      "themes/screenshots/S500i/Ed Hardy_menu.jpg",
+      "themes/screenshots/S500i/Ed Hardy_settings.jpg"
+    ],
+    "file": "themes/Ed Hardy (S500i).thm"
+  },
+  {
+    "id": "ed-hardy-w595",
+    "name": "Ed Hardy (W595)",
     "originalModel": "W595",
     "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
     "platform": "DB3150",
@@ -1968,7 +1984,7 @@
       "themes/screenshots/W595/Ed Hardy_menu.jpg",
       "themes/screenshots/W595/Ed Hardy_settings.jpg"
     ],
-    "file": "themes/Ed Hardy.thm",
+    "file": "themes/Ed Hardy (W595).thm",
     "swf": "themes/swf/EdHardyDesktop.swf"
   },
   {
