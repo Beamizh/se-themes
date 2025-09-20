@@ -1462,6 +1462,23 @@
     "file": "themes/Cyber-shot (C905).thm"
   },
   {
+    "id": "cyber-shot-aquamarine",
+    "name": "Cyber-shot™ Aquamarine",
+    "author": "Guramovich",
+    "supportedModels": ["C510", "C901", "C903", "C905", "G705", "T715", "W705", "W715", "W995"],
+    "platform": "DB3210",
+    "resolution": "240x320",
+    "homeType": "Slideshow",
+    "screenshots": [
+      "themes/screenshots/User-made/Cyber-shot™ Aquamarine_home.jpg",
+      "themes/screenshots/User-made/Cyber-shot™ Aquamarine_menu.jpg",
+      "themes/screenshots/User-made/Cyber-shot™ Aquamarine_multimedia.jpg",
+      "themes/screenshots/User-made/Cyber-shot™ Aquamarine_walkman.jpg"
+    ],
+    "file": "themes/Cyber-shot™ Aquamarine.thm",
+    "swf": "themes/swf/AquamarineDesktop.swf"
+  },
+  {
     "id": "dandelion",
     "name": "Dandelion",
     "originalModel": "T707",
@@ -4491,6 +4508,40 @@
     ],
     "file": "themes/Pianos (Orange).thm",
     "swf": "themes/swf/Pianos Orange.swf"
+  },
+  {
+    "id": "pink-drops",
+    "name": "Pink Drops",
+    "originalModel": "T650i",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Exclusive to the 'Precious Gold' colorway.",
+    "screenshots": [
+      "themes/screenshots/T650i/Pink Drops_home.jpg",
+      "themes/screenshots/T650i/Pink Drops_menu.jpg",
+      "themes/screenshots/T650i/Pink Drops_settings.jpg"
+    ],
+    "file": "themes/Pink Drops.thm",
+    "swf": "themes/swf/Pink drops_desktop.swf"
+  },
+  {
+    "id": "pink-drops-prototype",
+    "name": "Pink Drops (Prototype)",
+    "originalModel": "T650i (Prototype)",
+    "supportedModels": ["K770i", "T650i", "W880i"],
+    "platform": "DB2030",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Early prototype version of the <a href='pink-drops.html'>Pink Drops</a> theme, it is just a recolored version of the <a href='under-water.html'>Under water</a> theme",
+    "screenshots": [
+      "themes/screenshots/T650i/Pink Drops (Prototype)_home.jpg",
+      "themes/screenshots/T650i/Pink Drops (Prototype)_menu.jpg",
+      "themes/screenshots/T650i/Pink Drops (Prototype)_settings.jpg"
+    ],
+    "file": "themes/Pink Drops (Prototype).thm",
+    "swf": "themes/swf/UnderWaterPink_desktop.swf"
   },
   {
     "id": "pink-lilac",
