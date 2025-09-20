@@ -1287,6 +1287,22 @@
     "swf": "themes/swf/CranberrywhiteDesktop.swf"
   },
   {
+    "id": "creme-violet",
+    "name": "Creme violet",
+    "originalModel": "Yari (U100i, Prototype)",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Yari (U100i)/Creme violet_home.jpg",
+      "themes/screenshots/Yari (U100i)/Creme violet_menu.jpg",
+      "themes/screenshots/Yari (U100i)/Creme violet_settings.jpg"
+    ],
+    "file": "themes/Creme violet.thm",
+    "swf": "themes/swf/CremevioletDesktop.swf"
+  },
+  {
     "id": "crystal",
     "name": "Crystal",
     "originalModel": "K850i",
@@ -1803,6 +1819,21 @@
       "themes/screenshots/Jalou (F100i)/Dolce&Gabbana_settings.jpg"
     ],
     "file": "themes/Dolce&Gabbana.thm"
+  },
+  {
+    "id": "dolce-gabbana-yari",
+    "name": "Dolce&Gabbana 4 Yari",
+    "author": "Guramovich",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Dolce&Gabbana 4 Yari_home.jpg",
+      "themes/screenshots/User-made/Dolce&Gabbana 4 Yari_menu.jpg",
+      "themes/screenshots/User-made/Dolce&Gabbana 4 Yari_settings.jpg"
+    ],
+    "file": "themes/Dolce&Gabbana 4 Yari.thm"
   },
   {
     "id": "dor",
@@ -3681,6 +3712,22 @@
     ],
     "file": "themes/Metropolitan.thm",
     "swf": "themes/swf/MetropolitanDesktop.swf"
+  },
+  {
+    "id": "minty-green",
+    "name": "Minty green",
+    "originalModel": "Yari (U100i, Prototype)",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Yari (U100i)/Minty green_home.jpg",
+      "themes/screenshots/Yari (U100i)/Minty green_menu.jpg",
+      "themes/screenshots/Yari (U100i)/Minty green_settings.jpg"
+    ],
+    "file": "themes/Minty green.thm",
+    "swf": "themes/swf/MintygreenDesktop.swf"
   },
   {
     "id": "mocha-gold",
