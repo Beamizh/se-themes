@@ -126,6 +126,21 @@
     "swf": "themes/swf/Amber_desktop.swf"
   },
   {
+    "id": "ambient",
+    "name": "Ambient",
+    "originalModel": "M600i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/M600i/Ambient_home.jpg",
+      "themes/screenshots/M600i/Ambient_menu.jpg",
+      "themes/screenshots/M600i/Ambient_list.jpg"
+    ],
+    "file": "themes/Ambient.utz"
+  },
+  {
     "id": "amethyst-c903",
     "name": "Amethyst (C903)",
     "originalModel": "C903",
@@ -516,13 +531,13 @@
     "platform": ["DB2010", "DB2020", "PNX5230"],
     "resolution": "176x220",
     "homeType": "Animated",
-    "note": "Missing flash menu",
     "screenshots": [
       "themes/screenshots/W550i/Breakbeat_home.jpg",
       "themes/screenshots/W550i/Breakbeat_menu.jpg",
       "themes/screenshots/W550i/Breakbeat_settings.jpg"
     ],
-    "file": "themes/Breakbeat.thm"
+    "file": "themes/Breakbeat.thm",
+    "swf": "themes/swf/breakbeat.swf"
   },
   {
     "id": "breeze",
@@ -1119,13 +1134,13 @@
     "platform": ["DB2010", "DB2020", "PNX5230"],
     "resolution": "176x220",
     "homeType": "Animated",
-    "note": "Missing flash menu",
     "screenshots": [
       "themes/screenshots/W550i/Clubpulse_home.jpg",
       "themes/screenshots/W550i/Clubpulse_menu.jpg",
       "themes/screenshots/W550i/Clubpulse_settings.jpg"
     ],
-    "file": "themes/Clubpulse.thm"
+    "file": "themes/Clubpulse.thm",
+    "swf": "themes/swf/clubpulse.swf"
   },
   {
     "id": "color",
@@ -5933,6 +5948,21 @@
     "file": "themes/Traditional.thm"
   },
   {
+    "id": "tranquil",
+    "name": "Tranquil",
+    "originalModel": "M600i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/M600i/Tranquil_home.jpg",
+      "themes/screenshots/M600i/Tranquil_menu.jpg",
+      "themes/screenshots/M600i/Tranquil_list.jpg"
+    ],
+    "file": "themes/Tranquil.utz"
+  },
+  {
     "id": "tunnel-vision",
     "name": "Tunnel vision",
     "originalModel": ["K630i", "V640i"],
@@ -6116,6 +6146,21 @@
     ],
     "file": "themes/Vibes.thm",
     "swf": "themes/swf/Vibes_desktop.swf"
+  },
+  {
+    "id": "vibrant",
+    "name": "Vibrant",
+    "originalModel": "M600i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/M600i/Vibrant_home.jpg",
+      "themes/screenshots/M600i/Vibrant_menu.jpg",
+      "themes/screenshots/M600i/Vibrant_list.jpg"
+    ],
+    "file": "themes/Vibrant.utz"
   },
   {
     "id": "violis",
@@ -6442,6 +6487,22 @@
     ],
     "file": "themes/Waves.thm",
     "swf": "themes/swf/WavesDesktop.swf"
+  },
+  {
+    "id": "waves-blue-yari",
+    "name": "Waves Blue 4 Yari",
+    "author": "Guramovich",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Waves Blue 4 Yari_home.jpg",
+      "themes/screenshots/User-made/Waves Blue 4 Yari_menu.jpg",
+      "themes/screenshots/User-made/Waves Blue 4 Yari_settings.jpg"
+    ],
+    "file": "themes/Waves Blue 4 Yari.thm",
+    "swf": "themes/swf/WavesBlueYariDesktop.swf"
   },
   {
     "id": "web",
