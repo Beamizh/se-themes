@@ -2144,6 +2144,22 @@
     "file": "themes/Eternal.thm"
   },
   {
+    "id": "eternal-db3210",
+    "name": "Eternal DB3210",
+    "author": "Beamish",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G705", "Jalou (F100i)", "Naite (J105i)", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W595", "W705", "W715", "W760i", "W902", "W980", "W995", "Z780i"],
+    "platform": ["DB3150v2", "DB3200", "DB3210"],
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Eternal DB3210_home.jpg",
+      "themes/screenshots/User-made/Eternal DB3210_menu.jpg",
+      "themes/screenshots/User-made/Eternal DB3210_settings.jpg"
+    ],
+    "file": "themes/Eternal DB3210.thm",
+    "swf": "themes/swf/EternalDesktop.swf"
+  },
+  {
     "id": "everchanging",
     "name": "Everchanging",
     "originalModel": "S500i",
