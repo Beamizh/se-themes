@@ -2144,6 +2144,38 @@
     "file": "themes/Eternal.thm"
   },
   {
+    "id": "eternal-db2020",
+    "name": "Eternal DB2020",
+    "author": "Beamish",
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Eternal DB2020_home.jpg",
+      "themes/screenshots/User-made/Eternal DB2020_menu.jpg",
+      "themes/screenshots/User-made/Eternal DB2020_settings.jpg"
+    ],
+    "file": "themes/Eternal DB2020.thm",
+    "swf": "themes/swf/EternalDB2020Desktop.swf"
+  },
+  {
+    "id": "eternal-db3150v1",
+    "name": "Eternal DB3150v1",
+    "author": "Beamish",
+    "supportedModels": ["G502", "K660i", "K850i", "W890i", "W910i", "Z770i"],
+    "platform": "DB3150v1",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Eternal DB3150v1_home.jpg",
+      "themes/screenshots/User-made/Eternal DB3150v1_menu.jpg",
+      "themes/screenshots/User-made/Eternal DB3150v1_settings.jpg"
+    ],
+    "file": "themes/Eternal DB3150v1.thm",
+    "swf": "themes/swf/EternalDB3150v1Desktop.swf"
+  },
+  {
     "id": "eternal-db3210",
     "name": "Eternal DB3210",
     "author": "Beamish",
@@ -2158,6 +2190,22 @@
     ],
     "file": "themes/Eternal DB3210.thm",
     "swf": "themes/swf/EternalDesktop.swf"
+  },
+  {
+    "id": "eternal-db3350",
+    "name": "Eternal DB3350",
+    "author": "Beamish",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Eternal DB3350_home.jpg",
+      "themes/screenshots/User-made/Eternal DB3350_menu.jpg",
+      "themes/screenshots/User-made/Eternal DB3350_settings.jpg"
+    ],
+    "file": "themes/Eternal DB3350.thm",
+    "swf": "themes/swf/EternalDB3350Desktop.swf"
   },
   {
     "id": "everchanging",
