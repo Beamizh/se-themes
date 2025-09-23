@@ -2,10 +2,10 @@
   {
     "id": "3-theme-k660i",
     "name": "3 Theme (K660i)",
-    "originalModel": "K660i",
+    "originalModel": ["K660i", "K800i"],
     "carrier": "Three",
-    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
-    "platform": "DB3150",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G502", "G705", "Jalou (F100i)", "K660i", "K790i", "K800i", "K810i", "K850i", "Naite (J105i)", "S500i", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W580i", "W595", "W705", "W715", "W760i", "W830i", "W850i", "W890i", "W902", "W910i", "W980", "W995", "Z750i", "Z770i", "Z780i"],
+    "platform": ["DB2020", "DB3150v1", "DB3150v2", "DB3200", "DB3210"],
     "resolution": "240x320",
     "homeType": "Still image",
     "screenshots": [
@@ -67,8 +67,8 @@
     "id": "aerial",
     "name": "Aerial",
     "originalModel": "Z750i",
-    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
-    "platform": "DB3150",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G502", "G705", "Jalou (F100i)", "K660i", "K790i", "K800i", "K810i", "K850i", "Naite (J105i)", "S500i", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W580i", "W595", "W705", "W715", "W760i", "W830i", "W850i", "W890i", "W902", "W910i", "W980", "W995", "Z750i", "Z770i", "Z780i"],
+    "platform": ["DB2020", "DB3150v1", "DB3150v2", "DB3200", "DB3210"],
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
@@ -160,8 +160,8 @@
     "id": "amethyst-k660i",
     "name": "Amethyst (K660i)",
     "originalModel": "K660i",
-    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
-    "platform": "DB3150",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G502", "G705", "Jalou (F100i)", "K660i", "K790i", "K800i", "K810i", "K850i", "Naite (J105i)", "S500i", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W580i", "W595", "W705", "W715", "W760i", "W830i", "W850i", "W890i", "W902", "W910i", "W980", "W995", "Z750i", "Z770i", "Z780i"],
+    "platform": ["DB2020", "DB3150v1", "DB3150v2", "DB3200", "DB3210"],
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
@@ -345,8 +345,8 @@
     "id": "black-classy",
     "name": "Black classy",
     "originalModel": "G502",
-    "supportedModels": ["C702", "C902", "G502", "K660i", "K850i", "T700", "TM506", "W595", "W760i", "W890i", "W902", "W910i", "W980", "Z750i", "Z770i", "Z780i"],
-    "platform": "DB3150",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G502", "G705", "Jalou (F100i)", "K660i", "K790i", "K800i", "K810i", "K850i", "Naite (J105i)", "S500i", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W580i", "W595", "W705", "W715", "W760i", "W830i", "W850i", "W890i", "W902", "W910i", "W980", "W995", "Z750i", "Z770i", "Z780i"],
+    "platform": ["DB2020", "DB3150v1", "DB3150v2", "DB3200", "DB3210"],
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
@@ -1069,7 +1069,7 @@
 
   "alternateFlashMenus": [
     {
-      "screenshot": "themes/screenshots/Clero (China Mobile)_menu.jpg",
+      "screenshot": "themes/screenshots/W760i/Clero (China Mobile)_menu.jpg",
       "file": "themes/swf/Alternate/China Mobile/Clero_desktop.swf",
       "note": "China Mobile branded icons"
     }
@@ -2151,6 +2151,7 @@
     "platform": "DB2020",
     "resolution": "240x320",
     "homeType": "Animated",
+    "note": "Huge thanks to Guramovich for providing the flash menu",
     "screenshots": [
       "themes/screenshots/User-made/Eternal DB2020_home.jpg",
       "themes/screenshots/User-made/Eternal DB2020_menu.jpg",
@@ -2167,6 +2168,7 @@
     "platform": "DB3150v1",
     "resolution": "240x320",
     "homeType": "Animated",
+    "note": "Huge thanks to Guramovich for providing the flash menu",
     "screenshots": [
       "themes/screenshots/User-made/Eternal DB3150v1_home.jpg",
       "themes/screenshots/User-made/Eternal DB3150v1_menu.jpg",
@@ -2199,6 +2201,7 @@
     "platform": "DB3350",
     "resolution": "240x320",
     "homeType": "Animated",
+    "note": "Huge thanks to Guramovich for providing the flash menu",
     "screenshots": [
       "themes/screenshots/User-made/Eternal DB3350_home.jpg",
       "themes/screenshots/User-made/Eternal DB3350_menu.jpg",
@@ -2206,6 +2209,22 @@
     ],
     "file": "themes/Eternal DB3350.thm",
     "swf": "themes/swf/EternalDB3350Desktop.swf"
+  },
+  {
+    "id": "eternal-z800",
+    "name": "Eternal Z800",
+    "author": "Beamish",
+    "supportedModels": ["V800", "Z800"],
+    "platform": "DB2000",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Eternal Z800_home.jpg",
+      "themes/screenshots/User-made/Eternal Z800_menu.jpg",
+      "themes/screenshots/User-made/Eternal Z800_tab.jpg",
+      "themes/screenshots/User-made/Eternal Z800_external.jpg"
+    ],
+    "file": "themes/Eternal Z800.thm"
   },
   {
     "id": "everchanging",
@@ -5118,7 +5137,15 @@
       "themes/screenshots/User-made/Samba 4 Yari_settings.jpg"
     ],
     "file": "themes/Samba 4 Yari.thm",
-    "swf": "themes/swf/SambaDesktop.swf"
+    "swf": "themes/swf/SambaDesktop.swf",
+
+  "alternateFlashMenus": [
+    {
+      "screenshot": "themes/screenshots/User-made/Samba 4 Yari alternate_menu.jpg",
+      "file": "themes/swf/Alternate/User-made/SambaDesktop.swf",
+      "note": "Effects taken from the <a href='color.html'>Color</a> theme."
+    }
+  ]
   },
   {
     "id": "scribblebeats",
