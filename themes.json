@@ -1164,7 +1164,7 @@
   {
     "id": "clarity-db2001",
     "name": "Clarity (DB2001)",
-    "originalModel": ["G700", "G900"],
+    "originalModel": ["G700", "G900", "W960i"],
     "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
     "platform": "DB2001",
     "resolution": "240x320",
@@ -2142,6 +2142,21 @@
       "themes/screenshots/W960i/Default_list.jpg"
     ],
     "file": "themes/Default (W960i).utz"
+  },
+  {
+    "id": "default-black-w960i",
+    "name": "Default Black (W960i)",
+    "originalModel": "W960i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/W960i/Default Black_home.png",
+      "themes/screenshots/W960i/Default Black_menu.png",
+      "themes/screenshots/W960i/Default Black_list.png"
+    ],
+    "file": "themes/Default Black.utz"
   },
   {
     "id": "default-z520i",
@@ -5879,6 +5894,21 @@
     "file": "themes/Power Saving.thm"
   },
   {
+    "id": "psyche",
+    "name": "Psyche",
+    "originalModel": "W960i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/W960i/Psyche_home.png",
+      "themes/screenshots/W960i/Psyche_menu.png",
+      "themes/screenshots/W960i/Psyche_list.png"
+    ],
+    "file": "themes/Psyche.utz"
+  },
+  {
     "id": "purple-dimension",
     "name": "Purple Dimension",
     "author": "RedillGMV",
@@ -7241,6 +7271,21 @@
       "themes/screenshots/M600i/Tranquil_list.jpg"
     ],
     "file": "themes/Tranquil.utz"
+  },
+  {
+    "id": "tranquility",
+    "name": "Tranquility",
+    "originalModel": "W960i",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/W960i/Tranquility_home.png",
+      "themes/screenshots/W960i/Tranquility_menu.png",
+      "themes/screenshots/W960i/Tranquility_list.png"
+    ],
+    "file": "themes/Tranquility.utz"
   },
   {
     "id": "transparent",
