@@ -322,7 +322,8 @@
       "themes/screenshots/W900i/Avenue_home.jpg",
       "themes/screenshots/W900i/Avenue_menu.jpg"
     ],
-    "file": "themes/Avenue.thm"
+    "file": "themes/Avenue.thm",
+    "swf": "themes/swf/Avenue.swf"
   },
   {
     "id": "back-to-black",
@@ -352,7 +353,8 @@
       "themes/screenshots/W900i/Backstreet_home.jpg",
       "themes/screenshots/W900i/Backstreet_menu.jpg"
     ],
-    "file": "themes/Backstreet.thm"
+    "file": "themes/Backstreet.thm",
+    "swf": "themes/swf/Backstreet.swf"
   },
   {
     "id": "balance",
@@ -5847,6 +5849,21 @@
     "file": "themes/Plus (DB3150).thm"
   },
   {
+    "id": "pool",
+    "name": "Pool",
+    "author": "Unknown, submitted by Amitie64",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G502", "G705", "Jalou (F100i)", "K660i", "K790i", "K800i", "K810i", "K850i", "Naite (J105i)", "S500i", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W580i", "W595", "W705", "W715", "W760i", "W830i", "W850i", "W890i", "W902", "W910i", "W980", "W995", "Z750i", "Z770i", "Z780i"],
+    "platform": ["DB2020", "DB3150v1", "DB3150v2", "DB3200", "DB3210"],
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Pool_home.png",
+      "themes/screenshots/User-made/Pool_menu.png",
+      "themes/screenshots/User-made/Pool_settings.png"
+    ],
+    "file": "themes/Pool.thm"
+  },
+  {
     "id": "pop-art",
     "name": "Pop art",
     "originalModel": "Aino (U10i)",
@@ -6105,6 +6122,21 @@
       "themes/screenshots/Z558i/River boat_settings.jpg"
     ],
     "file": "themes/River boat.thm"
+  },
+  {
+    "id": "rotoflow",
+    "name": "Rotoflow",
+    "author": "Unknown, submitted by Amitie64",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G502", "G705", "Jalou (F100i)", "K660i", "K790i", "K800i", "K810i", "K850i", "Naite (J105i)", "S500i", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W580i", "W595", "W705", "W715", "W760i", "W830i", "W850i", "W890i", "W902", "W910i", "W980", "W995", "Z750i", "Z770i", "Z780i"],
+    "platform": ["DB2020", "DB3150v1", "DB3150v2", "DB3200", "DB3210"],
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Rotoflow_home.png",
+      "themes/screenshots/User-made/Rotoflow_menu.png",
+      "themes/screenshots/User-made/Rotoflow_settings.png"
+    ],
+    "file": "themes/Rotoflow.thm"
   },
   {
     "id": "rouge",
@@ -6603,6 +6635,21 @@
     "file": "themes/Soundwave.thm"
   },
   {
+    "id": "speed-of-light",
+    "name": "Speed of light",
+    "author": "Unknown, submitted by Lazerdude",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G502", "G705", "Jalou (F100i)", "K660i", "K790i", "K800i", "K810i", "K850i", "Naite (J105i)", "S500i", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W580i", "W595", "W705", "W715", "W760i", "W830i", "W850i", "W890i", "W902", "W910i", "W980", "W995", "Z750i", "Z770i", "Z780i"],
+    "platform": ["DB2020", "DB3150v1", "DB3150v2", "DB3200", "DB3210"],
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Speed of light_home.png",
+      "themes/screenshots/User-made/Speed of light_menu.png",
+      "themes/screenshots/User-made/Speed of light_settings.png"
+    ],
+    "file": "themes/Speed of light.thm"
+  },
+  {
     "id": "spinler-k500i",
     "name": "Spinler (K500i)",
     "originalModel": ["F500i", "K500i", "K506c", "K508i"],
@@ -6882,6 +6929,21 @@
       "themes/screenshots/J300i/Stitches_settings.jpg"
     ],
     "file": "themes/Stitches.thm"
+  },
+  {
+    "id": "stones",
+    "name": "Stones",
+    "author": "Unknown, submitted by Amitie64",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G502", "G705", "Jalou (F100i)", "K660i", "K790i", "K800i", "K810i", "K850i", "Naite (J105i)", "S500i", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W580i", "W595", "W705", "W715", "W760i", "W830i", "W850i", "W890i", "W902", "W910i", "W980", "W995", "Z750i", "Z770i", "Z780i"],
+    "platform": ["DB2020", "DB3150v1", "DB3150v2", "DB3200", "DB3210"],
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Stones_home.png",
+      "themes/screenshots/User-made/Stones_menu.png",
+      "themes/screenshots/User-made/Stones_settings.png"
+    ],
+    "file": "themes/Stones.thm"
   },
   {
     "id": "street-grey",
@@ -7271,6 +7333,21 @@
       "themes/screenshots/M600i/Tranquil_list.jpg"
     ],
     "file": "themes/Tranquil.utz"
+  },
+  {
+    "id": "tranquil-custom",
+    "name": "Tranquil (Custom)",
+    "author": "Unknown, submitted by Lazerdude",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G502", "G705", "Jalou (F100i)", "K660i", "K790i", "K800i", "K810i", "K850i", "Naite (J105i)", "S500i", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W580i", "W595", "W705", "W715", "W760i", "W830i", "W850i", "W890i", "W902", "W910i", "W980", "W995", "Z750i", "Z770i", "Z780i"],
+    "platform": ["DB2020", "DB3150v1", "DB3150v2", "DB3200", "DB3210"],
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Tranquil_home.png",
+      "themes/screenshots/User-made/Tranquil_menu.png",
+      "themes/screenshots/User-made/Tranquil_settings.png"
+    ],
+    "file": "themes/Tranquil.thm"
   },
   {
     "id": "tranquility",
