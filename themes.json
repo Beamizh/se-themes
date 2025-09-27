@@ -48,6 +48,21 @@
     "file": "themes/3 Theme (W880i).thm"
   },
   {
+    "id": "8ball",
+    "name": "8ball",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/8ball_home.png",
+      "themes/screenshots/User-made/8ball_menu.png",
+      "themes/screenshots/User-made/8ball_settings.png"
+    ],
+    "file": "themes/8ball.thm"
+  },
+  {
     "id": "active",
     "name": "Active",
     "originalModel": "W710i",
@@ -62,6 +77,21 @@
     ],
     "file": "themes/Active.thm",
     "swf": "themes/swf/Active_desktop.swf"
+  },
+  {
+    "id": "active-custom",
+    "name": "Active (Custom)",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Active (Custom)_home.png",
+      "themes/screenshots/User-made/Active (Custom)_menu.png",
+      "themes/screenshots/User-made/Active (Custom)_settings.png"
+    ],
+    "file": "themes/Active (Custom).thm"
   },
   {
     "id": "aerial",
@@ -220,6 +250,36 @@
     "swf": "themes/swf/desktop_aquaticwhite.swf"
   },
   {
+    "id": "atmosphere",
+    "name": "Atmosphere",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Atmosphere_home.png",
+      "themes/screenshots/User-made/Atmosphere_menu.png",
+      "themes/screenshots/User-made/Atmosphere_settings.png"
+    ],
+    "file": "themes/Atmosphere.thm"
+  },
+  {
+    "id": "atomic",
+    "name": "Atomic",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Atomic_home.png",
+      "themes/screenshots/User-made/Atomic_menu.png",
+      "themes/screenshots/User-made/Atomic_settings.png"
+    ],
+    "file": "themes/Atomic.thm"
+  },
+  {
     "id": "aurora-g700",
     "name": "Aurora (G700)",
     "originalModel": "G700",
@@ -326,6 +386,36 @@
     "file": "themes/Beam.thm"
   },
   {
+    "id": "bedsheets",
+    "name": "Bedsheets",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Bedsheets_home.png",
+      "themes/screenshots/User-made/Bedsheets_menu.png",
+      "themes/screenshots/User-made/Bedsheets_settings.png"
+    ],
+    "file": "themes/Bedsheets.thm"
+  },
+  {
+    "id": "belousov-zhabotinsky-reaction",
+    "name": "Belousov-Zhabotinsky reaction",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Belousov-Zhabotinsky reaction_home.png",
+      "themes/screenshots/User-made/Belousov-Zhabotinsky reaction_menu.png",
+      "themes/screenshots/User-made/Belousov-Zhabotinsky reaction_settings.png"
+    ],
+    "file": "themes/Belousov-Zhabotinsky reaction.thm"
+  },
+  {
     "id": "bezier",
     "name": "Bezier",
     "originalModel": "Z800",
@@ -340,6 +430,21 @@
       "themes/screenshots/Z800/Bezier_external.jpg"
     ],
     "file": "themes/Bezier.thm"
+  },
+  {
+    "id": "black-and-blue",
+    "name": "Black and blue",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Black and blue_home.png",
+      "themes/screenshots/User-made/Black and blue_menu.png",
+      "themes/screenshots/User-made/Black and blue_settings.png"
+    ],
+    "file": "themes/Black and blue.thm"
   },
   {
     "id": "black-classy",
@@ -417,6 +522,21 @@
     "file": "themes/Bloc.thm"
   },
   {
+    "id": "bloc-176x220",
+    "name": "Bloc 176x220",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Bloc 176x220_home.png",
+      "themes/screenshots/User-made/Bloc 176x220_menu.png",
+      "themes/screenshots/User-made/Bloc 176x220_settings.png"
+    ],
+    "file": "themes/Bloc 176x220.thm"
+  },
+  {
     "id": "blub",
     "name": "Blub",
     "originalModel": "K700i",
@@ -475,6 +595,66 @@
       "themes/screenshots/Z600/Blue & Stripes_list.jpg"
     ],
     "file": "themes/Blue & Stripes.thm"
+  },
+  {
+    "id": "blue-circles",
+    "name": "Blue Circles",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Blue Circles_home.png",
+      "themes/screenshots/User-made/Blue Circles_menu.png",
+      "themes/screenshots/User-made/Blue Circles_settings.png"
+    ],
+    "file": "themes/Blue Circles.thm"
+  },
+  {
+    "id": "blue-sky",
+    "name": "Blue Sky",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Blue Sky_home.png",
+      "themes/screenshots/User-made/Blue Sky_menu.png",
+      "themes/screenshots/User-made/Blue Sky_settings.png"
+    ],
+    "file": "themes/Blue Sky.thm"
+  },
+  {
+    "id": "blue-steel",
+    "name": "Blue steel",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Blue steel_home.png",
+      "themes/screenshots/User-made/Blue steel_menu.png",
+      "themes/screenshots/User-made/Blue steel_settings.png"
+    ],
+    "file": "themes/Blue steel.thm"
+  },
+  {
+    "id": "blue-swirl",
+    "name": "Blue Swirl",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Blue Swirl_home.png",
+      "themes/screenshots/User-made/Blue Swirl_menu.png",
+      "themes/screenshots/User-made/Blue Swirl_settings.png"
+    ],
+    "file": "themes/Blue Swirl.thm"
   },
   {
     "id": "bluelines",
@@ -587,6 +767,21 @@
     "swf": "themes/swf/Bronzy_desktop.swf"
   },
   {
+    "id": "brushed-steel",
+    "name": "Brushed steel",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Brushed steel_home.png",
+      "themes/screenshots/User-made/Brushed steel_menu.png",
+      "themes/screenshots/User-made/Brushed steel_settings.png"
+    ],
+    "file": "themes/Brushed steel.thm"
+  },
+  {
     "id": "c",
     "name": "C",
     "author": "maren",
@@ -602,6 +797,21 @@
       "themes/screenshots/User-made/C_input.jpg"
     ],
     "file": "themes/C.thm"
+  },
+  {
+    "id": "cartoon-world",
+    "name": "Cartoon world",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Cartoon world_home.png",
+      "themes/screenshots/User-made/Cartoon world_menu.png",
+      "themes/screenshots/User-made/Cartoon world_settings.png"
+    ],
+    "file": "themes/Cartoon world.thm"
   },
   {
     "id": "cheerful",
@@ -665,6 +875,66 @@
       "themes/screenshots/W760i/China Mobile_settings.jpg"
     ],
     "file": "themes/China Mobile.thm"
+  },
+  {
+    "id": "christmas-linux",
+    "name": "Christmas Linux",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Christmas Linux_home.png",
+      "themes/screenshots/User-made/Christmas Linux_menu.png",
+      "themes/screenshots/User-made/Christmas Linux_settings.png"
+    ],
+    "file": "themes/Christmas Linux.thm"
+  },
+  {
+    "id": "christmas-nature",
+    "name": "Christmas Nature",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Christmas Nature_home.png",
+      "themes/screenshots/User-made/Christmas Nature_menu.png",
+      "themes/screenshots/User-made/Christmas Nature_settings.png"
+    ],
+    "file": "themes/Christmas Nature.thm"
+  },
+  {
+    "id": "christmas-tree",
+    "name": "Christmas Tree",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Christmas Tree_home.png",
+      "themes/screenshots/User-made/Christmas Tree_menu.png",
+      "themes/screenshots/User-made/Christmas Tree_settings.png"
+    ],
+    "file": "themes/Christmas Tree.thm"
+  },
+  {
+    "id": "chrome",
+    "name": "Chrome",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Chrome_home.png",
+      "themes/screenshots/User-made/Chrome_menu.png",
+      "themes/screenshots/User-made/Chrome_settings.png"
+    ],
+    "file": "themes/Chrome.thm"
   },
   {
     "id": "cingularic",
@@ -1626,6 +1896,21 @@
     "swf": "themes/swf/DandelionDesktop.swf"
   },
   {
+    "id": "dark-green",
+    "name": "Dark green",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Dark green_home.png",
+      "themes/screenshots/User-made/Dark green_menu.png",
+      "themes/screenshots/User-made/Dark green_settings.png"
+    ],
+    "file": "themes/Dark green.thm"
+  },
+  {
     "id": "dark-waves",
     "name": "Dark Waves",
     "originalModel": "W950i",
@@ -2024,6 +2309,21 @@
     "file": "themes/Dor.thm"
   },
   {
+    "id": "dragon",
+    "name": "Dragon",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Dragon_home.png",
+      "themes/screenshots/User-made/Dragon_menu.png",
+      "themes/screenshots/User-made/Dragon_settings.png"
+    ],
+    "file": "themes/Dragon.thm"
+  },
+  {
     "id": "dreamscape",
     "name": "Dreamscape",
     "originalModel": "W350i",
@@ -2054,6 +2354,21 @@
     ],
     "file": "themes/Dusk setting.thm",
     "swf": "themes/swf/Dusk setting_desktop.swf"
+  },
+  {
+    "id": "earphones",
+    "name": "Earphones",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Earphones_home.png",
+      "themes/screenshots/User-made/Earphones_menu.png",
+      "themes/screenshots/User-made/Earphones_settings.png"
+    ],
+    "file": "themes/Earphones.thm"
   },
   {
     "id": "earth",
@@ -2392,6 +2707,21 @@
       { "name": "E5.thm", "path": "themes/swf/S500/Everchanging/E5.thm" },
       { "name": "standby screen", "path": "themes/swf/S500/Everchanging/Everchanging_standby.swf" }
     ]
+  },
+  {
+    "id": "fashion",
+    "name": "Fashion",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Fashion_home.png",
+      "themes/screenshots/User-made/Fashion_menu.png",
+      "themes/screenshots/User-made/Fashion_settings.png"
+    ],
+    "file": "themes/Fashion.thm"
   },
   {
     "id": "female-line-w710i",
@@ -2853,6 +3183,21 @@
     "file": "themes/Focus.thm"
   },
   {
+    "id": "focus-green",
+    "name": "Focus Green",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Focus Green_home.png",
+      "themes/screenshots/User-made/Focus Green_menu.png",
+      "themes/screenshots/User-made/Focus Green_settings.png"
+    ],
+    "file": "themes/Focus Green.thm"
+  },
+  {
     "id": "forest-tale",
     "name": "Forest tale",
     "originalModel": "T707",
@@ -2911,6 +3256,21 @@
       "themes/screenshots/C902/Futurism_settings.jpg"
     ],
     "file": "themes/Futurism.thm"
+  },
+  {
+    "id": "gepard",
+    "name": "Gepard",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Gepard_home.png",
+      "themes/screenshots/User-made/Gepard_menu.png",
+      "themes/screenshots/User-made/Gepard_settings.png"
+    ],
+    "file": "themes/Gepard.thm"
   },
   {
     "id": "glacial",
@@ -3234,6 +3594,21 @@
     ],
     "file": "themes/Gsharp (W880i).thm",
     "swf": "themes/swf/Final_Gsharp_desktop.swf"
+  },
+  {
+    "id": "guitars",
+    "name": "Guitars",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Guitars_home.png",
+      "themes/screenshots/User-made/Guitars_menu.png",
+      "themes/screenshots/User-made/Guitars_settings.png"
+    ],
+    "file": "themes/Guitars.thm"
   },
   {
     "id": "hapee-j300i",
@@ -3842,6 +4217,21 @@
     "swf": "themes/swf/LighttraceOrange_desktop.swf"
   },
   {
+    "id": "lights",
+    "name": "Lights",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Lights_home.png",
+      "themes/screenshots/User-made/Lights_menu.png",
+      "themes/screenshots/User-made/Lights_settings.png"
+    ],
+    "file": "themes/Lights.thm"
+  },
+  {
     "id": "lime-stream-aino",
     "name": "Lime stream (Aino)",
     "originalModel": "Aino (U10i)",
@@ -3899,6 +4289,21 @@
       "themes/screenshots/W900i/Lounge_menu.jpg"
     ],
     "file": "themes/Lounge.thm"
+  },
+  {
+    "id": "lounge-176x220",
+    "name": "Lounge 176x220",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Lounge 176x220_home.png",
+      "themes/screenshots/User-made/Lounge 176x220_menu.png",
+      "themes/screenshots/User-made/Lounge 176x220_settings.png"
+    ],
+    "file": "themes/Lounge 176x220.thm"
   },
   {
     "id": "lumic",
@@ -3997,6 +4402,51 @@
     ]
   },
   {
+    "id": "mac-os-x-leopard",
+    "name": "Mac OS X Leopard",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Mac OS X Leopard_home.png",
+      "themes/screenshots/User-made/Mac OS X Leopard_menu.png",
+      "themes/screenshots/User-made/Mac OS X Leopard_settings.png"
+    ],
+    "file": "themes/Mac OS X Leopard.thm"
+  },
+  {
+    "id": "magic-shadow",
+    "name": "Magic Shadow",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Magic Shadow_home.png",
+      "themes/screenshots/User-made/Magic Shadow_menu.png",
+      "themes/screenshots/User-made/Magic Shadow_settings.png"
+    ],
+    "file": "themes/Magic Shadow.thm"
+  },
+  {
+    "id": "magic-stars",
+    "name": "Magic Stars",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Magic Stars_home.png",
+      "themes/screenshots/User-made/Magic Stars_menu.png",
+      "themes/screenshots/User-made/Magic Stars_settings.png"
+    ],
+    "file": "themes/Magic Stars.thm"
+  },
+  {
     "id": "maple",
     "name": "Maple",
     "originalModel": ["TM506", "Z770i", "Z780i"],
@@ -4010,6 +4460,21 @@
       "themes/screenshots/Z770i/Maple_settings.jpg"
     ],
     "file": "themes/Maple.thm"
+  },
+  {
+    "id": "mbv-arkestra",
+    "name": "MBV Arkestra",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/MBV Arkestra_home.png",
+      "themes/screenshots/User-made/MBV Arkestra_menu.png",
+      "themes/screenshots/User-made/MBV Arkestra_settings.png"
+    ],
+    "file": "themes/MBV Arkestra.thm"
   },
   {
     "id": "medallion-k310i",
@@ -4462,6 +4927,21 @@
     "file": "themes/Oboe.thm"
   },
   {
+    "id": "off-white",
+    "name": "Off-white",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Off-white_home.png",
+      "themes/screenshots/User-made/Off-white_menu.png",
+      "themes/screenshots/User-made/Off-white_settings.png"
+    ],
+    "file": "themes/Off-white.thm"
+  },
+  {
     "id": "on-land",
     "name": "On land",
     "originalModel": "T650i",
@@ -4784,6 +5264,21 @@
       { "name": "Walkman player album art (selected)", "path": "themes/swf/Player skins/User-made/Albumart_Oru_Selected.png" },
       { "name": "Walkman player album art (unselected)", "path": "themes/swf/Player skins/User-made/Albumart_Oru_Unselected.png" }
     ]
+  },
+  {
+    "id": "pane",
+    "name": "Pane",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Pane_home.png",
+      "themes/screenshots/User-made/Pane_menu.png",
+      "themes/screenshots/User-made/Pane_settings.png"
+    ],
+    "file": "themes/Pane.thm"
   },
   {
     "id": "partim",
@@ -5242,6 +5737,21 @@
     "file": "themes/Pinstripe.utz"
   },
   {
+    "id": "plaid-waves",
+    "name": "Plaid waves",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Plaid waves_home.png",
+      "themes/screenshots/User-made/Plaid waves_menu.png",
+      "themes/screenshots/User-made/Plaid waves_settings.png"
+    ],
+    "file": "themes/Plaid waves.thm"
+  },
+  {
     "id": "play-db2030",
     "name": "PLAY (DB2030)",
     "originalModel": "K770i",
@@ -5477,6 +5987,21 @@
     "file": "themes/Red Fragrance.thm"
   },
   {
+    "id": "red-soda",
+    "name": "Red Soda",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Red Soda_home.png",
+      "themes/screenshots/User-made/Red Soda_menu.png",
+      "themes/screenshots/User-made/Red Soda_settings.png"
+    ],
+    "file": "themes/Red Soda.thm"
+  },
+  {
     "id": "retro",
     "name": "Retro",
     "originalModel": "Z320i",
@@ -5504,6 +6029,21 @@
       "themes/screenshots/J300i/Rings_settings.jpg"
     ],
     "file": "themes/Rings.thm"
+  },
+  {
+    "id": "ripple",
+    "name": "Ripple",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Ripple_home.png",
+      "themes/screenshots/User-made/Ripple_menu.png",
+      "themes/screenshots/User-made/Ripple_settings.png"
+    ],
+    "file": "themes/Ripple.thm"
   },
   {
     "id": "ripples",
@@ -5851,6 +6391,21 @@
     "swf": "themes/swf/SilvergreyDesktop.swf"
   },
   {
+    "id": "silvery-blue",
+    "name": "Silvery blue",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Silvery blue_home.png",
+      "themes/screenshots/User-made/Silvery blue_menu.png",
+      "themes/screenshots/User-made/Silvery blue_settings.png"
+    ],
+    "file": "themes/Silvery blue.thm"
+  },
+  {
     "id": "sky-light",
     "name": "Sky light",
     "originalModel": "K530i",
@@ -5881,6 +6436,21 @@
     "file": "themes/Skyline.utz"
   },
   {
+    "id": "skyscrapers",
+    "name": "Skyscrapers",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Skyscrapers_home.png",
+      "themes/screenshots/User-made/Skyscrapers_menu.png",
+      "themes/screenshots/User-made/Skyscrapers_settings.png"
+    ],
+    "file": "themes/Skyscrapers.thm"
+  },
+  {
     "id": "smove",
     "name": "Smove",
     "originalModel": "S700i",
@@ -5896,6 +6466,21 @@
     "file": "themes/Smove.thm"
   },
   {
+    "id": "snow",
+    "name": "Snow",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Snow_home.png",
+      "themes/screenshots/User-made/Snow_menu.png",
+      "themes/screenshots/User-made/Snow_settings.png"
+    ],
+    "file": "themes/Snow.thm"
+  },
+  {
     "id": "snowtheme",
     "name": "Snowtheme",
     "author": "Unknown, submitted by SpiroWalkman",
@@ -5909,6 +6494,36 @@
       "themes/screenshots/User-made/Snowtheme_list.jpg"
     ],
     "file": "themes/Snowtheme.thm"
+  },
+  {
+    "id": "snowy",
+    "name": "Snowy",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Snowy_home.png",
+      "themes/screenshots/User-made/Snowy_menu.png",
+      "themes/screenshots/User-made/Snowy_settings.png"
+    ],
+    "file": "themes/Snowy.thm"
+  },
+  {
+    "id": "snowy-night",
+    "name": "Snowy night",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Snowy night_home.png",
+      "themes/screenshots/User-made/Snowy night_menu.png",
+      "themes/screenshots/User-made/Snowy night_settings.png"
+    ],
+    "file": "themes/Snowy night.thm"
   },
   {
     "id": "sonar-pink",
@@ -6350,6 +6965,66 @@
     "swf": "themes/swf/Laura_dt_strobe_14.swf"
   },
   {
+    "id": "sulinasunrise",
+    "name": "Sulinasunrise",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Sulinasunrise_home.png",
+      "themes/screenshots/User-made/Sulinasunrise_menu.png",
+      "themes/screenshots/User-made/Sulinasunrise_settings.png"
+    ],
+    "file": "themes/Sulinasunrise.thm"
+  },
+  {
+    "id": "sunburst",
+    "name": "Sunburst",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Sunburst_home.png",
+      "themes/screenshots/User-made/Sunburst_menu.png",
+      "themes/screenshots/User-made/Sunburst_settings.png"
+    ],
+    "file": "themes/Sunburst.thm"
+  },
+  {
+    "id": "sunset",
+    "name": "Sunset",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Sunset_home.png",
+      "themes/screenshots/User-made/Sunset_menu.png",
+      "themes/screenshots/User-made/Sunset_settings.png"
+    ],
+    "file": "themes/Sunset.thm"
+  },
+  {
+    "id": "sverige",
+    "name": "Sverige",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Sverige_home.png",
+      "themes/screenshots/User-made/Sverige_menu.png",
+      "themes/screenshots/User-made/Sverige_settings.png"
+    ],
+    "file": "themes/Sverige.thm"
+  },
+  {
     "id": "sweet-pink",
     "name": "Sweet pink",
     "originalModel": "W200i",
@@ -6365,6 +7040,36 @@
     ],
     "file": "themes/Sweet pink.thm",
     "swf": "themes/swf/desktop_sweetPink.swf"
+  },
+  {
+    "id": "taken",
+    "name": "Taken",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Taken_home.png",
+      "themes/screenshots/User-made/Taken_menu.png",
+      "themes/screenshots/User-made/Taken_settings.png"
+    ],
+    "file": "themes/Taken.thm"
+  },
+  {
+    "id": "teal-city",
+    "name": "Teal city",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Teal city_home.png",
+      "themes/screenshots/User-made/Teal city_menu.png",
+      "themes/screenshots/User-made/Teal city_settings.png"
+    ],
+    "file": "themes/Teal city.thm"
   },
   {
     "id": "techno",
@@ -6538,6 +7243,21 @@
     "file": "themes/Tranquil.utz"
   },
   {
+    "id": "transparent",
+    "name": "Transparent",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Transparent_home.png",
+      "themes/screenshots/User-made/Transparent_menu.png",
+      "themes/screenshots/User-made/Transparent_settings.png"
+    ],
+    "file": "themes/Transparent.thm"
+  },
+  {
     "id": "tunnel-vision",
     "name": "Tunnel vision",
     "originalModel": ["K630i", "V640i"],
@@ -6680,6 +7400,21 @@
     "swf": "themes/swf/underWater_desktop.swf"
   },
   {
+    "id": "underwater",
+    "name": "Underwater",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Underwater_home.png",
+      "themes/screenshots/User-made/Underwater_menu.png",
+      "themes/screenshots/User-made/Underwater_settings.png"
+    ],
+    "file": "themes/Underwater.thm"
+  },
+  {
     "id": "universe",
     "name": "Universe",
     "originalModel": "K530i",
@@ -6776,10 +7511,9 @@
   {
     "id": "vodafone-z600",
     "name": "Vodafone (Z600)",
-    "originalModel": "Z600",
+    "originalModel": ["T610", "Z600"],
     "carrier": "Vodafone",
     "supportedModels": ["T610", "T630", "Z600"],
-    "platform": "DB1000",
     "resolution": "128x160",
     "homeType": "Still image",
     "screenshots": [
@@ -7028,6 +7762,21 @@
     ]
   },
   {
+    "id": "walkman-blue",
+    "name": "Walkman Blue",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Walkman Blue_home.png",
+      "themes/screenshots/User-made/Walkman Blue_menu.png",
+      "themes/screenshots/User-made/Walkman Blue_settings.png"
+    ],
+    "file": "themes/Walkman Blue.thm"
+  },
+  {
     "id": "walkman-for-p1",
     "name": "Walkman for P1",
     "author": "Unknown, submitted by GoZiLlA98",
@@ -7041,6 +7790,21 @@
       "themes/screenshots/User-made/Walkman for P1_list.jpg"
     ],
     "file": "themes/Walkman for P1.utz"
+  },
+  {
+    "id": "walkman-metallic",
+    "name": "Walkman Metallic",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Walkman Metallic_home.png",
+      "themes/screenshots/User-made/Walkman Metallic_menu.png",
+      "themes/screenshots/User-made/Walkman Metallic_settings.png"
+    ],
+    "file": "themes/Walkman Metallic.thm"
   },
   {
     "id": "water-lily",
@@ -7135,6 +7899,21 @@
     "file": "themes/Web.thm"
   },
   {
+    "id": "weeeeeed",
+    "name": "WEEEEEED",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/WEEEEEED_home.png",
+      "themes/screenshots/User-made/WEEEEEED_menu.png",
+      "themes/screenshots/User-made/WEEEEEED_settings.png"
+    ],
+    "file": "themes/WEEEEEED.thm"
+  },
+  {
     "id": "whisper",
     "name": "Whisper",
     "originalModel": ["T700", "T715"],
@@ -7181,6 +7960,111 @@
     "file": "themes/White Out.utz"
   },
   {
+    "id": "wild-music",
+    "name": "Wild Music",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Wild Music_home.png",
+      "themes/screenshots/User-made/Wild Music_menu.png",
+      "themes/screenshots/User-made/Wild Music_settings.png"
+    ],
+    "file": "themes/Wild Music.thm"
+  },
+  {
+    "id": "windows-mobile-6",
+    "name": "Windows Mobile 6",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Windows Mobile 6_home.png",
+      "themes/screenshots/User-made/Windows Mobile 6_menu.png",
+      "themes/screenshots/User-made/Windows Mobile 6_settings.png"
+    ],
+    "file": "themes/Windows Mobile 6.thm"
+  },
+  {
+    "id": "windows-vista",
+    "name": "Windows Vista",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Windows Vista_home.png",
+      "themes/screenshots/User-made/Windows Vista_menu.png",
+      "themes/screenshots/User-made/Windows Vista_settings.png"
+    ],
+    "file": "themes/Windows Vista.thm"
+  },
+  {
+    "id": "windows-vista-discrete",
+    "name": "Windows Vista Discrete",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Windows Vista Discrete_home.png",
+      "themes/screenshots/User-made/Windows Vista Discrete_menu.png",
+      "themes/screenshots/User-made/Windows Vista Discrete_settings.png"
+    ],
+    "file": "themes/Windows Vista Discrete.thm"
+  },
+  {
+    "id": "windows-xp",
+    "name": "Windows XP",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Windows XP_home.png",
+      "themes/screenshots/User-made/Windows XP_menu.png",
+      "themes/screenshots/User-made/Windows XP_settings.png"
+    ],
+    "file": "themes/Windows XP.thm"
+  },
+  {
+    "id": "windows-xp-black",
+    "name": "Windows XP Black",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Windows XP Black_home.png",
+      "themes/screenshots/User-made/Windows XP Black_menu.png",
+      "themes/screenshots/User-made/Windows XP Black_settings.png"
+    ],
+    "file": "themes/Windows XP Black.thm"
+  },
+  {
+    "id": "windows-xp-orange",
+    "name": "Windows XP Orange",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Windows XP Orange_home.png",
+      "themes/screenshots/User-made/Windows XP Orange_menu.png",
+      "themes/screenshots/User-made/Windows XP Orange_settings.png"
+    ],
+    "file": "themes/Windows XP Orange.thm"
+  },
+  {
     "id": "wink",
     "name": "Wink",
     "originalModel": "C901",
@@ -7210,6 +8094,21 @@
       "themes/screenshots/Z1010/Winter Night_tab.jpg"
     ],
     "file": "themes/Winter Night.thm"
+  },
+  {
+    "id": "xbox-360",
+    "name": "Xbox 360",
+    "author": "Unknown, submitted by maren",
+    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Xbox 360_home.png",
+      "themes/screenshots/User-made/Xbox 360_menu.png",
+      "themes/screenshots/User-made/Xbox 360_settings.png"
+    ],
+    "file": "themes/Xbox 360.thm"
   },
   {
     "id": "yelo",
