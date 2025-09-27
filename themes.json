@@ -1658,6 +1658,31 @@
     "file": "themes/Cosmote (T700).thm"
   },
   {
+    "id": "cranberry-orange",
+    "name": "Cranberry orange",
+    "originalModel": "Yari (U100i)",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Modified version of the <a href='cranberry-white.html'>Cranberry white</a> theme that came on Orange (Israel) branded phones.",
+    "screenshots": [
+      "themes/screenshots/Yari (U100i)/Cranberry orange_home.png",
+      "themes/screenshots/Yari (U100i)/Cranberry orange_menu.png",
+      "themes/screenshots/Yari (U100i)/Cranberry orange_settings.png"
+    ],
+    "file": "themes/Cranberry orange.thm",
+    "swf": "themes/swf/CranberryOrangeDesktop.swf",
+
+  "alternateFlashMenus": [
+    {
+      "screenshot": "themes/screenshots/User-made/Cranberry orange (Stock icons)_menu.png",
+      "file": "themes/swf/Alternate/User-made/CranberryOrangeDesktop.swf",
+      "note": "Stock icons, made by Guramovich"
+    }
+  ]
+  },
+  {
     "id": "cranberry-white",
     "name": "Cranberry white",
     "originalModel": "Yari (U100i)",
@@ -1772,6 +1797,23 @@
       "note": "Three branded icons"
     }
   ]
+  },
+  {
+    "id": "crystal-spark-orange",
+    "name": "Crystal spark (Orange)",
+    "originalModel": "T700",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G705", "Jalou (F100i)", "Naite (J105i)", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W595", "W705", "W715", "W760i", "W902", "W980", "W995", "Z780i"],
+    "platform": ["DB3150v2", "DB3200", "DB3210"],
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Modified version of the <a href='crystal-spark.html'>Crystal spark</a> theme that came on Orange (Israel) branded phones.",
+    "screenshots": [
+      "themes/screenshots/T700/Crystal spark (Orange)_home.png",
+      "themes/screenshots/T700/Crystal spark (Orange)_menu.png",
+      "themes/screenshots/T700/Crystal spark (Orange)_settings.png"
+    ],
+    "file": "themes/Crystal spark (Orange).thm",
+    "swf": "themes/swf/Crystal spark_Orange_desktop.swf"
   },
   {
     "id": "cubey",
@@ -2220,6 +2262,23 @@
     ],
     "file": "themes/Digitize.thm",
     "swf": "themes/swf/Digitize_desktop.swf"
+  },
+  {
+    "id": "divisim-orange",
+    "name": "Divisim (Orange)",
+    "originalModel": "W995",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G705", "Jalou (F100i)", "Naite (J105i)", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W595", "W705", "W715", "W760i", "W902", "W980", "W995", "Z780i"],
+    "platform": ["DB3150v2", "DB3200", "DB3210"],
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Modified version of the <a href='divisim.html'>Divisim</a> theme that came on Orange (Israel) branded phones.",
+    "screenshots": [
+      "themes/screenshots/W995/Divisim (Orange)_home.png",
+      "themes/screenshots/W995/Divisim (Orange)_menu.png",
+      "themes/screenshots/W995/Divisim (Orange)_settings.png"
+    ],
+    "file": "themes/Divisim (Orange).thm",
+    "swf": "themes/swf/DivisimOrangeILDesktop.swf"
   },
   {
     "id": "divisim",
@@ -3244,6 +3303,22 @@
       "themes/screenshots/Z1010/Frosty_tab.jpg"
     ],
     "file": "themes/Frosty.thm"
+  },
+  {
+    "id": "frosty-white-2",
+    "name": "Frosty white 2",
+    "author": "Guramovich",
+    "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
+    "platform": "DB3350",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Frosty white 2_home.png",
+      "themes/screenshots/User-made/Frosty white 2_menu.png",
+      "themes/screenshots/User-made/Frosty white 2_settings.png"
+    ],
+    "file": "themes/Frosty white 2.thm",
+    "swf": "themes/swf/Frostywhite2Desktop.swf"
   },
   {
     "id": "funky",
