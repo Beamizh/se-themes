@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Magic Stars</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="../css/style.css">
+  <style>
+    /* Screenshots */
+    .screenshots {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      justify-content: center;
+    }
+    .screenshots img,
+    .alt-card img {
+      max-width: 300px;
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+      cursor: pointer;
+      object-fit: contain;
+      transition: transform 0.2s ease-in-out;
+    }
+    .screenshots img:hover,
+    .alt-card img:hover {
+      transform: scale(1.05);
+    }
+
+    /* Theme note */
+    .theme-note {
+      background: #f9f9f9;
+      border-left: 4px solid #4a90e2;
+      padding: 10px 14px;
+      margin: 8px auto; /* centered under image */
+      border-radius: 6px;
+      font-size: 0.95em;
+      color: #333;
+      max-width: 300px; /* match image width */
+      text-align: left;
+    }
+
+    /* Alternate flash menus */
+    .alt-flash-menus {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      margin-top: 20px;
+      justify-content: center;
+    }
+    .alt-flash-menu {
+      text-align: center;
+    }
+    .alt-card {
+      display: inline-block;
+      text-align: center;
+    }
+    .alt-card .download-btn {
+      display: block;
+      margin: 8px auto 0 auto;
+      max-width: 300px; /* match image width */
+    }
+
+    /* Lightbox shared styles */
+    .lightbox {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.4);
+      backdrop-filter: blur(10px);
+      display: none;
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+    }
+    .lightbox .content {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      height: 100%;
+    }
+    .lightbox .img-wrapper {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: transform 0.2s ease-out;
+    }
+    .lightbox img {
+      max-width: 90vw;
+      max-height: 90vh;
+      border-radius: 8px;
+      pointer-events: none;
+    }
+    .lightbox .arrow {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 3rem;
+      color: white;
+      cursor: pointer;
+      user-select: none;
+      padding: 0 10px;
+      transition: color 0.2s;
+    }
+    .lightbox .arrow.left { left: -3rem; }
+    .lightbox .arrow.right { right: -3rem; }
+    .lightbox .arrow:hover { color: #ccc; }
+
+    /* Header layout */
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+.header-top .left-side {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.header-top nav a {
+  margin-left: 10px;
+  text-decoration: none;
+  font-weight: 500;
+  color: #fff;
+}
+.header-top nav a:hover {
+  text-decoration: underline;
+}
+.theme-counter {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #fff;
+  background: #242424;
+  border-radius: 10px;
+  padding: 6px 12px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease;
+  white-space: nowrap;
+}
+.theme-counter:hover {
+  transform: scale(1.05);
+}
+
+  </style>
+</head>
+<body>
+
+  <header>
+  <div class="header-top">
+    <div class="left-side">
+      <h1>Magic Stars</h1>
+      <nav>
+        <a href="../index.html">⬅ Home</a>
+      </nav>
+    </div>
+    <div id="theme-counter" class="theme-counter"></div>
+  </div>
+</header>
+
+
+  <main>
+    <section class="theme-details">
+      <!-- Badges -->
+      <div class="badges">
+        <span class="badge resolution">176x220</span>
+        <span class="badge home-type">Still image</span>
+        <span class="badge type user-made">User-made</span>
+      </div>
+
+      <p><strong>Author:</strong> Unknown, submitted by maren</p>
+      <p><strong>Supported models:</strong> D750i, K530i, K550i, K610i, K618i, K750i, W350i, W380i, W550i, V630i, W600i, W610i, W660i, W700i, W710i, W800i, W810i, Z550i, Z555i, Z558i, Z610i, Z710i</p>
+      <p><strong>Supported platforms:</strong> DB2010, DB2020, PNX5230</p>
+
+      
+
+      <h2>Screenshots</h2>
+      <div class="screenshots">
+        <img src="../themes/screenshots/User-made/Magic Stars_home.png" alt="Magic Stars screenshot" data-index="0">
+<img src="../themes/screenshots/User-made/Magic Stars_menu.png" alt="Magic Stars screenshot" data-index="1">
+<img src="../themes/screenshots/User-made/Magic Stars_settings.png" alt="Magic Stars screenshot" data-index="2">
+      </div>
+
+      <a class="download-btn" href="../themes/Magic Stars.thm" download>⬇️ Download this Theme</a>
+
+
+
+
+
+    </section>
+  </main>
+
+  <!-- Main Lightbox (with arrows) -->
+  <div id="lightbox-main" class="lightbox">
+    <div class="content">
+      <div class="img-wrapper">
+        <span class="arrow left">❮</span>
+        <img src="" alt="Expanded screenshot">
+        <span class="arrow right">❯</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Alt Lightbox (no arrows, with zoom/drag) -->
+  <div id="lightbox-alt" class="lightbox">
+    <div class="content">
+      <div class="img-wrapper">
+        <img src="" alt="Expanded alternate screenshot">
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>made by Beamish 🦆</p>
+  </footer>
+
+  <script>
+  document.addEventListener("DOMContentLoaded", () => {
+    // --- Main screenshots lightbox ---
+    const mainLightbox = document.getElementById("lightbox-main");
+    const mainWrapper = mainLightbox.querySelector(".img-wrapper");
+    const mainImg = mainWrapper.querySelector("img");
+    const leftArrow = mainWrapper.querySelector(".arrow.left");
+    const rightArrow = mainWrapper.querySelector(".arrow.right");
+    const screenshots = Array.from(document.querySelectorAll(".screenshots img"));
+    let currentIndex = 0;
+    let scale = 1;
+    let posX = 0, posY = 0;
+    let isDragging = false, startX, startY;
+
+    function updateTransform() {
+      mainWrapper.style.transform = `translate(${posX}px, ${posY}px) scale(${scale})`;
+    }
+    function openLightbox(index) {
+      currentIndex = index;
+      mainImg.src = screenshots[currentIndex].src;
+      mainLightbox.style.display = "flex";
+      resetView();
+    }
+    function closeLightbox() {
+      mainLightbox.style.display = "none";
+      mainImg.src = "";
+    }
+    function showPrev() {
+      currentIndex = (currentIndex - 1 + screenshots.length) % screenshots.length;
+      mainImg.src = screenshots[currentIndex].src;
+      resetView();
+    }
+    function showNext() {
+      currentIndex = (currentIndex + 1) % screenshots.length;
+      mainImg.src = screenshots[currentIndex].src;
+      resetView();
+    }
+    function resetView() {
+      scale = 1.2;
+      posX = 0; posY = 0;
+      updateTransform();
+    }
+    screenshots.forEach((img, i) => {
+      img.addEventListener("click", () => openLightbox(i));
+    });
+    leftArrow.addEventListener("click", e => { e.stopPropagation(); showPrev(); });
+    rightArrow.addEventListener("click", e => { e.stopPropagation(); showNext(); });
+    mainLightbox.addEventListener("click", (e) => {
+      if (!mainWrapper.contains(e.target)) closeLightbox();
+    });
+    document.addEventListener("keydown", (e) => {
+      if (mainLightbox.style.display === "flex") {
+        if (e.key === "Escape") closeLightbox();
+        if (e.key === "ArrowLeft") showPrev();
+        if (e.key === "ArrowRight") showNext();
+      }
+    });
+    mainWrapper.addEventListener("mousedown", (e) => {
+      isDragging = true;
+      startX = e.clientX - posX;
+      startY = e.clientY - posY;
+      e.preventDefault();
+    });
+    document.addEventListener("mouseup", () => {
+      if (isDragging) {
+        isDragging = false;
+        posX = 0; posY = 0;
+        updateTransform();
+      }
+    });
+    document.addEventListener("mousemove", (e) => {
+      if (isDragging) {
+        posX = e.clientX - startX;
+        posY = e.clientY - startY;
+        updateTransform();
+      }
+    });
+    mainWrapper.addEventListener("wheel", (e) => {
+      e.preventDefault();
+      scale += e.deltaY < 0 ? 0.1 : -0.1;
+      if (scale < 0.5) scale = 0.5;
+      if (scale > 5) scale = 5;
+      updateTransform();
+    });
+    mainWrapper.addEventListener("dblclick", () => {
+      if (scale > 1) {
+        scale = 1.2; posX = 0; posY = 0;
+      } else {
+        scale = 2;
+      }
+      updateTransform();
+    });
+
+    // --- Alternate flash menu lightbox ---
+    const altLightbox = document.getElementById("lightbox-alt");
+    const altWrapper = altLightbox.querySelector(".img-wrapper");
+    const altImg = altWrapper.querySelector("img");
+    const altScreenshots = Array.from(document.querySelectorAll(".alt-card img"));
+
+    let altScale = 1;
+    let altPosX = 0, altPosY = 0;
+    let altDragging = false, altStartX, altStartY;
+
+    function updateAltTransform() {
+      altWrapper.style.transform = `translate(${altPosX}px, ${altPosY}px) scale(${altScale})`;
+    }
+    altScreenshots.forEach((img) => {
+      img.addEventListener("click", () => {
+        altImg.src = img.src;
+        altLightbox.style.display = "flex";
+        altScale = 1.2; altPosX = 0; altPosY = 0;
+        updateAltTransform();
+      });
+    });
+    altLightbox.addEventListener("click", (e) => {
+      if (!altWrapper.contains(e.target)) {
+        altLightbox.style.display = "none";
+        altImg.src = "";
+      }
+    });
+    document.addEventListener("keydown", (e) => {
+      if (altLightbox.style.display === "flex" && e.key === "Escape") {
+        altLightbox.style.display = "none";
+        altImg.src = "";
+      }
+    });
+    altWrapper.addEventListener("mousedown", (e) => {
+      altDragging = true;
+      altStartX = e.clientX - altPosX;
+      altStartY = e.clientY - altPosY;
+      e.preventDefault();
+    });
+    document.addEventListener("mouseup", () => {
+      if (altDragging) {
+        altDragging = false;
+        altPosX = 0; altPosY = 0;
+        updateAltTransform();
+      }
+    });
+    document.addEventListener("mousemove", (e) => {
+      if (altDragging) {
+        altPosX = e.clientX - altStartX;
+        altPosY = e.clientY - altStartY;
+        updateAltTransform();
+      }
+    });
+    altWrapper.addEventListener("wheel", (e) => {
+      e.preventDefault();
+      altScale += e.deltaY < 0 ? 0.1 : -0.1;
+      if (altScale < 0.5) altScale = 0.5;
+      if (altScale > 5) altScale = 5;
+      updateAltTransform();
+    });
+    altWrapper.addEventListener("dblclick", () => {
+      if (altScale > 1) {
+        altScale = 1.2; altPosX = 0; altPosY = 0;
+      } else {
+        altScale = 2;
+      }
+      updateAltTransform();
+    });
+  });
+  </script>
+  
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // path is relative to theme pages (themes-pages/...), so ../themes.json is correct
+  fetch('../themes.json')
+    .then(function(res){
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      return res.json();
+    })
+    .then(function(data){
+      var count = Array.isArray(data) ? data.length : 0;
+      var counterEl = document.getElementById('theme-counter');
+      if (!counterEl) return; // nothing to update
+
+      var current = 0;
+      // animation timing: ~800ms total, ~60fps
+      var duration = 800;
+      var fps = 60;
+      var steps = Math.max(1, Math.round((duration / 1000) * fps));
+      var step = Math.max(1, Math.floor(count / steps));
+
+      function animateCounter() {
+        current += step;
+        if (current >= count) {
+          counterEl.textContent = '🖼️ ' + count + ' themes available';
+        } else {
+          counterEl.textContent = '🖼️ ' + current + ' themes available';
+          requestAnimationFrame(animateCounter);
+        }
+      }
+
+      // start animation (if there are any themes)
+      if (count > 0) animateCounter();
+      else counterEl.textContent = '🖼️ 0 themes available';
+    })
+    .catch(function(err){
+      // fail silently but log so you can see what's wrong
+      console.error('Failed to load themes.json for counter:', err);
+    });
+});
+</script>
+
+  
+</body>
+</html>
