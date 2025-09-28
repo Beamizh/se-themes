@@ -109,6 +109,21 @@
     "file": "themes/Aerial.thm"
   },
   {
+    "id": "aerials-v2",
+    "name": "Aerials V2",
+    "author": "Acux6",
+    "supportedModels": ["K310i", "K320i", "K510i", "W200i", "W205", "W300i", "Z310i", "Z520i", "Z530i"],
+    "platform": ["DB2010", "PNX5230", "S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Aerials V2_home.png",
+      "themes/screenshots/User-made/Aerials V2_menu.png",
+      "themes/screenshots/User-made/Aerials V2_settings.png"
+    ],
+    "file": "themes/Aerials V2.thm"
+  },
+  {
     "id": "airport",
     "name": "Airport",
     "originalModel": "K600i",
@@ -6909,6 +6924,22 @@
       "themes/screenshots/Z710i/Spiral_settings.jpg"
     ],
     "file": "themes/Spiral (Z710i).thm"
+  },
+  {
+    "id": "spiral-blue-db3210",
+    "name": "Spiral Blue DB3210",
+    "author": "Beamish",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G705", "Jalou (F100i)", "Naite (J105i)", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W595", "W705", "W715", "W760i", "W902", "W980", "W995", "Z780i"],
+    "platform": ["DB3150v2", "DB3200", "DB3210"],
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Spiral Blue DB3210_home.png",
+      "themes/screenshots/User-made/Spiral Blue DB3210_menu.png",
+      "themes/screenshots/User-made/Spiral Blue DB3210_settings.png"
+    ],
+    "file": "themes/Spiral Blue DB3210.thm",
+    "swf": "themes/swf/SpiralDesktop.swf"
   },
   {
     "id": "splat",
