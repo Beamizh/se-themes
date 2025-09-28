@@ -6942,6 +6942,22 @@
     "swf": "themes/swf/SpiralDesktop.swf"
   },
   {
+    "id": "spiral-red-db3210",
+    "name": "Spiral Red DB3210",
+    "author": "Beamish",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G705", "Jalou (F100i)", "Naite (J105i)", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W595", "W705", "W715", "W760i", "W902", "W980", "W995", "Z780i"],
+    "platform": ["DB3150v2", "DB3200", "DB3210"],
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Spiral Red DB3210_home.png",
+      "themes/screenshots/User-made/Spiral Red DB3210_menu.png",
+      "themes/screenshots/User-made/Spiral Red DB3210_settings.png"
+    ],
+    "file": "themes/Spiral Red DB3210.thm",
+    "swf": "themes/swf/SpiralRedDesktop.swf"
+  },
+  {
     "id": "splat",
     "name": "Splat",
     "originalModel": "W580i",
