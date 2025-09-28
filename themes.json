@@ -571,7 +571,7 @@
   {
     "id": "blue-z600",
     "name": "Blue (Z600)",
-    "originalModel": "Z600",
+    "originalModel": ["T610", "Z600"],
     "supportedModels": ["T610", "T630", "Z600"],
     "platform": "DB1000",
     "resolution": "128x160",
@@ -612,6 +612,21 @@
       "themes/screenshots/User-made/Blue Circles_settings.png"
     ],
     "file": "themes/Blue Circles.thm"
+  },
+  {
+    "id": "blue-crystal",
+    "name": "Blue Crystal",
+    "originalModel": "T630",
+    "supportedModels": ["T610", "T630", "Z600"],
+    "platform": "DB1000",
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/T630/Blue Crystal_home.png",
+      "themes/screenshots/T630/Blue Crystal_menu.png",
+      "themes/screenshots/T630/Blue Crystal_settings.png"
+    ],
+    "file": "themes/Blue Crystal.thm"
   },
   {
     "id": "blue-sky",
@@ -2022,6 +2037,21 @@
     "file": "themes/Daylines.thm"
   },
   {
+    "id": "deep-ocean",
+    "name": "Deep Ocean",
+    "originalModel": "T610",
+    "supportedModels": ["T610", "T630", "Z600"],
+    "platform": "DB1000",
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/T610/Deep Ocean_home.png",
+      "themes/screenshots/T610/Deep Ocean_menu.png",
+      "themes/screenshots/T610/Deep Ocean_settings.png"
+    ],
+    "file": "themes/Deep Ocean.thm"
+  },
+  {
     "id": "deepest-purple",
     "name": "Deepest purple",
     "originalModel": ["K790i", "K800i", "K810i"],
@@ -2758,6 +2788,21 @@
       "themes/screenshots/User-made/Eternal Z800_external.jpg"
     ],
     "file": "themes/Eternal Z800.thm"
+  },
+  {
+    "id": "evening-sky",
+    "name": "Evening Sky",
+    "originalModel": "T630",
+    "supportedModels": ["T610", "T630", "Z600"],
+    "platform": "DB1000",
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/T630/Evening Sky_home.png",
+      "themes/screenshots/T630/Evening Sky_menu.png",
+      "themes/screenshots/T630/Evening Sky_settings.png"
+    ],
+    "file": "themes/Evening Sky.thm"
   },
   {
     "id": "everchanging",
@@ -4599,6 +4644,21 @@
     "file": "themes/Medallion (K510i).thm"
   },
   {
+    "id": "mellow-dune",
+    "name": "Mellow Dune",
+    "originalModel": "T630",
+    "supportedModels": ["T610", "T630", "Z600"],
+    "platform": "DB1000",
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/T630/Mellow Dune_home.png",
+      "themes/screenshots/T630/Mellow Dune_menu.png",
+      "themes/screenshots/T630/Mellow Dune_settings.png"
+    ],
+    "file": "themes/Mellow Dune.thm"
+  },
+  {
     "id": "melody",
     "name": "Melody",
     "originalModel": ["Cedar (J108i)", "Elm (J10i2)"],
@@ -5148,6 +5208,22 @@
     "file": "themes/Orange (DB3150).thm"
   },
   {
+    "id": "orange-k600i",
+    "name": "Orange (K600i)",
+    "originalModel": "K600i",
+    "carrier": "Orange (Poland)",
+    "supportedModels": ["D750i", "K530i", "K550i", "K600i", "K608i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V600", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2000", "DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/K600i/Orange_home.png",
+      "themes/screenshots/K600i/Orange_menu.png",
+      "themes/screenshots/K600i/Orange_settings.png"
+    ],
+    "file": "themes/Orange (K600i).thm"
+  },
+  {
     "id": "orange-bubbles",
     "name": "Orange Bubbles",
     "originalModel": ["W830i", "W850i"],
@@ -5177,6 +5253,22 @@
       "themes/screenshots/P910i/Orange Cloud_messaging.jpg"
     ],
     "file": "themes/Orange Cloud.utz"
+  },
+  {
+    "id": "orange-grey",
+    "name": "Orange Grey",
+    "originalModel": "K600i",
+    "carrier": "Orange (Poland)",
+    "supportedModels": ["D750i", "K530i", "K550i", "K600i", "K608i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V600", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2000", "DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/K600i/Orange Grey_home.png",
+      "themes/screenshots/K600i/Orange Grey_menu.png",
+      "themes/screenshots/K600i/Orange Grey_settings.png"
+    ],
+    "file": "themes/Orange Grey.thm"
   },
   {
     "id": "orange-music",
