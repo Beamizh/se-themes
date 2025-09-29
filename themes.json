@@ -736,6 +736,22 @@
     "file": "themes/Borderline.thm"
   },
   {
+    "id": "borderline-plus",
+    "name": "Borderline+",
+    "author": "Beamish",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "Cedar (J108i)", "Elm (J10i2)", "G705", "Hazel (J20i)", "Jalou (F100i)", "Naite (J105i)", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W595", "W705", "W715", "W760i", "W902", "W980", "W995", "Yari (U100i)", "Z780i", "Zylo (W20i)"],
+    "platform": ["DB3150v2", "DB3200", "DB3210", "DB3350"],
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Borderline+_home.png",
+      "themes/screenshots/User-made/Borderline+_menu.png",
+      "themes/screenshots/User-made/Borderline+_settings.png"
+    ],
+    "file": "themes/Borderline+.thm",
+    "swf": "themes/swf/BorderlineDesktop.swf"
+  },
+  {
     "id": "breakbeat",
     "name": "Breakbeat",
     "originalModel": ["W550i", "W600i"],
@@ -2953,6 +2969,22 @@
     "file": "themes/Fiber bold.thm"
   },
   {
+    "id": "fiber-bold-plus",
+    "name": "Fiber bold+",
+    "author": "Beamish",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "Cedar (J108i)", "Elm (J10i2)", "G705", "Hazel (J20i)", "Jalou (F100i)", "Naite (J105i)", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W595", "W705", "W715", "W760i", "W902", "W980", "W995", "Yari (U100i)", "Z780i", "Zylo (W20i)"],
+    "platform": ["DB3150v2", "DB3200", "DB3210", "DB3350"],
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Fiber bold+_home.png",
+      "themes/screenshots/User-made/Fiber bold+_menu.png",
+      "themes/screenshots/User-made/Fiber bold+_settings.png"
+    ],
+    "file": "themes/Fiber bold+.thm",
+    "swf": "themes/swf/FiberBoldDesktop.swf"
+  },
+  {
     "id": "flare-z550i",
     "name": "Flare (Z550i)",
     "originalModel": "Z550i",
@@ -3613,7 +3645,7 @@
     "id": "greenheart-52",
     "name": "GreenHeart™ 52",
     "author": "Guramovich",
-    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "Cedar (J108i)", "Elm (J10i2)", "G705", "Hazel (J20i)", "Jalou (F100i)", "Naite (J105i)", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W595", "W705", "W715", "W760i", "W902", "W980", "W995", "Z780i", "Zylo (W20i)"],
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "Cedar (J108i)", "Elm (J10i2)", "G705", "Hazel (J20i)", "Jalou (F100i)", "Naite (J105i)", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W595", "W705", "W715", "W760i", "W902", "W980", "W995", "Yari (U100i)", "Z780i", "Zylo (W20i)"],
     "platform": ["DB3150v2", "DB3200", "DB3210", "DB3350"],
     "resolution": "240x320",
     "homeType": "Animated",
@@ -3628,7 +3660,7 @@
     "id": "greenheart-53-v2",
     "name": "GreenHeart™ 53 v2",
     "author": "Guramovich",
-    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "Cedar (J108i)", "Elm (J10i2)", "G705", "Hazel (J20i)", "Jalou (F100i)", "Naite (J105i)", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W595", "W705", "W715", "W760i", "W902", "W980", "W995", "Z780i", "Zylo (W20i)"],
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "Cedar (J108i)", "Elm (J10i2)", "G705", "Hazel (J20i)", "Jalou (F100i)", "Naite (J105i)", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W595", "W705", "W715", "W760i", "W902", "W980", "W995", "Yari (U100i)", "Z780i", "Zylo (W20i)"],
     "platform": ["DB3150v2", "DB3200", "DB3210", "DB3350"],
     "resolution": "240x320",
     "homeType": "Animated",
@@ -3643,7 +3675,7 @@
     "id": "greenheart-81-v2",
     "name": "GreenHeart™ 81 v2",
     "author": "Guramovich",
-    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "Cedar (J108i)", "Elm (J10i2)", "G705", "Hazel (J20i)", "Jalou (F100i)", "Naite (J105i)", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W595", "W705", "W715", "W760i", "W902", "W980", "W995", "Z780i", "Zylo (W20i)"],
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "Cedar (J108i)", "Elm (J10i2)", "G705", "Hazel (J20i)", "Jalou (F100i)", "Naite (J105i)", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W595", "W705", "W715", "W760i", "W902", "W980", "W995", "Yari (U100i)", "Z780i", "Zylo (W20i)"],
     "platform": ["DB3150v2", "DB3200", "DB3210", "DB3350"],
     "resolution": "240x320",
     "homeType": "Animated",
@@ -6929,8 +6961,8 @@
     "id": "spiral-blue-db3210",
     "name": "Spiral Blue DB3210",
     "author": "Beamish",
-    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G705", "Jalou (F100i)", "Naite (J105i)", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W595", "W705", "W715", "W760i", "W902", "W980", "W995", "Z780i"],
-    "platform": ["DB3150v2", "DB3200", "DB3210"],
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "Cedar (J108i)", "Elm (J10i2)", "G705", "Hazel (J20i)", "Jalou (F100i)", "Naite (J105i)", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W595", "W705", "W715", "W760i", "W902", "W980", "W995", "Yari (U100i)", "Z780i", "Zylo (W20i)"],
+    "platform": ["DB3150v2", "DB3200", "DB3210", "DB3350"],
     "resolution": "240x320",
     "homeType": "Animated",
     "screenshots": [
