@@ -7830,6 +7830,21 @@
     "swf": "themes/swf/UnlimitedDesktop.swf"
   },
   {
+    "id": "unnamed1-w205",
+    "name": "unnamed1 W205",
+    "author": "Diana",
+    "supportedModels": ["T303", "W205"],
+    "platform": ["S1 Locosto"],
+    "resolution": "128x160",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/unnamed1 W205_home.png",
+      "themes/screenshots/User-made/unnamed1 W205_menu.png",
+      "themes/screenshots/User-made/unnamed1 W205_activity.png"
+    ],
+    "file": "themes/unnamed1 W205.thm"
+  },
+  {
     "id": "vibes",
     "name": "Vibes",
     "originalModel": "W380i",
