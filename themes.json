@@ -63,6 +63,21 @@
     "file": "themes/8ball.thm"
   },
   {
+    "id": "abyss",
+    "name": "Abyss",
+    "originalModel": ["Z610i (Memory Stick)"],
+    "supportedModels": ["D750i", "K530i", "K550i", "K600i", "K608i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V600", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2000", "DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Z610i/Abyss_home.png",
+      "themes/screenshots/Z610i/Abyss_menu.png",
+      "themes/screenshots/Z610i/Abyss_settings.png"
+    ],
+    "file": "themes/Abyss.thm"
+  },
+  {
     "id": "active",
     "name": "Active",
     "originalModel": "W710i",
@@ -4459,6 +4474,21 @@
       "themes/screenshots/K510i/Lines_settings.jpg"
     ],
     "file": "themes/Lines.thm"
+  },
+  {
+    "id": "loulise",
+    "name": "Loulise",
+    "originalModel": ["Z610i (Memory Stick)"],
+    "supportedModels": ["D750i", "K530i", "K550i", "K600i", "K608i", "K610i", "K618i", "K750i", "W350i", "W380i", "W550i", "V600", "V630i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2000", "DB2010", "DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/Z610i/Loulise_home.png",
+      "themes/screenshots/Z610i/Loulise_menu.png",
+      "themes/screenshots/Z610i/Loulise_settings.png"
+    ],
+    "file": "themes/Loulise.thm"
   },
   {
     "id": "lounge",
