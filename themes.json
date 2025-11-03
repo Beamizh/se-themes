@@ -2876,6 +2876,21 @@
     ]
   },
   {
+    "id": "facebook",
+    "name": "Facebook",
+    "author": "Unknown, submitted by Arcstead",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G502", "G705", "Jalou (F100i)", "K660i", "K790i", "K800i", "K810i", "K850i", "Naite (J105i)", "S500i", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W580i", "W595", "W705", "W715", "W760i", "W830i", "W850i", "W890i", "W902", "W910i", "W980", "W995", "Z750i", "Z770i", "Z780i"],
+    "platform": ["DB2020", "DB3150v1", "DB3150v2", "DB3200", "DB3210"],
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/User-made/Facebook_home.png",
+      "themes/screenshots/User-made/Facebook_menu.png",
+      "themes/screenshots/User-made/Facebook_settings.png"
+    ],
+    "file": "themes/Facebook.thm"
+  },
+  {
     "id": "fashion",
     "name": "Fashion",
     "author": "Unknown, submitted by maren",
@@ -7669,6 +7684,22 @@
       "themes/screenshots/K630i/Tunnel vision_tab.jpg"
     ],
     "file": "themes/Tunnel vision.thm"
+  },
+  {
+    "id": "turkcell-theme",
+    "name": "Turkcell Theme",
+    "originalModel": "W760i",
+    "carrier": "Turkcell (Turkey)",
+    "supportedModels": ["C510", "C702", "C901", "C902", "C903", "C905", "G502", "G705", "Jalou (F100i)", "K660i", "K790i", "K800i", "K810i", "K850i", "Naite (J105i)", "S500i", "T700", "T707", "T715", "TM506", "TM717", "W508", "W518a", "W580i", "W595", "W705", "W715", "W760i", "W830i", "W850i", "W890i", "W902", "W910i", "W980", "W995", "Z750i", "Z770i", "Z780i"],
+    "platform": ["DB2020", "DB3150v1", "DB3150v2", "DB3200", "DB3210"],
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/W760i/Turkcell Theme_home.png",
+      "themes/screenshots/W760i/Turkcell Theme_menu.png",
+      "themes/screenshots/W760i/Turkcell Theme_settings.png"
+    ],
+    "file": "themes/Turkcell Theme.thm"
   },
   {
     "id": "turquoise-stream-aino",
