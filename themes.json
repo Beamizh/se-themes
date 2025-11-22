@@ -7446,8 +7446,8 @@
     "name": "T-Mobile (D750i)",
     "originalModel": "D750i",
     "carrier": "T-Mobile",
-    "supportedModels": ["D750i", "K530i", "K550i", "K610i", "K618i", "K630i", "K750i", "W350i", "W380i", "W550i", "V630i", "V640i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
-    "platform": ["DB2010", "DB2020", "DB3150v1", "PNX5230"],
+    "supportedModels": ["D750i", "K530i", "K550i", "K600i", "K608i", "K610i", "K618i", "K630i", "K750i", "W350i", "W380i", "W550i", "V600", "V630i", "V640i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2000", "DB2010", "DB2020", "DB3150v1", "PNX5230"],
     "resolution": "176x220",
     "homeType": "Still image",
     "screenshots": [
