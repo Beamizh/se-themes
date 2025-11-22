@@ -6352,8 +6352,8 @@
     "file": "themes/Ripple.thm"
   },
   {
-    "id": "ripples",
-    "name": "Ripples",
+    "id": "ripples-hazel",
+    "name": "Ripples (Hazel)",
     "originalModel": "Hazel (J20i)",
     "supportedModels": ["Cedar (J108i)", "Elm (J10i2)", "Hazel (J20i)", "Yari (U100i)", "Zylo (W20i)"],
     "platform": "DB3350",
@@ -6364,8 +6364,25 @@
       "themes/screenshots/Hazel (J20i)/Ripples_menu.jpg",
       "themes/screenshots/Hazel (J20i)/Ripples_charging.jpg"
     ],
-    "file": "themes/Ripples.thm",
+    "file": "themes/Ripples (Hazel).thm",
     "swf": "themes/swf/RipplesDesktop.swf"
+  },
+  {
+    "id": "ripples-v640",
+    "name": "Ripples (V640i)",
+    "carrier": "Vodafone",
+    "originalModel": "V640i",
+    "supportedModels": ["K630i", "V640i"],
+    "platform": "DB3150v1",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/V640i/Ripples_home.jpg",
+      "themes/screenshots/V640i/Ripples_menu.jpg",
+      "themes/screenshots/V640i/Ripples_charging.jpg"
+    ],
+    "file": "themes/Ripples (V640i).thm",
+    "swf": "themes/swf/Ripples_desktop.swf"
   },
   {
     "id": "river-boat",
@@ -7968,6 +7985,38 @@
     "file": "themes/Vodafone (Z600).thm"
   },
   {
+    "id": "vodafone-disco-v630",
+    "name": "Vodafone Disco (V630i)",
+    "originalModel": "V630i",
+    "carrier": "Vodafone",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/V630i/Vodafone Disco_home.png",
+      "themes/screenshots/V630i/Vodafone Disco_menu.png",
+      "themes/screenshots/V630i/Vodafone Disco_settings.png"
+    ],
+    "file": "themes/Vodafone Disco (V630i).thm"
+  },
+  {
+    "id": "vodafone-disco-v640",
+    "name": "Vodafone Disco (V640i)",
+    "originalModel": "V640i",
+    "carrier": "Vodafone",
+    "supportedModels": ["K630i", "V640i"],
+    "platform": "DB3150v1",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/V640i/Vodafone Disco_home.jpg",
+      "themes/screenshots/V640i/Vodafone Disco_menu.jpg",
+      "themes/screenshots/V640i/Vodafone Disco_settings.jpg"
+    ],
+    "file": "themes/Vodafone Disco (V640i).thm"
+  },
+  {
     "id": "vodafone-live-s700i",
     "name": "Vodafone live! (S700i)",
     "originalModel": "S700i",
@@ -7982,6 +8031,38 @@
       "themes/screenshots/S700i/Vodafone live!_settings.jpg"
     ],
     "file": "themes/Vodafone live! (S700i).thm"
+  },
+  {
+    "id": "vodafone-live-v630",
+    "name": "Vodafone live! (V630i)",
+    "originalModel": "V630i",
+    "carrier": "Vodafone",
+    "supportedModels": ["K530i", "K550i", "K610i", "K618i", "V630i", "W350i", "W380i", "W610i", "W660i", "W710i", "Z555i", "Z610i", "Z710i"],
+    "platform": ["DB2020", "PNX5230"],
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/V630i/Vodafone live!_home.png",
+      "themes/screenshots/V630i/Vodafone live!_menu.png",
+      "themes/screenshots/V630i/Vodafone live!_settings.png"
+    ],
+    "file": "themes/Vodafone live! (V630i).thm"
+  },
+  {
+    "id": "vodafone-live-v640",
+    "name": "Vodafone live! (V640i)",
+    "originalModel": "V640i",
+    "carrier": "Vodafone",
+    "supportedModels": ["K630i", "V640i"],
+    "platform": "DB3150v1",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/V640i/Vodafone live!_home.jpg",
+      "themes/screenshots/V640i/Vodafone live!_menu.jpg",
+      "themes/screenshots/V640i/Vodafone live!_settings.jpg"
+    ],
+    "file": "themes/Vodafone live! (V640i).thm"
   },
   {
     "id": "vodafone-live-v800",
