@@ -584,6 +584,38 @@
     "file": "themes/Blub.thm"
   },
   {
+    "id": "blub-plus",
+    "name": "Blub+",
+    "author": "AeroPurple",
+    "supportedModels": ["D750i", "K530i", "K550i", "K600i", "K608i", "K610i", "K618i", "K750i", "W350i", "V600", "V630i", "W380i", "W550i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2000", "DB2010", "DB2020", "PNX5230"],
+    "note": "For phones wth an antialiased font, it is recommended to use <a href='blub-plus-antialias.html'>Blub+ (Antialias)</a>.",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Blub+_home.png",
+      "themes/screenshots/User-made/Blub+_menu.png",
+      "themes/screenshots/User-made/Blub+_settings.png"
+    ],
+    "file": "themes/Blub+.thm"
+  },
+  {
+    "id": "blub-plus-antialias",
+    "name": "Blub+ (Antialias)",
+    "author": "AeroPurple",
+    "supportedModels": ["D750i", "K530i", "K550i", "K600i", "K608i", "K610i", "K618i", "K750i", "W350i", "V600", "V630i", "W380i", "W550i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2000", "DB2010", "DB2020", "PNX5230"],
+    "note": "For phones wth an aliased font, it is recommended to use <a href='blub-plus.html'>Blub+</a>.",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Blub+ (Antialias)_home.png",
+      "themes/screenshots/User-made/Blub+ (Antialias)_menu.png",
+      "themes/screenshots/User-made/Blub+ (Antialias)_settings.png"
+    ],
+    "file": "themes/Blub+ (Antialias).thm"
+  },
+  {
     "id": "blue-p900",
     "name": "Blue (P900)",
     "originalModel": "P900",
@@ -3083,6 +3115,38 @@
     "file": "themes/Flo.thm"
   },
   {
+    "id": "flo-plus",
+    "name": "Flo+",
+    "author": "AeroPurple",
+    "supportedModels": ["D750i", "K530i", "K550i", "K600i", "K608i", "K610i", "K618i", "K750i", "W350i", "V600", "V630i", "W380i", "W550i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2000", "DB2010", "DB2020", "PNX5230"],
+    "note": "For phones wth an antialiased font, it is recommended to use <a href='flo-plus-antialias.html'>Flo+ (Antialias)</a>.",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Flo+_home.png",
+      "themes/screenshots/User-made/Flo+_menu.png",
+      "themes/screenshots/User-made/Flo+_settings.png"
+    ],
+    "file": "themes/Flo+.thm"
+  },
+  {
+    "id": "flo-plus-antialias",
+    "name": "Flo+ (Antialias)",
+    "author": "AeroPurple",
+    "supportedModels": ["D750i", "K530i", "K550i", "K600i", "K608i", "K610i", "K618i", "K750i", "W350i", "V600", "V630i", "W380i", "W550i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2000", "DB2010", "DB2020", "PNX5230"],
+    "note": "For phones wth an aliased font, it is recommended to use <a href='flo-plus.html'>Flo+</a>.",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Flo+ (Antialias)_home.png",
+      "themes/screenshots/User-made/Flo+ (Antialias)_menu.png",
+      "themes/screenshots/User-made/Flo+ (Antialias)_settings.png"
+    ],
+    "file": "themes/Flo+ (Antialias).thm"
+  },
+  {
     "id": "floom-k500i",
     "name": "Floom (K500i)",
     "originalModel": ["F500i", "K500i", "K506c", "K508i"],
@@ -4548,6 +4612,38 @@
       "themes/screenshots/K700i/Lumic_tab.jpg"
     ],
     "file": "themes/Lumic.thm"
+  },
+  {
+    "id": "lumic-plus",
+    "name": "Lumic+",
+    "author": "AeroPurple",
+    "supportedModels": ["D750i", "K530i", "K550i", "K600i", "K608i", "K610i", "K618i", "K750i", "W350i", "V600", "V630i", "W380i", "W550i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2000", "DB2010", "DB2020", "PNX5230"],
+    "note": "For phones wth an antialiased font, it is recommended to use <a href='lumic-plus-antialias.html'>Lumic+ (Antialias)</a>.",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Lumic+_home.png",
+      "themes/screenshots/User-made/Lumic+_menu.png",
+      "themes/screenshots/User-made/Lumic+_settings.png"
+    ],
+    "file": "themes/Lumic+.thm"
+  },
+  {
+    "id": "lumic-plus-antialias",
+    "name": "Lumic+ (Antialias)",
+    "author": "AeroPurple",
+    "supportedModels": ["D750i", "K530i", "K550i", "K600i", "K608i", "K610i", "K618i", "K750i", "W350i", "V600", "V630i", "W380i", "W550i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2000", "DB2010", "DB2020", "PNX5230"],
+    "note": "For phones wth an aliased font, it is recommended to use <a href='lumic-plus.html'>Lumic+</a>.",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Lumic+ (Antialias)_home.png",
+      "themes/screenshots/User-made/Lumic+ (Antialias)_menu.png",
+      "themes/screenshots/User-made/Lumic+ (Antialias)_settings.png"
+    ],
+    "file": "themes/Lumic+ (Antialias).thm"
   },
   {
     "id": "lumical",
@@ -8160,6 +8256,38 @@
       "themes/screenshots/K700i/Waip_tab.jpg"
     ],
     "file": "themes/Waip.thm"
+  },
+  {
+    "id": "waip-plus",
+    "name": "Waip+",
+    "author": "AeroPurple",
+    "supportedModels": ["D750i", "K530i", "K550i", "K600i", "K608i", "K610i", "K618i", "K750i", "W350i", "V600", "V630i", "W380i", "W550i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2000", "DB2010", "DB2020", "PNX5230"],
+    "note": "For phones wth an antialiased font, it is recommended to use <a href='waip-plus-antialias.html'>Waip+ (Antialias)</a>.",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Waip+_home.png",
+      "themes/screenshots/User-made/Waip+_menu.png",
+      "themes/screenshots/User-made/Waip+_settings.png"
+    ],
+    "file": "themes/Waip+.thm"
+  },
+  {
+    "id": "waip-plus-antialias",
+    "name": "Waip+ (Antialias)",
+    "author": "AeroPurple",
+    "supportedModels": ["D750i", "K530i", "K550i", "K600i", "K608i", "K610i", "K618i", "K750i", "W350i", "V600", "V630i", "W380i", "W550i", "W600i", "W610i", "W660i", "W700i", "W710i", "W800i", "W810i", "Z550i", "Z555i", "Z558i", "Z610i", "Z710i"],
+    "platform": ["DB2000", "DB2010", "DB2020", "PNX5230"],
+    "note": "For phones wth an aliased font, it is recommended to use <a href='waip-plus.html'>Waip+</a>.",
+    "resolution": "176x220",
+    "homeType": "Animated",
+    "screenshots": [
+      "themes/screenshots/User-made/Waip+ (Antialias)_home.png",
+      "themes/screenshots/User-made/Waip+ (Antialias)_menu.png",
+      "themes/screenshots/User-made/Waip+ (Antialias)_settings.png"
+    ],
+    "file": "themes/Waip+ (Antialias).thm"
   },
   {
     "id": "walkman-db3150",
