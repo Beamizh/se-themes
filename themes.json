@@ -569,6 +569,21 @@
     "file": "themes/Bloc 176x220.thm"
   },
   {
+    "id": "bloom",
+    "name": "Bloom",
+    "originalModel": "G702 (Prototype)",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/G702/Bloom_home.png",
+      "themes/screenshots/G702/Bloom_menu.png",
+      "themes/screenshots/G702/Bloom_list.png"
+    ],
+    "file": "themes/Bloom.utz"
+  },
+  {
     "id": "blub",
     "name": "Blub",
     "originalModel": "K700i",
@@ -892,6 +907,21 @@
       "themes/screenshots/User-made/C_input.jpg"
     ],
     "file": "themes/C.thm"
+  },
+  {
+    "id": "candystripe",
+    "name": "Candystripe",
+    "originalModel": "P5i (Prototype)",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/P5i/Candystripe_home.png",
+      "themes/screenshots/P5i/Candystripe_menu.png",
+      "themes/screenshots/P5i/Candystripe_list.png"
+    ],
+    "file": "themes/Candystripe.utz"
   },
   {
     "id": "cartoon-world",
@@ -2161,6 +2191,21 @@
     "file": "themes/Default (G700).utz"
   },
   {
+    "id": "default-g702",
+    "name": "Default (G702)",
+    "originalModel": "G702 (Prototype)",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/G702/Default_home.png",
+      "themes/screenshots/G702/Default_menu.png",
+      "themes/screenshots/G702/Default_list.png"
+    ],
+    "file": "themes/Default (G702).utz"
+  },
+  {
     "id": "default-g900",
     "name": "Default (G900)",
     "originalModel": "G900",
@@ -2204,6 +2249,21 @@
       "themes/screenshots/P1i/Default_list.jpg"
     ],
     "file": "themes/Default (P1i).utz"
+  },
+  {
+    "id": "default-p5i",
+    "name": "Default (P5i)",
+    "originalModel": "P5i (Prototype)",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/P5i/Default_home.png",
+      "themes/screenshots/P5i/Default_menu.png",
+      "themes/screenshots/P5i/Default_list.png"
+    ],
+    "file": "themes/Default (P5i).utz"
   },
   {
     "id": "default-p990i",
@@ -6960,6 +7020,21 @@
     "file": "themes/Snowy night.thm"
   },
   {
+    "id": "solaris",
+    "name": "Solaris",
+    "originalModel": "P5i (Prototype)",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/P5i/Solaris_home.png",
+      "themes/screenshots/P5i/Solaris_menu.png",
+      "themes/screenshots/P5i/Solaris_list.png"
+    ],
+    "file": "themes/Solaris.utz"
+  },
+  {
     "id": "sonar-pink",
     "name": "Sonar pink",
     "originalModel": "Jalou (F100i)",
@@ -8098,6 +8173,21 @@
     "swf": "themes/swf/Violis_desktop.swf"
   },
   {
+    "id": "vivid-breeze",
+    "name": "Vivid breeze",
+    "originalModel": "G702 (Prototype)",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/G702/Vivid breeze_home.png",
+      "themes/screenshots/G702/Vivid breeze_menu.png",
+      "themes/screenshots/G702/Vivid breeze_list.png"
+    ],
+    "file": "themes/Vivid breeze.utz"
+  },
+  {
     "id": "vodafone-z600",
     "name": "Vodafone (Z600)",
     "originalModel": ["T610", "Z600"],
@@ -8796,6 +8886,21 @@
       "themes/screenshots/Z1010/Winter Night_tab.jpg"
     ],
     "file": "themes/Winter Night.thm"
+  },
+  {
+    "id": "wired",
+    "name": "Wired",
+    "originalModel": "P5i (Prototype)",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/P5i/Wired_home.png",
+      "themes/screenshots/P5i/Wired_menu.png",
+      "themes/screenshots/P5i/Wired_list.png"
+    ],
+    "file": "themes/Wired.utz"
   },
   {
     "id": "xbox-360",
