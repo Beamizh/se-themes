@@ -7050,21 +7050,6 @@
     "file": "themes/Snowy night.thm"
   },
   {
-    "id": "solaris",
-    "name": "Solaris",
-    "originalModel": "P5i (Prototype)",
-    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
-    "platform": "DB2001",
-    "resolution": "240x320",
-    "homeType": "Still image",
-    "screenshots": [
-      "themes/screenshots/P5i/Solaris_home.png",
-      "themes/screenshots/P5i/Solaris_menu.png",
-      "themes/screenshots/P5i/Solaris_list.png"
-    ],
-    "file": "themes/Solaris.utz"
-  },
-  {
     "id": "soft-pink",
     "name": "Soft pink",
     "originalModel": "W350i",
@@ -7079,6 +7064,21 @@
     ],
     "file": "themes/Soft pink.thm",
     "swf": "themes/swf/Soft pink_desktop.swf"
+  },
+  {
+    "id": "solaris",
+    "name": "Solaris",
+    "originalModel": "P5i (Prototype)",
+    "supportedModels": ["G700", "G900", "M600i", "P1i", "P990i", "W950i", "W960i"],
+    "platform": "DB2001",
+    "resolution": "240x320",
+    "homeType": "Still image",
+    "screenshots": [
+      "themes/screenshots/P5i/Solaris_home.png",
+      "themes/screenshots/P5i/Solaris_menu.png",
+      "themes/screenshots/P5i/Solaris_list.png"
+    ],
+    "file": "themes/Solaris.utz"
   },
   {
     "id": "sonar-pink",
@@ -8996,5 +8996,21 @@
       "note": "Orange IL branded icons"
     }
   ]
+  },
+  {
+    "id": "网球",
+    "name": "网球",
+    "originalModel": "K800i",
+    "supportedModels": ["K790i", "K800i", "K810i", "S500i", "W580i", "W830i", "W850i"],
+    "platform": "DB2020",
+    "resolution": "240x320",
+    "homeType": "Animated",
+    "note": "Exclusive to phones sold in China.",
+    "screenshots": [
+      "themes/screenshots/K800i/网球_home.png",
+      "themes/screenshots/K800i/网球_menu.png",
+      "themes/screenshots/K800i/网球_settings.png"
+    ],
+    "file": "themes/网球.thm"
   }
 ]
